@@ -1,0 +1,20 @@
+ENTRY       G10843                      Glycan
+COMPOSITION (Man)4 (Ser/Thr)1
+MASS        648.6 (Ser/Thr)
+REACTION    R09302 R09303
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 8064 36562 49686
+            GlycomeDB: 3237
+            JCGGDB: JCGG-STR023388
+NODE        5
+            1   Ser/Thr    20     0
+            2   Man        10     0
+            3   Man         0     0
+            4   Man       -10     0
+            5   Man       -20     0
+EDGE        4
+            1     2:a1    1    
+            2     3:a1    2:2  
+            3     4:a1    3:2  
+            4     5:a1    4:3  
+///

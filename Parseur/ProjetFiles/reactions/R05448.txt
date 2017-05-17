@@ -1,0 +1,11 @@
+ENTRY       R05448                      Reaction
+DEFINITION  2,6-Dichlorophenol + Oxygen + NADH + H+ <=> 2,6-Dichlorohydroquinone + NAD+ + H2O
+EQUATION    C07096 + C00007 + C00004 + C00080 <=> C07097 + C00003 + C00001
+COMMENT     chlorophenol 4-monooxygenase
+RCLASS      RC00001  C00003_C00004
+            RC00490  C07096_C07097
+ENZYME      1.14.13.-
+PATHWAY     rn00361  Chlorocyclohexane and chlorobenzene degradation
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+///

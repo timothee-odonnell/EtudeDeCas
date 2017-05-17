@@ -1,0 +1,11 @@
+ENTRY       R09824                      Reaction
+NAME        dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose:2-oxoglutarate aminotransferase
+DEFINITION  dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose + 2-Oxoglutarate <=> dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose + L-Glutamate
+EQUATION    C19947 + C00026 <=> C19960 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC00781  C19947_C19960
+ENZYME      2.6.1.90
+PATHWAY     rn00523  Polyketide sugar unit biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20680  dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase [EC:2.6.1.90]
+///

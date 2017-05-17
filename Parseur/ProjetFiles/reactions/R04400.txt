@@ -1,0 +1,11 @@
+ENTRY       R04400                      Reaction
+NAME        (S)-tetrahydrocolumbamine, NADPH:oxygen oxidoreductase (methylenedioxy-bridge-forming)
+DEFINITION  (S)-Canadine + NADP+ + 2 H2O <=> Isocorypalmine + NADPH + Oxygen + H+
+EQUATION    C03329 + C00006 + 2 C00001 <=> C04118 + C00005 + C00007 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00925  C03329_C04118
+ENZYME      1.14.21.5
+PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K13395  (S)-stylopine/(S)-canadine/(S)-nandinine synthase [EC:1.14.21.1 1.14.21.5 1.14.21.12]
+///

@@ -1,0 +1,7 @@
+ENTRY       R11075                      Reaction
+NAME        L-altarate hydro-lyase (5-dehydro-4-deoxy-D-glucarate-forming)
+DEFINITION  L-Altarate <=> 5-Dehydro-4-deoxy-D-glucarate + H2O
+EQUATION    C21088 <=> C00679 + C00001
+RCLASS      RC00543  C00679_C21088
+ENZYME      4.2.1.156
+///

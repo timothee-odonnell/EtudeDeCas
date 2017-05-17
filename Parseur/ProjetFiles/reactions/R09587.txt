@@ -1,0 +1,7 @@
+ENTRY       R09587                      Reaction
+NAME        progesterone,reduced-ferredoxin:oxygen oxidoreductase (15beta-hydroxylating)
+DEFINITION  Progesterone + Reduced ferredoxin + Oxygen <=> 15beta-Hydroxyprogesterone + Oxidized ferredoxin + H2O
+EQUATION    C00410 + C00138 + C00007 <=> C19726 + C00139 + C00001
+RCLASS      RC00661  C00410_C19726
+ENZYME      1.14.15.8
+///

@@ -1,0 +1,7 @@
+ENTRY       R02726                      Reaction
+NAME        Steroid,reduced-adrenal-ferredoxin:oxygen oxidoreductase (11-hydroxylating)
+DEFINITION  2 Reduced adrenal ferredoxin + Steroid + Oxygen + 2 H+ <=> 11beta-Hydroxysteroid + 2 Oxidized adrenal ferredoxin + H2O
+EQUATION    2 C00662 + C00377 + C00007 + 2 C00080 <=> C01058 + 2 C00667 + C00001
+COMMENT     general reaction (see R02218, R02725, R02843, R03329, R03851 and R04850)
+ENZYME      1.14.15.4
+///

@@ -1,0 +1,8 @@
+ENTRY       R03255                      Reaction
+NAME        6-Phospho-beta-D-galactoside 6-phosphogalactohydrolase
+DEFINITION  6-Phospho-beta-D-galactoside + H2O <=> Alcohol + D-Galactose 6-phosphate
+EQUATION    C03847 + C00001 <=> C00069 + C01113
+RCLASS      RC00529  C00069_C03847
+            RC00530  C01113_C03847
+ENZYME      3.2.1.85
+///

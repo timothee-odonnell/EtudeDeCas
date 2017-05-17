@@ -1,0 +1,9 @@
+ENTRY       R07390                      Reaction
+DEFINITION  2 Phosphatidylglycerol <=> Cardiolipin + Glycerol
+EQUATION    2 C00344 <=> C05980 + C00116
+RCLASS      RC00017  C00116_C00344  C00344_C05980
+ENZYME      2.7.8.-
+PATHWAY     rn00564  Glycerophospholipid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K06131  cardiolipin synthase A/B [EC:2.7.8.-]
+///

@@ -1,0 +1,10 @@
+ENTRY       R08127                      Reaction
+NAME        beta-D-glucuronoside glucuronosohydrolase
+DEFINITION  Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide + H2O <=> Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide] + D-Glucuronate
+EQUATION    C04900 + C00001 <=> C12632 + C00191
+RCLASS      RC00171  C04900_C12632
+            RC00714  C00191_C04900
+ENZYME      3.2.1.31
+PATHWAY     rn00944  Flavone and flavonol biosynthesis
+ORTHOLOGY   K01195  beta-glucuronidase [EC:3.2.1.31]
+///

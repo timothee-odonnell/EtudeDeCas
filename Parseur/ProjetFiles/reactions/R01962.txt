@@ -1,0 +1,8 @@
+ENTRY       R01962                      Reaction
+NAME        D-glucosamine:oxygen 1-oxidoreductase
+DEFINITION  D-Glucosamine + Oxygen + H2O <=> 2-Amino-2-deoxy-D-gluconate + Hydrogen peroxide
+EQUATION    C00329 + C00007 + C00001 <=> C03752 + C00027
+RCLASS      RC00194  C00329_C03752
+            RC02755  C00007_C00027
+ENZYME      1.1.3.-
+///

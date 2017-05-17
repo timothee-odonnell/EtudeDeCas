@@ -1,0 +1,9 @@
+ENTRY       R11307                      Reaction
+DEFINITION  Cellulose + H2O <=> Cellulose + Cellodextrin
+EQUATION    C00760 + C00001 <=> C00760 + C01898
+ENZYME      3.2.1.4
+PATHWAY     rn00500  Starch and sucrose metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01179  endoglucanase [EC:3.2.1.4]
+            K19357  cellulase [EC:3.2.1.4]
+///

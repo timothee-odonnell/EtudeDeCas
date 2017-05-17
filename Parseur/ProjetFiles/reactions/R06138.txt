@@ -1,0 +1,8 @@
+ENTRY       R06138                      Reaction
+DEFINITION  Amidine + H2O <=> Amide + Ammonia
+EQUATION    C06060 + C00001 <=> C00241 + C00014
+COMMENT     general reaction
+RCLASS      RC01490  C00241_C06060
+ENZYME      3.5.3.5         3.5.3.6         3.5.3.9         3.5.3.12        
+            3.5.3.13
+///

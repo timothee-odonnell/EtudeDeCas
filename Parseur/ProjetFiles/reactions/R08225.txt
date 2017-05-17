@@ -1,0 +1,12 @@
+ENTRY       R08225                      Reaction
+DEFINITION  Tegafur + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 5-FU + Succinic aldehyde + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C12673 + C03024 + C00007 <=> C07649 + C16835 + C03161 + C00001
+COMMENT     CYP2A6
+            multi-step reaction
+            intermediate (5'-hydroxytegafur)
+RCLASS      RC00063  C07649_C12673
+            RC02297  C12673_C16835
+ENZYME      1.14.13.-
+PATHWAY     rn00983  Drug metabolism - other enzymes
+ORTHOLOGY   K17683  cytochrome P450 family 2 subfamily A polypeptide 6 [EC:1.14.13.-]
+///

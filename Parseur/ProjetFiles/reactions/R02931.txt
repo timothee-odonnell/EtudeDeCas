@@ -1,0 +1,11 @@
+ENTRY       R02931                      Reaction
+NAME        S-Adenosyl-L-methionine:isoflavone 4-O'-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Genistein <=> S-Adenosyl-L-homocysteine + Biochanin A
+EQUATION    C00019 + C06563 <=> C00021 + C00814
+RCLASS      RC00003  C00019_C00021
+            RC00392  C00814_C06563
+ENZYME      2.1.1.212
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K13259  2,7,4'-trihydroxyisoflavanone 4'-O-methyltransferase / isoflavone 4'-O-methyltransferase [EC:2.1.1.212 2.1.1.46]
+///

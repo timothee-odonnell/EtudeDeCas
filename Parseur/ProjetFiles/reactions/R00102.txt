@@ -1,0 +1,15 @@
+ENTRY       R00102                      Reaction
+NAME        NAD+ glycohydrolase
+DEFINITION  NAD+ + H2O <=> Nicotinamide + ADP-ribose
+EQUATION    C00003 + C00001 <=> C00153 + C00301
+RCLASS      RC00033  C00003_C00153
+            RC00485  C00003_C00301
+ENZYME      3.2.2.5         3.2.2.6         3.5.1.-
+PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01242  ADP-ribosyl cyclase 1 [EC:3.2.2.6 2.4.99.20]
+            K11121  NAD-dependent histone deacetylase SIR2 [EC:3.5.1.-]
+            K18152  ADP-ribosyl cyclase 2 [EC:3.2.2.6 2.4.99.20]
+            K18153  NAD+ glycohydrolase [EC:3.2.2.5]
+            K19980  ADP-ribosyltransferase 2 / NAD+ glycohydrolase [EC:2.4.2.31 3.2.2.5]
+///

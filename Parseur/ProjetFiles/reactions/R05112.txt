@@ -1,0 +1,8 @@
+ENTRY       R05112                      Reaction
+NAME        Gal-beta1->3GalNAc-beta1->4Gal-beta1->4Glc-beta1->1'Cer galactohydrolase
+DEFINITION  GA1 + H2O <=> GA2 + D-Galactose
+EQUATION    C06136 + C00001 <=> C06135 + C00124
+REMARK      Same as: R05994
+RCLASS      RC00049  C00124_C06136  C06135_C06136
+ENZYME      3.2.1.23
+///

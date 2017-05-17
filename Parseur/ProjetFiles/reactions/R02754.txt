@@ -1,0 +1,10 @@
+ENTRY       R02754                      Reaction
+NAME        5-Dehydro-4-deoxy-D-glucarate tartronate-semialdehyde-lyase
+DEFINITION  5-Dehydro-4-deoxy-D-glucarate <=> Pyruvate + 2-Hydroxy-3-oxopropanoate
+EQUATION    C00679 <=> C00022 + C01146
+RCLASS      RC00307  C00022_C00679
+            RC00435  C00679_C01146
+ENZYME      4.1.2.20
+PATHWAY     rn00053  Ascorbate and aldarate metabolism
+ORTHOLOGY   K01630  2-dehydro-3-deoxyglucarate aldolase [EC:4.1.2.20]
+///

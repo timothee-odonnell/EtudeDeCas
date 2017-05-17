@@ -1,0 +1,7 @@
+ENTRY       R07310                      Reaction
+NAME        (R)-2-haloacid dehalogenase (configuration-retaining)
+DEFINITION  (R)-2-Haloacid + H2O <=> (R)-2-Hydroxyacid + Halide
+EQUATION    C15564 + C00001 <=> C02489 + C00462
+RCLASS      RC01005  C02489_C15564
+ENZYME      3.8.1.11
+///

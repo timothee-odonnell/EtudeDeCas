@@ -1,0 +1,8 @@
+ENTRY       R02210                      Reaction
+NAME        Ketosteroid,NADPH:oxygen oxidoreductase (20-hydroxylating, ester-producing/20-hydroxylating, side-chain cleaving/17-hydroxylating, lactonizing)
+DEFINITION  Progesterone + Oxygen + NADPH + H+ <=> Testosterone acetate + NADP+ + H2O
+EQUATION    C00410 + C00007 + C00005 + C00080 <=> C03027 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00140  C00410_C03027
+ENZYME      1.14.13.54
+///

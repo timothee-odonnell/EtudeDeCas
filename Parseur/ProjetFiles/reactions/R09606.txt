@@ -1,0 +1,7 @@
+ENTRY       R09606                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [(-)-alpha-gurjunene-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (-)-alpha-Gurjunene + Diphosphate
+EQUATION    C00448 <=> C19734 + C00013
+RCLASS      RC02576  C00448_C19734
+ENZYME      4.2.3.72
+///

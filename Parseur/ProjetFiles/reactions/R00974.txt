@@ -1,0 +1,10 @@
+ENTRY       R00974                      Reaction
+NAME        Cytosine aminohydrolase
+DEFINITION  Cytosine + H2O <=> Uracil + Ammonia
+EQUATION    C00380 + C00001 <=> C00106 + C00014
+RCLASS      RC00074  C00106_C00380
+ENZYME      3.5.4.1
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01485  cytosine deaminase [EC:3.5.4.1]
+///

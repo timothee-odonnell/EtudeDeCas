@@ -1,0 +1,7 @@
+ENTRY       R01657                      Reaction
+NAME        Dimethylallyl-diphosphate:L-tryptophan dimethylallyltransferase
+DEFINITION  Dimethylallyl diphosphate + L-Tryptophan <=> Diphosphate + 4-(3-Methylbut-2-enyl)-L-tryptophan
+EQUATION    C00235 + C00078 <=> C00013 + C04290
+RCLASS      RC00209  C00078_C04290
+ENZYME      2.5.1.34
+///

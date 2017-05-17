@@ -1,0 +1,8 @@
+ENTRY       R04191                      Reaction
+NAME        alpha-Amino-acid-ester aminoacylhydrolase
+DEFINITION  alpha-Amino acid ester + H2O <=> alpha-Amino acid + Alcohol
+EQUATION    C03317 + C00001 <=> C05167 + C00069
+RCLASS      RC00339  C00069_C03317
+            RC00342  C03317_C05167
+ENZYME      3.1.1.43
+///

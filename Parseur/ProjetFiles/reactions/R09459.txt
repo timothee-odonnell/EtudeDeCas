@@ -1,0 +1,8 @@
+ENTRY       R09459                      Reaction
+DEFINITION  22-Oxodocosanoate <=> Docosanedioate
+EQUATION    C19624 <=> C19625
+COMMENT     omega-oxo-fatty acid dehydrogenase
+RCLASS      RC00080  C19624_C19625
+ENZYME      1.2.-.-
+PATHWAY     rn00073  Cutin, suberine and wax biosynthesis
+///

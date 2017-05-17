@@ -1,0 +1,12 @@
+ENTRY       R03611                      Reaction
+NAME        calciol,NADPH:oxygen oxidoreductase (25-hydroxylating)
+DEFINITION  Calcidiol + NADP+ + H2O <=> Vitamin D3 + NADPH + H+ + Oxygen
+EQUATION    C01561 + C00006 + C00001 <=> C05443 + C00005 + C00080 + C00007
+RCLASS      RC00001  C00005_C00006
+            RC00963  C01561_C05443
+ENZYME      1.14.14.24
+PATHWAY     rn00100  Steroid biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00103  Cholecalciferol biosynthesis
+ORTHOLOGY   K07419  vitamin D 25-hydroxylase [EC:1.14.14.24]
+///

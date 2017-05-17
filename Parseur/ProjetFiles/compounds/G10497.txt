@@ -1,0 +1,21 @@
+ENTRY       G10497                      Glycan
+COMPOSITION (Fru)1 (*)2
+REMARK      Same as: C03323 D00171
+REACTION    R06059 R06183
+ENZYME      2.4.1.9         2.4.1.100
+BRITE       Major components of natural products [BR:br08323]
+             Medicinal herbs
+              Burdock root
+               C03323  (2,1-beta-D-Fructosyl)n
+DBLINKS     GlycomeDB: 33445
+NODE        3
+            1   *           8     0
+            2   Fru         0     0
+            3   *          -9     0
+EDGE        2
+            1     2:b2    1    
+            2     3       2:1  
+BRACKET     1  -4.0   1.0  -4.0  -1.0
+            1   4.0  -1.0   4.0   1.0
+            1 n
+///

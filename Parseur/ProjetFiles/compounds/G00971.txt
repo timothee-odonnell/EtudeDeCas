@@ -1,0 +1,15 @@
+ENTRY       G00971                      Glycan
+COMPOSITION (GlcNAc)1 (Man)1
+MASS        383.4
+REMARK      Same as: C20887
+REACTION    R08718
+ENZYME      3.2.1.24
+DBLINKS     CCSD: 2316 12834 25030 27851 44948 46202
+            GlycomeDB: 17836
+            JCGGDB: JCGG-STR008423
+NODE        2
+            1   GlcNAc    4.5  -0.2
+            2   Man      -4.5  -0.2
+EDGE        1
+            1     2:b1    1:4  
+///

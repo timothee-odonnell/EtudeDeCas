@@ -1,0 +1,8 @@
+ENTRY       R00049                      Reaction
+NAME        1-O-galloyl-beta-D-glucose:1-O-galloyl-beta-D-glucose O-galloyltransferase
+DEFINITION  2 1-O-Galloyl-beta-D-glucose <=> D-Glucose + 1-O,6-O-Digalloyl-beta-D-glucose
+EQUATION    2 C01158 <=> C00031 + C04101
+RCLASS      RC00041  C01158_C04101
+            RC00055  C00031_C01158
+ENZYME      2.3.1.90
+///

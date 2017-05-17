@@ -1,0 +1,8 @@
+ENTRY       R07626                      Reaction
+NAME        protein-omega-N-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase
+DEFINITION  Protein-omega-N-(ADP-D-ribosyl)-L-arginine + H2O <=> ADP-ribose + Protein-L-arginine
+EQUATION    C16011 + C00001 <=> C00301 + C00613
+RCLASS      RC00178  C00613_C16011
+            RC00481  C00301_C16011
+ENZYME      3.2.2.19
+///

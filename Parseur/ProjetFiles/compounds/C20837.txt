@@ -1,0 +1,7 @@
+ENTRY       C20837                      Compound
+NAME        Hydroxyepoxyicosatrienoate
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R10766
+ENZYME      5.4.4.7
+DBLINKS     PubChem: 254741303
+///

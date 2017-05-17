@@ -1,0 +1,9 @@
+ENTRY       R02406                      Reaction
+NAME        Itaconate:CoA ligase (IDP-forming)
+DEFINITION  ITP + Itaconate + CoA <=> IDP + Orthophosphate + Itaconyl-CoA
+EQUATION    C00081 + C00490 + C00010 <=> C00104 + C00009 + C00531
+RCLASS      RC00002  C00081_C00104
+            RC00004  C00010_C00531
+            RC00014  C00490_C00531
+ENZYME      6.2.1.4
+///

@@ -1,0 +1,7 @@
+ENTRY       R11230                      Reaction
+NAME        S-adenosyl-L-methionine:(-)-pluviatolide 4-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Pluviatolide <=> S-Adenosyl-L-homocysteine + Bursehernin
+EQUATION    C00019 + C21191 <=> C00021 + C21183
+RCLASS      RC00392  C21183_C21191
+ENZYME      2.1.1.323
+///

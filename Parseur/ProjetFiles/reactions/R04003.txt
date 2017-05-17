@@ -1,0 +1,8 @@
+ENTRY       R04003                      Reaction
+NAME        3-Chloro-L-alanine chloride-lyase (adding thioglycolate)
+DEFINITION  3-Chloro-L-alanine + Thioglycolate <=> S-Carboxymethyl-L-cysteine + Cl-
+EQUATION    C02635 + C02086 <=> C03727 + C00698
+RCLASS      RC00069  C02086_C03727
+            RC01047  C02635_C03727
+ENZYME      4.5.1.5
+///

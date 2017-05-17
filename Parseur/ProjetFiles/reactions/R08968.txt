@@ -1,0 +1,10 @@
+ENTRY       R08968                      Reaction
+NAME        ATP:N-acetyl-D-glucosamine 1-phosphotransferase
+DEFINITION  N-Acetyl-D-glucosamine + ATP <=> N-Acetyl-alpha-D-glucosamine 1-phosphate + ADP
+EQUATION    C00140 + C00002 <=> C04501 + C00008
+RCLASS      RC00002  C00002_C00008
+            RC00078  C00140_C04501
+ENZYME      2.7.1.162       2.7.1.-
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+ORTHOLOGY   K07102  anomeric MurNAc/GlcNAc kinase [EC:2.7.1.-]
+///

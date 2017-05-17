@@ -1,0 +1,8 @@
+ENTRY       R02436                      Reaction
+NAME        Quercitrin 3-L-rhamnohydrolase
+DEFINITION  Quercitrin + H2O <=> L-Rhamnose + Quercetin
+EQUATION    C01750 + C00001 <=> C00507 + C00389
+RCLASS      RC00171  C00389_C01750
+            RC00714  C00507_C01750
+ENZYME      3.2.1.66
+///

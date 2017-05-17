@@ -1,0 +1,8 @@
+ENTRY       R10544                      Reaction
+NAME        kanamycin A:carbamoyl phosphate ligase (AMP,phosphate-forming)
+DEFINITION  O-Carbamoyladenylate + Kanamycin A <=> AMP + 6''-O-Carbamoylkanamycin A
+EQUATION    C20684 + C01822 <=> C00020 + C20699
+RCLASS      RC00041  C01822_C20699
+            RC00070  C00020_C20684
+ENZYME      6.1.2.2
+///

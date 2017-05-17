@@ -1,0 +1,8 @@
+ENTRY       R11396                      Reaction
+NAME        CTP:8-amino-3,8-dideoxy-D-manno-octulosonate cytidylyltransferase
+DEFINITION  CTP + 8-Amino-3,8-dideoxy-D-manno-octulosonate <=> Diphosphate + CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate
+EQUATION    C00063 + C21333 <=> C00013 + C21334
+RCLASS      RC00152  C21333_C21334
+ENZYME      2.7.7.90
+ORTHOLOGY   K00979  3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+///

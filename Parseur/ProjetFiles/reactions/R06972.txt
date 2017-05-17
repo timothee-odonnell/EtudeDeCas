@@ -1,0 +1,10 @@
+ENTRY       R06972                      Reaction
+DEFINITION  N-Cyclopropylammelide + H2O <=> Cyanuric acid + Cyclopropylamine
+EQUATION    C14149 + C00001 <=> C06554 + C14150
+COMMENT     N-cyclopropylammelide alkylamino hydrolase
+RCLASS      RC01422  C06554_C14149
+            RC01703  C14149_C14150
+ENZYME      3.5.4.-
+PATHWAY     rn00791  Atrazine degradation
+            rn01120  Microbial metabolism in diverse environments
+///

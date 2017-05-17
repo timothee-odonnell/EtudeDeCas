@@ -1,0 +1,9 @@
+ENTRY       R10199                      Reaction
+NAME        S-adenosyl-L-methionine:botryococcene C-methyltransferase
+DEFINITION  2 S-Adenosyl-L-methionine + C30 Botryococcene <=> 2 S-Adenosyl-L-homocysteine + 3,20-Dimethyl-1,2,21,22-tetradehydro-2,3,20,21-tetrahydrobotryococcene
+EQUATION    2 C00019 + C20432 <=> 2 C00021 + C20435
+COMMENT     two-step reaction (see R10195+R10196, R10197+R10198)
+RCLASS      RC00003  C00019_C00021
+            RC03070  C20432_C20435
+ENZYME      2.1.1.263
+///

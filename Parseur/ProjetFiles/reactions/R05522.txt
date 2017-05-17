@@ -1,0 +1,13 @@
+ENTRY       R05522                      Reaction
+NAME        erythromycin-D,NADPH:oxygen oxidoreductase (12-hydroxylating)
+DEFINITION  Erythromycin D + NADPH + H+ + Oxygen <=> Erythromycin C + NADP+ + H2O
+EQUATION    C06633 + C00005 + C00080 + C00007 <=> C06616 + C00006 + C00001
+COMMENT     1200-1900-fold preference for erythromycin D over the alternative substrate erythromycin B
+RCLASS      RC00001  C00005_C00006
+            RC01892  C06616_C06633
+ENZYME      1.14.13.154
+PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00774  Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B
+ORTHOLOGY   K14370  erythromycin 12 hydroxylase [EC:1.14.13.154]
+///

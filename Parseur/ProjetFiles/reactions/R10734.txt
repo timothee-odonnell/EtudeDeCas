@@ -1,0 +1,7 @@
+ENTRY       R10734                      Reaction
+NAME        (2E,6E)-farnesyl diphosphate lyase (cyclizing, (-)-beta-santalene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> beta-Santalene + Diphosphate
+EQUATION    C00448 <=> C09718 + C00013
+RCLASS      RC03263  C00448_C09718
+ENZYME      4.2.3.83
+///

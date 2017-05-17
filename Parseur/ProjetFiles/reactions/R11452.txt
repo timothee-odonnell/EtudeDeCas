@@ -1,0 +1,9 @@
+ENTRY       R11452                      Reaction
+NAME        S-adenosyl-L-methionine:dTDP-4-amino-2,3,4,6-tetradeoxy-alpha-D-erythro-hexopyranose N-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose <=> S-Adenosyl-L-homocysteine + dTDP-4-(methylamino)-2,3,4,6-tetradeoxy-D-glucose
+EQUATION    C00019 + C18033 <=> C00021 + C21395
+COMMENT     first step of two-step reaction (see R08932, 11452+R11453)
+RCLASS      RC02262  C18033_C21395
+ENZYME      2.1.1.324
+ORTHOLOGY   K13330  dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase [EC:2.1.1.324]
+///

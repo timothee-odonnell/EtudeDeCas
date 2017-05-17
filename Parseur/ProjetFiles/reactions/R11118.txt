@@ -1,0 +1,5 @@
+ENTRY       R11118                      Reaction
+DEFINITION  Ribosylhopane + L-Glutamate <=> Aminobacteriohopanetriol + 2-Oxoglutarate
+EQUATION    C21118 + C00025 <=> C21123 + C00026
+RCLASS      RC00006  C00025_C00026
+///

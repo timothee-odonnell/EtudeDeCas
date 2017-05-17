@@ -1,0 +1,7 @@
+ENTRY       R03053                      Reaction
+NAME        L-2-Aminohexanoate:2-oxoglutarate aminotransferase
+DEFINITION  L-Norleucine + 2-Oxoglutarate <=> 2-Oxohexanoic acid + L-Glutamate
+EQUATION    C01933 + C00026 <=> C00902 + C00025
+RCLASS      RC00006  C00025_C00026  C00902_C01933
+ENZYME      2.6.1.67
+///

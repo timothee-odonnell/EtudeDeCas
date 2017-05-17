@@ -1,0 +1,8 @@
+ENTRY       R00596                      Reaction
+NAME        S-adenosyl-L-methionine:tRNA adenine N1-methyltransferase;
+            S-adenosyl-L-methionine:tRNA (adenine-N1-)-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + tRNA adenine <=> S-Adenosyl-L-homocysteine + tRNA containing N1-methyladenine
+EQUATION    C00019 + C17324 <=> C00021 + C04156
+RCLASS      RC00003  C00019_C00021
+            RC00333  C04156_C17324
+///

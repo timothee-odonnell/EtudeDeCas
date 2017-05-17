@@ -1,0 +1,7 @@
+ENTRY       R11330                      Reaction
+NAME        D-erythrulose-1-phosphate 3-epimerase
+DEFINITION  D-Erythrulose 1-phosphate <=> Erythrulose 1-phosphate
+EQUATION    C21285 <=> C03394
+RCLASS      RC03416  C03394_C21285
+ENZYME      5.1.3.38
+///

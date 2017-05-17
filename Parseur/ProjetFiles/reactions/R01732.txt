@@ -1,0 +1,9 @@
+ENTRY       R01732                      Reaction
+NAME        Riboflavin hydrolase
+DEFINITION  Riboflavin + H2O <=> Ribitol + Lumichrome
+EQUATION    C00255 + C00001 <=> C00474 + C01727
+RCLASS      RC00591  C00255_C00474
+            RC03201  C00255_C01727
+ENZYME      3.5.99.1
+PATHWAY     rn00740  Riboflavin metabolism
+///

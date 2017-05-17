@@ -1,0 +1,10 @@
+ENTRY       R07207                      Reaction
+NAME        cholesterol,NADPH:oxygen oxidoreductase (24-hydroxylating)
+DEFINITION  Cholesterol + NADPH + H+ + Oxygen <=> Cerebrosterol + NADP+ + H2O
+EQUATION    C00187 + C00005 + C00080 + C00007 <=> C13550 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00773  C00187_C13550
+ENZYME      1.14.14.25
+PATHWAY     rn00120  Primary bile acid biosynthesis
+ORTHOLOGY   K07440  cholesterol 24-hydroxylase [EC:1.14.14.25]
+///

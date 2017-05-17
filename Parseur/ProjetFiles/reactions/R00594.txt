@@ -1,0 +1,9 @@
+ENTRY       R00594                      Reaction
+NAME        S-Adenosyl-L-methionine:tRNA uracil 5-methyltransferase;
+            S-Adenosyl-L-methionine:tRNA (uracil-5-)-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + tRNA containing uridine at position 54 <=> S-Adenosyl-L-homocysteine + tRNA containing ribothymidine at position 54
+EQUATION    C00019 + C01764 <=> C00021 + C03446
+RCLASS      RC00003  C00019_C00021
+            RC00332  C01764_C03446
+ENZYME      2.1.1.35
+///

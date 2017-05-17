@@ -1,0 +1,9 @@
+ENTRY       R05762                      Reaction
+NAME        (S)-2-hydroxypropyl-CoM:2-mercaptoethanesulfonate lyase (epoxyalkane-ring-forming)
+DEFINITION  (S)-2-Hydroxypropyl-CoM <=> (S)-1,2-Epoxypropane + Coenzyme M
+EQUATION    C11498 <=> C11507 + C03576
+COMMENT     (R)-form (see R05761)
+RCLASS      RC00069  C03576_C11498
+            RC01464  C11498_C11507
+ENZYME      4.4.1.23
+///

@@ -1,0 +1,8 @@
+ENTRY       R10835                      Reaction
+NAME        UDP-alpha-D-glucose:7-deoxyloganetin O-D-glucosyltransferase
+DEFINITION  UDP-glucose + 7-Deoxyloganetin <=> UDP + Deoxyloganin
+EQUATION    C00029 + C20790 <=> C00015 + C06071
+RCLASS      RC00005  C00015_C00029
+            RC00049  C06071_C20790
+ENZYME      2.4.1.324
+///

@@ -1,0 +1,11 @@
+ENTRY       R10320                      Reaction
+NAME        8-O-methyldihydrosterigmatocystin,NADPH:O2 oxidoreductase (aflatoxin-B forming)
+DEFINITION  Dihydro-O-methylsterigmatocystin + 2 NADPH + 2 H+ + 2 Oxygen <=> Aflatoxin B2 + 2 NADP+ + H2O + Methanol + CO2
+EQUATION    C03944 + 2 C00005 + 2 C00080 + 2 C00007 <=> C16753 + 2 C00006 + C00001 + C00132 + C00011
+RCLASS      RC00001  C00005_C00006
+            RC00233  C00132_C03944
+            RC03113  C03944_C16753
+ENZYME      1.14.13.175
+PATHWAY     rn00254  Aflatoxin biosynthesis
+ORTHOLOGY   K17651  aflatoxin B synthase [EC:1.14.13.175]
+///

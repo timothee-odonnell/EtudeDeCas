@@ -1,0 +1,9 @@
+ENTRY       R04868                      Reaction
+NAME        Acyl-CoA:isopenicillin N N-acyltransferase
+DEFINITION  Isopenicillin N + Phenylacetyl-CoA + H2O <=> Penicillin G + L-2-Aminoadipate + CoA
+EQUATION    C05557 + C00582 + C00001 <=> C05551 + C00956 + C00010
+COMMENT     general reaction: R06361
+RCLASS      RC00004  C00010_C00582
+            RC00090  C00956_C05557
+ENZYME      2.3.1.164
+///

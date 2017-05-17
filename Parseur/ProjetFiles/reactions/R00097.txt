@@ -1,0 +1,11 @@
+ENTRY       R00097                      Reaction
+NAME        NADH:cob(III)alamine oxidoreductase
+DEFINITION  NAD+ + 2 Cob(II)alamin + 2 H2O + H+ <=> NADH + 2 Aquacob(III)alamin
+EQUATION    C00003 + 2 C00541 + 2 C00001 + C00080 <=> C00004 + 2 C00992
+RCLASS      RC00001  C00003_C00004
+            RC00220  C00541_C00992
+ENZYME      1.16.1.3
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K05368  aquacobalamin reductase / NAD(P)H-flavin reductase [EC:1.16.1.3 1.5.1.41]
+///

@@ -1,0 +1,7 @@
+ENTRY       R11209                      Reaction
+NAME        [prokaryotic ubiquitin-like protein]-L-glutamine amidohydrolase
+DEFINITION  [Prokaryotic ubiquitin-like protein]-L-glutamine + H2O <=> Prokaryotic ubiquitin-like protein + Ammonia
+EQUATION    C21179 + C00001 <=> C21177 + C00014
+RCLASS      RC00010  C21177_C21179
+ENZYME      3.5.1.119
+///

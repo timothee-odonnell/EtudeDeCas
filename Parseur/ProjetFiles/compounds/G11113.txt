@@ -1,0 +1,16 @@
+ENTRY       G11113                      Glycan
+NAME        ADP;
+            Adenosine 5'-phosphate
+COMPOSITION (ADP)1
+REMARK      Same as: C00008
+REACTION    R06049 R06176
+ENZYME      2.4.1.21        2.7.1.85
+BRITE       Compounds with biological roles [BR:br08001]
+             Nucleic acids
+              Nucleotides
+               Ribonucleotides
+                C00008  ADP
+NODE        1
+            1   ADP      -0.2   0.3
+EDGE        0
+///

@@ -1,0 +1,7 @@
+ENTRY       R11309                      Reaction
+DEFINITION  Dextran <=> Isomaltose
+EQUATION    C00372 <=> C00252
+ENZYME      3.2.1.11
+PATHWAY     rn00500  Starch and sucrose metabolism
+ORTHOLOGY   K05988  dextranase [EC:3.2.1.11]
+///

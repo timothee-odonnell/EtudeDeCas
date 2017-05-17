@@ -1,0 +1,13 @@
+ENTRY       R11051                      Reaction
+NAME        dTDP-4-oxo-2,6-dideoxy-D-allose:NADP+ 3-oxidoreductase
+DEFINITION  dTDP-3,4-dioxo-2,6-dideoxy-D-glucose + NADPH + H+ <=> dTDP-4-oxo-2,6-dideoxy-D-allose + NADP+
+EQUATION    C06620 + C00005 + C00080 <=> C11928 + C00006
+RCLASS      RC00001  C00005_C00006
+            RC00897  C06620_C11928
+ENZYME      1.1.1.-
+PATHWAY     rn00523  Polyketide sugar unit biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00798  dTDP-L-mycarose biosynthesis
+            M00799  dTDP-L-oleandrose biosynthesis
+ORTHOLOGY   K13315  NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase [EC:1.1.1.-]
+///

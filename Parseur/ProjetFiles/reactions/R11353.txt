@@ -1,0 +1,10 @@
+ENTRY       R11353                      Reaction
+NAME        2,6-dihydroxybenzoate carboxy-lyase
+DEFINITION  2,6-Dihydroxybenzoate <=> Resorcinol + CO2
+EQUATION    C21298 <=> C01751 + C00011
+RCLASS      RC00569  C01751_C21298
+ENZYME      4.1.1.103
+PATHWAY     rn00362  Benzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K20941  gamma-resorcylate decarboxylase [EC:4.1.1.103]
+///

@@ -1,0 +1,9 @@
+ENTRY       R03088                      Reaction
+DEFINITION  Estradiol-17beta + H+ + Oxygen + NADH <=> 2-Hydroxyestradiol + NAD+ + H2O
+EQUATION    C00951 + C00080 + C00007 + C00004 <=> C05301 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC00046  C00951_C05301
+ENZYME      1.14.14.1
+PATHWAY     rn00140  Steroid hormone biosynthesis
+ORTHOLOGY   K07410  cytochrome P450 family 1 subfamily B polypeptide 1 [EC:1.14.14.1]
+///

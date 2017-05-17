@@ -1,0 +1,9 @@
+ENTRY       R10070                      Reaction
+NAME        zeaxanthin,NADH:oxygen oxidoreductase
+DEFINITION  Zeaxanthin + 4 Reduced ferredoxin + 4 H+ + 2 Oxygen <=> Violaxanthin + 4 Oxidized ferredoxin + 2 H2O
+EQUATION    C06098 + 4 C00138 + 4 C00080 + 2 C00007 <=> C08614 + 4 C00139 + 2 C00001
+COMMENT     two-step reaction (see R06946+R06947)
+RCLASS      RC03037  C06098_C08614
+ENZYME      1.14.15.21
+ORTHOLOGY   K09838  zeaxanthin epoxidase [EC:1.14.15.21]
+///

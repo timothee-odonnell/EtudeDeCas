@@ -1,0 +1,7 @@
+ENTRY       R03668                      Reaction
+NAME        Acetyl-CoA:thioethanolamine S-acetyltransferase
+DEFINITION  Acetyl-CoA + Cysteamine <=> CoA + S-Acetylthioethanolamine
+EQUATION    C00024 + C01678 <=> C00010 + C03537
+RCLASS      RC00004  C00010_C00024  C01678_C03537
+ENZYME      2.3.1.11
+///

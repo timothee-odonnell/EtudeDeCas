@@ -1,0 +1,8 @@
+ENTRY       C02756                      Compound
+NAME        [Xanthine oxidase]
+COMMENT     oxidized form of xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2] [KO:K00106]
+REACTION    R04039
+ENZYME      1.8.4.7
+DBLINKS     CAS: 9002-17-9
+            PubChem: 5713
+///

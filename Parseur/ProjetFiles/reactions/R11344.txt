@@ -1,0 +1,7 @@
+ENTRY       R11344                      Reaction
+NAME        butan-1-ol:quinone oxidoreductase
+DEFINITION  1-Butanol + Quinone <=> Butanal + Hydroquinone
+EQUATION    C06142 + C15602 <=> C01412 + C15603
+RCLASS      RC00087  C01412_C06142
+ENZYME      1.1.5.11
+///

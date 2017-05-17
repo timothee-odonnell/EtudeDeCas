@@ -1,0 +1,7 @@
+ENTRY       R00463                      Reaction
+NAME        L-Lysine-1,6-lactam lactamhydrolase
+DEFINITION  L-Lysine 1,6-lactam + H2O <=> L-Lysine
+EQUATION    C02837 + C00001 <=> C00047
+RCLASS      RC00304  C00047_C02837
+ENZYME      3.5.2.11
+///

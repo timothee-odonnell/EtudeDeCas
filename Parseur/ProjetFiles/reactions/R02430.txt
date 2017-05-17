@@ -1,0 +1,8 @@
+ENTRY       R02430                      Reaction
+NAME        ATP:erythritol 4-phosphotransferase
+DEFINITION  ATP + Erythritol <=> ADP + D-Erythritol 4-phosphate
+EQUATION    C00002 + C00503 <=> C00008 + C03494
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00503_C03494
+ENZYME      2.7.1.27
+///

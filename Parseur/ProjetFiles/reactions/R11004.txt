@@ -1,0 +1,7 @@
+ENTRY       R11004                      Reaction
+NAME        (11Z)-hexadec-11-enoyl-CoA,reduced acceptor:oxygen 10,13-allylic oxidase (10E,12E-forming)
+DEFINITION  (11Z)-Hexadec-11-enoyl-CoA + Reduced acceptor + Oxygen <=> (10E,12Z)-Hexadeca-10,12-dienoyl-CoA + Acceptor + 2 H2O
+EQUATION    C20998 + C00030 + C00007 <=> C20999 + C00028 + 2 C00001
+RCLASS      RC03320  C20998_C20999
+ENZYME      1.14.19.15
+///

@@ -1,0 +1,7 @@
+ENTRY       R09970                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase (cyclizing, alpha-terpinene-forming)
+DEFINITION  Geranyl diphosphate <=> alpha-Terpinene + Diphosphate
+EQUATION    C00341 <=> C09898 + C00013
+RCLASS      RC02791  C00341_C09898
+ENZYME      4.2.3.115
+///

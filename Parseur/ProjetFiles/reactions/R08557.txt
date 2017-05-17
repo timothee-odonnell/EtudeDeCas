@@ -1,0 +1,11 @@
+ENTRY       R08557                      Reaction
+DEFINITION  Choline + NAD+ <=> Betaine aldehyde + NADH + H+
+EQUATION    C00114 + C00003 <=> C00576 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00087  C00114_C00576
+ENZYME      1.1.1.1
+PATHWAY     rn00260  Glycine, serine and threonine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00555  Betaine biosynthesis, choline => betaine
+ORTHOLOGY   K11440  choline dehydrogenase [EC:1.1.1.1]
+///

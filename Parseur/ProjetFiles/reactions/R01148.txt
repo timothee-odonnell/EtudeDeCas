@@ -1,0 +1,11 @@
+ENTRY       R01148                      Reaction
+NAME        D-Alanine:2-oxoglutarate aminotransferase
+DEFINITION  D-Alanine + 2-Oxoglutarate <=> Pyruvate + D-Glutamate
+EQUATION    C00133 + C00026 <=> C00022 + C00217
+RCLASS      RC00006  C00026_C00217
+            RC00008  C00022_C00133
+ENZYME      2.6.1.21
+PATHWAY     rn00473  D-Alanine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00824  D-alanine transaminase [EC:2.6.1.21]
+///

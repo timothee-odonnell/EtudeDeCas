@@ -1,0 +1,9 @@
+ENTRY       R09822                      Reaction
+NAME        S-adenosyl-L-methionine:mycinamicin VI 2''-O-methyltransferase
+DEFINITION  Mycinamicin VI + S-Adenosyl-L-methionine <=> Mycinamicin III + S-Adenosyl-L-homocysteine
+EQUATION    C15682 + C00019 <=> C15681 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC00466  C15681_C15682
+ENZYME      2.1.1.238
+PATHWAY     rn01130  Biosynthesis of antibiotics
+///

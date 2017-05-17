@@ -1,0 +1,11 @@
+ENTRY       R01268                      Reaction
+NAME        Nicotinamide amidohydrolase
+DEFINITION  Nicotinamide + H2O <=> Nicotinate + Ammonia
+EQUATION    C00153 + C00001 <=> C00253 + C00014
+RCLASS      RC00100  C00153_C00253
+ENZYME      3.5.1.19
+PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01440  nicotinamidase [EC:3.5.1.19]
+            K08281  nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+///

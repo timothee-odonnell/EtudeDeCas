@@ -1,0 +1,47 @@
+ENTRY       C21124                      Compound
+NAME        IPA imine;
+            2-Imino-3-(indol-3-yl)propanoate
+FORMULA     C11H10N2O2
+EXACT_MASS  202.0742
+MOL_WEIGHT  202.2093
+REACTION    R11119 R11120 R11131
+PATHWAY     map00404  Staurosporine biosynthesis
+            map01130  Biosynthesis of antibiotics
+MODULE      M00805  Staurosporine biosynthesis, tryptophan => staurosporine
+            M00808  Violacein biosynthesis, tryptophan => violacein
+ENZYME      1.4.3.-
+DBLINKS     PubChem: 312642093
+ATOM        15
+            1   C8x C     7.2100  -13.0200
+            2   C8y C     8.6100  -13.0200
+            3   C8y C     9.3100  -11.8076
+            4   C8x C     8.6100  -10.5951
+            5   C8x C     7.2100  -10.5951
+            6   C8x C     6.5100  -11.8076
+            7   N4x N     9.5468  -14.0604
+            8   C8x C    10.8258  -13.4910
+            9   C8y C    10.6794  -12.0986
+            10  C1b C    11.7306  -11.1517
+            11  C2c C    12.9431  -11.8517
+            12  C6a C    14.1701  -11.1435
+            13  O6a O    15.3540  -11.8273
+            14  O6a O    14.1706   -9.7303
+            15  N2a N    12.9431  -13.2300
+BOND        16
+            1     1   2 1
+            2     2   3 2
+            3     3   4 1
+            4     4   5 2
+            5     5   6 1
+            6     1   6 2
+            7     2   7 1
+            8     7   8 1
+            9     8   9 2
+            10    3   9 1
+            11    9  10 1
+            12   10  11 1
+            13   11  12 1
+            14   12  13 1
+            15   12  14 2
+            16   11  15 2
+///

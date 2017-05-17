@@ -1,0 +1,8 @@
+ENTRY       R03712                      Reaction
+NAME        albendazole,NADPH:oxygen oxidoreductase (sulfoxide-forming)
+DEFINITION  Albendazole + Oxygen + NADPH + H+ <=> Albendazole S-oxide + NADP+ + H2O
+EQUATION    C01779 + C00007 + C00005 + C00080 <=> C02809 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00984  C01779_C02809
+ENZYME      1.14.13.32
+///

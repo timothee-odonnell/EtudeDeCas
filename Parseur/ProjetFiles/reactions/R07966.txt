@@ -1,0 +1,11 @@
+ENTRY       R07966                      Reaction
+NAME        7-methylxanthine:oxygen oxidoreductase (demethylating)
+DEFINITION  7-Methylxanthine + NADPH + H+ + Oxygen <=> Xanthine + NADP+ + Formaldehyde + H2O
+EQUATION    C16353 + C00005 + C00080 + C00007 <=> C00385 + C00006 + C00067 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01797  C00067_C16353
+            RC01827  C00385_C16353
+ENZYME      1.14.13.128
+PATHWAY     rn00232  Caffeine metabolism
+            rn01120  Microbial metabolism in diverse environments
+///

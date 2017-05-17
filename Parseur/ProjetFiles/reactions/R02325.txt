@@ -1,0 +1,11 @@
+ENTRY       R02325                      Reaction
+NAME        dCTP aminohydrolase
+DEFINITION  dCTP + H2O <=> dUTP + Ammonia
+EQUATION    C00458 + C00001 <=> C00460 + C00014
+RCLASS      RC00074  C00458_C00460
+ENZYME      3.5.4.13
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00053  Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+ORTHOLOGY   K01494  dCTP deaminase [EC:3.5.4.13]
+///

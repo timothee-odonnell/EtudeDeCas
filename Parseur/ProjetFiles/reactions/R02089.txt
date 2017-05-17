@@ -1,0 +1,12 @@
+ENTRY       R02089                      Reaction
+NAME        ATP:deoxyadenosine 5'-phosphotransferase
+DEFINITION  ATP + Deoxyadenosine <=> ADP + dAMP
+EQUATION    C00002 + C00559 <=> C00008 + C00360
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00360_C00559
+ENZYME      2.7.1.76
+PATHWAY     rn00230  Purine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K10353  deoxyadenosine kinase [EC:2.7.1.76]
+            K15519  deoxyadenosine/deoxycytidine kinase [EC:2.7.1.76 2.7.1.74]
+///

@@ -1,0 +1,11 @@
+ENTRY       G13051                      Glycan
+COMPOSITION (Glc)1 (Ser)1
+MASS        162.1 (Ser)
+REACTION    R09290 R09315
+ENZYME      2.4.1.-         2.4.2.-
+NODE        2
+            1   Ser       3.3   0.5
+            2   Glc      -3.7   0.5
+EDGE        1
+            1     2:b1    1    
+///

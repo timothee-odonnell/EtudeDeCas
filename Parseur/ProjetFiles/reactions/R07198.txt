@@ -1,0 +1,8 @@
+ENTRY       R07198                      Reaction
+NAME        liquiritigenin,NADPH:oxygen oxidoreductase (licodione-forming)
+DEFINITION  Liquiritigenin + NADPH + H+ + Oxygen <=> Licodione + NADP+ + H2O
+EQUATION    C09762 + C00005 + C00080 + C00007 <=> C01592 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01880  C01592_C09762
+ENZYME      1.14.13.87
+///

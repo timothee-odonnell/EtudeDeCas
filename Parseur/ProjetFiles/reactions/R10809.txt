@@ -1,0 +1,8 @@
+ENTRY       R10809                      Reaction
+NAME        alpha-1,6-mannobiose alpha-D-mannohydrolase
+DEFINITION  Mannobiose + H2O <=> 2 D-Mannose
+EQUATION    C01728 + C00001 <=> 2 C00159
+RCLASS      RC00059  C00159_C01728
+            RC00451  C00159_C01728
+ENZYME      3.2.1.163
+///

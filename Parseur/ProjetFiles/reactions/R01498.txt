@@ -1,0 +1,12 @@
+ENTRY       R01498                      Reaction
+NAME        D-Glucosyl-N-acylsphingosine glucohydrolase
+DEFINITION  beta-D-Glucosyl-(1<->1)-ceramide + H2O <=> D-Glucose + N-Acylsphingosine
+EQUATION    C01190 + C00001 <=> C00031 + C00195
+RCLASS      RC00059  C00195_C01190
+            RC00451  C00031_C01190
+ENZYME      3.2.1.45        3.2.1.62
+PATHWAY     rn00600  Sphingolipid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01201  glucosylceramidase [EC:3.2.1.45]
+            K17108  non-lysosomal glucosylceramidase [EC:3.2.1.45]
+///

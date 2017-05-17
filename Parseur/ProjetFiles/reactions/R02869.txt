@@ -1,0 +1,15 @@
+ENTRY       R02869                      Reaction
+NAME        S-adenosylmethioninamine:spermidine 3-aminopropyltransferase
+DEFINITION  S-Adenosylmethioninamine + Spermidine <=> 5'-Methylthioadenosine + Spermine
+EQUATION    C01137 + C00315 <=> C00170 + C00750
+RCLASS      RC00021  C00170_C01137
+            RC00053  C00315_C00750
+ENZYME      2.5.1.16        2.5.1.22
+PATHWAY     rn00270  Cysteine and methionine metabolism
+            rn00330  Arginine and proline metabolism
+            rn00410  beta-Alanine metabolism
+            rn00480  Glutathione metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00797  spermidine synthase [EC:2.5.1.16]
+            K00802  spermine synthase [EC:2.5.1.22]
+///

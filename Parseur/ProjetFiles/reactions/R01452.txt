@@ -1,0 +1,8 @@
+ENTRY       R01452                      Reaction
+NAME        cholesterol,NADPH:oxygen oxidoreductase (5alpha,6alpha-epoxidizing)
+DEFINITION  Cholesterol + Oxygen + NADPH + H+ <=> Cholesterol-5alpha,6alpha-epoxide + NADP+ + H2O
+EQUATION    C00187 + C00007 + C00005 + C00080 <=> C15992 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00520  C00187_C15992
+ENZYME      1.14.13.-
+///

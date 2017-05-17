@@ -1,0 +1,12 @@
+ENTRY       R09314                      Reaction
+DEFINITION  6-Deoxydihydrokalafungin + Reduced FMN + Oxygen <=> Dihydrokalafungin + FMN + H2O
+EQUATION    C12435 + C01847 + C00007 <=> C12436 + C00061 + C00001
+COMMENT     C6 oxygenation, FMN-dependent monooxygenase
+RCLASS      RC00126  C00061_C01847
+            RC01675  C12435_C12436
+ENZYME      1.14.14.-
+PATHWAY     rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00779  Dihydrokalafungin biosynthesis, octaketide => dihydrokalafungin
+ORTHOLOGY   K14630  two-component flavin-dependent monooxygenase [EC:1.14.14.-]
+///

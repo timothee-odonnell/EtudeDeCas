@@ -1,0 +1,8 @@
+ENTRY       R04270                      Reaction
+NAME        2-alpha-L-FUcopyranosyl-beta-D-galactoside fucohydrolase
+DEFINITION  Methyl-2-alpha-L-fucopyranosyl-beta-D-galactoside + H2O <=> 6-Deoxy-L-galactose + Methyl beta-D-galactoside
+EQUATION    C04698 + C00001 <=> C01019 + C03619
+REMARK      Same as: R06118
+RCLASS      RC00049  C01019_C04698  C03619_C04698
+ENZYME      3.2.1.63
+///

@@ -1,0 +1,11 @@
+ENTRY       R09782                      Reaction
+NAME        torulene:oxygen 4',5'-oxidoreductase (bond-cleaving)
+DEFINITION  Torulene + Oxygen <=> 4'-Apo-beta,psi-caroten-4'-al + 3-Methyl-2-butenal
+EQUATION    C08613 + C00007 <=> C19892 + C07330
+RCLASS      RC00912  C07330_C08613
+            RC01690  C08613_C19892
+ENZYME      1.13.11.59
+PATHWAY     rn00906  Carotenoid biosynthesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K17842  torulene dioxygenase [EC:1.13.11.59]
+///

@@ -1,0 +1,8 @@
+ENTRY       R00577                      Reaction
+NAME        acyl-CoA:L-glutamine N-acyltransferase
+DEFINITION  Acyl-CoA + L-Glutamine <=> CoA + N-Acyl-L-glutamine
+EQUATION    C00040 + C00064 <=> C00010 + C02716
+RCLASS      RC00004  C00010_C00040
+            RC00064  C00064_C02716
+ENZYME      2.3.1.68
+///

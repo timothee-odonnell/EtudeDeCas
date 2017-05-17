@@ -1,0 +1,10 @@
+ENTRY       R11238                      Reaction
+DEFINITION  Validone 7-phosphate <=> Validamine 7-phosphate
+EQUATION    C21218 <=> C21216
+COMMENT     aminotransferase
+RCLASS      RC01514  C21216_C21218
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20435  validone 7-phosphate aminotransferase [EC2.6.1.-]
+///

@@ -1,0 +1,9 @@
+ENTRY       R08456                      Reaction
+DEFINITION  (S)-Coclaurine <=> (R)-Norreticuline
+EQUATION    C06161 <=> C06516
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC02212  C06161_C06516
+PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

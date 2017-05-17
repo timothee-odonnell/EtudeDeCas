@@ -1,0 +1,10 @@
+ENTRY       R08863                      Reaction
+NAME        (S)-2-hydroxypropylphosphonate,NADH:oxygen epoxidase
+DEFINITION  (S)-2-Hydroxypropylphosphonate + Hydrogen peroxide <=> Fosfomycin + 2 H2O
+EQUATION    C06452 + C00027 <=> C06454 + 2 C00001
+RCLASS      RC01298  C06452_C06454
+ENZYME      1.11.1.23
+PATHWAY     rn00440  Phosphonate and phosphinate metabolism
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12903  (S)-2-hydroxypropylphosphonic acid epoxidase [EC:1.11.1.23]
+///

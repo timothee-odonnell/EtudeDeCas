@@ -1,0 +1,8 @@
+ENTRY       R04781                      Reaction
+NAME        4-Carboxy-4-hydroxy-2-oxoadipate hydro-lyase
+DEFINITION  4-Carboxy-4-hydroxy-2-oxoadipate <=> 4-Carboxy-2-oxo-3-hexenedioate + H2O
+EQUATION    C04115 <=> C05364 + C00001
+RCLASS      RC01213  C04115_C05364
+ENZYME      4.2.1.80
+ORTHOLOGY   K02554  2-keto-4-pentenoate hydratase [EC:4.2.1.80]
+///

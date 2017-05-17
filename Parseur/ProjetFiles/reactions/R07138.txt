@@ -1,0 +1,8 @@
+ENTRY       R07138                      Reaction
+NAME        3beta-hydroxy-5alpha-steroid:NADP+ 3-oxidoreductase
+DEFINITION  Isopregnanolone + NADP+ <=> 5alpha-Pregnane-3,20-dione + NADPH + H+
+EQUATION    C15484 + C00006 <=> C03681 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00144  C03681_C15484
+ENZYME      1.1.1.278
+///

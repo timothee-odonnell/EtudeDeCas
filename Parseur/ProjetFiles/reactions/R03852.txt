@@ -1,0 +1,6 @@
+ENTRY       R03852                      Reaction
+NAME        Nucleoside:purine(pyrimidine) D-ribosyltransferase
+DEFINITION  D-Ribosyl-base + Base <=> D-Ribosyl-base + Base
+EQUATION    C02142 + C00701 <=> C02142 + C00701
+ENZYME      2.4.2.5
+///

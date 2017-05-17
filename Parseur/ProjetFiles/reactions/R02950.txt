@@ -1,0 +1,7 @@
+ENTRY       R02950                      Reaction
+NAME        4-Coumarate:oxygen oxidoreductase
+DEFINITION  4-Coumarate + Oxygen + Caffeate <=> Caffeate + H2O + Caffeoquinone
+EQUATION    C00811 + C00007 + C01197 <=> C01197 + C00001 + C16828
+RCLASS      RC00046  C00811_C01197
+ENZYME      1.14.18.1
+///

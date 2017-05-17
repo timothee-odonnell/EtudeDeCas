@@ -1,0 +1,15 @@
+ENTRY       R11269                      Reaction
+NAME        kanamycin-A:2-oxoglutarate aminotransferase
+DEFINITION  Kanamycin A + 2-Oxoglutarate <=> 6'-Oxokanamycin X + L-Glutamate
+EQUATION    C01822 + C00026 <=> C21251 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC02401  C01822_C21251
+ENZYME      2.6.1.94
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20568  neamine transaminase / 2'-deamino-2'-hydroxyneamine transaminase [EC:2.6.1.93 2.6.1.94]
+REFERENCE   1  [PMID:21983602]
+            Park JW, Park SR, Nepal KK, Han AR, Ban YH, Yoo YJ, Kim EJ, Kim EM, Kim D, Sohng JK, Yoon YJ
+            Discovery of parallel pathways of kanamycin biosynthesis allows antibiotic manipulation.
+            Nat. Chem. Biol. 7 (2011) 843-52.
+///

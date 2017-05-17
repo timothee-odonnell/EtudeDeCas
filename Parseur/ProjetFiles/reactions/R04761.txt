@@ -1,0 +1,13 @@
+ENTRY       R04761                      Reaction
+NAME        19-hydroxytestosterone,NADPH---hemoprotein reductase:oxygen 19-oxidoreductase
+DEFINITION  19-Hydroxytestosterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 19-Oxotestosterone + [Oxidized NADPH---hemoprotein reductase] + 2 H2O
+EQUATION    C05294 + C03024 + C00007 <=> C05295 + C03161 + 2 C00001
+COMMENT     aromatase, ARO
+            following after R02501
+            subsequently R03087
+RCLASS      RC00893  C05294_C05295
+ENZYME      1.14.14.14
+PATHWAY     rn00140  Steroid hormone biosynthesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K07434  aromatase [EC:1.14.14.14]
+///

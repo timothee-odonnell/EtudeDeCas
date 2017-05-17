@@ -1,0 +1,7 @@
+ENTRY       R01412                      Reaction
+NAME        Thymine,2-oxoglutarate:oxygen oxidoreductase (7-hydroxylating)
+DEFINITION  Thymine + 2-Oxoglutarate + Oxygen <=> 5-Hydroxymethyluracil + Succinate + CO2
+EQUATION    C00178 + C00026 + C00007 <=> C03088 + C00042 + C00011
+RCLASS      RC00269  C00178_C03088
+ENZYME      1.14.11.6
+///

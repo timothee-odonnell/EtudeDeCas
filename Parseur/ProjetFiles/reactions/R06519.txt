@@ -1,0 +1,12 @@
+ENTRY       R06519                      Reaction
+NAME        dihydroceramide,ferrocytochrome b5:oxygen oxidoreductase (4,5-dehydrogenating)
+DEFINITION  Dihydroceramide + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> N-Acylsphingosine + 2 Ferricytochrome b5 + 2 H2O
+EQUATION    C12126 + 2 C00999 + C00007 + 2 C00080 <=> C00195 + 2 C00996 + 2 C00001
+RCLASS      RC00824  C00195_C12126
+ENZYME      1.14.19.17
+PATHWAY     rn00600  Sphingolipid metabolism
+            rn01100  Metabolic pathways
+MODULE      M00094  Ceramide biosynthesis
+            M00099  Sphingosine biosynthesis
+ORTHOLOGY   K04712  sphingolipid Delta-4 desaturase [EC:1.14.-.-]
+///

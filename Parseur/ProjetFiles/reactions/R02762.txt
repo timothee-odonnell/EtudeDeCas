@@ -1,0 +1,14 @@
+ENTRY       R02762                      Reaction
+NAME        2-hydroxymuconate semialdehyde:NAD+ 6-oxidoreductase
+DEFINITION  2-Hydroxymuconate semialdehyde + NAD+ + H2O <=> 2-Hydroxymuconate + NADH + H+
+EQUATION    C00682 + C00003 + C00001 <=> C02501 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00218  C00682_C02501
+ENZYME      1.2.1.85
+PATHWAY     rn00362  Benzoate degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA
+ORTHOLOGY   K10217  aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase [EC:1.2.1.32 1.2.1.85]
+///

@@ -1,0 +1,11 @@
+ENTRY       R11106                      Reaction
+DEFINITION  Monodechloroaminopyrrolnitrin + FADH2 + Cl- + Oxygen + H+ <=> Aminopyrrolnitrin + FAD + 2 H2O
+EQUATION    C21110 + C01352 + C00698 + C00007 + C00080 <=> C21109 + C00016 + 2 C00001
+RCLASS      RC00126  C00016_C01352
+            RC00949  C21109_C21110
+ENZYME      1.14.19.-
+PATHWAY     rn00404  Staurosporine biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00790  Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin
+ORTHOLOGY   K14257  tetracycline 7-halogenase / FADH2 O2-dependent halogenase [EC:1.14.19.49 1.14.19.-]
+///

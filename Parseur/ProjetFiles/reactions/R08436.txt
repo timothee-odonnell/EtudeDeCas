@@ -1,0 +1,10 @@
+ENTRY       R08436                      Reaction
+DEFINITION  Tyramine + 3,4-Dihydroxybenzaldehyde <=> Norbelladine
+EQUATION    C00483 + C16700 <=> C16701
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC00053  C00483_C16701
+            RC02282  C16700_C16701
+PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

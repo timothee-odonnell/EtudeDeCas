@@ -1,0 +1,11 @@
+ENTRY       R00970                      Reaction
+NAME        ITP:uridine 5'-phosphotransferase
+DEFINITION  ITP + Uridine <=> IDP + UMP
+EQUATION    C00081 + C00299 <=> C00104 + C00105
+RCLASS      RC00002  C00081_C00104
+            RC00017  C00105_C00299
+ENZYME      2.7.1.48
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00876  uridine kinase [EC:2.7.1.48]
+///

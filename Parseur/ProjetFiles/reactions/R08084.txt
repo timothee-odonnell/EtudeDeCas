@@ -1,0 +1,9 @@
+ENTRY       R08084                      Reaction
+DEFINITION  beta-Citronellol + NADP+ <=> (R)-(+)-Citronellal + NADPH + H+
+EQUATION    C09849 + C00006 <=> C09848 + C00005 + C00080
+COMMENT     citronellol dehydrogenase
+RCLASS      RC00001  C00005_C00006
+            RC00087  C09848_C09849
+ENZYME      1.1.1.183
+PATHWAY     rn00281  Geraniol degradation
+///

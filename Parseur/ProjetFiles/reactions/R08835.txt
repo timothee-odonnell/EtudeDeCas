@@ -1,0 +1,13 @@
+ENTRY       R08835                      Reaction
+DEFINITION  Dopamine + Betalamic acid <=> Miraxanthin-V + H2O
+EQUATION    C03758 + C08538 <=> C08557 + C00001
+COMMENT     spontaneous
+RCLASS      RC01859  C03758_C08557
+            RC02353  C08538_C08557
+PATHWAY     rn00965  Betalain biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+REFERENCE   1  [PMID:10198080]
+            Schliemann W, Kobayashi N, Strack D.
+            The decisive step in betaxanthin biosynthesis is a spontaneous reaction1
+            Plant. Physiol. 119 (1999) 1217-32.
+///

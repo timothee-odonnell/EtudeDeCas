@@ -1,0 +1,10 @@
+ENTRY       R06702                      Reaction
+DEFINITION  Tetracenomycin B3 <=> Tetracenomycin E
+EQUATION    C12369 <=> C12370
+COMMENT     8-o-methyltransferase, tcmO
+RCLASS      RC00392  C12369_C12370
+PATHWAY     rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00783  Tetracenomycin C/8-demethyltetracenomycin C biosynthesis, tetracenomycin F2 => tetracenomycin C/8-demethyltetracenomycin C
+ORTHOLOGY   K15970  8-O-methyltransferase
+///

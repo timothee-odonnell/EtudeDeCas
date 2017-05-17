@@ -1,0 +1,6 @@
+ENTRY       R08395                      Reaction
+DEFINITION  Geranyl diphosphate <=> Car-3-ene + Diphosphate
+EQUATION    C00341 <=> C09839 + C00013
+RCLASS      RC02165  C00341_C09839
+PATHWAY     rn01110  Biosynthesis of secondary metabolites
+///

@@ -1,0 +1,7 @@
+ENTRY       R05170                      Reaction
+NAME        Methylenediurea aminohydrolase
+DEFINITION  Methylenediurea + H2O <=> N-(Carboxyaminomethyl)urea + Ammonia
+EQUATION    C06381 + C00001 <=> C06382 + C00014
+RCLASS      RC01287  C06381_C06382
+ENZYME      3.5.3.21
+///

@@ -1,0 +1,11 @@
+ENTRY       R02175                      Reaction
+NAME        S-adenosyl-L-methionine:2-hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone 3-O-methyltransferase
+DEFINITION  2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone + S-Adenosyl-L-methionine <=> Ubiquinone-6 + S-Adenosyl-L-homocysteine
+EQUATION    C05805 + C00019 <=> C17568 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC01895  C05805_C17568
+ENZYME      2.1.1.64
+PATHWAY     rn00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K00591  polyprenyldihydroxybenzoate methyltransferase / 3-demethylubiquinol 3-O-methyltransferase [EC:2.1.1.114 2.1.1.64]
+///

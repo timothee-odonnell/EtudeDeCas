@@ -1,0 +1,10 @@
+ENTRY       R04524                      Reaction
+DEFINITION  3-Hydroxy-2-methylpyridine-4,5-dicarboxylate + NADH + H+ <=> 2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate + H2O + NAD+
+EQUATION    C04604 + C00004 + C00080 <=> C06050 + C00001 + C00003
+COMMENT     5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid dehydrogenase
+RCLASS      RC00075  C04604_C06050
+ENZYME      1.2.1.-
+PATHWAY     rn00750  Vitamin B6 metabolism
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K18612  5-formyl-3-hydroxy-2-methylpyridine 4-carboxylate dehydrogenase [EC:1.2.1.-]
+///

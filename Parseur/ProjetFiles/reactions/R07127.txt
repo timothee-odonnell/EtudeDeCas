@@ -1,0 +1,11 @@
+ENTRY       R07127                      Reaction
+NAME        ATP:3-dehydro-L-gulonate 6-phosphotransferase
+DEFINITION  3-Dehydro-L-gulonate + ATP <=> 3-Dehydro-L-gulonate 6-phosphate + ADP
+EQUATION    C00618 + C00002 <=> C14899 + C00008
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00618_C14899
+ENZYME      2.7.1.53
+PATHWAY     rn00040  Pentose and glucuronate interconversions
+            rn00053  Ascorbate and aldarate metabolism
+ORTHOLOGY   K00880  L-xylulokinase [EC:2.7.1.53]
+///

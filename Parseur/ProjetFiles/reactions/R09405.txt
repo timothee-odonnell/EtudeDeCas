@@ -1,0 +1,10 @@
+ENTRY       R09405                      Reaction
+DEFINITION  Aflatoxin B1 + Oxygen + NADPH + H+ <=> Aflatoxin M1 + H2O + NADP+
+EQUATION    C06800 + C00007 + C00005 + C00080 <=> C16756 + C00001 + C00006
+COMMENT     CYP1A2
+RCLASS      RC00001  C00005_C00006
+            RC02524  C06800_C16756
+ENZYME      1.14.14.1
+PATHWAY     rn00980  Metabolism of xenobiotics by cytochrome P450
+ORTHOLOGY   K07409  cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]
+///

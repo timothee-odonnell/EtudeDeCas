@@ -1,0 +1,7 @@
+ENTRY       R01879                      Reaction
+NAME        2-Deoxyuridine,2-oxoglutarate:oxygen oxidoreductase (2'-hydroxylating)
+DEFINITION  Deoxyuridine + 2-Oxoglutarate + Oxygen <=> Uridine + Succinate + CO2
+EQUATION    C00526 + C00026 + C00007 <=> C00299 + C00042 + C00011
+RCLASS      RC00613  C00299_C00526
+ENZYME      1.14.11.3
+///

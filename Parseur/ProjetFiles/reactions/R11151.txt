@@ -1,0 +1,9 @@
+ENTRY       R11151                      Reaction
+NAME        rifampicin:NADH:oxygen oxidoreductase (2'-N-hydroxyrifampicin-forming)
+DEFINITION  Rifampicin + NADH + Oxygen + H+ <=> 2'-N-Hydroxyrifampicin + NAD+ + H2O
+EQUATION    C06688 + C00004 + C00007 + C00080 <=> C21143 + C00003 + C00001
+COMMENT     NADPH (see R11152)
+RCLASS      RC00001  C00003_C00004
+            RC03372  C06688_C21143
+ENZYME      1.14.13.211
+///

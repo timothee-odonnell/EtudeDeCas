@@ -1,0 +1,8 @@
+ENTRY       R09643                      Reaction
+NAME        fluoroacetyl-CoA hydrolase
+DEFINITION  Fluoroacetyl-CoA + H2O <=> Fluoroacetate + CoA
+EQUATION    C19775 + C00001 <=> C06108 + C00010
+RCLASS      RC00004  C00010_C19775
+            RC00014  C06108_C19775
+ENZYME      3.1.2.29
+///

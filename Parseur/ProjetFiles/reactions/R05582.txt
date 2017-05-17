@@ -1,0 +1,13 @@
+ENTRY       R05582                      Reaction
+DEFINITION  2-Hydroxycyclohexane-1-carboxyl-CoA + NAD+ <=> 2-Ketocyclohexane-1-carboxyl-CoA + NADH + H+
+EQUATION    C09812 + C00003 <=> C09813 + C00004 + C00080
+COMMENT     BadH
+RCLASS      RC00001  C00003_C00004
+            RC00154  C09812_C09813
+ENZYME      1.1.1.-
+PATHWAY     rn00362  Benzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00540  Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA
+ORTHOLOGY   K07535  2-hydroxycyclohexanecarboxyl-CoA dehydrogenase [EC:1.1.1.-]
+///

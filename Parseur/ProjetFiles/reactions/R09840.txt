@@ -1,0 +1,10 @@
+ENTRY       R09840                      Reaction
+DEFINITION  Phenylacetyl-CoA + H2O <=> Phenylacetic acid + CoA
+EQUATION    C00582 + C00001 <=> C07086 + C00010
+COMMENT     phenylacetyl-CoA thioesterase
+RCLASS      RC00004  C00010_C00582
+            RC00014  C00582_C07086
+ENZYME      3.1.2.-
+PATHWAY     rn00360  Phenylalanine metabolism
+ORTHOLOGY   K02614  acyl-CoA thioesterase [EC:3.1.2.-]
+///

@@ -1,0 +1,8 @@
+ENTRY       R03127                      Reaction
+NAME        Dihydroxyfumarate carboxy-lyase
+DEFINITION  Dihydroxyfumarate <=> 2-Hydroxy-3-oxopropanoate + CO2
+EQUATION    C00975 <=> C01146 + C00011
+RCLASS      RC00853  C00975_C01146
+ENZYME      4.1.1.54
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+///

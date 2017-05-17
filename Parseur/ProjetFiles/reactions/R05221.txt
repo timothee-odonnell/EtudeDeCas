@@ -1,0 +1,11 @@
+ENTRY       R05221                      Reaction
+DEFINITION  Adenosyl cobinamide + ATP <=> Adenosyl cobinamide phosphate + ADP
+EQUATION    C06508 + C00002 <=> C06509 + C00008
+RCLASS      RC00002  C00002_C00008
+            RC00428  C06508_C06509
+ENZYME      2.7.1.156
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01100  Metabolic pathways
+MODULE      M00122  Cobalamin biosynthesis, cobinamide => cobalamin
+ORTHOLOGY   K02231  adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]
+///

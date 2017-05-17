@@ -1,0 +1,12 @@
+ENTRY       R09197                      Reaction
+DEFINITION  4-Keto-anhydrotetracycline <=> 4-Amino-anhydrotetracycline
+EQUATION    C06627 <=> C06654
+COMMENT     aminotransferase, OxyQ
+RCLASS      RC02463  C06627_C06654
+PATHWAY     rn00253  Tetracycline biosynthesis
+            rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00780  Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline
+            M00823  Chlortetracycline biosynthesis, pretetramide => chlortetracycline
+ORTHOLOGY   K14254  aminotransferase
+///

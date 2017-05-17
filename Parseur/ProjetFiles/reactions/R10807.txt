@@ -1,0 +1,8 @@
+ENTRY       R10807                      Reaction
+NAME        UDP-alpha-D-glucose:diglucosyldiacylglycerol 6-glucosyltransferase
+DEFINITION  Diglucosyldiacylglycerol + UDP-glucose <=> Triglucosyldiacylglycerol + UDP
+EQUATION    C06040 + C00029 <=> C20860 + C00015
+RCLASS      RC00005  C00015_C00029
+            RC00059  C06040_C20860
+ENZYME      2.4.1.315
+///

@@ -1,0 +1,8 @@
+ENTRY       R10836                      Reaction
+NAME        AMP:phosphate (5-phospho-alpha-D-ribosyl)transferase
+DEFINITION  AMP + Orthophosphate <=> Adenine + D-Ribose 1,5-bisphosphate
+EQUATION    C00020 + C00009 <=> C00147 + C01151
+RCLASS      RC00063  C00020_C00147
+ENZYME      2.4.2.57
+ORTHOLOGY   K18931  AMP phosphorylase [EC:2.4.2.57]
+///

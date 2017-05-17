@@ -1,0 +1,8 @@
+ENTRY       R00724                      Reaction
+NAME        ITP:pyruvate 2-O-phosphotransferase
+DEFINITION  ITP + Pyruvate <=> IDP + Phosphoenolpyruvate
+EQUATION    C00081 + C00022 <=> C00104 + C00074
+RCLASS      RC00002  C00081_C00104
+            RC00015  C00022_C00074
+ENZYME      2.7.1.40
+///

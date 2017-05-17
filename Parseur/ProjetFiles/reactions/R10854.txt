@@ -1,0 +1,8 @@
+ENTRY       R10854                      Reaction
+DEFINITION  Furan-2,5-dicarbaldehyde + H2O <=> 5-(Dihydroxymethyl)furan-2-carbaldehyde
+EQUATION    C20899 + C00001 <=> C20900
+COMMENT     spontaneous
+            a part of multi-step reaction (see R10858, R10853+R10854+R10855+R10856+R10857)
+RCLASS      RC03289  C20899_C20900
+ENZYME      1.1.3.47
+///

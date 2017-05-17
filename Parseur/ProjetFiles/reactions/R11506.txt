@@ -1,0 +1,7 @@
+ENTRY       R11506                      Reaction
+NAME        3-vinylbacteriochlorophyllide-d 3(1)-hydro-lyase
+DEFINITION  Bacteriochlorophyllide d <=> 3-vinyl bacteriochlorophyllide d + H2O
+EQUATION    C18160 <=> C21426 + C00001
+RCLASS      RC02412  C18160_C21426
+ENZYME      4.2.1.169
+///

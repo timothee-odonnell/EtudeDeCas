@@ -1,0 +1,10 @@
+ENTRY       R01636                      Reaction
+NAME        4-sulfobenzoate,NADH:oxygen oxidoreductase (3,4-hydroxylating, sulfite-forming)
+DEFINITION  4-Sulfobenzoate + Oxygen + NADH + H+ <=> 3,4-Dihydroxybenzoate + Sulfite + NAD+
+EQUATION    C02236 + C00007 + C00004 + C00080 <=> C00230 + C00094 + C00003
+RCLASS      RC00001  C00003_C00004
+            RC00570  C00230_C02236
+ENZYME      1.14.12.8
+PATHWAY     rn00623  Toluene degradation
+            rn01120  Microbial metabolism in diverse environments
+///

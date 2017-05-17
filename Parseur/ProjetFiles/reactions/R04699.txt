@@ -1,0 +1,11 @@
+ENTRY       R04699                      Reaction
+NAME        protopine,NADPH:oxygen oxidoreductase (6-hydroxylating)
+DEFINITION  Protopine + Oxygen + NADPH + H+ <=> 6-Hydroxyprotopine + NADP+ + H2O
+EQUATION    C05189 + C00007 + C00005 + C00080 <=> C05190 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01203  C05189_C05190
+ENZYME      1.14.13.55
+PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
+            rn01100  Metabolic pathways
+            rn01110  Biosynthesis of secondary metabolites
+///

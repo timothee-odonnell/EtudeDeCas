@@ -1,0 +1,8 @@
+ENTRY       R03910                      Reaction
+NAME        Acetyl-CoA:alkane-alpha,omega-diamine N-acetyltransferase
+DEFINITION  Acetyl-CoA + Alkane-alpha,omega-diamine <=> CoA + N-Acetyldiamine
+EQUATION    C00024 + C03687 <=> C00010 + C02297
+RCLASS      RC00004  C00010_C00024
+            RC00096  C02297_C03687
+ENZYME      2.3.1.57
+///

@@ -1,0 +1,7 @@
+ENTRY       C20833                      Compound
+NAME        Oxoicosatetraenoate
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R10761
+ENZYME      4.2.1.152
+DBLINKS     PubChem: 254741299
+///

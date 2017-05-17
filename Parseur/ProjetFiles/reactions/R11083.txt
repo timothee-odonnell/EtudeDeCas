@@ -1,0 +1,7 @@
+ENTRY       R11083                      Reaction
+NAME        D-glucaro-1,4-lactone lyase (ring-opening)
+DEFINITION  D-Glucaro-1,4-lactone <=> 5-Dehydro-4-deoxy-D-glucarate
+EQUATION    C21095 <=> C00679
+RCLASS      RC03287  C00679_C21095
+ENZYME      5.5.1.27
+///

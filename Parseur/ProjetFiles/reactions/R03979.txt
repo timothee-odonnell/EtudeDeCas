@@ -1,0 +1,8 @@
+ENTRY       R03979                      Reaction
+DEFINITION  Aryl dialkyl phosphate + H2O <=> Dialkyl phosphate + Phenol
+EQUATION    C03254 + C00001 <=> C02534 + C15584
+COMMENT     general reaction (see R05548)
+RCLASS      RC00151  C03254_C15584
+            RC01282  C02534_C03254
+ENZYME      3.1.8.1
+///

@@ -1,0 +1,10 @@
+ENTRY       R01369                      Reaction
+NAME        triacylglycerol acylhydrolase
+DEFINITION  Triacylglycerol + H2O <=> Diacylglycerol + Carboxylate
+EQUATION    C00422 + C00001 <=> C00165 + C00060
+COMMENT     general reaction
+            also hydrolyzing at sn-1 position
+RCLASS      RC00020  C00060_C00422
+            RC00041  C00165_C00422
+ENZYME      3.1.1.3         3.1.1.34        3.1.1.79
+///

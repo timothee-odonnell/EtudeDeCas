@@ -1,0 +1,7 @@
+ENTRY       R04375                      Reaction
+DEFINITION  2-Dehydro-3-deoxy-D-xylonate + NAD+ <=> 5-Hydroxy-2,4-dioxopentanoate + NADH
+EQUATION    C03826 + C00003 <=> C05406 + C00004
+RCLASS      RC00001  C00003_C00004
+            RC00029  C03826_C05406
+ENZYME      1.1.1.-
+///

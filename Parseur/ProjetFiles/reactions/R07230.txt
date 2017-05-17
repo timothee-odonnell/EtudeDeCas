@@ -1,0 +1,7 @@
+ENTRY       R07230                      Reaction
+NAME        acceptor:3,3',5'-triiodo-L-thyronine oxidoreductase (iodinating)
+DEFINITION  3,3',5'-Triiodo-L-thyronine + Iodide + Acceptor + H+ <=> Thyroxine + Reduced acceptor
+EQUATION    C07639 + C00708 + C00028 + C00080 <=> C01829 + C00030
+RCLASS      RC00949  C01829_C07639
+ENZYME      1.21.99.3
+///

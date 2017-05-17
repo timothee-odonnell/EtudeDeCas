@@ -1,0 +1,7 @@
+ENTRY       R09902                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (sesquithujene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> Sesquithujene + Diphosphate
+EQUATION    C00448 <=> C20178 + C00013
+RCLASS      RC02705  C00448_C20178
+ENZYME      4.2.3.102
+///

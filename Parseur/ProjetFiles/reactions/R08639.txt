@@ -1,0 +1,12 @@
+ENTRY       R08639                      Reaction
+NAME        alpha-D-glucose 1,6-phosphomutase
+DEFINITION  D-Glucose 1-phosphate <=> D-Glucose 6-phosphate
+EQUATION    C00103 <=> C00092
+RCLASS      RC00408  C00092_C00103
+ENZYME      5.4.2.2         5.4.2.5
+PATHWAY     rn00500  Starch and sucrose metabolism
+            rn00521  Streptomycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K01835  phosphoglucomutase [EC:5.4.2.2]
+            K15778  phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]
+///

@@ -1,0 +1,13 @@
+ENTRY       R06396                      Reaction
+NAME        (3R)-3-isopropenyl-6-oxoheptanoate:CoA ligase (ADP-forming)
+DEFINITION  (3R)-3-Isopropenyl-6-oxoheptanoate + CoA + ATP <=> (3R)-3-Isopropenyl-6-oxoheptanoyl-CoA + H2O + ADP + Orthophosphate
+EQUATION    C11405 + C00010 + C00002 <=> C11407 + C00001 + C00008 + C00009
+COMMENT     3-isopropenyl-6-oxoheptanoyl-CoA synthetase
+            see R06515
+RCLASS      RC00002  C00002_C00008
+            RC00004  C00010_C11407
+            RC00014  C11405_C11407
+ENZYME      6.2.1.-
+PATHWAY     rn00903  Limonene and pinene degradation
+            rn01220  Degradation of aromatic compounds
+///

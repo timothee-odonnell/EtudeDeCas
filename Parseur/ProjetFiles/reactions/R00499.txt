@@ -1,0 +1,8 @@
+ENTRY       R00499                      Reaction
+NAME        S-Succinylglutathione hydrolase
+DEFINITION  S-Succinylglutathione + H2O <=> Glutathione + Succinate
+EQUATION    C03174 + C00001 <=> C00051 + C00042
+RCLASS      RC00004  C00051_C03174
+            RC00014  C00042_C03174
+ENZYME      3.1.2.13
+///

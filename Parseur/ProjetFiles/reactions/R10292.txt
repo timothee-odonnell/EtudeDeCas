@@ -1,0 +1,10 @@
+ENTRY       R10292                      Reaction
+NAME        UDP-alpha-D-xylose:delphinidin-3-O-beta-D-glucoside 2'''-O-xylosyltransferase
+DEFINITION  Delphinidin 3-O-glucoside + UDP-D-xylose <=> Delphinidin 3-O-beta-D-sambubioside + UDP
+EQUATION    C12138 + C00190 <=> C20491 + C00015
+RCLASS      RC00005  C00015_C00190
+            RC00049  C12138_C20491
+ENZYME      2.4.2.51
+PATHWAY     rn00942  Anthocyanin biosynthesis
+ORTHOLOGY   K17193  anthocyanidin 3-O-glucoside 2'''-O-xylosyltransferase [EC:2.4.2.51]
+///

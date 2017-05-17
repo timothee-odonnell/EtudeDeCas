@@ -1,0 +1,7 @@
+ENTRY       R09488                      Reaction
+NAME        indole-3-carboxylate carboxy-lyase
+DEFINITION  Indole-3-carboxylate <=> Indole + CO2
+EQUATION    C19837 <=> C00463 + C00011
+RCLASS      RC00390  C00463_C19837
+ENZYME      4.1.1.92
+///

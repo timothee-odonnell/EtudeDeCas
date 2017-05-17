@@ -1,0 +1,12 @@
+ENTRY       R01415                      Reaction
+NAME        5,6-Dihydrothymine:NADP+ oxidoreductase
+DEFINITION  (R)-5,6-Dihydrothymine + NADP+ <=> Thymine + NADPH + H+
+EQUATION    C21028 + C00006 <=> C00178 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00123  C00178_C21028
+ENZYME      1.3.1.2
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate
+ORTHOLOGY   K00207  dihydropyrimidine dehydrogenase (NADP+) [EC:1.3.1.2]
+///

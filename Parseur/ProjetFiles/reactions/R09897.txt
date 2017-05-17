@@ -1,0 +1,7 @@
+ENTRY       R09897                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [cyclizing, (-)-delta-cadinene-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (-)-delta-Cadinene + Diphosphate
+EQUATION    C00448 <=> C20182 + C00013
+RCLASS      RC02772  C00448_C20182
+ENZYME      4.2.3.97
+///

@@ -1,0 +1,8 @@
+ENTRY       R08125                      Reaction
+DEFINITION  Fructoselysine 6-phosphate + H2O <=> L-Lysine + D-Glucose 6-phosphate
+EQUATION    C16489 + C00001 <=> C00047 + C00092
+RCLASS      RC00053  C00047_C16489
+            RC01805  C00092_C16489
+ENZYME      3.5.-.-
+ORTHOLOGY   K10708  fructoselysine 6-phosphate deglycase [EC:3.5.-.-]
+///

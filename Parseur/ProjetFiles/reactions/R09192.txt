@@ -1,0 +1,12 @@
+ENTRY       R09192                      Reaction
+NAME        oxytetracycline:coenzyme-F420 oxidoreductase
+DEFINITION  Oxytetracycline + Coenzyme F420 <=> 5a,11a-Dehydrooxytetracycline + Reduced coenzyme F420
+EQUATION    C06624 + C00876 <=> C18296 + C01080
+RCLASS      RC02461  C06624_C18296
+ENZYME      1.3.98.4
+PATHWAY     rn00253  Tetracycline biosynthesis
+            rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00780  Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline
+ORTHOLOGY   K21301  5a,11a-dehydrotetracycline reductase [EC:1.3.98.4]
+///

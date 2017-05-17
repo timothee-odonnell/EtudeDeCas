@@ -1,0 +1,10 @@
+ENTRY       R07808                      Reaction
+NAME        N-acetyl-D-glucosamine-6-sulfate 6-sulfohydrolase
+DEFINITION  G13073 + H2O <=> G13074 + Sulfate
+EQUATION    G13073 + C00001 <=> G13074 + C00059
+ENZYME      3.1.6.14
+PATHWAY     rn00531  Glycosaminoglycan degradation
+            rn01100  Metabolic pathways
+MODULE      M00079  Keratan sulfate degradation
+ORTHOLOGY   K01137  N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]
+///

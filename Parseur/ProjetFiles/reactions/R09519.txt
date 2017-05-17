@@ -1,0 +1,7 @@
+ENTRY       R09519                      Reaction
+NAME        ammonia monooxygenase
+DEFINITION  Ammonia + Reduced acceptor + Oxygen <=> Hydroxylamine + Acceptor + H2O
+EQUATION    C00014 + C00030 + C00007 <=> C00192 + C00028 + C00001
+RCLASS      RC02797  C00014_C00192
+ENZYME      1.14.99.39
+///

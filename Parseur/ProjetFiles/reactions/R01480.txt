@@ -1,0 +1,9 @@
+ENTRY       R01480                      Reaction
+NAME        alpha-D-Glucosiduronate glucuronohydrolase
+DEFINITION  alpha-D-Glucuronoside + H2O <=> Alcohol + D-Glucuronate
+EQUATION    C06370 + C00001 <=> C00069 + C00191
+COMMENT     general reaction
+RCLASS      RC00529  C00069_C06370
+            RC00530  C00191_C06370
+ENZYME      3.2.1.139
+///

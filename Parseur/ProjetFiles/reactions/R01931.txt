@@ -1,0 +1,11 @@
+ENTRY       R01931                      Reaction
+NAME        thiosulfate:cyanide sulfurtranserase
+DEFINITION  Thiosulfate + Cyanide ion <=> Sulfite + Thiocyanate
+EQUATION    C00320 + C00177 <=> C00094 + C01755
+RCLASS      RC02813  C00094_C00320
+ENZYME      2.8.1.1
+PATHWAY     rn00920  Sulfur metabolism
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K01011  thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+            K02439  thiosulfate sulfurtransferase [EC:2.8.1.1]
+///

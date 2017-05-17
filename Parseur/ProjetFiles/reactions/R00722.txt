@@ -1,0 +1,10 @@
+ENTRY       R00722                      Reaction
+NAME        ATP:IDP phosphotransferase
+DEFINITION  ATP + IDP <=> ADP + ITP
+EQUATION    C00002 + C00104 <=> C00008 + C00081
+RCLASS      RC00002  C00002_C00008  C00081_C00104
+ENZYME      2.7.4.6
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K00940  nucleoside-diphosphate kinase [EC:2.7.4.6]
+            K18533  adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]
+///

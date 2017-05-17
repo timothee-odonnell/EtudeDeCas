@@ -1,0 +1,11 @@
+ENTRY       R02305                      Reaction
+NAME        2-trans,6-trans-farnesyldiphosphate diphosphate-lyase (cyclizing, pentalenene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> Pentalenene + Diphosphate
+EQUATION    C00448 <=> C01841 + C00013
+RCLASS      RC00689  C00448_C01841
+ENZYME      4.2.3.7
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00819  Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone
+ORTHOLOGY   K12250  pentalenene synthase [EC:4.2.3.7]
+///

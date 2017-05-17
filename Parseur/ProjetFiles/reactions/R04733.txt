@@ -1,0 +1,7 @@
+ENTRY       R04733                      Reaction
+NAME        UTP:[protein-PII] uridylyltransferase
+DEFINITION  UTP + [Protein-PII] <=> Diphosphate + Uridylyl-[protein-PII]
+EQUATION    C00075 + C05250 <=> C00013 + C05326
+RCLASS      RC00151  C05250_C05326
+ENZYME      2.7.7.59
+///

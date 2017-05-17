@@ -1,0 +1,10 @@
+ENTRY       R01429                      Reaction
+NAME        D-xylose:NAD+ 1-oxidoreductase
+DEFINITION  D-Xylose + NAD+ <=> D-Xylonolactone + NADH + H+
+EQUATION    C00181 + C00003 <=> C02266 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00066  C00181_C02266
+ENZYME      1.1.1.121       1.1.1.175
+PATHWAY     rn00040  Pentose and glucuronate interconversions
+ORTHOLOGY   K14273  D-xylose 1-dehydrogenase (NADP+) [EC:1.1.1.179]
+///

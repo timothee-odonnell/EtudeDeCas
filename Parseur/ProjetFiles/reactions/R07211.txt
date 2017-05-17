@@ -1,0 +1,7 @@
+ENTRY       R07211                      Reaction
+NAME        L-phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase(4-hydroxylating)
+DEFINITION  L-Phenylalanine + Tetrahydrobiopterin + Oxygen <=> L-Tyrosine + 4a-Hydroxytetrahydrobiopterin
+EQUATION    C00079 + C00272 + C00007 <=> C00082 + C15522
+RCLASS      RC00490  C00079_C00082
+ENZYME      1.14.16.1
+///

@@ -1,0 +1,7 @@
+ENTRY       R01031                      Reaction
+NAME        3-chloro-D-alanine chloride-lyase (deaminating; pyruvate-forming)
+DEFINITION  3-Chloro-D-alanine + H2O <=> Pyruvate + Hydrochloric acid + Ammonia
+EQUATION    C02634 + C00001 <=> C00022 + C01327 + C00014
+RCLASS      RC00426  C00022_C02634
+ENZYME      4.5.1.2
+///

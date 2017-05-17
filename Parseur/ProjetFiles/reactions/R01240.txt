@@ -1,0 +1,9 @@
+ENTRY       R01240                      Reaction
+NAME        UDP-glucose:phenol beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Phenol <=> UDP + Aryl beta-D-glucoside
+EQUATION    C00029 + C15584 <=> C00015 + C03097
+COMMENT     general reaction
+RCLASS      RC00005  C00015_C00029
+            RC00171  C03097_C15584
+ENZYME      2.4.1.35
+///

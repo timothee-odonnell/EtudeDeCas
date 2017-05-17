@@ -1,0 +1,7 @@
+ENTRY       R10176                      Reaction
+NAME        geranyl-diphosphate:olivetolate geranyltransferase
+DEFINITION  Geranyl diphosphate + 2,4-Dihydroxy-6-pentylbenzoate <=> Diphosphate + Cannabigerolate
+EQUATION    C00341 + C20417 <=> C00013 + C20406
+RCLASS      RC01869  C20406_C20417
+ENZYME      2.5.1.102
+///

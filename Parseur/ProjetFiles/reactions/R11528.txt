@@ -1,0 +1,10 @@
+ENTRY       R11528                      Reaction
+NAME        L-cysteine:sulfur-acceptor sulfurtransferase
+DEFINITION  L-Cysteine + [Protein]-L-cysteine <=> L-Alanine + [Protein]-S-sulfanyl-L-cysteine
+EQUATION    C00097 + C02743 <=> C00041 + C21440
+RCLASS      RC01789  C00041_C00097
+            RC02313  C02743_C21440
+ENZYME      2.8.1.7
+ORTHOLOGY   K04487  cysteine desulfurase [EC:2.8.1.7]
+            K11717  cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+///

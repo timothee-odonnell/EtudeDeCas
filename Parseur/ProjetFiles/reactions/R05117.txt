@@ -1,0 +1,8 @@
+ENTRY       R05117                      Reaction
+DEFINITION  GT1b + H2O <=> GD1b + N-Acetylneuraminate
+EQUATION    C06140 + C00001 <=> C06141 + C00270
+REMARK      Same as: R05998
+RCLASS      RC00028  C00270_C06140
+            RC00077  C06140_C06141
+ENZYME      3.2.1.18
+///

@@ -1,0 +1,10 @@
+ENTRY       R09266                      Reaction
+DEFINITION  7,9,12-Decaketide intermediate 2 <=> 7,9,12-Decaketide intermediate 3 + 2 H2O
+EQUATION    C18331 <=> C18332 + 2 C00001
+RCLASS      RC02546  C18331_C18332
+ENZYME      4.2.1.-
+PATHWAY     rn01056  Biosynthesis of type II polyketide backbone
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00778  Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide
+ORTHOLOGY   K15884  bifunctional aromatase (cyclase/dehydratase) [EC:4.2.1.-]
+///

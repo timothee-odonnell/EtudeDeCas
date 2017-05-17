@@ -1,0 +1,9 @@
+ENTRY       R11085                      Reaction
+NAME        L-arginine:L-amino-acid ligase (ADP-forming)
+DEFINITION  ATP + L-Arginine + L-Amino acid <=> ADP + Orthophosphate + L-Arginyl-L-amino acid
+EQUATION    C00002 + C00062 + C00151 <=> C00008 + C00009 + C21099
+RCLASS      RC00002  C00002_C00008
+            RC00064  C00151_C21099
+            RC00141  C00062_C21099
+ENZYME      6.3.2.48
+///

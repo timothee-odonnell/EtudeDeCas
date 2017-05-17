@@ -1,0 +1,8 @@
+ENTRY       R04271                      Reaction
+NAME        N-Hydroxy-4-acetylaminobiphenyl:N-hydroxy-4-aminobiphenyl O-acetyltransferase
+DEFINITION  N-Hydroxy-4-acetylaminobiphenyl + N-Hydroxy-4-aminobiphenyl <=> N-Hydroxy-4-aminobiphenyl + N-Acetoxy-4-aminobiphenyl
+EQUATION    C04081 + C03622 <=> C03622 + C03621
+RCLASS      RC01050  C03621_C03622
+            RC01112  C03622_C04081
+ENZYME      2.3.1.56
+///

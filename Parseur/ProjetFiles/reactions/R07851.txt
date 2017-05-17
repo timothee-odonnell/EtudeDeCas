@@ -1,0 +1,11 @@
+ENTRY       R07851                      Reaction
+NAME        alpha-cryptoxanthin,NADH:oxygen 3-oxidoreductase
+DEFINITION  alpha-Cryptoxanthin + NADH + H+ + Oxygen <=> Lutein + NAD+ + H2O
+EQUATION    C15981 + C00004 + C00080 + C00007 <=> C08601 + C00003 + C00001
+COMMENT     beta-carotene hydroxylase(crtR-b)
+RCLASS      RC00001  C00003_C00004
+            RC00478  C08601_C15981
+ENZYME      1.14.13.129
+PATHWAY     rn00906  Carotenoid biosynthesis
+ORTHOLOGY   K02294  beta-carotene hydroxylase [EC:1.14.13.-]
+///

@@ -1,0 +1,7 @@
+ENTRY       R11012                      Reaction
+NAME        palmitoyl-CoA,ferrocytochrome b5:oxygen oxidoreductase (14,15-cis-dehydrogenating)
+DEFINITION  Palmitoyl-CoA + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (14Z)-Hexadec-14-enoyl-CoA + 2 Ferricytochrome b5 + 2 H2O
+EQUATION    C00154 + 2 C00999 + C00007 + 2 C00080 <=> C20997 + 2 C00996 + 2 C00001
+RCLASS      RC03322  C00154_C20997
+ENZYME      1.14.19.32
+///

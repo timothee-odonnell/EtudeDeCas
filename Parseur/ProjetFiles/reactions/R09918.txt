@@ -1,0 +1,7 @@
+ENTRY       R09918                      Reaction
+NAME        (-)-solanapyrone-A lyase (decyclizing)
+DEFINITION  Prosolanapyrone III <=> (-)-Solanapyrone A
+EQUATION    C19934 <=> C20201
+RCLASS      RC02695  C19934_C20201
+ENZYME      5.5.1.20
+///

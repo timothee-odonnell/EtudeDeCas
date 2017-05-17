@@ -1,0 +1,7 @@
+ENTRY       R11349                      Reaction
+NAME        testosterone,reduced-ferredoxin:oxygen oxidoreductase (1alpha-hydroxylating)
+DEFINITION  Testosterone + Reduced ferredoxin + Oxygen + H+ <=> 1alpha-Hydroxytestosterone + H2O + Oxidized ferredoxin
+EQUATION    C00535 + C00138 + C00007 + C00080 <=> C21296 + C00001 + C00139
+RCLASS      RC01218  C00535_C21296
+ENZYME      1.14.15.19
+///

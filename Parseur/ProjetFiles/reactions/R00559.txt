@@ -1,0 +1,8 @@
+ENTRY       R00559                      Reaction
+NAME        L-Arginine:oxygen 2-oxidoreductase (decarboxylating)
+DEFINITION  L-Arginine + Oxygen <=> 4-Guanidinobutanamide + CO2 + H2O
+EQUATION    C00062 + C00007 <=> C03078 + C00011 + C00001
+RCLASS      RC00213  C00062_C03078
+ENZYME      1.13.12.1
+PATHWAY     rn00330  Arginine and proline metabolism
+///

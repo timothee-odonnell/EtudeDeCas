@@ -1,0 +1,8 @@
+ENTRY       R09089                      Reaction
+DEFINITION  Pyruvophenone <=> D-Cathinone
+EQUATION    C17268 <=> C08301
+RCLASS      RC02429  C08301_C17268
+ENZYME      2.6.1.-
+PATHWAY     rn00360  Phenylalanine metabolism
+            rn01100  Metabolic pathways
+///

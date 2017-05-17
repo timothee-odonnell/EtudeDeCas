@@ -1,0 +1,10 @@
+ENTRY       R11240                      Reaction
+DEFINITION  Validoxylamine A 7'-phosphate + H2O <=> Validoxylamine A + Orthophosphate
+EQUATION    C21219 + C00001 <=> C17700 + C00009
+RCLASS      RC00017  C17700_C21219
+ENZYME      3.1.3.101
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20437  validoxylamine A 7'-phosphate phosphatase [EC:3.1.3.101]
+///

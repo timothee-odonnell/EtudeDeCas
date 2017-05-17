@@ -1,0 +1,12 @@
+ENTRY       R01547                      Reaction
+NAME        ATP:dAMP phosphotransferase
+DEFINITION  ATP + dAMP <=> ADP + dADP
+EQUATION    C00002 + C00360 <=> C00008 + C00206
+RCLASS      RC00002  C00002_C00008  C00206_C00360
+ENZYME      2.7.4.3         2.7.4.11
+PATHWAY     rn00230  Purine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00939  adenylate kinase [EC:2.7.4.3]
+            K18532  adenylate kinase [EC:2.7.4.3]
+            K18533  adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]
+///

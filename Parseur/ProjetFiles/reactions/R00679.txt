@@ -1,0 +1,9 @@
+ENTRY       R00679                      Reaction
+NAME        L-tryptophan:oxygen 2-oxidoreductase (decarboxylating)
+DEFINITION  L-Tryptophan + Oxygen <=> (Indol-3-yl)acetamide + CO2 + H2O
+EQUATION    C00078 + C00007 <=> C02693 + C00011 + C00001
+RCLASS      RC00213  C00078_C02693
+ENZYME      1.13.12.3
+PATHWAY     rn00380  Tryptophan metabolism
+ORTHOLOGY   K00466  tryptophan 2-monooxygenase [EC:1.13.12.3]
+///

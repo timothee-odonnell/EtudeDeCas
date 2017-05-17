@@ -1,0 +1,10 @@
+ENTRY       R11177                      Reaction
+NAME        nicotine oxidoreductase
+DEFINITION  (R,S)-Nicotine + H2O + Oxygen <=> Pseudooxynicotine + Hydrogen peroxide
+EQUATION    C16150 + C00001 + C00007 <=> C20361 + C00027
+COMMENT     two-step reaction (see R11175+R11176)
+RCLASS      RC00875  C16150_C20361
+ENZYME      1.5.3.-
+ORTHOLOGY   K20169  nicotine oxidoreductase [EC:1.5.3.-]
+            K20170  nicotine oxidoreductase [EC:1.5.3.-]
+///

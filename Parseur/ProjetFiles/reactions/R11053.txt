@@ -1,0 +1,7 @@
+ENTRY       R11053                      Reaction
+NAME        UMP,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  UMP + 2-Oxoglutarate + Oxygen <=> 5'-Dehydrouridine + Succinate + CO2 + Orthophosphate
+EQUATION    C00105 + C00026 + C00007 <=> C21079 + C00042 + C00011 + C00009
+RCLASS      RC03338  C00105_C21079
+ENZYME      1.14.11.49
+///

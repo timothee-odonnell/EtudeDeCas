@@ -1,0 +1,8 @@
+ENTRY       R00038                      Reaction
+NAME        4-hydroxy-3-hexanone propanal-lyase (propanal-forming)
+DEFINITION  2 Propanal <=> 4-Hydroxyhexan-3-one
+EQUATION    2 C00479 <=> C02948
+RCLASS      RC00919  C00479_C02948
+            RC02325  C00479_C02948
+ENZYME      4.1.2.35
+///

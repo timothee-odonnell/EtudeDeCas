@@ -1,0 +1,8 @@
+ENTRY       R03188                      Reaction
+NAME        N-Formimino-L-aspartate iminohydrolase
+DEFINITION  N-Formimino-L-aspartate + H2O <=> N-Formyl-L-aspartate + Ammonia
+EQUATION    C03409 + C00001 <=> C01044 + C00014
+RCLASS      RC00682  C01044_C03409
+ENZYME      3.5.3.5
+PATHWAY     rn00340  Histidine metabolism
+///

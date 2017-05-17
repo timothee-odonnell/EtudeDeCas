@@ -1,0 +1,8 @@
+ENTRY       R05162                      Reaction
+NAME        S-Adenosyl-L-methionine:(RS)-norcoclaurine 6-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + (R,S)-Norcoclaurine <=> S-Adenosyl-L-homocysteine + (R,S)-Coclaurine
+EQUATION    C00019 + C06346 <=> C00021 + C06348
+RCLASS      RC00003  C00019_C00021
+            RC00392  C06346_C06348
+ENZYME      2.1.1.128
+///

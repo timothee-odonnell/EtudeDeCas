@@ -1,0 +1,19 @@
+ENTRY       G00850                      Glycan
+NAME        Sda antigen - related compound
+COMPOSITION (Gal)2 (GlcNAc)1 (Neu5Ac)1
+MASS        836.8
+REACTION    R07609
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 432 5173 5174 7957 11305 16390 18758 43187 47480
+            GlycomeDB: 17752
+            JCGGDB: JCGG-STR008333
+NODE        4
+            1   Gal         0     0
+            2   GlcNAc    -10     0
+            3   Gal       -20     0
+            4   Neu5Ac    -30     0
+EDGE        3
+            1     2:b1    1:3  
+            2     3:b1    2:4  
+            3     4:a2    3:3  
+///

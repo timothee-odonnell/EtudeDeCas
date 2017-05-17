@@ -1,0 +1,8 @@
+ENTRY       R11215                      Reaction
+NAME        6-tuliposide-B D-glucose-lyase (tulipalin-B-forming)
+DEFINITION  6-Tuliposide B <=> Tulipalin B + D-Glucose
+EQUATION    C21186 <=> C21187 + C00031
+RCLASS      RC00041  C00031_C21186
+            RC03164  C21186_C21187
+ENZYME      4.2.99.23
+///

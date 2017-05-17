@@ -1,0 +1,8 @@
+ENTRY       R04119                      Reaction
+NAME        12,13-Diacylphorbate 12-acylhydrolase
+DEFINITION  Phorbol 12,13-dibutanoate + H2O <=> Phorbol 13-butanoate + Butanoic acid
+EQUATION    C03634 + C00001 <=> C03019 + C00246
+RCLASS      RC00055  C03019_C03634
+            RC00523  C00246_C03634
+ENZYME      3.1.1.51
+///

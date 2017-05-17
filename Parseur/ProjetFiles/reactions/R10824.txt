@@ -1,0 +1,8 @@
+ENTRY       R10824                      Reaction
+NAME        S-adenosyl-L-methionine:3'-hydroxyflavone 3'-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 3'-Hydroxyflavone <=> S-Adenosyl-L-homocysteine + 3'-Methoxyflavone
+EQUATION    C00019 + C20871 <=> C00021 + C20872
+RCLASS      RC00003  C00019_C00021
+            RC00392  C20871_C20872
+ENZYME      2.1.1.42
+///

@@ -1,0 +1,7 @@
+ENTRY       R04166                      Reaction
+NAME        16alpha-Hydroxyprogesterone hydro-lyase
+DEFINITION  16alpha-Hydroxyprogesterone <=> 16-Dehydroprogesterone + H2O
+EQUATION    C03748 <=> C03207 + C00001
+RCLASS      RC01093  C03207_C03748
+ENZYME      4.2.1.98
+///

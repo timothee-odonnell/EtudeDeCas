@@ -1,0 +1,10 @@
+ENTRY       R11105                      Reaction
+DEFINITION  7-Chloro-L-tryptophan + Oxygen <=> Monodechloroaminopyrrolnitrin + CO2 + 2 H2O
+EQUATION    C19687 + C00007 <=> C21110 + C00011 + 2 C00001
+COMMENT     incomplete reaction (unidentified donor)
+RCLASS      RC03359  C19687_C21110
+PATHWAY     rn00404  Staurosporine biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00790  Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin
+ORTHOLOGY   K19981  monodechloroaminopyrrolnitrin synthase
+///

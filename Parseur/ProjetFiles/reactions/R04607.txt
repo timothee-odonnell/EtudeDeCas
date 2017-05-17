@@ -1,0 +1,9 @@
+ENTRY       R04607                      Reaction
+NAME        UDPglucuronate:3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein D-glucuronosyltransferase
+DEFINITION  UDP-glucuronate + 3-beta-D-Galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein <=> UDP + 3-beta-D-Glucuronosyl-3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein
+EQUATION    C00167 + C04825 <=> C00015 + C04903
+REMARK      Same as: R05928
+RCLASS      RC00005  C00015_C00167
+            RC00049  C04825_C04903
+ENZYME      2.4.1.135
+///

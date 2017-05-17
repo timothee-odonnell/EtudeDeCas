@@ -1,0 +1,8 @@
+ENTRY       R03799                      Reaction
+NAME        Dimethylallyl-diphosphate:aspulvinone-E dimethylallyltransferase
+DEFINITION  2 Dimethylallyl diphosphate + Aspulvinone E <=> 2 Diphosphate + Aspulvinone H
+EQUATION    2 C00235 + C02006 <=> 2 C00013 + C02008
+COMMENT     two-step reaction
+RCLASS      RC01001  C02006_C02008
+ENZYME      2.5.1.35
+///

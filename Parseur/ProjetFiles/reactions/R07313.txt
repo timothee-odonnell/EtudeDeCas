@@ -1,0 +1,7 @@
+ENTRY       R07313                      Reaction
+NAME        D-dopachrome carboxy-lyase
+DEFINITION  D-Dopachrome <=> 5,6-Dihydroxyindole + CO2
+EQUATION    C15566 <=> C05578 + C00011
+RCLASS      RC00972  C05578_C15566
+ENZYME      4.1.1.84
+///

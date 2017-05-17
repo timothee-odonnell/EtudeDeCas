@@ -1,0 +1,9 @@
+ENTRY       R06810                      Reaction
+NAME        UDP-glucose:flavonol 7-O-beta-D-glucosyltransferase
+DEFINITION  Quercetin + UDP-glucose <=> Quercimeritrin + UDP
+EQUATION    C00389 + C00029 <=> C12639 + C00015
+COMMENT     flavonol 7-O-beta-glucosyltransferase
+RCLASS      RC00005  C00015_C00029
+            RC00171  C00389_C12639
+ENZYME      2.4.1.237
+///

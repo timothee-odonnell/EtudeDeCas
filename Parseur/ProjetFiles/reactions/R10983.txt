@@ -1,0 +1,8 @@
+ENTRY       R10983                      Reaction
+NAME        methyl-(2E,6E,10R,11S)-10,11-epoxy-7-ethyl-3,11-dimethyl-2,6-tridecadienoate acylhydrolase
+DEFINITION  Juvenile hormone I + H2O <=> Juvenile hormone I acid + Methanol
+EQUATION    C19613 + C00001 <=> C20992 + C00132
+RCLASS      RC00460  C19613_C20992
+            RC00461  C00132_C19613
+ENZYME      3.1.1.59
+///

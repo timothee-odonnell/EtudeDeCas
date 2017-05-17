@@ -1,0 +1,19 @@
+ENTRY       G10622                      Glycan
+NAME        Dolichyl phosphate;
+            Dolichol phosphate
+COMPOSITION (P-Dol)1
+REMARK      Same as: C00110
+REACTION    R05919 R05921 R05922 R06258 R06259 R06260 R06261 R06262 
+            R06263 R06264 R07129 R07620
+ENZYME      2.4.1.109       2.4.1.256       2.4.1.258       2.4.1.259       
+            2.4.1.260       2.4.1.261       2.4.1.265       2.4.1.267       
+            2.4.1.-
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0308 Dolichol monophosphates
+                C00110  Dolichyl phosphate
+NODE        1
+            1   P-Dol    -0.3   0.3
+EDGE        0
+///

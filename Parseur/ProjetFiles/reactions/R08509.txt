@@ -1,0 +1,7 @@
+ENTRY       R08509                      Reaction
+DEFINITION  Octanoic acid <=> gamma-Coniceine
+EQUATION    C06423 <=> C10138
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC02218  C06423_C10138
+///

@@ -1,0 +1,8 @@
+ENTRY       R09788                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (alpha-eudesmol-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> alpha-Eudesmol + Diphosphate
+EQUATION    C00448 + C00001 <=> C09663 + C00013
+COMMENT     beta-eudesmol synthase
+RCLASS      RC02655  C00448_C09663
+ENZYME      4.2.3.85
+///

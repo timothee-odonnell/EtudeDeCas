@@ -1,0 +1,8 @@
+ENTRY       R03056                      Reaction
+NAME        Acetyl-CoA:gentamicin-C1a N2'-acetyltransferase
+DEFINITION  Acetyl-CoA + Gentamicin C1a <=> CoA + N2'-Acetylgentamicin C1a
+EQUATION    C00024 + C00908 <=> C00010 + C03524
+RCLASS      RC00004  C00010_C00024
+            RC00166  C00908_C03524
+ENZYME      2.3.1.59
+///

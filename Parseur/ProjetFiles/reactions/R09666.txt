@@ -1,0 +1,10 @@
+ENTRY       R09666                      Reaction
+NAME        GDP-mannose:D-glycerate 2-alpha-D-mannosyltransferase
+DEFINITION  GDP-mannose + D-Glycerate <=> GDP + 2-O-(alpha-D-Mannosyl)-D-glycerate
+EQUATION    C00096 + C00258 <=> C00035 + C11544
+RCLASS      RC00005  C00035_C00096
+            RC00397  C00258_C11544
+ENZYME      2.4.1.269
+PATHWAY     rn00051  Fructose and mannose metabolism
+ORTHOLOGY   K18818  mannosylglycerate synthase [EC:2.4.1.269]
+///

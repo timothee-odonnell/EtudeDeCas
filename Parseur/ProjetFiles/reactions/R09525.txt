@@ -1,0 +1,7 @@
+ENTRY       R09525                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (zingiberene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> Zingiberene + Diphosphate
+EQUATION    C00448 <=> C09750 + C00013
+RCLASS      RC02557  C00448_C09750
+ENZYME      4.2.3.65
+///

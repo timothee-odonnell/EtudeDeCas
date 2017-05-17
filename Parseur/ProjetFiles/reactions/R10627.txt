@@ -1,0 +1,9 @@
+ENTRY       R10627                      Reaction
+NAME        narbomycin,NADPH:oxygen oxidoreductase (pikromycin-forming)
+DEFINITION  Narbomycin + 2 NADPH + 2 H+ + 2 Oxygen <=> Novapikromyin + 2 NADP+ + 2 H2O
+EQUATION    C11998 + 2 C00005 + 2 C00080 + 2 C00007 <=> C20740 + 2 C00006 + 2 C00001
+RCLASS      RC00001  C00005_C00006
+            RC03213  C11998_C20740
+ENZYME      1.14.13.185
+ORTHOLOGY   K16006  pikromycin synthase [EC:1.14.13.185]
+///

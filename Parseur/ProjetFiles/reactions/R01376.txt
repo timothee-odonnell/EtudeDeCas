@@ -1,0 +1,7 @@
+ENTRY       R01376                      Reaction
+NAME        L-Tryptophan:phenylpyruvate aminotransferase
+DEFINITION  L-Tryptophan + Phenylpyruvate <=> Indolepyruvate + L-Phenylalanine
+EQUATION    C00078 + C00166 <=> C00331 + C00079
+RCLASS      RC00006  C00078_C00331  C00079_C00166
+ENZYME      2.6.1.28
+///

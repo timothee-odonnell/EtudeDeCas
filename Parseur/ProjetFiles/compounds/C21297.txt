@@ -1,0 +1,25 @@
+ENTRY       C21297                      Compound
+NAME        2-Hydroxy-2-methylpropanoate;
+            2-Hydroxyisobutyrate
+FORMULA     C4H8O3
+EXACT_MASS  104.0473
+MOL_WEIGHT  104.1045
+REACTION    R11350
+ENZYME      1.2.1.98
+DBLINKS     PubChem: 318172277
+ATOM        7
+            1   C6a C    18.0639  -15.8682
+            2   C1d C    19.2680  -16.5057
+            3   O6a O    16.7890  -16.5057
+            4   C1a C    20.4721  -15.8682
+            5   C1a C    19.2680  -17.9222
+            6   O1a O    19.2680  -15.0891
+            7   O6a O    18.0639  -14.4516
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1
+            5     2   6 1
+            6     1   7 2
+///

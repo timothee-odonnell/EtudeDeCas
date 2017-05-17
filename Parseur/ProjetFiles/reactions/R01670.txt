@@ -1,0 +1,8 @@
+ENTRY       R01670                      Reaction
+NAME        5,10-Methylenetetrahydrofolate:dCMP C-methyltransferase
+DEFINITION  5,10-Methylenetetrahydrofolate + dCMP <=> Dihydrofolate + Deoxy-5-methylcytidylate
+EQUATION    C00143 + C00239 <=> C00415 + C03495
+RCLASS      RC00219  C00143_C00415
+            RC00332  C00239_C03495
+ENZYME      2.1.1.54
+///

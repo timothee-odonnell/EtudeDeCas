@@ -1,0 +1,8 @@
+ENTRY       R08976                      Reaction
+DEFINITION  C-13(2)-Carboxypyropheophorbide a <=> Pyropheophorbide a + CO2
+EQUATION    C18063 <=> C18064 + C00011
+COMMENT     spontaneous conversion
+            following after R08975
+RCLASS      RC02391  C18063_C18064
+ENZYME      3.1.1.82
+///

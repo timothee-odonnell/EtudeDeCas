@@ -1,0 +1,8 @@
+ENTRY       R03547                      Reaction
+NAME        UDPglucose:methyl-ONN-azoxymethanol beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Methylazoxymethanol <=> UDP + Cycasin
+EQUATION    C00029 + C02390 <=> C00015 + C01418
+RCLASS      RC00005  C00015_C00029
+            RC00059  C01418_C02390
+ENZYME      2.4.1.171
+///

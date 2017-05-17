@@ -1,0 +1,10 @@
+ENTRY       R07525                      Reaction
+NAME        spirilloxanthin,reduced-ferredoxin:oxygen oxidoreductase (spirilloxanthin-2-one-forming)
+DEFINITION  Spirilloxanthin + 2 Oxygen + 2 Reduced ferredoxin <=> 2-Ketospirilloxanthin + 3 H2O + 2 Oxidized ferredoxin
+EQUATION    C15881 + 2 C00007 + 2 C00138 <=> C15884 + 3 C00001 + 2 C00139
+RCLASS      RC02084  C15881_C15884
+ENZYME      1.14.15.9
+PATHWAY     rn00906  Carotenoid biosynthesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K09847  spheroidene monooxygenase [EC:1.14.15.9]
+///

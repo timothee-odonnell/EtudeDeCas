@@ -1,0 +1,9 @@
+ENTRY       R04368                      Reaction
+NAME        m7G5'ppp5'X m7GMP phosphohydrolase
+DEFINITION  7-Methylguanosine 5'-triphospho-5'-oligonucleotide + H2O <=> 7-Methylguanosine 5'-phosphate + Oligonucleotide 5'-diphosphate
+EQUATION    C04696 + C00001 <=> C03998 + C16669
+COMMENT     n = 1 to 10
+RCLASS      RC00002  C03998_C04696  C04696_C16669
+ENZYME      3.6.1.59
+ORTHOLOGY   K12584  m7GpppX diphosphatase [EC:3.6.1.59]
+///

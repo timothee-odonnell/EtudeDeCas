@@ -1,0 +1,12 @@
+ENTRY       R07100                      Reaction
+NAME        trichloroethene:glutathione S-(1,2-dichlorovinyl)transferase
+DEFINITION  Trichloroethene + Glutathione <=> S-(1,2-Dichlorovinyl)glutathione + Hydrochloric acid
+EQUATION    C06790 + C00051 <=> C14868 + C01327
+RCLASS      RC01705  C00051_C14868
+            RC02939  C06790_C14868
+ENZYME      2.5.1.18
+PATHWAY     rn00980  Metabolism of xenobiotics by cytochrome P450
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+            K04097  prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]
+            K13299  glutathione S-transferase kappa 1 [EC:2.5.1.18]
+///

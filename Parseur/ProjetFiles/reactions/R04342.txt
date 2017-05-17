@@ -1,0 +1,13 @@
+ENTRY       R04342                      Reaction
+NAME        trans-5-O-(4-coumaroyl)-D-quinate,NADPH:oxygen oxidoreductase (3'-hydorxylating)
+DEFINITION  p-Coumaroyl quinic acid + Oxygen + NADPH + H+ <=> Chlorogenate + NADP+ + H2O
+EQUATION    C12208 + C00007 + C00005 + C00080 <=> C00852 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00046  C00852_C12208
+ENZYME      1.14.13.36
+PATHWAY     rn00940  Phenylpropanoid biosynthesis
+            rn00941  Flavonoid biosynthesis
+            rn00945  Stilbenoid, diarylheptanoid and gingerol biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K09754  coumaroylquinate(coumaroylshikimate) 3'-monooxygenase [EC:1.14.13.36]
+///

@@ -1,0 +1,8 @@
+ENTRY       R04713                      Reaction
+NAME        S-Adenosyl-L-methionine:(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinolie N- methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + (R,S)-Tetrahydrobenzylisoquinoline <=> S-Adenosyl-L-homocysteine + N-Methyl-(R,S)-tetrahydrobenzylisoquinoline + H+
+EQUATION    C00019 + C05201 <=> C00021 + C05314 + C00080
+RCLASS      RC00003  C00019_C00021
+            RC01198  C05201_C05314
+ENZYME      2.1.1.115
+///

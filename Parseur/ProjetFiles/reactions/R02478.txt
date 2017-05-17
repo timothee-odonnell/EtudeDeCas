@@ -1,0 +1,10 @@
+ENTRY       R02478                      Reaction
+NAME        UDPglucuronate beta-D-glucuronosyltransferase(acceptor-unspecific)
+DEFINITION  Androsterone + UDP-glucuronate <=> Androsterone glucuronide + UDP
+EQUATION    C00523 + C00167 <=> C11135 + C00015
+RCLASS      RC00005  C00015_C00167
+            RC00049  C00523_C11135
+ENZYME      2.4.1.17
+PATHWAY     rn00140  Steroid hormone biosynthesis
+ORTHOLOGY   K00699  glucuronosyltransferase [EC:2.4.1.17]
+///

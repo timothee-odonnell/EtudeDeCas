@@ -1,0 +1,38 @@
+ENTRY       C20920                      Compound
+NAME        Tabtoxinine-delta-lactam
+FORMULA     C7H12N2O4
+EXACT_MASS  188.0797
+MOL_WEIGHT  188.1812
+REACTION    R10894
+PATHWAY     map00261  Monobactam biosynthesis
+            map01130  Biosynthesis of antibiotics
+DBLINKS     PubChem: 254741383
+ATOM        13
+            1   O6a O    16.7759  -16.1509
+            2   C6a C    17.9868  -16.8500
+            3   C1y C    19.1980  -16.1509
+            4   O6a O    17.9868  -18.2480
+            5   N1x N    20.4103  -16.8510
+            6   C5x C    21.6202  -16.1527
+            7   C1z C    21.6203  -14.7557
+            8   C1x C    20.4080  -14.0555
+            9   C1x C    19.1981  -14.7539
+            10  O5x O    22.8482  -16.8624
+            11  C1b C    22.8621  -14.0388
+            12  N1a N    24.0577  -14.7293
+            13  O1a O    21.6203  -13.3587
+BOND        13
+            1     1   2 1
+            2     3   2 1 #Down
+            3     2   4 2
+            4     3   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     3   9 1
+            10    6  10 2
+            11    7  11 1 #Down
+            12   11  12 1
+            13    7  13 1 #Up
+///

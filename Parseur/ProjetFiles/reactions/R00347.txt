@@ -1,0 +1,7 @@
+ENTRY       R00347                      Reaction
+NAME        erythro-3-hydroxy-Ls-aspartate ammonia-lyase (oxaloacetate-forming)
+DEFINITION  erythro-3-Hydroxy-Ls-aspartate <=> Oxaloacetate + Ammonia
+EQUATION    C03961 <=> C00036 + C00014
+RCLASS      RC02449  C00036_C03961
+ENZYME      4.3.1.20
+///

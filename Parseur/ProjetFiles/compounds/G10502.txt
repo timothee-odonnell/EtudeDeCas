@@ -1,0 +1,20 @@
+ENTRY       G10502                      Glycan
+NAME        1,6-alpha-D-Glucan;
+            1,6-alpha-Glucan;
+            Dextran
+COMPOSITION (Glc)1 (*)2
+REMARK      Same as: C00372 D00060 D06539 D06540 D06541
+REACTION    R06066 R06184
+ENZYME      2.4.1.2         2.4.1.5         2.4.1.125
+DBLINKS     GlycomeDB: 2461
+NODE        3
+            1   *           8     0
+            2   Glc         0     0
+            3   *          -9     0
+EDGE        2
+            1     2:a1    1    
+            2     3       2:6  
+BRACKET     1  -4.0   1.0  -4.0  -1.0
+            1   4.0  -1.0   4.0   1.0
+            1 n
+///

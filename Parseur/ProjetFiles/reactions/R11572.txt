@@ -1,0 +1,5 @@
+ENTRY       R11572                      Reaction
+DEFINITION  (1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate + Oxygen <=> 5,10-Dihydrophenazine + Hydrogen peroxide + CO2
+EQUATION    C21413 + C00007 <=> C21475 + C00027 + C00011
+COMMENT     spontaneous
+///

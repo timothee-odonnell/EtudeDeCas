@@ -1,0 +1,11 @@
+ENTRY       R05629                      Reaction
+NAME        UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase
+DEFINITION  UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala) + di-trans,poly-cis-Undecaprenyl phosphate <=> UMP + MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol
+EQUATION    C04702 + C17556 <=> C00105 + C04851
+RCLASS      RC00002  C00105_C04702  C04851_C17556
+            RC02753  C04702_C04851
+ENZYME      2.7.8.13
+PATHWAY     rn00550  Peptidoglycan biosynthesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01000  phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+///

@@ -1,0 +1,16 @@
+ENTRY       G02170                      Glycan
+NAME        Hyaluronan-derived disaccharide
+COMPOSITION (GlcNAc)1 (L4-en-thrHexA)1
+MASS        395.3
+REMARK      Same as: C04794
+REACTION    R06242
+ENZYME      4.2.2.1
+DBLINKS     CCSD: 29161 32062 41859
+            GlycomeDB: 18596
+            JCGGDB: JCGG-STR009252
+NODE        2
+            1   GlcNAc      6     0
+            2   L4-en-thrHexA    -6     0
+EDGE        1
+            1     2:a1    1:3  
+///

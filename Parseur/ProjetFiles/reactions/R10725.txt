@@ -1,0 +1,8 @@
+ENTRY       R10725                      Reaction
+NAME        5-methyl-1-naphthoate,NADPH:oxygen oxidoreductase (3-hydroxylating)
+DEFINITION  5-Methyl-1-naphthoate + NADPH + H+ + Oxygen <=> 3-Hydroxy-5-methyl-1-naphthoate + NADP+ + H2O
+EQUATION    C20803 + C00005 + C00080 + C00007 <=> C20805 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00490  C20803_C20805
+ENZYME      1.14.13.189
+///

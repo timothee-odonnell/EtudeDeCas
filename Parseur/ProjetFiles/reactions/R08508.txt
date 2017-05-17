@@ -1,0 +1,8 @@
+ENTRY       R08508                      Reaction
+DEFINITION  Cholest-5-ene-3beta,26-diol <=> Solanidine
+EQUATION    C15610 <=> C06543
+COMMENT     unclear reaction
+            multi-step reaction
+            incomplete reaction
+RCLASS      RC02224  C06543_C15610
+///

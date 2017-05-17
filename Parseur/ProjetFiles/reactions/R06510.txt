@@ -1,0 +1,6 @@
+ENTRY       R06510                      Reaction
+DEFINITION  Acetyl-CoA + 2 Malonyl-CoA <=> Triacetate lactone + 3 CoA + 2 CO2
+EQUATION    C00024 + 2 C00083 <=> C02752 + 3 C00010 + 2 C00011
+COMMENT     2-Pyrone synthase
+RCLASS      RC00004  C00010_C00024  C00010_C00083
+///

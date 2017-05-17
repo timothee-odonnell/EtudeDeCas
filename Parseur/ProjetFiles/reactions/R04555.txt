@@ -1,0 +1,8 @@
+ENTRY       R04555                      Reaction
+NAME        ATP:[hydroxymethylglutaryl-CoA reductase (NADPH)] phosphotransferase
+DEFINITION  ATP + [Hydroxymethylglutaryl-CoA reductase (NADPH)] <=> ADP + [Hydroxymethylglutaryl-CoA reductase (NADPH)] phosphate
+EQUATION    C00002 + C04632 <=> C00008 + C04768
+RCLASS      RC00002  C00002_C00008
+            RC00017  C04632_C04768
+ENZYME      2.7.11.31
+///

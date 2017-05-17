@@ -1,0 +1,7 @@
+ENTRY       R04338                      Reaction
+NAME        S-(4-Bromophenyl)-L-cysteine:2-oxoglutarate aminotransferase
+DEFINITION  S-(4-Bromophenyl)-L-cysteine + 2-Oxoglutarate <=> S-(4-Bromophenyl)-mercaptopyruvate + L-Glutamate
+EQUATION    C03900 + C00026 <=> C04264 + C00025
+RCLASS      RC00006  C00025_C00026  C03900_C04264
+ENZYME      2.6.1.75
+///

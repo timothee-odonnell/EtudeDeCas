@@ -1,0 +1,7 @@
+ENTRY       R07583                      Reaction
+NAME        myo-inositol-hexakisphosphate 5-phosphohydrolase
+DEFINITION  Phytic acid + H2O <=> 1L-myo-Inositol 1,2,3,4,6-pentakisphosphate + Orthophosphate
+EQUATION    C01204 + C00001 <=> C15990 + C00009
+RCLASS      RC00078  C01204_C15990
+ENZYME      3.1.3.62        3.1.3.72
+///

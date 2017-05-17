@@ -1,0 +1,11 @@
+ENTRY       R09786                      Reaction
+NAME        dimethyl sulfide,NADH:oxygen oxidoreductase
+DEFINITION  Dimethyl sulfide + Oxygen + NADH + H+ <=> Methanethiol + Formaldehyde + NAD+ + H2O
+EQUATION    C00580 + C00007 + C00004 + C00080 <=> C00409 + C00067 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC02653  C00409_C00580
+            RC02654  C00067_C00580
+ENZYME      1.14.13.131
+PATHWAY     rn00920  Sulfur metabolism
+ORTHOLOGY   K16967  dimethyl-sulfide monooxygenase [EC:1.14.13.131]
+///

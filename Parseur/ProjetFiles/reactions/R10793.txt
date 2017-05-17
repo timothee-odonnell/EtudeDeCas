@@ -1,0 +1,9 @@
+ENTRY       R10793                      Reaction
+NAME        dihydromonacolin L acid,NADPH:oxygen oxidoreductase (3-hydroxylating)
+DEFINITION  Dihydromonacolin L acid + Oxygen + NADPH + H+ <=> Monacolin L acid + NADP+ + 2 H2O
+EQUATION    C20851 + C00007 + C00005 + C00080 <=> C20853 + C00006 + 2 C00001
+COMMENT     two-step reaction (see R10791+R10792)
+RCLASS      RC00001  C00005_C00006
+            RC03282  C20851_C20853
+ENZYME      1.14.13.197
+///

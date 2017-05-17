@@ -1,0 +1,8 @@
+ENTRY       R10838                      Reaction
+NAME        UMP:phosphate (5-phospho-alpha-D-ribosyl)transferase
+DEFINITION  UMP + Orthophosphate <=> Uracil + D-Ribose 1,5-bisphosphate
+EQUATION    C00105 + C00009 <=> C00106 + C01151
+RCLASS      RC00063  C00105_C00106
+ENZYME      2.4.2.57
+ORTHOLOGY   K18931  AMP phosphorylase [EC:2.4.2.57]
+///

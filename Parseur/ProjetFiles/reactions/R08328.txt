@@ -1,0 +1,8 @@
+ENTRY       R08328                      Reaction
+DEFINITION  2-Oxosuberate <=> 7-Oxoheptanoic acid + CO2
+EQUATION    C16589 <=> C16590 + C00011
+COMMENT     enzyme not yet characterized
+RCLASS      RC00506  C16589_C16590
+PATHWAY     rn00680  Methane metabolism
+            rn01120  Microbial metabolism in diverse environments
+///

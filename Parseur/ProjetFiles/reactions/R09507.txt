@@ -1,0 +1,7 @@
+ENTRY       R09507                      Reaction
+NAME        substrate:hydrogen peroxide oxidoreductase (RH-hydroxylating or -epoxidising)
+DEFINITION  Alkane + Hydrogen peroxide <=> ROH + H2O
+EQUATION    C01371 + C00027 <=> C01335 + C00001
+RCLASS      RC02362  C01335_C01371
+ENZYME      1.11.2.1
+///

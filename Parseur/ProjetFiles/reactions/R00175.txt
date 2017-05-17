@@ -1,0 +1,8 @@
+ENTRY       R00175                      Reaction
+NAME        S-Adenosyl-L-methionine hydrolase
+DEFINITION  S-Adenosyl-L-methionine + H2O <=> 5'-Methylthioadenosine + L-Homoserine
+EQUATION    C00019 + C00001 <=> C00170 + C00263
+RCLASS      RC00021  C00019_C00170
+            RC01115  C00019_C00263
+ENZYME      3.3.1.2
+///

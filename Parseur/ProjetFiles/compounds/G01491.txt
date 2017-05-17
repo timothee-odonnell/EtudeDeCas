@@ -1,0 +1,19 @@
+ENTRY       G01491                      Glycan
+NAME        McOse3Cer
+COMPOSITION (Gal)2 (Glc)1 (Cer)1
+MASS        486.4 (Cer)
+REACTION    R06136
+ENZYME      3.2.1.47
+DBLINKS     CCSD: 9187 11612 23021 25273 36166
+            GlycomeDB: 614
+            JCGGDB: JCGG-STR027186
+NODE        4
+            1   Cer        15     0
+            2   Glc         5     0
+            3   Gal        -5     0
+            4   Gal       -15     0
+EDGE        3
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+///

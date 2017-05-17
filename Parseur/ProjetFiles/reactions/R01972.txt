@@ -1,0 +1,8 @@
+ENTRY       R01972                      Reaction
+NAME        S-adenosyl-L-methionine:(indol-3-yl)pyruvate C3-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Indolepyruvate <=> S-Adenosyl-L-homocysteine + (R)-3-(Indol-3-yl)-2-oxobutyrate
+EQUATION    C00019 + C00331 <=> C00021 + C21289
+RCLASS      RC00003  C00019_C00021
+            RC00631  C00331_C21289
+ENZYME      2.1.1.47
+///

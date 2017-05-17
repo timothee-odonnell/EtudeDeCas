@@ -1,0 +1,7 @@
+ENTRY       R00193                      Reaction
+NAME        S-Adenosyl-L-homocysteine aminohydrolase
+DEFINITION  S-Adenosyl-L-homocysteine + H2O <=> S-Inosyl-L-homocysteine + Ammonia
+EQUATION    C00021 + C00001 <=> C03431 + C00014
+RCLASS      RC01168  C00021_C03431
+ENZYME      3.5.4.28
+///

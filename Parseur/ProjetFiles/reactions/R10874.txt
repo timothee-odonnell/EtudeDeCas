@@ -1,0 +1,9 @@
+ENTRY       R10874                      Reaction
+NAME        dTDP-6-deoxy-alpha-D-allose:mycinamicin-VII 21-O-6-deoxy-beta-D-allosyltransferase
+DEFINITION  dTDP-6-deoxy-D-allose + Mycinamicin VII <=> Mycinamicin VI + dTDP
+EQUATION    C11912 + C15683 <=> C15682 + C00363
+RCLASS      RC00005  C00363_C11912
+            RC00059  C15682_C15683
+ENZYME      2.4.1.-
+PATHWAY     rn01130  Biosynthesis of antibiotics
+///

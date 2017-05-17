@@ -1,0 +1,9 @@
+ENTRY       R10684                      Reaction
+NAME        6-deoxoteasterone,NADPH---hemoprotein reductase:oxygen oxidoreductase (7-oxateasterone-forming)
+DEFINITION  6-Deoxoteasterone + 3 Oxygen + 3 [Reduced NADPH---hemoprotein reductase] <=> 7-Oxateasterone + 4 H2O + 3 [Oxidized NADPH---hemoprotein reductase]
+EQUATION    C15799 + 3 C00007 + 3 C03024 <=> C17733 + 4 C00001 + 3 C03161
+COMMENT     possibly three-step reaction (similar to R10682, R07450+R07451+R07471)
+RCLASS      RC03235  C15799_C17733
+ENZYME      1.14.-.-
+ORTHOLOGY   K12640  brassinosteroid-6-oxidase 2 [EC:1.14.-.-]
+///

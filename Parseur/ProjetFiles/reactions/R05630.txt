@@ -1,0 +1,9 @@
+ENTRY       R05630                      Reaction
+NAME        UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine:undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase
+DEFINITION  UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine + di-trans,poly-cis-Undecaprenyl phosphate <=> UMP + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+EQUATION    C04882 + C17556 <=> C00105 + C05897
+RCLASS      RC00002  C00105_C04882  C05897_C17556
+ENZYME      2.7.8.13
+PATHWAY     rn00550  Peptidoglycan biosynthesis
+ORTHOLOGY   K01000  phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+///

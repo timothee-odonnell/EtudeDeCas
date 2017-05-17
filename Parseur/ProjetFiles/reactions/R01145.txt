@@ -1,0 +1,7 @@
+ENTRY       R01145                      Reaction
+NAME        Monomethyl-sulfate sulfohydrolase
+DEFINITION  Monomethyl sulfate + H2O <=> Methanol + Sulfate
+EQUATION    C02704 + C00001 <=> C00132 + C00059
+RCLASS      RC00462  C00132_C02704
+ENZYME      3.1.6.16
+///

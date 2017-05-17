@@ -1,0 +1,11 @@
+ENTRY       R02094                      Reaction
+NAME        ATP:dTMP phosphotransferase
+DEFINITION  ATP + dTMP <=> ADP + dTDP
+EQUATION    C00002 + C00364 <=> C00008 + C00363
+RCLASS      RC00002  C00002_C00008  C00363_C00364
+ENZYME      2.7.4.9         2.7.4.12
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00053  Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+ORTHOLOGY   K00943  dTMP kinase [EC:2.7.4.9]
+///

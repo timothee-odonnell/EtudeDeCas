@@ -1,0 +1,7 @@
+ENTRY       R00412                      Reaction
+NAME        succinate:acceptor oxidoreductase
+DEFINITION  Succinate + Acceptor <=> Fumarate + Reduced acceptor
+EQUATION    C00042 + C00028 <=> C00122 + C00030
+RCLASS      RC00045  C00042_C00122
+ENZYME      1.3.99.-
+///

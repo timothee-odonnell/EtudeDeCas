@@ -1,0 +1,8 @@
+ENTRY       R05603                      Reaction
+DEFINITION  Phenolic phosphate + CO2 + H2O <=> 4-Hydroxybenzoate + Orthophosphate
+EQUATION    C02734 + C00011 + C00001 <=> C00156 + C00009
+RCLASS      RC01436  C00156_C02734
+ENZYME      6.4.1.-
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+///

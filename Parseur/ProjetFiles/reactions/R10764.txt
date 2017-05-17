@@ -1,0 +1,8 @@
+ENTRY       R10764                      Reaction
+NAME        alpha-L-fucopyranose 1-epimerase
+DEFINITION  alpha-L-Fucopyranose <=> beta-L-Fucopyranose
+EQUATION    C20835 <=> C20836
+RCLASS      RC00563  C20835_C20836
+ENZYME      5.1.3.29
+ORTHOLOGY   K02431  L-fucose mutarotase [EC:5.1.3.29]
+///

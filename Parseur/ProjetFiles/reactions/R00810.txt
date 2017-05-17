@@ -1,0 +1,8 @@
+ENTRY       R00810                      Reaction
+NAME        Sucrose glucosylmutase
+DEFINITION  Sucrose <=> Palatinose
+EQUATION    C00089 <=> C01742
+REMARK      Same as: R06217
+RCLASS      RC00385  C00089_C01742
+ENZYME      5.4.99.11
+///

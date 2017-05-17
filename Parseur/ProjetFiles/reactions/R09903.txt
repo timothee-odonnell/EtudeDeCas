@@ -1,0 +1,10 @@
+ENTRY       R09903                      Reaction
+NAME        ent-copalyl-diphosphate diphosphate-lyase (cyclizing, ent-isokaurene-forming)
+DEFINITION  ent-Copalyl diphosphate <=> ent-Isokaurene + Diphosphate
+EQUATION    C06089 <=> C20145 + C00013
+RCLASS      RC02706  C06089_C20145
+ENZYME      4.2.3.103
+PATHWAY     rn00904  Diterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K16082  ent-isokaurene synthase [EC:4.2.3.103]
+///

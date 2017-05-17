@@ -1,0 +1,8 @@
+ENTRY       R02955                      Reaction
+NAME        Acetyl-CoA:citramalate CoA-transferase
+DEFINITION  Acetyl-CoA + Citramalate <=> Acetate + (3S)-Citramalyl-CoA
+EQUATION    C00024 + C00815 <=> C00033 + C01011
+RCLASS      RC00012  C00024_C00033
+            RC00014  C00815_C01011
+ENZYME      2.8.3.11
+///

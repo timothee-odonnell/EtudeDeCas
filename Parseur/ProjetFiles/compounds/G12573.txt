@@ -1,0 +1,13 @@
+ENTRY       G12573                      Glycan
+COMPOSITION (GlcNAc)1 (Ser/Thr)1
+MASS        203.2 (Ser/Thr)
+REACTION    R09304
+ENZYME      2.4.1.255
+DBLINKS     GlycomeDB: 177
+            JCGGDB: JCGG-STR008276
+NODE        2
+            1   Ser/Thr   5.3   0.5
+            2   GlcNAc   -5.7   0.5
+EDGE        1
+            1     2:b1    1    
+///

@@ -1,0 +1,10 @@
+ENTRY       R01663                      Reaction
+NAME        dCMP aminohydrolase
+DEFINITION  dCMP + H2O <=> dUMP + Ammonia
+EQUATION    C00239 + C00001 <=> C00365 + C00014
+RCLASS      RC00074  C00239_C00365
+ENZYME      3.5.4.12
+PATHWAY     rn00240  Pyrimidine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01493  dCMP deaminase [EC:3.5.4.12]
+///

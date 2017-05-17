@@ -1,0 +1,8 @@
+ENTRY       R05861                      Reaction
+NAME        D-alanine:oxygen oxidoreductase (deaminating)
+DEFINITION  D-Alanine + H2O + Oxygen <=> Pyruvate + Ammonia + Hydrogen peroxide
+EQUATION    C00133 + C00001 + C00007 <=> C00022 + C00014 + C00027
+RCLASS      RC00008  C00022_C00133
+            RC02755  C00007_C00027
+ENZYME      1.4.3.3         1.4.3.19
+///

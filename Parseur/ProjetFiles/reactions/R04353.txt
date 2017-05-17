@@ -1,0 +1,10 @@
+ENTRY       R04353                      Reaction
+NAME        UDPglucuronate beta-D-glucuronosyltransferase(acceptor-unspecific)
+DEFINITION  2-Methoxyestrone + UDP-glucuronate <=> 2-Methoxyestrone 3-glucuronide + UDP
+EQUATION    C05299 + C00167 <=> C11132 + C00015
+RCLASS      RC00005  C00015_C00167
+            RC00171  C05299_C11132
+ENZYME      2.4.1.17
+PATHWAY     rn00140  Steroid hormone biosynthesis
+ORTHOLOGY   K00699  glucuronosyltransferase [EC:2.4.1.17]
+///

@@ -1,0 +1,9 @@
+ENTRY       R11541                      Reaction
+NAME        4-[(2-hydroxyethoxy)carbonyl]benzoate acylhydrolase
+DEFINITION  4-(2-Hydroxyethoxycarbonyl)benzoate + H2O <=> Terephthalate + Ethylene glycol
+EQUATION    C21450 + C00001 <=> C06337 + C01380
+RCLASS      RC00020  C06337_C21450
+            RC00041  C01380_C21450
+ENZYME      3.1.1.102
+ORTHOLOGY   K21105  mono(ethylene terephthalate) hydrolase [EC:3.1.1.102]
+///

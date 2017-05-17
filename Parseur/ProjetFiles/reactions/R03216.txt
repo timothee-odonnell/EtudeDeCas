@@ -1,0 +1,7 @@
+ENTRY       R03216                      Reaction
+NAME        N,6-O-Disulfo-D-glucosamine 6-sulfohydrolase
+DEFINITION  N,6-O-Disulfo-D-glucosamine + H2O <=> N-Sulfo-D-glucosamine + Sulfate
+EQUATION    C03789 + C00001 <=> C01075 + C00059
+RCLASS      RC00134  C01075_C03789
+ENZYME      3.1.6.11
+///

@@ -1,0 +1,10 @@
+ENTRY       R02322                      Reaction
+NAME        nicotinamide-D-ribonucleotide amidohydrolase
+DEFINITION  Nicotinamide D-ribonucleotide + H2O <=> Nicotinate D-ribonucleotide + Ammonia
+EQUATION    C00455 + C00001 <=> C01185 + C00014
+RCLASS      RC00100  C00455_C01185
+ENZYME      3.5.1.42
+PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
+ORTHOLOGY   K03742  nicotinamide-nucleotide amidase [EC:3.5.1.42]
+            K03743  nicotinamide-nucleotide amidase [EC:3.5.1.42]
+///

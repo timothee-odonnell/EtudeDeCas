@@ -1,0 +1,6 @@
+ENTRY       R01981                      Reaction
+DEFINITION  D-Galacturonate + NAD+ + H2O <=> D-Galactarate + NADH + H+
+EQUATION    C00333 + C00003 + C00001 <=> C00879 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00194  C00333_C00879
+///

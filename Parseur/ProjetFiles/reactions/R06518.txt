@@ -1,0 +1,11 @@
+ENTRY       R06518                      Reaction
+NAME        N-acylsphingosine amidohydrolase
+DEFINITION  Dihydroceramide + H2O <=> Fatty acid + Sphinganine
+EQUATION    C12126 + C00001 <=> C00162 + C00836
+RCLASS      RC00064  C00836_C12126
+            RC00328  C00162_C12126
+ENZYME      3.5.1.23
+PATHWAY     rn00600  Sphingolipid metabolism
+ORTHOLOGY   K01441  alkaline ceramidase [EC:3.5.1.23]
+            K04711  dihydroceramidase [EC:3.5.1.-]
+///

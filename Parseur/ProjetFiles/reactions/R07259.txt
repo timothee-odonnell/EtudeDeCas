@@ -1,0 +1,8 @@
+ENTRY       R07259                      Reaction
+NAME        UDP-N-acetyl-D-glucosamine:beta-D-mannosyl-glycoprotein 4-beta-N-acetyl-D-glucosaminyltransferase
+DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + beta-D-Mannosyl-R <=> UDP + 4-(N-Acetyl-beta-D-glucosaminyl)-beta-D-mannosyl-R
+EQUATION    C00043 + C04942 <=> C00015 + C15544
+RCLASS      RC00005  C00015_C00043
+            RC00049  C04942_C15544
+ENZYME      2.4.1.144
+///

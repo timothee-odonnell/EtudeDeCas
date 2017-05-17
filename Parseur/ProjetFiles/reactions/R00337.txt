@@ -1,0 +1,8 @@
+ENTRY       R00337                      Reaction
+NAME        GDP-glucose glucohydrolase
+DEFINITION  GDP-glucose + H2O <=> GDP + D-Glucose
+EQUATION    C00394 + C00001 <=> C00035 + C00031
+RCLASS      RC00005  C00035_C00394
+            RC00078  C00031_C00394
+ENZYME      3.2.1.42
+///

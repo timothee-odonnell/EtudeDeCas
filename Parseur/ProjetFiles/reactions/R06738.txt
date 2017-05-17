@@ -1,0 +1,7 @@
+ENTRY       R06738                      Reaction
+DEFINITION  Nicotine <=> Nornicotine
+EQUATION    C00745 <=> C06524
+COMMENT     enzyme not yet characterized
+RCLASS      RC01198  C00745_C06524
+PATHWAY     rn00960  Tropane, piperidine and pyridine alkaloid biosynthesis
+///

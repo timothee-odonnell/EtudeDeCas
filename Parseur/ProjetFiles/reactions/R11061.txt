@@ -1,0 +1,8 @@
+ENTRY       R11061                      Reaction
+NAME        NADPH:demethylphylloquinone oxidoreductase
+DEFINITION  2-Phytyl-1,4-naphthoquinone + NADPH + H+ <=> Demethylphylloquinol + NADP+
+EQUATION    C13309 + C00005 + C00080 <=> C21084 + C00006
+RCLASS      RC00001  C00005_C00006
+            RC01745  C13309_C21084
+ENZYME      1.6.5.12
+///

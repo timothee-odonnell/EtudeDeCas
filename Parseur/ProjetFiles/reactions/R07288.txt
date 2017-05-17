@@ -1,0 +1,10 @@
+ENTRY       R07288                      Reaction
+NAME        3'-phosphoadenylyl-sulfate:dermatan 6'-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Dermatan <=> Adenosine 3',5'-bisphosphate + Dermatan 6'-sulfate
+EQUATION    C00053 + C01490 <=> C00054 + C15558
+RCLASS      RC00007  C00053_C00054
+            RC00134  C01490_C15558
+ENZYME      2.8.2.17
+ORTHOLOGY   K01020  chondroitin 6-sulfotransferase 3 [EC:2.8.2.17]
+            K04743  chondroitin 6-sulfotransferase 7 [EC:2.8.2.17]
+///

@@ -1,0 +1,9 @@
+ENTRY       R09033                      Reaction
+NAME        chlorophyllide magnesium-lyase (pheophorbide-forming)
+DEFINITION  Chlorophyllide + 2 H+ <=> Pheophorbide a + Magnesium cation
+EQUATION    C02139 + 2 C00080 <=> C18021 + C00305
+COMMENT     unclear reaction
+RCLASS      RC01012  C02139_C18021
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01110  Biosynthesis of secondary metabolites
+///

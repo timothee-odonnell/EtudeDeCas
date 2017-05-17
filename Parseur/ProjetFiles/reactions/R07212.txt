@@ -1,0 +1,9 @@
+ENTRY       R07212                      Reaction
+NAME        L-tyrosine,tetrahydrobiopterin:oxygen oxidoreductase(3-hydroxylating)
+DEFINITION  L-Tyrosine + Tetrahydrobiopterin + Oxygen <=> 3,4-Dihydroxy-L-phenylalanine + 4a-Hydroxytetrahydrobiopterin
+EQUATION    C00082 + C00272 + C00007 <=> C00355 + C15522
+RCLASS      RC00046  C00082_C00355
+ENZYME      1.14.16.2
+PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
+ORTHOLOGY   K00501  tyrosine 3-monooxygenase [EC:1.14.16.2]
+///

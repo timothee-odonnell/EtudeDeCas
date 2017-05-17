@@ -1,0 +1,8 @@
+ENTRY       R11554                      Reaction
+NAME        ATP:3-hydroxy-4-methylanthranilate adenylyltransferase
+DEFINITION  ATP + 3-Hydroxy-4-methylanthranilate <=> Diphosphate + (3-Hydroxy-4-methylanthranilyl)adenylate
+EQUATION    C00002 + C03986 <=> C00013 + C21460
+RCLASS      RC00043  C03986_C21460
+ENZYME      2.7.7.97
+ORTHOLOGY   K21284  3-hydroxy-4-methylanthranilate adenylyltransferase [EC:2.7.7.97]
+///

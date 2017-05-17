@@ -1,0 +1,11 @@
+ENTRY       R09452                      Reaction
+NAME        oleate,NADPH:oxygen oxidoreductase (18-hydroxylating)
+DEFINITION  (9Z)-Octadecenoic acid + NADPH + Oxygen + H+ <=> 18-Hydroxyoleate + NADP+ + H2O
+EQUATION    C00712 + C00005 + C00007 + C00080 <=> C19616 + C00006 + C00001
+COMMENT     fatty acid omega-hydroxylase
+RCLASS      RC00001  C00005_C00006
+            RC00797  C00712_C19616
+ENZYME      1.14.-.-
+PATHWAY     rn00073  Cutin, suberine and wax biosynthesis
+ORTHOLOGY   K15401  fatty acid omega-hydroxylase [EC:1.14.-.-]
+///

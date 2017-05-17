@@ -1,0 +1,10 @@
+ENTRY       R10303                      Reaction
+NAME        dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose:lipid II 4-acetamido-4,6-dideoxy-D-galactosyltransferase
+DEFINITION  N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol + dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose <=> 4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol + dTDP
+EQUATION    C20497 + C20415 <=> C20498 + C00363
+COMMENT     TDP-Fuc4NAc:lipid II Fuc4NAc transferase
+RCLASS      RC00005  C00363_C20415
+            RC00049  C20497_C20498
+ENZYME      2.4.1.325
+ORTHOLOGY   K12582  dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase [EC:2.4.1.325]
+///

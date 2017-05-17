@@ -1,0 +1,7 @@
+ENTRY       R09639                      Reaction
+NAME        S-adenosyl-L-methionine:chloride adenosyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Cl- <=> 5-Deoxy-5-chloroadenosine + L-Methionine
+EQUATION    C00019 + C00698 <=> C19768 + C00073
+RCLASS      RC00021  C00019_C00073
+ENZYME      2.5.1.94
+///

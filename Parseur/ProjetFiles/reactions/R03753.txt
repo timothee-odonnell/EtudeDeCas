@@ -1,0 +1,9 @@
+ENTRY       R03753                      Reaction
+NAME        7beta-Hydroxysteroid:NADP+ 7-oxidoreductase
+DEFINITION  7beta-Hydroxysteroid + NADP+ <=> 7-Oxosteroid + NADPH + H+
+EQUATION    C02956 + C00006 <=> C01881 + C00005 + C00080
+COMMENT     general reaction
+RCLASS      RC00001  C00005_C00006
+            RC00154  C01881_C02956
+ENZYME      1.1.1.201
+///

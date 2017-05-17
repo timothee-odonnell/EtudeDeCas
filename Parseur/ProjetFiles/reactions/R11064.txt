@@ -1,0 +1,12 @@
+ENTRY       R11064                      Reaction
+NAME        L-alanine:L-anticapsin ligase (ADP-forming)
+DEFINITION  L-Anticapsin + L-Alanine + ATP <=> Bacilysin + Orthophosphate + ADP
+EQUATION    C20941 + C00041 + C00002 <=> C20942 + C00009 + C00008
+RCLASS      RC00002  C00002_C00008
+            RC00064  C20941_C20942
+            RC00141  C00041_C20942
+ENZYME      6.3.2.49
+PATHWAY     rn01130  Biosynthesis of antibiotics
+MODULE      M00787  Bacilysin biosynthesis, prephenate => bacilysin
+ORTHOLOGY   K13037  L-alanine-L-anticapsin ligase [EC:6.3.2.49]
+///

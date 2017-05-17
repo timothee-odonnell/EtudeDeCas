@@ -1,0 +1,8 @@
+ENTRY       R03465                      Reaction
+NAME        (3E)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate 2-carboxybenzaldehyde-lyase
+DEFINITION  (3E)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate + H2O <=> 2-Carboxybenzaldehyde + Pyruvate
+EQUATION    C01275 + C00001 <=> C03057 + C00022
+RCLASS      RC00924  C01275_C03057
+            RC00936  C00022_C01275
+ENZYME      4.1.2.34
+///

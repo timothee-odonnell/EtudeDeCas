@@ -1,0 +1,7 @@
+ENTRY       R10584                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, alpha-copaene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> alpha-Copaene + Diphosphate
+EQUATION    C00448 <=> C09639 + C00013
+RCLASS      RC03204  C00448_C09639
+ENZYME      4.2.3.133
+///

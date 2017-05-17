@@ -1,0 +1,7 @@
+ENTRY       R11222                      Reaction
+NAME        (-)-matairesinol,NADPH:oxygen oxidoreductase (methylenedioxy-bridge-forming)
+DEFINITION  Matairesinol + NADPH + H+ + Oxygen <=> Pluviatolide + NADP+ + 2 H2O
+EQUATION    C10682 + C00005 + C00080 + C00007 <=> C21191 + C00006 + 2 C00001
+RCLASS      RC00925  C10682_C21191
+ENZYME      1.14.21.11
+///

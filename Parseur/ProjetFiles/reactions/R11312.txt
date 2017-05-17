@@ -1,0 +1,7 @@
+ENTRY       R11312                      Reaction
+DEFINITION  4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate <=> Diphosphate + Thiamin monophosphate + CO2
+EQUATION    C04752 + C20246 <=> C00013 + C01081 + C00011
+RCLASS      RC03397  C01081_C04752
+            RC03412  C01081_C20246
+ENZYME      2.5.1.3
+///

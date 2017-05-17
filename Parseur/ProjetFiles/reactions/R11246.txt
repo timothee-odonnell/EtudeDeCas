@@ -1,0 +1,10 @@
+ENTRY       R11246                      Reaction
+DEFINITION  1,7-diphospho-1-epi-valienol + Nucleoside triphosphate <=> NDP-1-epi-valienol 7-phosphate + Diphosphate
+EQUATION    C21206 + C00201 <=> C21207 + C00013
+RCLASS      RC00002  C21206_C21207
+ENZYME      2.7.7.91
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00814  Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose
+ORTHOLOGY   K20427  valienol-1-phosphate guanylyltransferase [EC:2.7.7.91]
+///

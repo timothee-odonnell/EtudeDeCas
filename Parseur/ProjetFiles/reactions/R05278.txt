@@ -1,0 +1,8 @@
+ENTRY       R05278                      Reaction
+DEFINITION  4-Sulfocatechol + Oxygen <=> 3-Sulfomuconate
+EQUATION    C06674 + C00007 <=> C06675
+RCLASS      RC00388  C06674_C06675
+ENZYME      1.13.11.-
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+///

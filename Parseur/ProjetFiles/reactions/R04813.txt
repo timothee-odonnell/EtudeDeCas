@@ -1,0 +1,11 @@
+ENTRY       R04813                      Reaction
+NAME        (24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA hydro-lyase
+DEFINITION  3alpha,7alpha,12alpha,24-Tetrahydroxy-5beta-cholestanoyl-CoA <=> 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA + H2O
+EQUATION    C05450 <=> C05460 + C00001
+RCLASS      RC01217  C05450_C05460
+ENZYME      4.2.1.107
+PATHWAY     rn00120  Primary bile acid biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+ORTHOLOGY   K12405  3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2 [EC:1.1.1.35 4.2.1.107 4.2.1.119]
+///

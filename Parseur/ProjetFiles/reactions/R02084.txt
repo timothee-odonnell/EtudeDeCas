@@ -1,0 +1,7 @@
+ENTRY       R02084                      Reaction
+NAME        succinyl-CoA:3-hydroxy-3-methylglutarate CoA-transferase
+DEFINITION  Succinyl-CoA + 3-Hydroxy-3-methylglutarate <=> Succinate + (S)-3-Hydroxy-3-methylglutaryl-CoA
+EQUATION    C00091 + C03761 <=> C00042 + C00356
+RCLASS      RC00014  C00042_C00091  C00356_C03761
+ENZYME      2.8.3.13
+///

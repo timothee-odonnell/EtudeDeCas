@@ -1,0 +1,10 @@
+ENTRY       R02467                      Reaction
+NAME        Cysteamine:oxygen oxidoreductase
+DEFINITION  Cysteamine + Oxygen <=> Hypotaurine
+EQUATION    C01678 + C00007 <=> C00519
+RCLASS      RC00404  C00519_C01678
+ENZYME      1.13.11.19
+PATHWAY     rn00430  Taurine and hypotaurine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K10712  cysteamine dioxygenase [EC:1.13.11.19]
+///

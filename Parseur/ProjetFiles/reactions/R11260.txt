@@ -1,0 +1,7 @@
+ENTRY       R11260                      Reaction
+DEFINITION  Starch <=> Cyclomaltodextrin
+EQUATION    C00369 <=> C00973
+ENZYME      2.4.1.19
+PATHWAY     rn00500  Starch and sucrose metabolism
+ORTHOLOGY   K00701  cyclomaltodextrin glucanotransferase [EC:2.4.1.19]
+///

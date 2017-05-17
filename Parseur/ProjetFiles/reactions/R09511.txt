@@ -1,0 +1,9 @@
+ENTRY       R09511                      Reaction
+NAME        protein-N6-methyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  Protein N6-methyl-L-lysine + 2-Oxoglutarate + Oxygen <=> Protein lysine + Succinate + Formaldehyde + CO2
+EQUATION    C05544 + C00026 + C00007 <=> C02188 + C00042 + C00067 + C00011
+COMMENT     second step of two-step reaction (see R10056, R09510+R09511)
+RCLASS      RC00060  C02188_C05544
+            RC00557  C00067_C05544
+ENZYME      1.14.11.27
+///

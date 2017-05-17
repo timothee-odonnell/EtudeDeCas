@@ -1,0 +1,10 @@
+ENTRY       R06747                      Reaction
+DEFINITION  L-Prolyl-[pcp] + 2 FAD <=> Pyrrole-2-carbonyl-[pcp] + 2 FADH2
+EQUATION    C12470 + 2 C00016 <=> C12483 + 2 C01352
+COMMENT     acyl-CoA dehydrogenase, CloN3 CouN3
+RCLASS      RC00126  C00016_C01352
+            RC03357  C12470_C12483
+PATHWAY     rn00401  Novobiocin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12721  clorobiocin biosynthesis protein CloN3
+///

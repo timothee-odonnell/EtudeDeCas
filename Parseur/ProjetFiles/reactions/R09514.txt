@@ -1,0 +1,13 @@
+ENTRY       R09514                      Reaction
+NAME        urate,NADH:oxygen oxidoreductase (5-hydroxyisourate forming)
+DEFINITION  Urate + NADH + H+ + Oxygen <=> 5-Hydroxyisourate + NAD+ + H2O
+EQUATION    C00366 + C00004 + C00080 + C00007 <=> C11821 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC02551  C00366_C11821
+ENZYME      1.14.13.113
+PATHWAY     rn00230  Purine metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+MODULE      M00546  Purine degradation, xanthine => urea
+ORTHOLOGY   K16839  FAD-dependent urate hydroxylase [EC:1.14.13.113]
+///

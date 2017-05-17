@@ -1,0 +1,8 @@
+ENTRY       R03742                      Reaction
+NAME        Protoaphin-aglucone hydro-lyase (cyclizing)
+DEFINITION  Protoaphin aglucone <=> Xanthoaphin + H2O
+EQUATION    C02879 <=> C01863 + C00001
+COMMENT     multi-step reaction
+RCLASS      RC02134  C01863_C02879
+ENZYME      4.2.1.73
+///

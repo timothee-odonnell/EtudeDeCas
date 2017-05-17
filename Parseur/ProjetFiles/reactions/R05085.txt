@@ -1,0 +1,12 @@
+ENTRY       R05085                      Reaction
+NAME        O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+DEFINITION  O-Phospho-4-hydroxy-L-threonine + 2-Oxoglutarate <=> 2-Oxo-3-hydroxy-4-phosphobutanoate + L-Glutamate
+EQUATION    C06055 + C00026 <=> C06054 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC00036  C06054_C06055
+ENZYME      2.6.1.52
+PATHWAY     rn00750  Vitamin B6 metabolism
+            rn01100  Metabolic pathways
+MODULE      M00124  Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P
+ORTHOLOGY   K00831  phosphoserine aminotransferase [EC:2.6.1.52]
+///

@@ -1,0 +1,9 @@
+ENTRY       R10816                      Reaction
+NAME        5'-triphospho-[mRNA] diphosphatase
+DEFINITION  5'-Triphospho-[mRNA] + H2O <=> 5'-Phospho-[mRNA] + Diphosphate
+EQUATION    C20864 + C00001 <=> C20863 + C00013
+COMMENT     RNA pyrophosphohydrolase
+RCLASS      RC00002  C20863_C20864
+ENZYME      3.6.1.-
+ORTHOLOGY   K08311  putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]
+///

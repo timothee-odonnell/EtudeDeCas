@@ -1,0 +1,10 @@
+ENTRY       R09698                      Reaction
+NAME        (3R)-3-hydroxyacyl-CoA hydro-lyase
+DEFINITION  (3R)-3-Hydroxyacyl-CoA <=> trans-2,3-Dehydroacyl-CoA + H2O
+EQUATION    C01086 <=> C00658 + C00001
+RCLASS      RC00770  C00658_C01086
+ENZYME      4.2.1.119
+ORTHOLOGY   K12405  3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2 [EC:1.1.1.35 4.2.1.107 4.2.1.119]
+            K19658  peroxisomal enoyl-CoA hydratase 2 [EC:4.2.1.119]
+            K19659  enoyl-CoA hydratase [EC:4.2.1.119]
+///

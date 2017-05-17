@@ -1,0 +1,7 @@
+ENTRY       R04994                      Reaction
+NAME        S-adenosyl-L-methionine:2-phytyl-1,4-naphthoquinol C-methyltransferase
+DEFINITION  Demethylphylloquinol + S-Adenosyl-L-methionine <=> Phylloquinol + S-Adenosyl-L-homocysteine
+EQUATION    C21084 + C00019 <=> C03313 + C00021
+RCLASS      RC01662  C03313_C21084
+ENZYME      2.1.1.329
+///

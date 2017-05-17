@@ -1,0 +1,8 @@
+ENTRY       R04157                      Reaction
+NAME        alpha(omega)-Dicarboxylic acid:CoA ligase (AMP-forming)
+DEFINITION  ATP + alpha,omega-Dicarboxylic acid + CoA <=> AMP + Diphosphate + omega-Carboxyacyl-CoA
+EQUATION    C00002 + C04025 + C00010 <=> C00020 + C00013 + C03188
+RCLASS      RC00004  C00010_C03188
+            RC00014  C03188_C04025
+ENZYME      6.2.1.23
+///

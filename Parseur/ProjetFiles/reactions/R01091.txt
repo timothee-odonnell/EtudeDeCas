@@ -1,0 +1,7 @@
+ENTRY       R01091                      Reaction
+NAME        (2S)-alpha-leucine 2,3-aminomutase
+DEFINITION  L-Leucine <=> (3R)-beta-Leucine
+EQUATION    C00123 <=> C02486
+RCLASS      RC00449  C00123_C02486
+ENZYME      5.4.3.7
+///

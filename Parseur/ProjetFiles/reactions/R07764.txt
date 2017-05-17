@@ -1,0 +1,11 @@
+ENTRY       R07764                      Reaction
+DEFINITION  (R)-3-Hydroxyoctadecanoyl-[acp] <=> (2E)-Octadecenoyl-[acp] + H2O
+EQUATION    C16220 <=> C16221 + C00001
+RCLASS      RC01095  C16220_C16221
+ENZYME      2.3.1.-         4.2.1.-
+PATHWAY     rn00061  Fatty acid biosynthesis
+            rn01040  Biosynthesis of unsaturated fatty acids
+            rn01212  Fatty acid metabolism
+ORTHOLOGY   K02372  3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+            K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]
+///

@@ -1,0 +1,4 @@
+ENTRY       R11116                      Reaction
+DEFINITION  Bacteriohopanetetrol-acetylglucosamine + H2O <=> Bacteriohopanetetrol-glucosamine + Acetate
+EQUATION    C21120 + C00001 <=> C21121 + C00033
+///

@@ -1,0 +1,11 @@
+ENTRY       R07777                      Reaction
+NAME        liquiritigenin,NADPH:oxygen oxidoreductase (hydroxylating, aryl migration)
+DEFINITION  Liquiritigenin + NADPH + H+ + Oxygen <=> 2,7,4'-Trihydroxyisoflavanone + NADP+ + H2O
+EQUATION    C09762 + C00005 + C00080 + C00007 <=> C15567 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01837  C09762_C15567
+ENZYME      1.14.13.136
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K13257  2-hydroxyisoflavanone synthase [EC:1.14.13.136]
+///

@@ -1,0 +1,7 @@
+ENTRY       R02915                      Reaction
+NAME        Medicarpin:NADP+ 2'-oxidoreductase
+DEFINITION  Medicarpin + NADP+ + H2O <=> (-)-Vestitone + NADPH + H+
+EQUATION    C10503 + C00006 + C00001 <=> C00786 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC01853  C00786_C10503
+///

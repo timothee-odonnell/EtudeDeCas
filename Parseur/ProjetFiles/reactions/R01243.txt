@@ -1,0 +1,8 @@
+ENTRY       R01243                      Reaction
+NAME        aryl-sulfate sulfohydrolase
+DEFINITION  Aryl sulfate + H2O <=> Phenol + Sulfate
+EQUATION    C00850 + C00001 <=> C15584 + C00059
+COMMENT     general reaction (see R03980)
+RCLASS      RC00128  C00850_C15584
+ENZYME      3.1.6.1
+///

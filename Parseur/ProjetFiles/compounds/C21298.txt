@@ -1,0 +1,38 @@
+ENTRY       C21298                      Compound
+NAME        2,6-Dihydroxybenzoate;
+            gamma-Resorcylate
+FORMULA     C7H6O4
+EXACT_MASS  154.0266
+MOL_WEIGHT  154.1201
+REACTION    R11353
+PATHWAY     map00362  Benzoate degradation
+            map01120  Microbial metabolism in diverse environments
+ENZYME      4.1.1.103
+DBLINKS     CAS: 303-07-1
+            PubChem: 318172278
+            PDB-CCD: GRE
+ATOM        11
+            1   C8y C    18.6202  -15.7865
+            2   C8y C    17.4105  -16.4778
+            3   C8y C    19.8364  -16.4778
+            4   C6a C    18.6139  -14.3911
+            5   C8x C    17.4105  -17.8861
+            6   C8x C    19.8364  -17.8861
+            7   O6a O    19.8171  -13.6934
+            8   O6a O    17.4040  -13.6999
+            9   C8x C    18.6202  -18.5965
+            10  O1a O    21.0383  -15.7782
+            11  O1a O    16.2025  -15.7767
+BOND        11
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     4   8 2
+            8     5   9 2
+            9     6   9 1
+            10    3  10 1
+            11    2  11 1
+///

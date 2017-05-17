@@ -1,0 +1,10 @@
+ENTRY       R01558                      Reaction
+NAME        Oxalate:CoA ligase (AMP-forming)
+DEFINITION  ATP + Oxalate + CoA <=> AMP + Diphosphate + Oxalyl-CoA
+EQUATION    C00002 + C00209 + C00010 <=> C00020 + C00013 + C00313
+RCLASS      RC00004  C00010_C00313
+            RC00179  C00209_C00313
+ENZYME      6.2.1.8
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+            rn01100  Metabolic pathways
+///

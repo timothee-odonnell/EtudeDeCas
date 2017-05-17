@@ -1,0 +1,10 @@
+ENTRY       R05877                      Reaction
+NAME        vinorine ,NADPH:oxygen oxidoreductase (21a-hydroxylating)
+DEFINITION  Vinorine + NADPH + H+ + Oxygen <=> Vomilenine + NADP+ + H2O
+EQUATION    C11807 + C00005 + C00080 + C00007 <=> C01761 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01592  C01761_C11807
+ENZYME      1.14.13.75
+PATHWAY     rn00901  Indole alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

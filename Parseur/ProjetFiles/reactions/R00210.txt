@@ -1,0 +1,9 @@
+ENTRY       R00210                      Reaction
+NAME        pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating)
+DEFINITION  Pyruvate + CoA + NADP+ <=> Acetyl-CoA + CO2 + NADPH + H+
+EQUATION    C00022 + C00010 + C00006 <=> C00024 + C00011 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00004  C00010_C00024
+            RC02742  C00022_C00024
+ENZYME      1.2.1.51
+///

@@ -1,0 +1,11 @@
+ENTRY       R08148                      Reaction
+NAME        methyl (2E,6E)-farnesoate,NADPH:oxygen oxidoreductase
+DEFINITION  Methyl farnesoate + Oxygen + NADPH + H+ <=> Juvenile hormone III + NADP+ + H2O
+EQUATION    C16503 + C00007 + C00005 + C00080 <=> C09694 + C00006 + C00001
+COMMENT     CYP15A1: juvenile hormone epoxidase
+RCLASS      RC00001  C00005_C00006
+            RC00201  C09694_C16503
+ENZYME      1.14.13.202
+PATHWAY     rn00981  Insect hormone biosynthesis
+ORTHOLOGY   K14937  methyl farnesoate epoxidase / farnesoate epoxidase [EC:1.14.13.202 1.14.13.203]
+///

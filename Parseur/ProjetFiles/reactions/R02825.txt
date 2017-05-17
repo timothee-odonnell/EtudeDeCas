@@ -1,0 +1,12 @@
+ENTRY       R02825                      Reaction
+DEFINITION  5-Aminopentanoate <=> D-Proline
+EQUATION    C00431 <=> C00763
+COMMENT     incomplete reaction (donor is unidentified in vivo, dl-dihydrolipoate [CPD:C02147] or other dithiols in vitro)
+RCLASS      RC00790  C00431_C00763
+ENZYME      1.4.1.12        1.21.4.1
+PATHWAY     rn00330  Arginine and proline metabolism
+ORTHOLOGY   K10793  D-proline reductase (dithiol) PrdA [EC:1.21.4.1]
+            K10794  D-proline reductase (dithiol) PrdB [EC:1.21.4.1]
+            K10795  D-proline reductase (dithiol) PrdD [EC:1.21.4.1]
+            K10796  D-proline reductase (dithiol) PrdE [EC:1.21.4.1]
+///

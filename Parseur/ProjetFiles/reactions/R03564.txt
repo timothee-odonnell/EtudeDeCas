@@ -1,0 +1,7 @@
+ENTRY       R03564                      Reaction
+DEFINITION  Tropate + Tropine <=> L-Hyoscyamine + H2O
+EQUATION    C01456 + C00729 <=> C02046 + C00001
+COMMENT     enzyme not yet characterized
+RCLASS      RC00055  C00729_C02046
+            RC00523  C01456_C02046
+///

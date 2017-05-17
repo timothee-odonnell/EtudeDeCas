@@ -1,0 +1,12 @@
+ENTRY       R03197                      Reaction
+NAME        Uroporphyrinogen-III carboxy-lyase
+DEFINITION  Uroporphyrinogen III <=> Coproporphyrinogen III + 4 CO2
+EQUATION    C01051 <=> C03263 + 4 C00011
+RCLASS      RC00872  C01051_C03263
+ENZYME      4.1.1.37
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01100  Metabolic pathways
+            rn01110  Biosynthesis of secondary metabolites
+MODULE      M00121  Heme biosynthesis, glutamate => protoheme/siroheme
+ORTHOLOGY   K01599  uroporphyrinogen decarboxylase [EC:4.1.1.37]
+///

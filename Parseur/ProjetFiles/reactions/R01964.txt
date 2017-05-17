@@ -1,0 +1,8 @@
+ENTRY       R01964                      Reaction
+NAME        ITP:D-glucosamine 6-phosphotransferase
+DEFINITION  ITP + D-Glucosamine <=> IDP + D-Glucosamine 6-phosphate
+EQUATION    C00081 + C00329 <=> C00104 + C00352
+RCLASS      RC00002  C00081_C00104
+            RC00017  C00329_C00352
+ENZYME      2.7.1.1
+///

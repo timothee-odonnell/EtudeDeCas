@@ -1,0 +1,11 @@
+ENTRY       R10727                      Reaction
+NAME        miltiradiene,NADPH:oxygen oxidoreductase (ferruginol forming)
+DEFINITION  Miltiradiene + 2 NADPH + 2 H+ + 2 Oxygen <=> Ferruginol + 2 NADP+ + 3 H2O
+EQUATION    C20711 + 2 C00005 + 2 C00080 + 2 C00007 <=> C09092 + 2 C00006 + 3 C00001
+RCLASS      RC00001  C00005_C00006
+            RC03259  C09092_C20711
+ENZYME      1.14.13.190
+PATHWAY     rn00904  Diterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K20513  ferruginol synthase [EC:1.14.13.190]
+///

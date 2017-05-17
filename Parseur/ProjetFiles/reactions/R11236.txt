@@ -1,0 +1,10 @@
+ENTRY       R11236                      Reaction
+DEFINITION  Valienone 7-phosphate <=> Validone 7-phosphate
+EQUATION    C17697 <=> C21218
+COMMENT     unclear reaction
+RCLASS      RC03399  C17697_C21218
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20434  cyclitol reductase
+///

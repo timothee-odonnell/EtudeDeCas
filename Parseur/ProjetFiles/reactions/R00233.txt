@@ -1,0 +1,11 @@
+ENTRY       R00233                      Reaction
+NAME        malonyl-CoA carboxy-lyase (acetyl-CoA-forming)
+DEFINITION  Malonyl-CoA <=> Acetyl-CoA + CO2
+EQUATION    C00083 <=> C00024 + C00011
+RCLASS      RC00040  C00024_C00083
+ENZYME      4.1.1.9
+PATHWAY     rn00410  beta-Alanine metabolism
+            rn00640  Propanoate metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01578  malonyl-CoA decarboxylase [EC:4.1.1.9]
+///

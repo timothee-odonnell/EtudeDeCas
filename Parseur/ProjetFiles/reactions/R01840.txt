@@ -1,0 +1,14 @@
+ENTRY       R01840                      Reaction
+NAME        androstenedione,NADPH---hemoprotein reductase:oxygen oxidoreductase (19-hydroxylating)
+DEFINITION  Androstenedione + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 19-Hydroxyandrost-4-ene-3,17-dione + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C00280 + C03024 + C00007 <=> C05290 + C03161 + C00001
+COMMENT     aromatase, ARO
+            three successive reactions (R01840+R04759+R02351)
+            subsequently R04759
+RCLASS      RC00257  C00280_C05290
+ENZYME      1.14.14.14
+PATHWAY     rn00140  Steroid hormone biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00110  C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone
+ORTHOLOGY   K07434  aromatase [EC:1.14.14.14]
+///

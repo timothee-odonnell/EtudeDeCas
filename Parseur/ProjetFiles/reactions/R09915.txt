@@ -1,0 +1,7 @@
+ENTRY       R09915                      Reaction
+NAME        (3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, delta-amyrin-forming)
+DEFINITION  (S)-2,3-Epoxysqualene <=> delta-Amyrin
+EQUATION    C01054 <=> C20194
+RCLASS      RC02720  C01054_C20194
+ENZYME      5.4.99.55
+///

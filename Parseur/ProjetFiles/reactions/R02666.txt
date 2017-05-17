@@ -1,0 +1,8 @@
+ENTRY       R02666                      Reaction
+NAME        3-Hydroxyanthranilate:oxygen oxidoreductase
+DEFINITION  3-Hydroxyanthranilate + Oxygen <=> 6-Imino-5-oxocyclohexa-1,3-dienecarboxylate + Hydrogen peroxide
+EQUATION    C00632 + C00007 <=> C04584 + C00027
+RCLASS      RC02320  C00632_C04584
+            RC02755  C00007_C00027
+ENZYME      1.10.3.5
+///

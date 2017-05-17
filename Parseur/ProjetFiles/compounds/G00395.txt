@@ -1,0 +1,52 @@
+ENTRY       G00395                      Glycan
+NAME        Lc4;
+            r-Lactotetraose-HSA;
+            Lacto-N-tetraose;
+            LNT
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1
+MASS        707.6
+REMARK      Same as: C06371
+REACTION    R06116
+ENZYME      3.2.1.140
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Oligosaccharides
+               Tetrasaccharides
+                C06371  Lacto-N-tetraose
+REFERENCE   1  [PMID:2776132]
+            Wang WT, Zopf D.
+            Liquid ion-exchange chromatography under pressure of milk oligosaccharides using a pulsed amperometric detector.
+            Carbohydr. Res. 189 (1989) 1-11.
+            2  [PMID:9271064]
+            Viseux N, de Hoffmann E, Domon B.
+            Structural analysis of permethylated oligosaccharides by electrospray tandem mass spectrometry.
+            Anal. Chem. 69 (1997) 3193-8.
+            3  [PMID:11425797]
+            Chaturvedi P, Warren CD, Altaye M, Morrow AL, Ruiz-Palacios G, Pickering LK, Newburg DS.
+            Fucosylated human milk oligosaccharides vary between individuals and over the course of lactation.
+            Glycobiology. 11 (2001) 365-72.
+            4  [PMID:12950254]
+            Murata T, Hattori T, Amarume S, Koichi A, Usui T.
+            Kinetic studies on endo-beta-galactosidase by a novel colorimetric assay and synthesis of N-acetyllactosamine-repeating oligosaccharide beta-glycosides using its transglycosylation activity.
+            Eur. J. Biochem. 270 (2003) 3709-19.
+            5  [PMID:3274083]
+            Donald AS, Feeney J.
+            Separation of human milk oligosaccharides by recycling chromatography. First isolation of lacto-N-neo-difucohexaose II and 3'-Galactosyllactose from this source.
+            Carbohydr. Res. 178 (1988) 79-91.
+            6  [PMID:15158661]
+            Kobata A.
+            The third chains of living organisms--a trail of glycobiology that started from the third floor of building 4 in NIH.
+            Arch. Biochem. Biophys. 426 (2004) 107-21.
+DBLINKS     CCSD: 464 465 466 467 469 2505 2506 3517 4840 4841 4843 4844 5684 7742 8321 8721 8885 9953 10366 10566 10877 11133 11797 12405 12947 13773 13797 13798 13826 13896 13954 14150 14191 14890 15126 15294 15845 16107 16167 16599 16642 17078 17492 17667 18740 18741 19013 19456 19510 19512 19603 19834 20642 20859 20918 20946 21045 21130 21889 22061 22266 22781 22825 23155 24320 24543 24794 25163 25230 25478 25711 25803 25887 26474 27516 27523 27538 27579 27607 28267 28791 28829 28979 29013 29191 29224 29236 29246 30002 30297 30867 32076 33028 33164 33709 33868 34615 35060 35965 36443 38302 38306 40400 40410 41531 43455 43512 43546 44282 46382 47081 50257
+            GlycomeDB: 3968
+            JCGGDB: JCGG-STR024885
+NODE        4
+            1   Glc        15     0
+            2   Gal         5     0
+            3   GlcNAc     -5     0
+            4   Gal       -15     0
+EDGE        3
+            1     2:b1    1:4  
+            2     3:b1    2:3  
+            3     4:b1    3:3  
+///

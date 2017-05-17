@@ -1,0 +1,8 @@
+ENTRY       R02980                      Reaction
+NAME        ATP:tropomyosin O-phosphotransferase
+DEFINITION  ATP + Tropomyosin <=> ADP + O-Phosphotropomyosin
+EQUATION    C00002 + C00839 <=> C00008 + C03016
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00839_C03016
+ENZYME      2.7.11.28
+///

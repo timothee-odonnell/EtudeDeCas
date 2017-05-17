@@ -1,0 +1,7 @@
+ENTRY       R10538                      Reaction
+NAME        carbon-disulfide hydrogen-sulfide-lyase (decarboxylating)
+DEFINITION  Carbon disulfide + 2 H2O <=> CO2 + 2 Hydrogen sulfide
+EQUATION    C19033 + 2 C00001 <=> C00011 + 2 C00283
+RCLASS      RC03191  C00283_C19033
+ENZYME      4.4.1.27
+///

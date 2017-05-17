@@ -1,0 +1,7 @@
+ENTRY       R05147                      Reaction
+NAME        galactitol-1-phosphate:NAD+ oxidoreductase
+DEFINITION  Galactitol 1-phosphate + NAD+ <=> L-Tagatose 6-phosphate + NADH + H+
+EQUATION    C06311 + C00003 <=> C06312 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+ENZYME      1.1.1.251
+///

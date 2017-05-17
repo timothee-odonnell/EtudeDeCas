@@ -1,0 +1,8 @@
+ENTRY       R02040                      Reaction
+NAME        N-Long-chain-fatty-acyl-L-glutamate amidohydrolase
+DEFINITION  N-Long-chain-fatty-acyl-L-glutamate + H2O <=> Long-chain carboxylate + L-Glutamate
+EQUATION    C04305 + C00001 <=> C00347 + C00025
+RCLASS      RC00064  C00025_C04305
+            RC00090  C00347_C04305
+ENZYME      3.5.1.55
+///

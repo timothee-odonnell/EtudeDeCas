@@ -1,0 +1,8 @@
+ENTRY       R08405                      Reaction
+NAME        acyl-phosphate:D-mannose phosphotransferase
+DEFINITION  Acyl phosphate + D-Mannose <=> Carboxylate + D-Mannose 6-phosphate
+EQUATION    C02133 + C00159 <=> C00060 + C00275
+RCLASS      RC00017  C00159_C00275
+            RC00043  C00060_C02133
+ENZYME      2.7.1.61
+///

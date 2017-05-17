@@ -1,0 +1,9 @@
+ENTRY       R00764                      Reaction
+NAME        diphosphate:D-fructose-6-phosphate 1-phosphotransferase
+DEFINITION  Diphosphate + D-Fructose 6-phosphate <=> Orthophosphate + D-Fructose 1,6-bisphosphate
+EQUATION    C00013 + C00085 <=> C00009 + C00354
+RCLASS      RC00017  C00085_C00354
+ENZYME      2.7.1.90
+ORTHOLOGY   K00895  diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+            K21071  ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]
+///

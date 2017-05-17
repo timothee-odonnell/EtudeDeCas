@@ -1,0 +1,8 @@
+ENTRY       R04717                      Reaction
+NAME        S-adenosyl-L-methionine:[cytochrome c]-methionine S-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + [Cytochrome c] methionine <=> S-Adenosyl-L-homocysteine + [Cytochrome c] S-methylmethionine
+EQUATION    C00019 + C05205 <=> C00021 + C05319
+RCLASS      RC00003  C00019_C00021
+            RC00347  C05205_C05319
+ENZYME      2.1.1.123
+///

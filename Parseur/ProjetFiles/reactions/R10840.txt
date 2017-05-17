@@ -1,0 +1,8 @@
+ENTRY       R10840                      Reaction
+NAME        O-acetyl-L-serine:isoxazolin-5-one 4-(2-amino-2-carboxyethyl)transferase
+DEFINITION  O-Acetyl-L-serine + Isoxazolin-5-one <=> 3-(5-Oxoisoxazolin-4-yl)-L-alanine + Acetate
+EQUATION    C00979 + C20891 <=> C20893 + C00033
+RCLASS      RC00020  C00033_C00979
+            RC00209  C20891_C20893
+ENZYME      2.5.1.119
+///

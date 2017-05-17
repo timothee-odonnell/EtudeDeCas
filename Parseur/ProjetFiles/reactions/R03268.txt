@@ -1,0 +1,8 @@
+ENTRY       R03268                      Reaction
+NAME        UDP-D-xylose:flavonol-3-O-glycoside D-xylosyltransferase
+DEFINITION  UDP-D-xylose + Flavonol 3-O-D-glycoside <=> UDP + Flavonol 3-O-D-xylosylglycoside
+EQUATION    C00190 + C15555 <=> C00015 + C04069
+RCLASS      RC00005  C00015_C00190
+            RC00049  C04069_C15555
+ENZYME      2.4.2.35
+///

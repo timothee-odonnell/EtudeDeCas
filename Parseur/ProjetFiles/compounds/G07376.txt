@@ -1,0 +1,21 @@
+ENTRY       G07376                      Glycan
+COMPOSITION (GlcNAc)1 (Man)4
+MASS        869.8
+REMARK      Same as: C04923
+REACTION    R06014
+ENZYME      2.4.1.138
+DBLINKS     CCSD: 9006
+            GlycomeDB: 22225
+            JCGGDB: JCGG-STR013164
+NODE        5
+            1   Man         0     0
+            2   Man       -10     0
+            3   Man       -20     0
+            4   Man       -30     5
+            5   GlcNAc    -30    -5
+EDGE        4
+            1     2:a1    1:2  
+            2     3:a1    2:2  
+            3     4:a1    3:3  
+            4     5:a1    3:2  
+///

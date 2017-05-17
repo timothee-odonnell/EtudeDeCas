@@ -1,0 +1,11 @@
+ENTRY       R07631                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase [(3S)-linalool-forming]
+DEFINITION  Geranyl diphosphate + H2O <=> (+)-Linalool + Diphosphate
+EQUATION    C00341 + C00001 <=> C11389 + C00013
+RCLASS      RC01821  C00341_C11389
+ENZYME      4.2.3.25
+PATHWAY     rn00902  Monoterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K15086  (3S)-linalool synthase [EC:4.2.3.25]
+///

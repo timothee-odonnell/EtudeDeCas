@@ -1,0 +1,11 @@
+ENTRY       R08864                      Reaction
+NAME        2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (hydroxymethylphosphonate forming)
+DEFINITION  2-Hydroxyethylphosphonate + Oxygen <=> Hydroxymethylphosphonate + Formate
+EQUATION    C06451 + C00007 <=> C06455 + C00058
+RCLASS      RC03073  C06451_C06455
+            RC03074  C00058_C06451
+ENZYME      1.13.11.72
+PATHWAY     rn00440  Phosphonate and phosphinate metabolism
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12905  2-hydroxyethylphosphonate dioxygenase [EC:1.13.11.72]
+///

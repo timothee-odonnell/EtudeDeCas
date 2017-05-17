@@ -1,0 +1,20 @@
+ENTRY       R07157                      Reaction
+NAME        carbon-monoxide,water:ferredoxin oxidoreductase
+DEFINITION  CO + H2O + Oxidized ferredoxin <=> CO2 + Reduced ferredoxin
+EQUATION    C00237 + C00001 + C00139 <=> C00011 + C00138
+RCLASS      RC02800  C00011_C00237
+ENZYME      1.2.7.4
+PATHWAY     rn00680  Methane metabolism
+            rn00720  Carbon fixation pathways in prokaryotes
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00377  Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+            M00422  Acetyl-CoA pathway, CO2 => acetyl-CoA
+ORTHOLOGY   K00192  acetyl-CoA decarbonylase/synthase complex subunit alpha [EC:1.2.7.4]
+            K00195  acetyl-CoA decarbonylase/synthase complex subunit epsilon
+            K00196  carbon-monoxide dehydrogenase iron sulfur subunit
+            K00198  carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4]
+            K03518  carbon-monoxide dehydrogenase small subunit [EC:1.2.7.4]
+            K03519  carbon-monoxide dehydrogenase medium subunit [EC:1.2.7.4]
+            K03520  carbon-monoxide dehydrogenase large subunit [EC:1.2.7.4]
+///

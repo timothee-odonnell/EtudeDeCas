@@ -1,0 +1,10 @@
+ENTRY       R02155                      Reaction
+NAME        S-Adenosyl-L-methionine:histamine N-tele-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Histamine <=> S-Adenosyl-L-homocysteine + N-Methylhistamine
+EQUATION    C00019 + C00388 <=> C00021 + C05127
+RCLASS      RC00003  C00019_C00021
+            RC00655  C00388_C05127
+ENZYME      2.1.1.8
+PATHWAY     rn00340  Histidine metabolism
+ORTHOLOGY   K00546  histamine N-methyltransferase [EC:2.1.1.8]
+///

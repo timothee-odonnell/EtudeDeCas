@@ -1,0 +1,13 @@
+ENTRY       R03462                      Reaction
+NAME        Biphenyl-2,3-diol:oxygen 1,2-oxidoreductase (decyclizing)
+DEFINITION  Biphenyl-2,3-diol + Oxygen <=> 2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate
+EQUATION    C02526 + C00007 <=> C01273
+RCLASS      RC01306  C01273_C02526
+ENZYME      1.13.11.39
+PATHWAY     rn00621  Dioxin degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00543  Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate
+ORTHOLOGY   K00462  biphenyl-2,3-diol 1,2-dioxygenase [EC:1.13.11.39]
+///

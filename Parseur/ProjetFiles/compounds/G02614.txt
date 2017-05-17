@@ -1,0 +1,15 @@
+ENTRY       G02614                      Glycan
+COMPOSITION (GalA)2
+MASS        370.3
+REMARK      Same as: C02273
+REACTION    R06239
+ENZYME      3.2.1.15
+DBLINKS     CCSD: 33511 39624
+            GlycomeDB: 18925
+            JCGGDB: JCGG-STR009617
+NODE        2
+            1   GalA        0     0
+            2   GalA      -10     0
+EDGE        1
+            1     2:a1    1:4  
+///

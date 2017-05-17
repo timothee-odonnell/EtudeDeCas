@@ -1,0 +1,8 @@
+ENTRY       R11104                      Reaction
+NAME        NADH phosphohydrolase
+DEFINITION  NADH + H2O <=> AMP + NMNH
+EQUATION    C00004 + C00001 <=> C00020 + C21113
+RCLASS      RC00002  C00004_C00020  C00004_C21113
+ENZYME      3.6.1.22
+ORTHOLOGY   K03426  NAD+ diphosphatase [EC:3.6.1.22]
+///

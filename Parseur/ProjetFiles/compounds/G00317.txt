@@ -1,0 +1,29 @@
+ENTRY       G00317                      Glycan
+NAME        GM4
+COMPOSITION (Gal)1 (Neu5Ac)1 (Cer)1
+MASS        453.4 (Cer)
+REMARK      Same as: C06128
+REACTION    R06147
+ENZYME      3.2.1.18
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP06 Acidic glycosphingolipids
+               SP0601 Gangliosides
+                G00317  Neu5Ac-alpha2->3Gal-beta1->1'Cer (GM4)
+REFERENCE   1  [PMID:15546874]
+            Ideo H, Seko A, Yamashita K.
+            Galectin-4 binds to sulfated glycosphingolipids and carcinoembryonic antigen in patches on the cell surface of human colon adenocarcinoma cells.
+            J. Biol. Chem. 280 (2005) 4730-7.
+DBLINKS     CCSD: 3342 3590 9330 9910 11572 12379 13634 21340 23668 23857 25279 25334 25406 25433 25916 27841 32701 34906 35408 35543 36137 37216 37637 38536 38634 39386 42150 44821 45076 45719 46250 46265 46699 47426 47639 49490 50220
+            GlycomeDB: 375
+            JCGGDB: JCGG-STR024648
+            LipidBank: GSG1186 GSG3004 GSG3005
+            GlycoEpitope: EP0055 EP0301
+NODE        3
+            1   Cer        10     0
+            2   Gal         0     0
+            3   Neu5Ac    -10     0
+EDGE        2
+            1     2:b1    1:1  
+            2     3:a2    2:3  
+///

@@ -1,0 +1,9 @@
+ENTRY       R02341                      Reaction
+NAME        N-D-ribosylpurine ribohydrolase
+DEFINITION  N-D-Ribosylpurine + H2O <=> Purine + D-Ribose
+EQUATION    C15586 + C00001 <=> C15587 + C00121
+COMMENT     general reaction
+RCLASS      RC00122  C15586_C15587
+            RC00318  C00121_C15586
+ENZYME      3.2.2.1
+///

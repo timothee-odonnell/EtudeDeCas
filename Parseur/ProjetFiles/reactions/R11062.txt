@@ -1,0 +1,10 @@
+ENTRY       R11062                      Reaction
+NAME        phosphatidylethanolamine:phosphatidylglycerol 3-phosphatidyltransferase
+DEFINITION  Phosphatidylglycerol + Phosphatidylethanolamine <=> Cardiolipin + Ethanolamine
+EQUATION    C00344 + C00350 <=> C05980 + C00189
+RCLASS      RC00017  C00189_C00350  C00344_C05980
+ENZYME      2.7.8.-
+PATHWAY     rn00564  Glycerophospholipid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K06132  cardiolipin synthase C [EC:2.7.8.-]
+///

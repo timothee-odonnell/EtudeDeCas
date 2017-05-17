@@ -1,0 +1,8 @@
+ENTRY       R02830                      Reaction
+NAME        orcinol,NADH:oxygen oxidoreductase (2-hydroxylating)
+DEFINITION  Orcinol + Oxygen + NADH + H+ <=> 2,3,5-Trihydroxytoluene + NAD+ + H2O
+EQUATION    C00727 + C00007 + C00004 + C00080 <=> C03338 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC00236  C00727_C03338
+ENZYME      1.14.13.6
+///

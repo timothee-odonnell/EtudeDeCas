@@ -1,0 +1,7 @@
+ENTRY       R10732                      Reaction
+NAME        (2E,6E)-farnesyl diphosphate lyase (cyclizing, (-)-exo-alpha-bergamotene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (-)-exo-alpha-Bergamotene + Diphosphate
+EQUATION    C00448 <=> C20811 + C00013
+RCLASS      RC02577  C00448_C20811
+ENZYME      4.2.3.81
+///

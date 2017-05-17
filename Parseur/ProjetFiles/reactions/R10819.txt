@@ -1,0 +1,8 @@
+ENTRY       R10819                      Reaction
+NAME        L-rhamnopyranose 1-epimerase
+DEFINITION  alpha-L-Rhamnose <=> beta-L-Rhamnose
+EQUATION    C02476 <=> C02338
+RCLASS      RC00563  C02338_C02476
+ENZYME      5.1.3.32
+ORTHOLOGY   K03534  L-rhamnose mutarotase [EC:5.1.3.32]
+///
