@@ -1,8 +1,0 @@
-ENTRY       R00989                      Reaction
-NAME        Malonyl-CoA:anthranilate N-malonyltransferase
-DEFINITION  Malonyl-CoA + Anthranilate <=> CoA + N-Malonylanthranilate
-EQUATION    C00083 + C00108 <=> C00010 + C03147
-RCLASS      RC00004  C00010_C00083
-            RC00416  C00108_C03147
-ENZYME      2.3.1.113
-///

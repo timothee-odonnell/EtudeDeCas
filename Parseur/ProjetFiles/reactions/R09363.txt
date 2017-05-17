@@ -1,8 +1,0 @@
-ENTRY       R09363                      Reaction
-NAME        L-arginine,2-oxoglutarate:oxygen oxidoreductase ((3S)-hydroxylating)
-DEFINITION  L-Arginine + 2-Oxoglutarate + Oxygen <=> beta-Hydroxyarginine + Succinate + CO2
-EQUATION    C00062 + C00026 + C00007 <=> C18473 + C00042 + C00011
-COMMENT     L-arginine beta-hydroxylase, vioC
-RCLASS      RC00773  C00062_C18473
-ENZYME      1.14.11.41
-///

@@ -1,9 +1,0 @@
-ENTRY       R10781                      Reaction
-DEFINITION  (R)-Mevalonate 3,5-bisphosphate <=> Isopentenyl phosphate
-EQUATION    C20848 <=> C20345
-COMMENT     unclear reaction
-RCLASS      RC03276  C20345_C20848
-PATHWAY     rn00900  Terpenoid backbone biosynthesis
-            rn01110  Biosynthesis of secondary metabolites
-            rn01130  Biosynthesis of antibiotics
-///

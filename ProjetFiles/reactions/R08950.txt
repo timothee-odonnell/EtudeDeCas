@@ -1,7 +1,0 @@
-ENTRY       R08950                      Reaction
-NAME        dimethylallyl-diphosphate:dimethylallyl-diphosphate dimethylallyltransferase (lavandulyl-diphosphate-forming)
-DEFINITION  2 Dimethylallyl diphosphate <=> Diphosphate + Lavandulyl diphosphate
-EQUATION    2 C00235 <=> C00013 + C18052
-RCLASS      RC02386  C00235_C18052
-ENZYME      2.5.1.69
-///

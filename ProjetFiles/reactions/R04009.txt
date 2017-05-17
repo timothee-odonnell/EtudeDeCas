@@ -1,6 +1,0 @@
-ENTRY       R04009                      Reaction
-DEFINITION  Aldoxime + CO2 <=> 2-Oxoacid oxime
-EQUATION    C02658 + C00011 <=> C05718
-RCLASS      RC01048  C02658_C05718
-ENZYME      1.14.13.-
-///

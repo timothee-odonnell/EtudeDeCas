@@ -1,8 +1,0 @@
-ENTRY       R00085                      Reaction
-NAME        ATP diphosphohydrolase (phosphate-forming)
-DEFINITION  ATP + 2 H2O <=> AMP + 2 Orthophosphate
-EQUATION    C00002 + 2 C00001 <=> C00020 + 2 C00009
-COMMENT     possibly two-step reaction (see R00086+R00122)
-RCLASS      RC00002  C00002_C00020
-ENZYME      3.6.1.5
-///

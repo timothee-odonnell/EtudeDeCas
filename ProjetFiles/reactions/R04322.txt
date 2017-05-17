@@ -1,9 +1,0 @@
-ENTRY       R04322                      Reaction
-NAME        UDP-alpha-D-galactose:2-(2-hydroxyacyl)sphingosine 1-beta-D-galactosyltransferase
-DEFINITION  UDP-alpha-D-galactose + 2-(2-Hydroxyacyl)sphingosine <=> UDP + 1-(beta-D-Galactosyl)-2-(2-hydroxyacyl)sphingosine
-EQUATION    C00052 + C03823 <=> C00015 + C04708
-RCLASS      RC00005  C00015_C00052
-            RC00059  C03823_C04708
-ENZYME      2.4.1.47
-ORTHOLOGY   K04628  ceramide galactosyltransferase [EC:2.4.1.47]
-///

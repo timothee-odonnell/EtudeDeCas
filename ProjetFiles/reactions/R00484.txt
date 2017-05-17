@@ -1,8 +1,0 @@
-ENTRY       R00484                      Reaction
-NAME        N-Carbamoyl-L-aspartate amidohydrolase
-DEFINITION  N-Carbamoyl-L-aspartate + H2O <=> L-Aspartate + CO2 + Ammonia
-EQUATION    C00438 + C00001 <=> C00049 + C00011 + C00014
-RCLASS      RC00064  C00049_C00438
-ENZYME      3.5.1.7
-PATHWAY     rn00250  Alanine, aspartate and glutamate metabolism
-///

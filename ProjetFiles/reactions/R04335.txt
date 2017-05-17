@@ -1,8 +1,0 @@
-ENTRY       R04335                      Reaction
-NAME        UDP-L-arabinose:indol-3-ylacetyl-myo-inositol L-arabinosyltransferase
-DEFINITION  UDP-L-arabinose + Indole-3-acetyl-myo-inositol <=> UDP + Indol-3-ylacetyl-myo-inositol L-arabinoside
-EQUATION    C00935 + C03868 <=> C00015 + C04611
-RCLASS      RC00005  C00015_C00935
-            RC00049  C03868_C04611
-ENZYME      2.4.2.34
-///

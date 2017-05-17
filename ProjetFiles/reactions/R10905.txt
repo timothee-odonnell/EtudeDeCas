@@ -1,7 +1,0 @@
-ENTRY       R10905                      Reaction
-DEFINITION  Hyaluronic acid + H2O <=> Hyaluronic acid + G00526
-EQUATION    G10505 + C00001 <=> G10505 + G00526
-ENZYME      3.2.1.35
-PATHWAY     rn00531  Glycosaminoglycan degradation
-ORTHOLOGY   K01197  hyaluronoglucosaminidase [EC:3.2.1.35]
-///

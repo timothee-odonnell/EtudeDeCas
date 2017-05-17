@@ -1,6 +1,0 @@
-ENTRY       R07285                      Reaction
-NAME        tRNA:phosphate nucleotidyltransferase
-DEFINITION  tRNA + Orthophosphate <=> tRNA + NDP
-EQUATION    C00066 + C00009 <=> C00066 + C00454
-ENZYME      2.7.7.56
-///

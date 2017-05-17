@@ -1,8 +1,0 @@
-ENTRY       R11539                      Reaction
-NAME        lithocholoyl-CoA:cholate CoA-transferase
-DEFINITION  Lithocholoyl-CoA + Cholic acid <=> Lithocholic acid + Choloyl-CoA
-EQUATION    C21449 + C00695 <=> C03990 + C01794
-RCLASS      RC00014  C00695_C01794  C03990_C21449
-ENZYME      2.8.3.25
-ORTHOLOGY   K15871  bile acid CoA-transferase [EC:2.8.3.25]
-///

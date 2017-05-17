@@ -1,5 +1,0 @@
-ENTRY       R11115                      Reaction
-DEFINITION  Bacteriohopanetetrol + UDP-N-acetyl-alpha-D-glucosamine <=> Bacteriohopanetetrol-acetylglucosamine + UDP
-EQUATION    C21119 + C00043 <=> C21120 + C00015
-RCLASS      RC00005  C00015_C00043
-///

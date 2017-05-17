@@ -1,9 +1,0 @@
-ENTRY       R11047                      Reaction
-DEFINITION  dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose <=> dTDP-L-megosamine
-EQUATION    C21074 <=> C11919
-RCLASS      RC00182  C11919_C21074
-PATHWAY     rn00523  Polyketide sugar unit biosynthesis
-            rn01130  Biosynthesis of antibiotics
-MODULE      M00800  dTDP-L-megosamine biosynthesis
-ORTHOLOGY   K13322  dTDP-4-keto-6-deoxyhexose 4-ketoreductase
-///

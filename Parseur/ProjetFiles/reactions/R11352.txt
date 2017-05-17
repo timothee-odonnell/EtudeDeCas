@@ -1,7 +1,0 @@
-ENTRY       R11352                      Reaction
-NAME        methylglyoxal:oxygen oxidoreductase
-DEFINITION  Methylglyoxal + H2O + Oxygen <=> Pyruvate + Hydrogen peroxide
-EQUATION    C00546 + C00001 + C00007 <=> C00022 + C00027
-RCLASS      RC00104  C00022_C00546
-ENZYME      1.2.3.15
-///

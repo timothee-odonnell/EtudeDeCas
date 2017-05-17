@@ -1,8 +1,0 @@
-ENTRY       R03364                      Reaction
-NAME        1-Phosphatidyl-D-myo-inositol inositolphosphohydrolase (cyclic-phosphate-forming)
-DEFINITION  1-Phosphatidyl-D-myo-inositol <=> D-myo-Inositol 1,2-cyclic phosphate + 1,2-Diacyl-sn-glycerol
-EQUATION    C01194 <=> C04299 + C00641
-RCLASS      RC00017  C00641_C01194
-            RC00915  C01194_C04299
-ENZYME      4.6.1.13
-///

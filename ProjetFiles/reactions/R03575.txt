@@ -1,7 +1,0 @@
-ENTRY       R03575                      Reaction
-NAME        Chlorite:acceptor oxidoreductase
-DEFINITION  Chloric acid + Reduced acceptor <=> Chlorous acid + Acceptor + H2O
-EQUATION    C01485 + C00030 <=> C01486 + C00028 + C00001
-RCLASS      RC00956  C01485_C01486
-ENZYME      1.97.1.1
-///

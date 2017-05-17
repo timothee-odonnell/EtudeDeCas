@@ -1,9 +1,0 @@
-ENTRY       R06289                      Reaction
-NAME        mycothiol:NAD(P)+ oxidoreductase;
-            mycothione reductase
-DEFINITION  2 Mycothiol + NAD+ <=> Mycothione + NADH + H+
-EQUATION    2 G11174 + C00003 <=> G11175 + C00004 + C00080
-REMARK      Same as: R05715
-RCLASS      RC00001  C00003_C00004
-ENZYME      1.8.1.15
-///

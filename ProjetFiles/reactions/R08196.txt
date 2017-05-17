@@ -1,7 +1,0 @@
-ENTRY       R08196                      Reaction
-DEFINITION  D-Allothreonine <=> Glycine + Acetaldehyde
-EQUATION    C12317 <=> C00037 + C00084
-RCLASS      RC00312  C00037_C12317
-            RC00372  C00084_C12317
-ENZYME      4.1.2.42
-///

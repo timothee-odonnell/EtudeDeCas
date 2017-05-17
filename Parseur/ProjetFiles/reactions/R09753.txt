@@ -1,8 +1,0 @@
-ENTRY       R09753                      Reaction
-NAME        UDP-alpha-D-galactose:soyasapogenol B 3-O-glucuronide beta-D-galactosyltransferase
-DEFINITION  UDP-alpha-D-galactose + Soyasapogenol B 3-O-D-glucuronide <=> UDP + Soyasaponin III
-EQUATION    C00052 + C19763 <=> C00015 + C19865
-RCLASS      RC00005  C00015_C00052
-            RC00049  C19763_C19865
-ENZYME      2.4.1.272
-///

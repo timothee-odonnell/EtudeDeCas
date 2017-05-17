@@ -1,6 +1,0 @@
-ENTRY       R00138                      Reaction
-NAME        Triphosphate phosphohydrolase
-DEFINITION  Triphosphate + H2O <=> Diphosphate + Orthophosphate
-EQUATION    C00536 + C00001 <=> C00013 + C00009
-ENZYME      3.6.1.25
-///

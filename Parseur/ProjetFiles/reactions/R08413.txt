@@ -1,8 +1,0 @@
-ENTRY       R08413                      Reaction
-DEFINITION  L-Histidine <=> Pilocarpine
-EQUATION    C00135 <=> C07474
-COMMENT     unclear reaction
-            incomplete reaction
-RCLASS      RC02157  C00135_C07474
-PATHWAY     rn01110  Biosynthesis of secondary metabolites
-///

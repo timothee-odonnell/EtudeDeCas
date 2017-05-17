@@ -1,9 +1,0 @@
-ENTRY       R08546                      Reaction
-NAME        (2E,6E)-Farnesyl-diphosphate diphosphate-lyase (beta-selinene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> beta-Selinene + Diphosphate
-EQUATION    C00448 <=> C09723 + C00013
-RCLASS      RC02182  C00448_C09723
-ENZYME      4.2.3.66
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-            rn01110  Biosynthesis of secondary metabolites
-///

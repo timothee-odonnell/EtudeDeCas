@@ -1,7 +1,0 @@
-ENTRY       R02041                      Reaction
-NAME        N-(Long-chain-acyl)ethanolamine amidohydrolase
-DEFINITION  N-(Long-chain-acyl)ethanolamine + H2O <=> Long-chain carboxylate + Ethanolamine
-EQUATION    C04080 + C00001 <=> C00347 + C00189
-RCLASS      RC00096  C00189_C04080
-ENZYME      3.5.1.60
-///

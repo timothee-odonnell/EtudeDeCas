@@ -1,9 +1,0 @@
-ENTRY       R10815                      Reaction
-NAME        5'-(N7-methylguanosine 5'-triphospho)-[mRNA] N7-methylguanosine-5'-diphosphate phosphohydrolase
-DEFINITION  m7G(5')pppR-mRNA + H2O <=> N7-Methylguanosine 5'-diphosphate + 5'-Phospho-[mRNA]
-EQUATION    C02339 + C00001 <=> C20183 + C20863
-RCLASS      RC00002  C02339_C20183  C02339_C20863
-ENZYME      3.6.1.62
-ORTHOLOGY   K12613  mRNA-decapping enzyme subunit 2 [EC:3.6.1.62]
-            K16855  U8 snoRNA-decapping enzyme [EC:3.6.1.62 3.6.1.64]
-///

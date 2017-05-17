@@ -1,8 +1,0 @@
-ENTRY       R03964                      Reaction
-NAME        2-hydroxybiphenyl,NADH:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  2-Hydroxybiphenyl + Oxygen + NADH + H+ <=> Biphenyl-2,3-diol + NAD+ + H2O
-EQUATION    C02499 + C00007 + C00004 + C00080 <=> C02526 + C00003 + C00001
-RCLASS      RC00001  C00003_C00004
-            RC00046  C02499_C02526
-ENZYME      1.14.13.44
-///

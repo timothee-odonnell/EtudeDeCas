@@ -1,7 +1,0 @@
-ENTRY       R03266                      Reaction
-NAME        4-Hydroxy-L-glutamate:2-oxoglutarate aminotransferase
-DEFINITION  4-Hydroxy-L-glutamate + 2-Oxoglutarate <=> 4-Hydroxy-2-oxoglutarate + L-Glutamate
-EQUATION    C03079 + C00026 <=> C01127 + C00025
-RCLASS      RC00006  C00025_C00026  C01127_C03079
-ENZYME      2.6.1.23
-///

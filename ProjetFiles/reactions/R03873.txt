@@ -1,9 +1,0 @@
-ENTRY       R03873                      Reaction
-NAME        N-Acetylindoxyl:oxygen oxidoreductase
-DEFINITION  N-Acetylisatin <=> N-Acetylindoxyl + Oxygen
-EQUATION    C02172 <=> C02298 + C00007
-COMMENT     incomplete reaction
-RCLASS      RC01011  C02172_C02298
-ENZYME      1.7.3.2
-PATHWAY     rn00380  Tryptophan metabolism
-///

@@ -1,8 +1,0 @@
-ENTRY       R04057                      Reaction
-NAME        Acetyl-CoA:5-hydroxypentanoate CoA-transferase
-DEFINITION  Acetyl-CoA + 5-Hydroxypentanoate <=> Acetate + 5-Hydroxypentanoyl-CoA
-EQUATION    C00024 + C02804 <=> C00033 + C03237
-RCLASS      RC00012  C00024_C00033
-            RC00014  C02804_C03237
-ENZYME      2.8.3.14
-///

@@ -1,7 +1,0 @@
-ENTRY       R09339                      Reaction
-NAME        methylmercury mercuric-lyase (methane-forming)
-DEFINITION  Methylmercury + H+ <=> Methane + Mercury(2+)
-EQUATION    C18672 + C00080 <=> C01438 + C00703
-RCLASS      RC02487  C01438_C18672
-ENZYME      4.99.1.2
-///

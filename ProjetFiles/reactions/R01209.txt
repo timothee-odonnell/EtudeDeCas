@@ -1,9 +1,0 @@
-ENTRY       R01209                      Reaction
-NAME        2,3-Dihydroxy-3-methylbutanoate hydro-lyase
-DEFINITION  2,3-Dihydroxy-3-methylbutanoate <=> 3-Methyl-2-oxobutanoic acid + H2O
-EQUATION    C04039 <=> C00141 + C00001
-RCLASS      RC00468  C00141_C04039
-ENZYME      4.2.1.9
-PATHWAY     rn00770  Pantothenate and CoA biosynthesis
-ORTHOLOGY   K01687  dihydroxy-acid dehydratase [EC:4.2.1.9]
-///

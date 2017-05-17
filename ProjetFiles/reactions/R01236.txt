@@ -1,8 +1,0 @@
-ENTRY       R01236                      Reaction
-NAME        3'-Phosphoadenylylsulfate:thiol S-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Thiol <=> Adenosine 3',5'-bisphosphate + S-Alkyl thiosulfate
-EQUATION    C00053 + C00145 <=> C00054 + C02885
-RCLASS      RC00007  C00053_C00054
-            RC00473  C00145_C02885
-ENZYME      2.8.2.16
-///

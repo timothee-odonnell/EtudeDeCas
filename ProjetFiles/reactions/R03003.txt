@@ -1,8 +1,0 @@
-ENTRY       R03003                      Reaction
-NAME        S-Adenosyl-L-methionine:DNA-cytosine N-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + DNA cytosine <=> S-Adenosyl-L-homocysteine + DNA N4-methylcytosine
-EQUATION    C00019 + C00856 <=> C00021 + C03110
-RCLASS      RC00003  C00019_C00021
-            RC00335  C00856_C03110
-ENZYME      2.1.1.113
-///

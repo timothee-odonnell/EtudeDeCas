@@ -1,7 +1,0 @@
-ENTRY       R07278                      Reaction
-NAME        dGTP:depurinated-DNA purine transferase
-DEFINITION  dGTP + Depurinated DNA <=> Deoxyribose triphosphate + DNA containing guanine
-EQUATION    C00286 + C02270 <=> C12347 + C11475
-RCLASS      RC01021  C00286_C12347  C02270_C11475
-ENZYME      2.6.99.1
-///

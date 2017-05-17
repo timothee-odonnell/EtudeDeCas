@@ -1,9 +1,0 @@
-ENTRY       R01004                      Reaction
-NAME        Dolichyl-diphosphate phosphohydrolase
-DEFINITION  Dolichyl diphosphate + H2O <=> Dolichyl phosphate + Orthophosphate
-EQUATION    C00621 + C00001 <=> C00110 + C00009
-RCLASS      RC00002  C00110_C00621
-ENZYME      3.6.1.43
-PATHWAY     rn00510  N-Glycan biosynthesis
-ORTHOLOGY   K07252  dolichyldiphosphatase [EC:3.6.1.43]
-///

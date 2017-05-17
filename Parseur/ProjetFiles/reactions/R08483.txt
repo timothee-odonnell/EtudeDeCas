@@ -1,6 +1,0 @@
-ENTRY       R08483                      Reaction
-DEFINITION  Tryptamine <=> Calligonine
-EQUATION    C00398 <=> C09089
-COMMENT     incomplete reaction
-RCLASS      RC01568  C00398_C09089
-///

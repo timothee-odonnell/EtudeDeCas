@@ -1,8 +1,0 @@
-ENTRY       R02586                      Reaction
-NAME        3'-Phosphoadenylylsulfate:protein-tyrosine O-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Protein tyrosine <=> Adenosine 3',5'-bisphosphate + Protein tyrosine-O-sulfate
-EQUATION    C00053 + C00585 <=> C00054 + C03721
-RCLASS      RC00007  C00053_C00054
-            RC00128  C00585_C03721
-ENZYME      2.8.2.20
-///

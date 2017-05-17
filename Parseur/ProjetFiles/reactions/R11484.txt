@@ -1,7 +1,0 @@
-ENTRY       R11484                      Reaction
-NAME        bacteriochlorophyllide-c:S-adenosyl-L-methionine oxidoreductase (C-7(1)-hydroxylating)
-DEFINITION  S-Adenosyl-L-methionine + Bacteriochlorophyllide c + H2O <=> 7-(hydroxymethyl)-bacteriochlorophyllide c + 5'-Deoxyadenosine + L-Methionine
-EQUATION    C00019 + C18161 + C00001 <=> C21407 + C05198 + C00073
-RCLASS      RC00269  C18161_C21407
-ENZYME      1.17.98.2
-///

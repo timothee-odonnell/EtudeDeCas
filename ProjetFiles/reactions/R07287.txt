@@ -1,8 +1,0 @@
-ENTRY       R07287                      Reaction
-NAME        3'-phosphoadenylyl-sulfate:glycolithocholate sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Glycolithocholate <=> Adenosine 3',5'-bisphosphate + Sulfoglycolithocholate
-EQUATION    C00053 + C15557 <=> C00054 + C11301
-RCLASS      RC00007  C00053_C00054
-            RC00231  C11301_C15557
-ENZYME      2.8.2.14
-///

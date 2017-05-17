@@ -1,7 +1,0 @@
-ENTRY       R11523                      Reaction
-DEFINITION  [Sulfur-carrier protein]-Gly-NH-CH2-C(O)-S-L-cysteine <=> [Sulfur-carrier protein]-Gly-Gly-L-Cys
-EQUATION    C20729 <=> C21437
-COMMENT     possibly spontaneous
-            following after R10610
-RCLASS      RC03460  C20729_C21437
-///

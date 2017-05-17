@@ -1,7 +1,0 @@
-ENTRY       R00195                      Reaction
-NAME        2,3-diaminopropanoate ammonia-lyase (adding water; pyruvate-forming)
-DEFINITION  2,3-Diaminopropanoate + H2O <=> Pyruvate + 2 Ammonia
-EQUATION    C06393 + C00001 <=> C00022 + 2 C00014
-RCLASS      RC01176  C00022_C06393
-ENZYME      4.3.1.15
-///

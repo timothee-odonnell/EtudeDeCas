@@ -1,9 +1,0 @@
-ENTRY       R04771                      Reaction
-NAME        ATP:L-selenomethione S-adenosyltransferase
-DEFINITION  ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine
-EQUATION    C00002 + C05335 + C00001 <=> C00009 + C00013 + C05691
-COMMENT     possibly intermediate (triphosphate, see [CPD:C00536])
-RCLASS      RC01211  C05335_C05691
-ENZYME      2.5.1.6
-ORTHOLOGY   K00789  S-adenosylmethionine synthetase [EC:2.5.1.6]
-///

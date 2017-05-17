@@ -1,8 +1,0 @@
-ENTRY       R01425                      Reaction
-NAME        Benzoylagmatine amidohydrolase
-DEFINITION  Benzoylagmatine + H2O <=> Benzoate + Agmatine
-EQUATION    C02253 + C00001 <=> C00180 + C00179
-RCLASS      RC00096  C00179_C02253
-            RC00162  C00180_C02253
-ENZYME      3.5.1.40
-///

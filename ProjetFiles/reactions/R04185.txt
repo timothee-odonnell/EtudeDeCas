@@ -1,9 +1,0 @@
-ENTRY       R04185                      Reaction
-NAME        (S)-3-(Imidazol-5-yl)lactate:NAD+ oxidoreductase
-DEFINITION  (S)-3-(Imidazol-5-yl)lactate + NAD+ <=> Imidazol-5-yl-pyruvate + NADH + H+
-EQUATION    C03817 + C00003 <=> C03277 + C00004 + C00080
-COMMENT     NADP+ (see R04186)
-RCLASS      RC00001  C00003_C00004
-            RC00031  C03277_C03817
-ENZYME      1.1.1.111
-///

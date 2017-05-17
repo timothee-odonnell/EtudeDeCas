@@ -1,8 +1,0 @@
-ENTRY       R10909                      Reaction
-NAME        ATP:ATP adenylyltransferase (2'-5' linkages-forming)
-DEFINITION  3 ATP <=> pppA2'p5'A2'p5'A + 2 Diphosphate
-EQUATION    3 C00002 <=> C20936 + 2 C00013
-RCLASS      RC00078  C00002_C20936
-ENZYME      2.7.7.84
-ORTHOLOGY   K14216  2'-5'-oligoadenylate synthetase [EC:2.7.7.84]
-///

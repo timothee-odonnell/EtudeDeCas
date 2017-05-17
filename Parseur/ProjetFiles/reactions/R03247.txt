@@ -1,9 +1,0 @@
-ENTRY       R03247                      Reaction
-NAME        Gallate carboxy-lyase
-DEFINITION  Gallate <=> 1,2,3-Trihydroxybenzene + CO2
-EQUATION    C01424 <=> C01108 + C00011
-RCLASS      RC00391  C01108_C01424
-ENZYME      4.1.1.59
-PATHWAY     rn00627  Aminobenzoate degradation
-            rn01120  Microbial metabolism in diverse environments
-///

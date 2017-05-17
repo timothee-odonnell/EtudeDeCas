@@ -1,7 +1,0 @@
-ENTRY       R11321                      Reaction
-DEFINITION  UDP-N-acetyl-D-galactosamine + iGb3-Cer <=> UDP + iGb4-Cer 
-EQUATION    G10611 + G00403 <=> G10619 + G00392
-ENZYME      2.4.1.79
-PATHWAY     rn00603  Glycosphingolipid biosynthesis - globo and isoglobo series
-ORTHOLOGY   K00719  galactosylgalactosylglucosylceramide beta-D-acetylgalactosaminyltransferase [EC:2.4.1.79]
-///

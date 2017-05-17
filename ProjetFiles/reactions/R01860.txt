@@ -1,7 +1,0 @@
-ENTRY       R01860                      Reaction
-NAME        4-Aminobenzoate carboxy-lyase
-DEFINITION  4-Aminobenzoate <=> Aniline + CO2
-EQUATION    C00568 <=> C00292 + C00011
-RCLASS      RC00391  C00292_C00568
-ENZYME      4.1.1.24
-///

@@ -1,7 +1,0 @@
-ENTRY       R11405                      Reaction
-NAME        (S)-scoulerine,NADPH:oxygen oxidoreductase [(S)-nandinine-forming]
-DEFINITION  (S)-Scoulerine + NADPH + H+ + Oxygen <=> (S)-Nandinine + NADP+ + 2 H2O
-EQUATION    C02106 + C00005 + C00080 + C00007 <=> C21370 + C00006 + 2 C00001
-RCLASS      RC00925  C02106_C21370
-ENZYME      1.14.21.12
-///

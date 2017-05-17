@@ -1,7 +1,0 @@
-ENTRY       R02938                      Reaction
-NAME        Pentanamide amidohydrolase
-DEFINITION  Pentanamide + H2O <=> Pentanoate + Ammonia
-EQUATION    C01842 + C00001 <=> C00803 + C00014
-RCLASS      RC00010  C00803_C01842
-ENZYME      3.5.1.50
-///

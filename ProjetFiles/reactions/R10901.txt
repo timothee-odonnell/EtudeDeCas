@@ -1,9 +1,0 @@
-ENTRY       R10901                      Reaction
-NAME        UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
-DEFINITION  ATP + UDP-N-acetylmuramate + L-Alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate <=> ADP + Orthophosphate + UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate
-EQUATION    C00002 + C01050 + C20925 <=> C00008 + C00009 + C04877
-RCLASS      RC00002  C00002_C00008
-            RC00064  C04877_C20925
-            RC00141  C01050_C04877
-ENZYME      6.3.2.45
-///

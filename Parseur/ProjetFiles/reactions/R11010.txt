@@ -1,7 +1,0 @@
-ENTRY       R11010                      Reaction
-NAME        (4R)-4-hydroxysphinganine ceramide,ferrocytochrome b5:oxygen oxidoreductase (8,9-cis-dehydrogenating)
-DEFINITION  Phytoceramide + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (4R,8Z)-4-Hydroxysphing-8-enine ceramide + 2 Ferricytochrome b5 + 2 H2O
-EQUATION    C12145 + 2 C00999 + C00007 + 2 C00080 <=> C21025 + 2 C00996 + 2 C00001
-RCLASS      RC00917  C12145_C21025
-ENZYME      1.14.19.29
-///

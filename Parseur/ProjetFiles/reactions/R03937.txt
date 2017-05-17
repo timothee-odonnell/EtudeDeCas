@@ -1,7 +1,0 @@
-ENTRY       R03937                      Reaction
-DEFINITION  Glutaconyl-1-CoA + H2O <=> 2-Hydroxyglutaryl-CoA
-EQUATION    C02411 + C00001 <=> C03058
-RCLASS      RC01032  C02411_C03058
-ENZYME      4.2.1.-
-PATHWAY     rn00650  Butanoate metabolism
-///

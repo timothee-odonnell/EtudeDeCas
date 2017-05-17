@@ -1,8 +1,0 @@
-ENTRY       R09663                      Reaction
-NAME        NDP-glucose:3-phospho-D-glycerate 2-alpha-D-glucosyltransferase
-DEFINITION  NDP-glucose + 3-Phospho-D-glycerate <=> NDP + 2-O-(alpha-D-Glucopyranosyl)-3-phospho-D-glycerate
-EQUATION    C15541 + C00197 <=> C00454 + C19791
-RCLASS      RC00005  C00454_C15541
-            RC00397  C00197_C19791
-ENZYME      2.4.1.266
-///

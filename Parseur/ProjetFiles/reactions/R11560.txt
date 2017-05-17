@@ -1,8 +1,0 @@
-ENTRY       R11560                      Reaction
-NAME        protein N-terminal glutamine amidohydrolase
-DEFINITION  L-Glutaminyl-peptide + H2O <=> L-Glutamyl-protein + Ammonia
-EQUATION    C02986 + C00001 <=> C21456 + C00014
-RCLASS      RC00010  C02986_C21456
-ENZYME      3.5.1.122
-ORTHOLOGY   K21286  protein N-terminal glutamine amidohydrolase [EC:3.5.1.122]
-///

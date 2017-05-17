@@ -1,8 +1,0 @@
-ENTRY       R05711                      Reaction
-NAME        N,N-dimethyl-1,4-phenylenediamine, aniline:NADP+ oxidoreductase
-DEFINITION  N,N-Dimethyl-1,4-phenylenediamine + Aniline + 2 NADP+ <=> para-(Dimethylamino)azobenzene + 2 NADPH + 2 H+
-EQUATION    C04203 + C00292 + 2 C00006 <=> C03764 + 2 C00005 + 2 C00080
-RCLASS      RC00001  C00005_C00006
-            RC00252  C00292_C03764  C03764_C04203
-ENZYME      1.7.1.6
-///

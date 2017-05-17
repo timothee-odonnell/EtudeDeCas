@@ -1,8 +1,0 @@
-ENTRY       R04490                      Reaction
-NAME        5-(4-Acetoxybut-1-ynyl)-2,2'-bithiophene O-acetylhydrolase
-DEFINITION  5-(4-Acetoxybut-1-ynyl)-2,2'-bithiophene + H2O <=> 5-(4-Hydroxybut-1-ynyl)-2,2'-bithiophene + Acetate
-EQUATION    C04485 + C00001 <=> C04486 + C00033
-RCLASS      RC00020  C00033_C04485
-            RC00041  C04485_C04486
-ENZYME      3.1.1.54
-///

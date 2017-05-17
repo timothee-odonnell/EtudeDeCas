@@ -1,7 +1,0 @@
-ENTRY       R11540                      Reaction
-NAME        poly(ethylene terephthalate) hydrolase
-DEFINITION  Poly(ethylene terephthalate)(n) + H2O <=> Poly(ethylene terephthalate)(n-1) + 4-(2-Hydroxyethoxycarbonyl)benzoate
-EQUATION    C21451(n) + C00001 <=> C21451(n-1) + C21450
-ENZYME      3.1.1.101
-ORTHOLOGY   K21104  poly(ethylene terephthalate) hydrolase [EC:3.1.1.101]
-///

@@ -1,9 +1,0 @@
-ENTRY       R02717                      Reaction
-NAME        UDP-N-acetyl-D-glucosamine:poly(ribitol-phosphate) N-acetyl-D-glucosaminyltransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + Poly(ribitol phosphate) <=> UDP + N-Acetyl-D-glucosaminyl-poly(ribitol phosphate)
-EQUATION    C00043 + C00653 <=> C00015 + C04667
-REMARK      Same as: R06182
-RCLASS      RC00005  C00015_C00043
-            RC00397  C00653_C04667
-ENZYME      2.4.1.70
-///

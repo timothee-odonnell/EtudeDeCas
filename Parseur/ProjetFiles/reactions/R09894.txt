@@ -1,7 +1,0 @@
-ENTRY       R09894                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, gamma-curcumene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> gamma-Curcumene + Diphosphate
-EQUATION    C00448 <=> C20179 + C00013
-RCLASS      RC02786  C00448_C20179
-ENZYME      4.2.3.94
-///

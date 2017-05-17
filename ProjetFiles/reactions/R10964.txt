@@ -1,8 +1,0 @@
-ENTRY       R10964                      Reaction
-NAME        S-adenosyl-L-methionine:L-tyrosine C3-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + L-Tyrosine <=> S-Adenosyl-L-homocysteine + 3-Methyl-L-tyrosine
-EQUATION    C00019 + C00082 <=> C00021 + C20800
-RCLASS      RC00003  C00019_C00021
-            RC00332  C00082_C20800
-ENZYME      2.1.1.304
-///

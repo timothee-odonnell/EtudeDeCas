@@ -1,7 +1,0 @@
-ENTRY       R10775                      Reaction
-DEFINITION  (4S,5R)-4,5,6-Trihydroxy-2-iminohexanoate + H2O <=> 2-Dehydro-3-deoxy-D-gluconate + Ammonia
-EQUATION    C20845 + C00001 <=> C00204 + C00014
-COMMENT     PLP-dependent enzyme (see R01544, R10773+R10774+R10775)
-RCLASS      RC03275  C00204_C20845
-ENZYME      4.3.1.9
-///

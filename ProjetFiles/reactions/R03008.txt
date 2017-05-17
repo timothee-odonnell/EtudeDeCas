@@ -1,9 +1,0 @@
-ENTRY       R03008                      Reaction
-NAME        (Gibberellin-1),2-oxoglutarate:oxygen oxidoreductase (2beta-hydroxylating)
-DEFINITION  Gibberellin A1 + 2-Oxoglutarate + Oxygen <=> Gibberellin A8 + Succinate + CO2
-EQUATION    C00859 + C00026 + C00007 <=> C03579 + C00042 + C00011
-RCLASS      RC00661  C00859_C03579
-ENZYME      1.14.11.13
-PATHWAY     rn00904  Diterpenoid biosynthesis
-ORTHOLOGY   K04125  gibberellin 2-oxidase [EC:1.14.11.13]
-///

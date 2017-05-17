@@ -1,9 +1,0 @@
-ENTRY       R00651                      Reaction
-NAME        O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase;
-            O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
-DEFINITION  O-Acetyl-L-homoserine + Methanethiol <=> L-Methionine + Acetate
-EQUATION    C01077 + C00409 <=> C00073 + C00033
-RCLASS      RC00020  C00033_C01077
-            RC00196  C00073_C00409
-ENZYME      2.5.1.49
-///

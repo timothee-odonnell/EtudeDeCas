@@ -1,4 +1,0 @@
-ENTRY       R11113                      Reaction
-DEFINITION  Adenosylhopane + H2O <=> Ribosylhopane + Adenine
-EQUATION    C21117 + C00001 <=> C21118 + C00147
-///

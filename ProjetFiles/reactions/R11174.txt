@@ -1,9 +1,0 @@
-ENTRY       R11174                      Reaction
-NAME        adenosylcobinamide-GDP:alpha-ribazole adenosylcobinamide-phosphotransferase
-DEFINITION  Adenosine-GDP-cobinamide + N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole <=> GMP + Adenosylcobalamin 5'-phosphate
-EQUATION    C06510 + C04778 <=> C00144 + C21153
-RCLASS      RC00002  C00144_C06510
-            RC00078  C04778_C21153
-ENZYME      2.7.8.26
-ORTHOLOGY   K02233  adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]
-///

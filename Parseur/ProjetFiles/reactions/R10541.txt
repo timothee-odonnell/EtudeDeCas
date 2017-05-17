@@ -1,5 +1,0 @@
-ENTRY       R10541                      Reaction
-DEFINITION  Carbamoyl phosphate + ATP + H2O <=> Diphosphate + O-Carbamoyladenylate + Orthophosphate
-EQUATION    C00169 + C00002 + C00001 <=> C00013 + C20684 + C00009
-ENZYME      6.1.2.2
-///

@@ -1,7 +1,0 @@
-ENTRY       R05720                      Reaction
-NAME        3-hydroxy-2-methyl-1H-quinolin-4-one 2,4-dioxygenase (CO-forming)
-DEFINITION  3-Hydroxy-2-methyl-1H-quinolin-4-one + Oxygen <=> N-Acetylanthranilate + CO
-EQUATION    C11504 + C00007 <=> C06332 + C00237
-RCLASS      RC01458  C06332_C11504
-ENZYME      1.13.11.48
-///

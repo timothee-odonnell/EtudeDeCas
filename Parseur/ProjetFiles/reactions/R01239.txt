@@ -1,8 +1,0 @@
-ENTRY       R01239                      Reaction
-NAME        S-Adenosyl-L-methionine:phenol O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Phenol <=> S-Adenosyl-L-homocysteine + Anisole
-EQUATION    C00019 + C00146 <=> C00021 + C01403
-RCLASS      RC00003  C00019_C00021
-            RC00392  C00146_C01403
-ENZYME      2.1.1.25
-///

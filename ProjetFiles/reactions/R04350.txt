@@ -1,8 +1,0 @@
-ENTRY       R04350                      Reaction
-NAME        L-Mimosine amidohydrolase
-DEFINITION  L-Mimosine + H2O <=> 3-Hydroxy-4H-pyrid-4-one + L-Serine
-EQUATION    C04771 + C00001 <=> C03927 + C00065
-RCLASS      RC00591  C00065_C04771
-            RC01134  C03927_C04771
-ENZYME      3.5.1.61
-///

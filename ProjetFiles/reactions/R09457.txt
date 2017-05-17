@@ -1,9 +1,0 @@
-ENTRY       R09457                      Reaction
-DEFINITION  16-Oxopalmitate <=> Hexadecanedioate
-EQUATION    C19614 <=> C19615
-COMMENT     omega-oxo-fatty acid dehydrogenase
-RCLASS      RC00080  C19614_C19615
-ENZYME      1.2.-.-
-PATHWAY     rn00073  Cutin, suberine and wax biosynthesis
-            rn01100  Metabolic pathways
-///

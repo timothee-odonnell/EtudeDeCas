@@ -1,9 +1,0 @@
-ENTRY       R08143                      Reaction
-DEFINITION  20-Hydroxyecdysone <=> 20,26-Dihydroxyecdysone
-EQUATION    C02633 <=> C16500
-COMMENT     26-hydroxylase
-RCLASS      RC01693  C02633_C16500
-ENZYME      1.14.-.-
-PATHWAY     rn00981  Insect hormone biosynthesis
-ORTHOLOGY   K14985  26-hydroxylase [EC:1.14.-.-]
-///

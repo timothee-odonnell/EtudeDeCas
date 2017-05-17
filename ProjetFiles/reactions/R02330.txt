@@ -1,8 +1,0 @@
-ENTRY       R02330                      Reaction
-NAME        dUTP nucleotidohydrolase
-DEFINITION  dUTP + H2O <=> dUDP + Orthophosphate
-EQUATION    C00460 + C00001 <=> C01346 + C00009
-RCLASS      RC00002  C00460_C01346
-ENZYME      3.6.1.39
-PATHWAY     rn00240  Pyrimidine metabolism
-///

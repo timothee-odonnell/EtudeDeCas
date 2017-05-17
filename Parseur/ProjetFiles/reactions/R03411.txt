@@ -1,8 +1,0 @@
-ENTRY       R03411                      Reaction
-NAME        S-Adenosyl-L-methionine:unsaturated-phospholipid methyltransferase (cyclizing)
-DEFINITION  S-Adenosyl-L-methionine + Phospholipid olefinic fatty acid <=> S-Adenosyl-L-homocysteine + Phospholipid cyclopropane fatty acid
-EQUATION    C00019 + C01229 <=> C00021 + C04340
-RCLASS      RC00003  C00019_C00021
-            RC00927  C01229_C04340
-ENZYME      2.1.1.79
-///

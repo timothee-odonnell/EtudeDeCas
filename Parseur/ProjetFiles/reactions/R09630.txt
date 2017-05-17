@@ -1,7 +1,0 @@
-ENTRY       R09630                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphohydrolase (presilphiperfolan-8beta-ol-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> Presilphiperfolan-8beta-ol + Diphosphate
-EQUATION    C00448 + C00001 <=> C19756 + C00013
-RCLASS      RC02592  C00448_C19756
-ENZYME      4.2.3.74
-///

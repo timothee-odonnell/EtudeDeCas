@@ -1,9 +1,0 @@
-ENTRY       R09890                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, 5-epi-alpha-selinene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> 5-epi-alpha-Selinene + Diphosphate
-EQUATION    C00448 <=> C20163 + C00013
-RCLASS      RC02696  C00448_C20163
-ENZYME      4.2.3.90
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K18109  5-epi-alpha-selinene synthase [EC:4.2.3.90]
-///

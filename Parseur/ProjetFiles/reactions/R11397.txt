@@ -1,8 +1,0 @@
-ENTRY       R11397                      Reaction
-NAME        (1->2)-beta-D-mannan:phosphate beta-D-mannosyltransferase (conformation-inverting)
-DEFINITION  1,2-beta-Oligomannan(n) + Orthophosphate <=> 1,2-beta-Oligomannan(n-1) + D-Mannose 1-phosphate
-EQUATION    C21335(n) + C00009 <=> C21335(n-1) + C00636
-RCLASS      RC02748  C00636_C21335
-ENZYME      2.4.1.340
-ORTHOLOGY   K20885  beta-1,2-mannobiose phosphorylase / 1,2-beta-oligomannan phosphorylase [EC:2.4.1.339 2.4.1.340]
-///

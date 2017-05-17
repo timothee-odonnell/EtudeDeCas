@@ -1,7 +1,0 @@
-ENTRY       R11071                      Reaction
-NAME        ferulate carboxy-lyase
-DEFINITION  Ferulate <=> 4-Vinylguaiacol + CO2
-EQUATION    C01494 <=> C17883 + C00011
-RCLASS      RC00814  C01494_C17883
-ENZYME      4.1.1.102
-///

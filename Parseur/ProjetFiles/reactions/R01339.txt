@@ -1,9 +1,0 @@
-ENTRY       R01339                      Reaction
-NAME        L-glutamate:2-oxo acid aminotransferase
-DEFINITION  2-Oxo acid + L-Glutamate <=> alpha-Amino acid + 2-Oxoglutarate
-EQUATION    C00161 + C00025 <=> C05167 + C00026
-COMMENT     aminotransferases(sub-subclass EC 2.6.1), general reaction
-RCLASS      RC00006  C00025_C00026
-            RC00025  C00161_C05167
-            RC02854  C00025_C05167
-///

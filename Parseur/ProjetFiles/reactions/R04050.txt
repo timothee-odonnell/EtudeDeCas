@@ -1,8 +1,0 @@
-ENTRY       R04050                      Reaction
-NAME        Malonyl-CoA:3,4-dichloroaniline N-malonyltransferase
-DEFINITION  Malonyl-CoA + 3,4-Dichloroaniline <=> CoA + N-(3,4-Dichlorophenyl)-malonamate
-EQUATION    C00083 + C02791 <=> C00010 + C04205
-RCLASS      RC00004  C00010_C00083
-            RC00416  C02791_C04205
-ENZYME      2.3.1.114
-///

@@ -1,7 +1,0 @@
-ENTRY       R07986                      Reaction
-DEFINITION  (S)-2-(Hydroxymethyl)glutarate <=> 2-Methyleneglutarate + H2O
-EQUATION    C16390 <=> C02930 + C00001
-RCLASS      RC01917  C02930_C16390
-PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
-            rn01120  Microbial metabolism in diverse environments
-///

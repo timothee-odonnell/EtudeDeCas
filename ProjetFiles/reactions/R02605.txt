@@ -1,7 +1,0 @@
-ENTRY       R02605                      Reaction
-NAME        L-2-Amino-4-chloropent-4-enoate chloride-lyase (deaminating)
-DEFINITION  2-Amino-4-chloro-4-pentenoic acid + H2O <=> 2-Hydroxy-2,4-pentadienoate + Cl- + Ammonia
-EQUATION    C04075 + C00001 <=> C00596 + C00698 + C00014
-RCLASS      RC00756  C00596_C04075
-ENZYME      4.5.1.4
-///

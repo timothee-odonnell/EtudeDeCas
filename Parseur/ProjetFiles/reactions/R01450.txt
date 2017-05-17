@@ -1,8 +1,0 @@
-ENTRY       R01450                      Reaction
-NAME        lactate racemase
-DEFINITION  (S)-Lactate <=> (R)-Lactate
-EQUATION    C00186 <=> C00256
-RCLASS      RC00519  C00186_C00256
-ENZYME      5.1.2.1
-PATHWAY     rn00620  Pyruvate metabolism
-///

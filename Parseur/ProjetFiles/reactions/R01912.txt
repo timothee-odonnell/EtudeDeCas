@@ -1,8 +1,0 @@
-ENTRY       R01912                      Reaction
-NAME        UDP-glucose:pyridoxine 5'-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Pyridoxine <=> UDP + 5'-O-beta-D-Glucosylpyridoxine
-EQUATION    C00029 + C00314 <=> C00015 + C03996
-RCLASS      RC00005  C00015_C00029
-            RC00059  C00314_C03996
-ENZYME      2.4.1.160
-///

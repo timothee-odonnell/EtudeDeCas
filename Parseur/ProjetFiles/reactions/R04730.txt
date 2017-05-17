@@ -1,9 +1,0 @@
-ENTRY       R04730                      Reaction
-NAME        alpha-tubulin:L-tyrosine ligase (ADP-forming)
-DEFINITION  ATP + Detyrosinated alpha-tubulin + L-Tyrosine <=> alpha-Tubulin + ADP + Orthophosphate
-EQUATION    C00002 + C05234 + C00082 <=> C01392 + C00008 + C00009
-RCLASS      RC00002  C00002_C00008
-            RC00064  C00082_C01392
-            RC00141  C01392_C05234
-ENZYME      6.3.2.25
-///

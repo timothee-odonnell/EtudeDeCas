@@ -1,7 +1,0 @@
-ENTRY       R03567                      Reaction
-NAME        6-Methylsalicylate carboxy-lyase
-DEFINITION  6-Methylsalicylate <=> 3-Cresol + CO2
-EQUATION    C02657 <=> C01467 + C00011
-RCLASS      RC00569  C01467_C02657
-ENZYME      4.1.1.52
-///

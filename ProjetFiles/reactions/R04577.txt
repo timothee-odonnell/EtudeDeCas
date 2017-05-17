@@ -1,8 +1,0 @@
-ENTRY       R04577                      Reaction
-NAME        UDPglucose:(20S,22S,25S)-22,25-epoxyfurost-5-ene-3beta,26-diol 3-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Nuatigenin <=> UDP + (20S,22S,25S)-22,25-Epoxyfurost-5-ene-3beta,26-diol 3-O-beta-D-glucoside
-EQUATION    C00029 + C04715 <=> C00015 + C04859
-RCLASS      RC00005  C00015_C00029
-            RC00049  C04715_C04859
-ENZYME      2.4.1.192
-///

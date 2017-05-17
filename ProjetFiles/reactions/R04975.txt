@@ -1,8 +1,0 @@
-ENTRY       R04975                      Reaction
-DEFINITION  Cobyrinate + 1-Aminopropan-2-ol + 6 Ammonia <=> Cobinamide + 7 H2O
-EQUATION    C05773 + C05771 + 6 C00014 <=> C05774 + 7 C00001
-COMMENT     multistep reaction
-            incomplete reaction
-RCLASS      RC00096  C05771_C05774
-            RC01616  C05773_C05774
-///

@@ -1,8 +1,0 @@
-ENTRY       R09939                      Reaction
-NAME        S-adenosyl-L-methionine:5-carbamimidamido-2-oxopentanoate 3-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + 5-Guanidino-2-oxopentanoate <=> S-Adenosyl-L-homocysteine + 5-Guanidino-3-methyl-2-oxopentanoate
-EQUATION    C00019 + C03771 <=> C00021 + C20234
-RCLASS      RC00003  C00019_C00021
-            RC02735  C03771_C20234
-ENZYME      2.1.1.243
-///

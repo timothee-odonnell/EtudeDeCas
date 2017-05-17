@@ -1,9 +1,0 @@
-ENTRY       R10906                      Reaction
-NAME        (9Z)-hexadec-9-enoyl-[acyl-carrier protein]:KDO2-lipid IV(A) O-palmitoleoyltransferase
-DEFINITION  Hexadecenoyl-[acyl-carrier protein] + Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A) <=> (9Z)-Hexadec-9-enoyl-KDO2-lipid IV(A) + Acyl-carrier protein
-EQUATION    C16520 + C06025 <=> C20933 + C00229
-RCLASS      RC00037  C06025_C20933
-            RC00039  C00229_C16520
-ENZYME      2.3.1.242
-ORTHOLOGY   K12974  KDO2-lipid IV(A) palmitoleoyltransferase [EC:2.3.1.242]
-///

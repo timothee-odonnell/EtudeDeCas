@@ -1,8 +1,0 @@
-ENTRY       R00546                      Reaction
-NAME        N-Acyl-L-aspartate amidohydrolase
-DEFINITION  N-Acyl-L-aspartate + H2O <=> Carboxylate + L-Aspartate
-EQUATION    C02715 + C00001 <=> C00060 + C00049
-RCLASS      RC00064  C00049_C02715
-            RC00328  C00060_C02715
-ENZYME      3.5.1.15
-///

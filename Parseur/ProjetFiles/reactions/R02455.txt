@@ -1,9 +1,0 @@
-ENTRY       R02455                      Reaction
-NAME        D-Mannonate:NAD+ 6-oxidoreductase
-DEFINITION  D-Mannonate + NAD+ <=> D-Mannuronate + NADH + H+
-EQUATION    C00514 + C00003 <=> C02024 + C00004 + C00080
-COMMENT     NADP+ (see R02456)
-RCLASS      RC00001  C00003_C00004
-            RC00108  C00514_C02024
-ENZYME      1.1.1.131
-///

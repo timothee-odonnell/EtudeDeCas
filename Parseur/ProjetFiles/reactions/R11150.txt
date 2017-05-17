@@ -1,9 +1,0 @@
-ENTRY       R11150                      Reaction
-NAME        4-methyl-5-nitrocatechol,NADH:oxygen 5-oxidoreductase (5-hydroxylating, nitrite-forming)
-DEFINITION  4-Methyl-5-nitrocatechol + NADH + Oxygen + H+ <=> 2-Hydroxy-5-methylquinone + NAD+ + Nitrite + H2O
-EQUATION    C18315 + C00004 + C00007 + C00080 <=> C18316 + C00003 + C00088 + C00001
-COMMENT     NADPH (see R09234)
-RCLASS      RC00001  C00003_C00004
-            RC03020  C18315_C18316
-ENZYME      1.14.13.210
-///

@@ -1,6 +1,0 @@
-ENTRY       R08024                      Reaction
-DEFINITION  Naringin chalcone <=> Naringin
-EQUATION    C16423 <=> C09789
-COMMENT     enzymes involved: naringin chalcone cyclase (NCC)
-RCLASS      RC00718  C09789_C16423
-///

@@ -1,9 +1,0 @@
-ENTRY       R11029                      Reaction
-DEFINITION  2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate <=> DNA 5-hydroxymethylcytosine
-EQUATION    C11039 <=> C21031
-COMMENT     incomplete reaction
-RCLASS      RC03332  C11039_C21031
-ENZYME      2.7.7.7
-PATHWAY     rn00240  Pyrimidine metabolism
-ORTHOLOGY   K18942  DNA polymerase [EC:2.7.7.7]
-///

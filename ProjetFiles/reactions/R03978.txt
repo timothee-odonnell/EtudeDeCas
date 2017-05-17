@@ -1,7 +1,0 @@
-ENTRY       R03978                      Reaction
-NAME        lithocholate:FAD oxidoreductase (7alpha-dehydroxylating)
-DEFINITION  Chenodeoxycholate + FADH2 <=> Lithocholic acid + FAD + H2O
-EQUATION    C02528 + C01352 <=> C03990 + C00016 + C00001
-RCLASS      RC00126  C00016_C01352
-            RC00661  C02528_C03990
-///

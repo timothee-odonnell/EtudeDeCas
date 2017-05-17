@@ -1,8 +1,0 @@
-ENTRY       R10989                      Reaction
-NAME        UDP-alpha-D-glucose:bis(beta-D-glucosyl)-crocetin beta-1,6-glucosyltransferase
-DEFINITION  UDP-glucose + Bis(beta-D-glucosyl) crocetin <=> UDP + trans-Crocetin (beta-D-glucosyl) (beta-D-gentibiosyl) ester
-EQUATION    C00029 + C19868 <=> C00015 + C17513
-RCLASS      RC00005  C00015_C00029
-            RC00059  C17513_C19868
-ENZYME      2.4.1.330
-///

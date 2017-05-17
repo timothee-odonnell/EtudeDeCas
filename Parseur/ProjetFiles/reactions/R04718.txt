@@ -1,6 +1,0 @@
-ENTRY       R04718                      Reaction
-DEFINITION  S-Adenosyl-L-methionine + Histone L-arginine <=> S-Adenosyl-L-homocysteine + Histone N(omega)-methyl-L-arginine
-EQUATION    C00019 + C05206 <=> C00021 + C05320
-RCLASS      RC00003  C00019_C00021
-            RC02120  C05206_C05320
-///

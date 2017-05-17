@@ -1,8 +1,0 @@
-ENTRY       R00417                      Reaction
-NAME        UDP-N-acetyl-D-glucosamine:protein beta-N-acetyl-D-glucosaminyltransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + Protein asparagine <=> UDP + 4-N-(N-Acetyl-D-glucosaminyl)-protein
-EQUATION    C00043 + C03021 <=> C00015 + C04375
-RCLASS      RC00005  C00015_C00043
-            RC00482  C03021_C04375
-ENZYME      2.4.1.94
-///

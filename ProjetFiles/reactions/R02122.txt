@@ -1,8 +1,0 @@
-ENTRY       R02122                      Reaction
-NAME        3'-phosphoadenylyl-sulfate:[heparan sulfate]-glucosamine N-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + [Heparan sulfate]-glucosamine <=> Adenosine 3',5'-bisphosphate + [Heparan sulfate]-N-sulfoglucosamine
-EQUATION    C00053 + C17141 <=> C00054 + C17142
-RCLASS      RC00007  C00053_C00054
-            RC00630  C17141_C17142
-ENZYME      2.8.2.8
-///

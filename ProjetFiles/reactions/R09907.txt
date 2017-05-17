@@ -1,9 +1,0 @@
-ENTRY       R09907                      Reaction
-NAME        (3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, parkeol-forming)
-DEFINITION  (S)-2,3-Epoxysqualene <=> Parkeol
-EQUATION    C01054 <=> C19918
-RCLASS      RC02709  C01054_C19918
-ENZYME      5.4.99.47
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K19010  parkeol synthase [EC:5.4.99.47]
-///

@@ -1,7 +1,0 @@
-ENTRY       R05555                      Reaction
-NAME        Farnesyl diphosphate:Isopentenyl diphosphate farnesyl cistransferase
-DEFINITION  trans,trans-Farnesyl diphosphate + Isopentenyl diphosphate <=> trans,trans,cis-Geranylgeranyl diphosphate + Diphosphate
-EQUATION    C00448 + C00129 <=> C11356 + C00013
-RCLASS      RC00279  C00129_C11356
-ENZYME      2.5.1.-
-///

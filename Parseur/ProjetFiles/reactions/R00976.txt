@@ -1,8 +1,0 @@
-ENTRY       R00976                      Reaction
-NAME        uracil:acceptor oxidoreductase
-DEFINITION  Uracil + Acceptor + H2O <=> Barbiturate + Reduced acceptor
-EQUATION    C00106 + C00028 + C00001 <=> C00813 + C00030
-RCLASS      RC00410  C00106_C00813
-ENZYME      1.17.99.4
-PATHWAY     rn00240  Pyrimidine metabolism
-///

@@ -1,7 +1,0 @@
-ENTRY       R09795                      Reaction
-NAME        pyrrole-2-carboxylate carboxy-lyase
-DEFINITION  Pyrrole-2-carboxylate + H2O <=> Pyrrole + HCO3-
-EQUATION    C05942 + C00001 <=> C19907 + C00288
-RCLASS      RC02657  C05942_C19907
-ENZYME      4.1.1.93
-///

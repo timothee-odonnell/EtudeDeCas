@@ -1,8 +1,0 @@
-ENTRY       R00638                      Reaction
-NAME        aldehyde:acceptor oxidoreductase
-DEFINITION  Aldehyde + Acceptor + H2O <=> Fatty acid + Reduced acceptor
-EQUATION    C00071 + C00028 + C00001 <=> C00162 + C00030
-COMMENT     general reaction
-RCLASS      RC00071  C00071_C00162
-ENZYME      1.2.99.6        1.2.99.7
-///

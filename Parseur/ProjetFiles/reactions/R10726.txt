@@ -1,7 +1,0 @@
-ENTRY       R10726                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (alpha-longipinene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> alpha-Longipinene + Diphosphate
-EQUATION    C00448 <=> C20804 + C00013
-RCLASS      RC03262  C00448_C20804
-ENZYME      4.2.3.80
-///

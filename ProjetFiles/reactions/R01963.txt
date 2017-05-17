@@ -1,7 +1,0 @@
-ENTRY       R01963                      Reaction
-NAME        N-Sulfo-D-glucosamine sulfohydrolase
-DEFINITION  N-Sulfo-D-glucosamine + H2O <=> D-Glucosamine + Sulfate
-EQUATION    C01075 + C00001 <=> C00329 + C00059
-RCLASS      RC00630  C00329_C01075
-ENZYME      3.10.1.1
-///

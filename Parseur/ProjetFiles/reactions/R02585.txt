@@ -1,7 +1,0 @@
-ENTRY       R02585                      Reaction
-NAME        Protein-tyrosine-phosphate phosphohydrolase
-DEFINITION  Protein tyrosine phosphate + H2O <=> Protein tyrosine + Orthophosphate
-EQUATION    C01167 + C00001 <=> C00585 + C00009
-RCLASS      RC00151  C00585_C01167
-ENZYME      3.1.3.48
-///

@@ -1,8 +1,0 @@
-ENTRY       R10766                      Reaction
-NAME        hydroperoxyicosatetraenoate hydroxymutase
-DEFINITION  Hydroperoxyicosatetraenoate <=> Hydroxyepoxyicosatrienoate
-EQUATION    C20832 <=> C20837
-COMMENT     general reaction
-ENZYME      5.4.4.7
-ORTHOLOGY   K18684  hydroperoxy icosatetraenoate dehydratase/isomerase [EC:4.2.1.152 5.4.4.7]
-///

@@ -1,7 +1,0 @@
-ENTRY       R10831                      Reaction
-DEFINITION  G00711 + H2O <=> G10008 + N-Acetyl-D-glucosamine
-EQUATION    G00711 + C00001 <=> G10008 + C00140
-ENZYME      3.2.1.52
-PATHWAY     rn00531  Glycosaminoglycan degradation
-ORTHOLOGY   K01207  beta-N-acetylhexosaminidase [EC:3.2.1.52]
-///

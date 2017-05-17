@@ -1,8 +1,0 @@
-ENTRY       R03557                      Reaction
-NAME        Secondary alcohol:NADP+ oxidoreductase
-DEFINITION  Secondary alcohol + NADP+ <=> Ketone + NADPH + H+
-EQUATION    C01612 + C00006 <=> C01450 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00955  C01450_C01612
-ENZYME      1.1.1.184
-///

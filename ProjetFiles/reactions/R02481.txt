@@ -1,8 +1,0 @@
-ENTRY       R02481                      Reaction
-NAME        Acetyl-CoA:D-tryptophan N-acetyltransferase
-DEFINITION  Acetyl-CoA + D-Tryptophan <=> CoA + N-Acetyl-D-tryptophan
-EQUATION    C00024 + C00525 <=> C00010 + C03137
-RCLASS      RC00004  C00010_C00024
-            RC00064  C00525_C03137
-ENZYME      2.3.1.34
-///

@@ -1,7 +1,0 @@
-ENTRY       R08612                      Reaction
-NAME        4-beta-D-mannan mannanohydrolase
-DEFINITION  1,4-beta-D-Mannan + H2O <=> 1,4-beta-D-Mannooligosaccharide + 1,4-beta-D-Mannan
-EQUATION    C02492 + C00001 <=> C17207 + C02492
-RCLASS      RC00467  C02492_C17207
-ENZYME      3.2.1.78
-///

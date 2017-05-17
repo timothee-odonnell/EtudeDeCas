@@ -1,8 +1,0 @@
-ENTRY       R07135                      Reaction
-NAME        mannitol:NAD+ 1-oxidoreductase
-DEFINITION  Mannitol + NAD+ <=> D-Mannose + NADH + H+
-EQUATION    C00392 + C00003 <=> C00159 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00108  C00159_C00392
-ENZYME      1.1.1.255
-///

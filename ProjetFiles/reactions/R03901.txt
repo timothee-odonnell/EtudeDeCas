@@ -1,8 +1,0 @@
-ENTRY       R03901                      Reaction
-NAME        S-Alkyl-L-cysteine S-oxide alkyl-sulfenate-lyase
-DEFINITION  S-Alkyl-L-cysteine S-oxide <=> Alkyl sulfenate + Dehydroalanine
-EQUATION    C03726 <=> C02245 + C02218
-RCLASS      RC01020  C02218_C03726
-            RC01539  C02245_C03726
-ENZYME      4.4.1.4
-///

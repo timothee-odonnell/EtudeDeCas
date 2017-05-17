@@ -1,9 +1,0 @@
-ENTRY       R08466                      Reaction
-DEFINITION  D-Cathinone <=> (-)-Norephedrine
-EQUATION    C08301 <=> C16719
-COMMENT     oxidoreduction
-            incomplete reaction
-RCLASS      RC01681  C08301_C16719
-PATHWAY     rn00360  Phenylalanine metabolism
-            rn01100  Metabolic pathways
-///

@@ -1,8 +1,0 @@
-ENTRY       R00218                      Reaction
-NAME        acetylenedicarboxylate carboxy-lyase (pyruvate-forming)
-DEFINITION  Acetylenedicarboxylate + H2O <=> Pyruvate + CO2
-EQUATION    C03248 + C00001 <=> C00022 + C00011
-RCLASS      RC01185  C00022_C03248
-ENZYME      4.1.1.78
-PATHWAY     rn00620  Pyruvate metabolism
-///

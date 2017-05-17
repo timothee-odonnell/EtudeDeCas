@@ -1,7 +1,0 @@
-ENTRY       R10008                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, (+)-sativene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-Sativene + Diphosphate
-EQUATION    C00448 <=> C20275 + C00013
-RCLASS      RC02993  C00448_C20275
-ENZYME      4.2.3.129
-///

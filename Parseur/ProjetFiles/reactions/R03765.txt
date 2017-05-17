@@ -1,7 +1,0 @@
-ENTRY       R03765                      Reaction
-DEFINITION  Cycloartenol <=> Zymosterol
-EQUATION    C01902 <=> C05437
-COMMENT     incomplete reaction
-            multi-step reaction (demethylation x3 and ring-opening)
-RCLASS      RC01891  C01902_C05437
-///

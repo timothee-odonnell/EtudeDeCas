@@ -1,7 +1,0 @@
-ENTRY       R11346                      Reaction
-NAME        5-methylphenazine-1-carboxylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)
-DEFINITION  5-Methylphenazine-1-carboxylate + NADH + Oxygen <=> Pyocyanine + NAD+ + CO2 + H2O
-EQUATION    C21295 + C00004 + C00007 <=> C01748 + C00003 + C00011 + C00001
-RCLASS      RC00389  C01748_C21295
-ENZYME      1.14.13.218
-///

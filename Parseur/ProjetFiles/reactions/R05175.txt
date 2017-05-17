@@ -1,7 +1,0 @@
-ENTRY       R05175                      Reaction
-NAME        [Protein]-L-serine epimerase
-DEFINITION  omega-Agatoxin IVC <=> omega-Agatoxin IVB
-EQUATION    C06395 <=> C06396
-RCLASS      RC02119  C06395_C06396
-ENZYME      5.1.1.16
-///

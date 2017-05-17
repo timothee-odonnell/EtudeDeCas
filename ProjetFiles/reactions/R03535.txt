@@ -1,6 +1,0 @@
-ENTRY       R03535                      Reaction
-DEFINITION  PQQH2 + Propynoate <=> 2-Propynal + PQQ + H2O
-EQUATION    C01359 + C00804 <=> C05985 + C00113 + C00001
-RCLASS      RC00186  C00804_C05985
-ENZYME      1.2.5.2
-///

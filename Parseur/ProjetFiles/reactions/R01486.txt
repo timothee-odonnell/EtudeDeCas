@@ -1,9 +1,0 @@
-ENTRY       R01486                      Reaction
-NAME        aromatic aldehyde:NAD+ oxidoreductase
-DEFINITION  Aromatic aldehyde + NAD+ + H2O <=> Aromatic acid + NADH + H+
-EQUATION    C00193 + C00003 + C00001 <=> C00539 + C00004 + C00080
-COMMENT     general reaction
-RCLASS      RC00001  C00003_C00004
-            RC00075  C00193_C00539
-ENZYME      1.2.1.29
-///

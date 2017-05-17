@@ -1,8 +1,0 @@
-ENTRY       R00542                      Reaction
-NAME        5'-Acylphosphoadenosine acylhydrolase
-DEFINITION  5'-Acylphosphoadenosine + H2O <=> AMP + Carboxylate
-EQUATION    C03361 + C00001 <=> C00020 + C00060
-RCLASS      RC00043  C00060_C03361
-            RC00070  C00020_C03361
-ENZYME      3.6.1.20
-///

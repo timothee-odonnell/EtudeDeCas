@@ -1,8 +1,0 @@
-ENTRY       R07907                      Reaction
-DEFINITION  Delphinidin-3-(p-coumaroyl)-rutinoside-5-glucoside <=> Malvidin-3-(p-coumaroyl)-rutinoside-5-glucoside
-EQUATION    C16294 <=> C16296
-COMMENT     anthocyanin 3',5'-methyltransferase
-RCLASS      RC01558  C16294_C16296
-ENZYME      2.1.1.-
-PATHWAY     rn00942  Anthocyanin biosynthesis
-///

@@ -1,9 +1,0 @@
-ENTRY       R11462                      Reaction
-NAME        4-methylpentanoyl-CoA:(R)-2-hydroxy-4-methylpentanoate CoA-transferase
-DEFINITION  Isocaproyl-CoA + (R)-2-Hydroxyisocaproate <=> Isocaproate + (R)-2-Hydroxyisocaproyl-CoA
-EQUATION    C21400 + C03264 <=> C21399 + C21089
-RCLASS      RC00014  C21399_C21400
-            RC00137  C03264_C21089
-ENZYME      2.8.3.24
-ORTHOLOGY   K20882  (R)-2-hydroxy-4-methylpentanoate CoA-transferase [EC:2.8.3.24]
-///

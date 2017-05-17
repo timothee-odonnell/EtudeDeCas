@@ -1,7 +1,0 @@
-ENTRY       R11338                      Reaction
-NAME        2-methylpropane-1,2-diol:NAD+ 1-oxidoreductase
-DEFINITION  2-Methylpropane-1,2-diol + NAD+ <=> 2-Hydroxy-2-methylpropanal + NADH + H+
-EQUATION    C21290 + C00003 <=> C21291 + C00004 + C00080
-RCLASS      RC00725  C21290_C21291
-ENZYME      1.1.1.400
-///

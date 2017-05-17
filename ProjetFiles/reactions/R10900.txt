@@ -1,7 +1,0 @@
-ENTRY       R10900                      Reaction
-NAME        3,6-anhydro-L-galactonate lyase (ring-opening)
-DEFINITION  3,6-Anhydro-L-galactonate <=> 2-Dehydro-3-deoxy-L-galactonate
-EQUATION    C20903 <=> C20680
-RCLASS      RC03302  C20680_C20903
-ENZYME      5.5.1.25
-///

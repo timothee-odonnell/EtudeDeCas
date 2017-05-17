@@ -1,8 +1,0 @@
-ENTRY       R03965                      Reaction
-NAME        Sinapoyl-CoA:2-hydroxymalonate O-(hydroxycinnamoyl)transferase
-DEFINITION  Sinapoyl-CoA + Hydroxymalonate <=> CoA + Sinapoyltartronate
-EQUATION    C00411 + C02287 <=> C00010 + C02750
-RCLASS      RC00004  C00010_C00411
-            RC00037  C02287_C02750
-ENZYME      2.3.1.106
-///

@@ -1,9 +1,0 @@
-ENTRY       R06530                      Reaction
-NAME        L-threonine-O-3-phosphate carboxy-lyase
-DEFINITION  L-Threonine O-3-phosphate <=> D-1-Aminopropan-2-ol O-phosphate + CO2
-EQUATION    C12147 <=> C04122 + C00011
-RCLASS      RC00517  C04122_C12147
-ENZYME      4.1.1.81
-PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
-ORTHOLOGY   K04720  threonine-phosphate decarboxylase [EC:4.1.1.81]
-///

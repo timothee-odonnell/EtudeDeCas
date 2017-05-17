@@ -1,9 +1,0 @@
-ENTRY       R01575                      Reaction
-NAME        D-Arabinose:NADP+ 1-oxidoreductase
-DEFINITION  D-Arabinose + NADP+ <=> D-Arabinono-1,4-lactone + NADPH + H+
-EQUATION    C00216 + C00006 <=> C00652 + C00005 + C00080
-COMMENT     NAD+ (see R01574)
-RCLASS      RC00001  C00005_C00006
-            RC00187  C00216_C00652
-ENZYME      1.1.1.117
-///

@@ -1,8 +1,0 @@
-ENTRY       R04106                      Reaction
-NAME        ethyl-(S)-3-hydroxyhexanoate:NADP+ 3-oxidoreductase
-DEFINITION  Ethyl (S)-3-hydroxyhexanoate + NADP+ <=> Ethyl 3-oxohexanoate + NADPH + H+
-EQUATION    C03865 + C00006 <=> C02975 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00029  C02975_C03865
-ENZYME      1.1.1.280
-///

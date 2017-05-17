@@ -1,7 +1,0 @@
-ENTRY       R00321                      Reaction
-NAME        Acetamide amidohydrolase
-DEFINITION  Acetamide + H2O <=> Acetate + Ammonia
-EQUATION    C06244 + C00001 <=> C00033 + C00014
-RCLASS      RC01313  C00033_C06244
-ENZYME      3.5.1.4
-///

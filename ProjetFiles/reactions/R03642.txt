@@ -1,7 +1,0 @@
-ENTRY       R03642                      Reaction
-DEFINITION  Vicianose + Mandelonitrile <=> Vicianin + H2O
-EQUATION    C01625 + C00561 <=> C01870 + C00001
-RCLASS      RC00397  C00561_C01870
-            RC00746  C01625_C01870
-ENZYME      3.2.1.119
-///

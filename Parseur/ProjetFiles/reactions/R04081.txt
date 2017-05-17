@@ -1,8 +1,0 @@
-ENTRY       R04081                      Reaction
-NAME        GDP-L-fucose:beta-D-galactosyl-R 2-fucosyltransferase
-DEFINITION  GDP-L-fucose + beta-D-Galactosyl-R <=> GDP + alpha-L-Fucosyl-1,2-beta-D-galactoside
-EQUATION    C00325 + C02900 <=> C00035 + C04648
-RCLASS      RC00005  C00035_C00325
-            RC00049  C02900_C04648
-ENZYME      2.4.1.69
-///

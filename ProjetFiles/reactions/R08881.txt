@@ -1,7 +1,0 @@
-ENTRY       R08881                      Reaction
-DEFINITION  3-Phosphonopyruvate <=> 2-Oxo-4-phosphonobutanoate
-EQUATION    C02798 <=> C17941
-COMMENT     multi-step reaction (similar to TCA cycle, R00351+R01325+R01900+R00709 or R00351+R01325+R01900+R01899+R00268)
-RCLASS      RC02973  C02798_C17941
-PATHWAY     rn00440  Phosphonate and phosphinate metabolism
-///

@@ -1,9 +1,0 @@
-ENTRY       R01270                      Reaction
-NAME        Nicotinamide D-ribonucleotide phosphoribohydrolase
-DEFINITION  Nicotinamide D-ribonucleotide + H2O <=> Nicotinamide + D-Ribose 5-phosphate
-EQUATION    C00455 + C00001 <=> C00153 + C00117
-RCLASS      RC00033  C00153_C00455
-            RC00485  C00117_C00455
-ENZYME      3.2.2.14
-PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
-///

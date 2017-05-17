@@ -1,7 +1,0 @@
-ENTRY       R11441                      Reaction
-NAME        CTP:2-keto-3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase
-DEFINITION  CTP + 3-Deoxy-D-glycero-D-galacto-non-2-ulosonic acid <=> Diphosphate + CMP-2-keto-3-deoxy-D-glycero-D-galacto-nononate
-EQUATION    C00063 + C20934 <=> C00013 + C21384
-RCLASS      RC00152  C20934_C21384
-ENZYME      2.7.7.92
-///

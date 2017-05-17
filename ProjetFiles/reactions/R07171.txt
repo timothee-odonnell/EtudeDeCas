@@ -1,8 +1,0 @@
-ENTRY       R07171                      Reaction
-NAME        NADH:oxygen oxidoreductase
-DEFINITION  NADH + H+ + Oxygen <=> NAD+ + Hydrogen peroxide
-EQUATION    C00004 + C00080 + C00007 <=> C00003 + C00027
-RCLASS      RC00001  C00003_C00004
-            RC02755  C00007_C00027
-ENZYME      1.6.3.1         1.6.3.3
-///

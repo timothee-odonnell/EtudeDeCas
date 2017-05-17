@@ -1,8 +1,0 @@
-ENTRY       R09941                      Reaction
-NAME        3-O-alpha-D-glucopyranosyl-D-glucopyranose:phosphate beta-D-glucosyltransferase
-DEFINITION  Nigerose + Orthophosphate <=> D-Glucose + beta-D-Glucose 1-phosphate
-EQUATION    C01518 + C00009 <=> C00031 + C00663
-RCLASS      RC00049  C00031_C01518
-ENZYME      2.4.1.279
-ORTHOLOGY   K18783  nigerose phosphorylase [EC:2.4.1.279]
-///

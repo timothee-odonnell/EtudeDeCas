@@ -1,9 +1,0 @@
-ENTRY       R11511                      Reaction
-DEFINITION  8,12-Diethyl-3-vinylbacteriochlorophyllide d + H2O <=> 8,12-Diethylbacteriochlorophyllide d
-EQUATION    C21427 + C00001 <=> C21432
-RCLASS      RC02412  C21427_C21432
-ENZYME      4.2.1.169
-PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
-            rn01110  Biosynthesis of secondary metabolites
-ORTHOLOGY   K13603  3-vinyl bacteriochlorophyllide hydratase [EC:4.2.1.169]
-///

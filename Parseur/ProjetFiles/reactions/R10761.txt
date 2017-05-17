@@ -1,8 +1,0 @@
-ENTRY       R10761                      Reaction
-NAME        hydroperoxyicosatetraenoate hydro-lyase (oxoicosatetraenoate-forming)
-DEFINITION  Hydroperoxyicosatetraenoate <=> Oxoicosatetraenoate + H2O
-EQUATION    C20832 <=> C20833 + C00001
-COMMENT     general reaction
-ENZYME      4.2.1.152
-ORTHOLOGY   K18684  hydroperoxy icosatetraenoate dehydratase/isomerase [EC:4.2.1.152 5.4.4.7]
-///

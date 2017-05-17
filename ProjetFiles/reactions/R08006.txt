@@ -1,9 +1,0 @@
-ENTRY       R08006                      Reaction
-NAME        UDP-alpha-D-glucose:2',4,4',6'-tetrahydroxychalcone 4'-O-beta-D-glucosyltransferase
-DEFINITION  Naringenin chalcone + UDP-glucose <=> 2',4,4',6'-Tetrahydroxychalcone 4'-O-glucoside + UDP
-EQUATION    C06561 + C00029 <=> C16407 + C00015
-RCLASS      RC00005  C00015_C00029
-            RC00171  C06561_C16407
-ENZYME      2.4.1.286
-PATHWAY     rn00941  Flavonoid biosynthesis
-///

@@ -1,8 +1,0 @@
-ENTRY       R02878                      Reaction
-NAME        1-Octanol:NAD+ oxidoreductase
-DEFINITION  1-Octanol + NAD+ <=> 1-Octanal + NADH + H+
-EQUATION    C00756 + C00003 <=> C01545 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00087  C00756_C01545
-ENZYME      1.1.1.1         1.1.1.73
-///

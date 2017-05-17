@@ -1,7 +1,0 @@
-ENTRY       R11087                      Reaction
-NAME        geranyl-diphosphate:2-O,3-dimethylflaviolin geranyltransferase (7-O-geranyl-2-O,3-dimethylflaviolin-forming)
-DEFINITION  Geranyl diphosphate + 2-O,3-Dimethylflaviolin <=> Diphosphate + 7-O-Geranyl-2-O,3-dimethylflaviolin
-EQUATION    C00341 + C21001 <=> C00013 + C21003
-RCLASS      RC01372  C21001_C21003
-ENZYME      2.5.1.125
-///

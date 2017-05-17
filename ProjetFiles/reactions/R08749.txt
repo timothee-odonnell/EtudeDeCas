@@ -1,7 +1,0 @@
-ENTRY       R08749                      Reaction
-NAME        ditrans,dicis-pentaprenyl-diphosphate:isopentenyl-diphosphate pentaprenylcistransferase
-DEFINITION  di-trans,poly-cis-Pentaprenyl diphosphate + Isopentenyl diphosphate <=> di-trans,poly-cis-Hexaprenyl diphosphate + Diphosphate
-EQUATION    C17435 + C00129 <=> C17434 + C00013
-RCLASS      RC00279  C00129_C17434
-ENZYME      2.5.1.-
-///

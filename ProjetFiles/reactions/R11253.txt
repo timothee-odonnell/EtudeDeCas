@@ -1,8 +1,0 @@
-ENTRY       R11253                      Reaction
-DEFINITION  5-epi-Valiolone <=> 2-Keto-5-epi-valiolone
-EQUATION    C17694 <=> C17695
-COMMENT     unclear reaction
-PATHWAY     rn00525  Acarbose and validamycin biosynthesis
-            rn01130  Biosynthesis of antibiotics
-ORTHOLOGY   K20441  5-epi-valiolone oxidase [EC:1.1.3.-]
-///

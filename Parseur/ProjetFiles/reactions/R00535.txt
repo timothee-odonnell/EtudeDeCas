@@ -1,9 +1,0 @@
-ENTRY       R00535                      Reaction
-NAME        3'-Phosphoadenylylsulfate:17beta-estradiol 3-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Estradiol-17beta <=> Adenosine 3',5'-bisphosphate + Estradiol-17beta 3-sulfate
-EQUATION    C00053 + C00951 <=> C00054 + C08357
-RCLASS      RC00007  C00053_C00054
-            RC00128  C00951_C08357
-ENZYME      2.8.2.15
-PATHWAY     rn00140  Steroid hormone biosynthesis
-///

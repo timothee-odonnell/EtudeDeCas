@@ -1,8 +1,0 @@
-ENTRY       R04103                      Reaction
-NAME        Penicillin amidohydrolase
-DEFINITION  Penicillin G + H2O <=> 6-Aminopenicillanate + Phenylacetic acid
-EQUATION    C05551 + C00001 <=> C02954 + C07086
-RCLASS      RC00090  C05551_C07086
-            RC00166  C02954_C05551
-ENZYME      3.5.1.11
-///

@@ -1,8 +1,0 @@
-ENTRY       R00545                      Reaction
-NAME        N6-Acyl-L-lysine amidohydrolase
-DEFINITION  N6-Acyl-L-lysine + H2O <=> Carboxylate + L-Lysine
-EQUATION    C02444 + C00001 <=> C00060 + C00047
-RCLASS      RC00096  C00047_C02444
-            RC00328  C00060_C02444
-ENZYME      3.5.1.17
-///

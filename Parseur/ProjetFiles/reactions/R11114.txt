@@ -1,5 +1,0 @@
-ENTRY       R11114                      Reaction
-DEFINITION  Ribosylhopane <=> Bacteriohopanetetrol
-EQUATION    C21118 <=> C21119
-COMMENT     incomplete reaction (unidentified donor)
-///

@@ -1,9 +1,0 @@
-ENTRY       R11146                      Reaction
-NAME        isolithocholate:NADP+ 3-oxidoreductase
-DEFINITION  Isolithocholate + NADP+ <=> 3-Oxo-5beta-cholanate + NADPH + H+
-EQUATION    C17658 + C00006 <=> C03070 + C00005 + C00080
-COMMENT     NAD+ (see R11144)
-RCLASS      RC00001  C00005_C00006
-            RC00144  C03070_C17658
-ENZYME      1.1.1.393
-///

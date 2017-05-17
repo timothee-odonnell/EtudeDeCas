@@ -1,7 +1,0 @@
-ENTRY       R02284                      Reaction
-NAME        L-5-Carboxymethylhydantoin amidohydrolase
-DEFINITION  L-5-Carboxymethylhydantoin + H2O <=> N-Carbamoyl-L-aspartate
-EQUATION    C03703 + C00001 <=> C00438
-RCLASS      RC00680  C00438_C03703
-ENZYME      3.5.2.4
-///

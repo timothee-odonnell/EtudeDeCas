@@ -1,7 +1,0 @@
-ENTRY       R00017                      Reaction
-NAME        ferrocytochrome-c:hydrogen-peroxide oxidoreductase
-DEFINITION  Hydrogen peroxide + 2 Ferrocytochrome c <=> 2 Ferricytochrome c + 2 H2O
-EQUATION    C00027 + 2 C00126 <=> 2 C00125 + 2 C00001
-RCLASS      RC00016  C00125_C00126
-ENZYME      1.11.1.5
-///

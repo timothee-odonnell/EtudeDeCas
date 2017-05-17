@@ -1,7 +1,0 @@
-ENTRY       R03515                      Reaction
-NAME        [3-Methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)]-phosphate phosphohydrolase
-DEFINITION  [3-Methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)] phosphate + H2O <=> [3-Methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)] + Orthophosphate
-EQUATION    C01308 + C00001 <=> C04726 + C00009
-RCLASS      RC00017  C01308_C04726
-ENZYME      3.1.3.52
-///

@@ -1,8 +1,0 @@
-ENTRY       R03356                      Reaction
-NAME        Dolichyl-D-xylosyl-phosphate:protein D-xylosyltransferase
-DEFINITION  Dolichyl D-xylosyl phosphate + [Protein]-L-serine <=> Dolichyl phosphate + D-Xylosylprotein
-EQUATION    C01191 + C02189 <=> C00110 + C02399
-RCLASS      RC00005  C00110_C01191
-            RC00059  C02189_C02399
-ENZYME      2.4.2.33
-///

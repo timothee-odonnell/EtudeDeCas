@@ -1,8 +1,0 @@
-ENTRY       R03607                      Reaction
-NAME        ATP:viomycin O-phosphotransferase
-DEFINITION  ATP + Viomycin <=> ADP + O-Phosphoviomycin
-EQUATION    C00002 + C01540 <=> C00008 + C02574
-RCLASS      RC00002  C00002_C00008
-            RC00017  C01540_C02574
-ENZYME      2.7.1.103
-///

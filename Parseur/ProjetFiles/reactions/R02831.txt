@@ -1,7 +1,0 @@
-ENTRY       R02831                      Reaction
-NAME        Orsellinate carboxy-lyase
-DEFINITION  Orsellinate <=> Orcinol + CO2
-EQUATION    C01839 <=> C00727 + C00011
-RCLASS      RC00569  C00727_C01839
-ENZYME      4.1.1.58
-///

@@ -1,7 +1,0 @@
-ENTRY       R10968                      Reaction
-NAME        dimethylallyl-diphosphate:L-tyrosine 4-O-dimethylallyltransferase
-DEFINITION  Dimethylallyl diphosphate + L-Tyrosine <=> Diphosphate + 4-O-Dimethylallyl-L-tyrosine
-EQUATION    C00235 + C00082 <=> C00013 + C20983
-RCLASS      RC01372  C00082_C20983
-ENZYME      2.5.1.122
-///

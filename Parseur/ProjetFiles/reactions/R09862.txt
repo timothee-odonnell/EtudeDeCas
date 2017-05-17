@@ -1,9 +1,0 @@
-ENTRY       R09862                      Reaction
-NAME        9beta-pimara-7,15-diene,NADPH:oxygen 19-oxidoreductase
-DEFINITION  9beta-Pimara-7,15-diene + Oxygen + NADPH + H+ <=> 9beta-Pimara-7,15-dien-19-ol + NADP+ + H2O
-EQUATION    C18225 + C00007 + C00005 + C00080 <=> C20147 + C00006 + C00001
-COMMENT     first step of three-step reaction (see R09865, R09862+R09863+R09864)
-RCLASS      RC00001  C00005_C00006
-            RC00257  C18225_C20147
-ENZYME      1.14.13.144
-///

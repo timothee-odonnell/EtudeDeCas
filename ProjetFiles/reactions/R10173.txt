@@ -1,7 +1,0 @@
-ENTRY       R10173                      Reaction
-NAME        malonyl-CoA:2-hydroxybenzoyl-CoA malonyltransferase
-DEFINITION  Malonyl-CoA + 2-Hydroxybenzoyl-CoA <=> 2 CoA + 4-Hydroxycoumarin + CO2
-EQUATION    C00083 + C20394 <=> 2 C00010 + C20414 + C00011
-RCLASS      RC00004  C00010_C00083  C00010_C20394
-ENZYME      2.3.1.208
-///

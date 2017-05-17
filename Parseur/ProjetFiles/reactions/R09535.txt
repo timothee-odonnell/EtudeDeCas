@@ -1,7 +1,0 @@
-ENTRY       R09535                      Reaction
-DEFINITION  Angiotensin II + H2O <=> Angiotensin (1-7) + L-Phenylalanine
-EQUATION    C02135 + C00001 <=> C15850 + C00079
-RCLASS      RC00064  C00079_C02135
-            RC02559  C02135_C15850
-ENZYME      3.4.17.23
-///

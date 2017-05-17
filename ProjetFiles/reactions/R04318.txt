@@ -1,6 +1,0 @@
-ENTRY       R04318                      Reaction
-DEFINITION  Benzylpenicilloic acid <=> Penicillin G + H2O
-EQUATION    C16672 <=> C05551 + C00001
-RCLASS      RC01499  C05551_C16672
-ENZYME      3.5.2.6
-///

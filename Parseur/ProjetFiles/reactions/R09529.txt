@@ -1,8 +1,0 @@
-ENTRY       R09529                      Reaction
-NAME        UDP-D-glucuronate:5,6,7-trihydroxyflavone 7-O-glucuronosyltransferase
-DEFINITION  UDP-glucuronate + Baicalein <=> UDP + Baicalin
-EQUATION    C00167 + C10023 <=> C00015 + C10025
-RCLASS      RC00005  C00015_C00167
-            RC00171  C10023_C10025
-ENZYME      2.4.1.253
-///

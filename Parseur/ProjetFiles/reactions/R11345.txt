@@ -1,7 +1,0 @@
-ENTRY       R11345                      Reaction
-NAME        DNA-N6-methyladenosine,2-oxoglutarate:oxygen oxidoreductase (formaldehyde-forming)
-DEFINITION  DNA 6-methylaminopurine + 2-Oxoglutarate + Oxygen <=> DNA adenine + Formaldehyde + Succinate + CO2
-EQUATION    C03391 + C00026 + C00007 <=> C00821 + C00067 + C00042 + C00011
-RCLASS      RC00335  C00821_C03391
-ENZYME      1.14.11.51
-///

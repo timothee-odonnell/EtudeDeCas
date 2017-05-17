@@ -1,7 +1,0 @@
-ENTRY       R10899                      Reaction
-NAME        geranylgeranyl-diphosphate diphosphate-lyase [(1S,4E,8E,12E)-2,2,5,9,13-pentamethylcyclopentadeca-4,8,12-trien-1-ol-forming]
-DEFINITION  Geranylgeranyl diphosphate + H2O <=> (1S,4E,8E,12E)-2,2,5,9,13-Pentamethylcyclopentadeca-4,8,12-trien-1-ol + Diphosphate
-EQUATION    C00353 + C00001 <=> C20924 + C00013
-RCLASS      RC03301  C00353_C20924
-ENZYME      4.2.3.151
-///

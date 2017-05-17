@@ -1,9 +1,0 @@
-ENTRY       R10520                      Reaction
-NAME        D-glucose-6-phosphate:NAD+ 1-oxidoreductase
-DEFINITION  D-Glucose 6-phosphate + NAD+ <=> D-Glucono-1,5-lactone 6-phosphate + NADH + H+
-EQUATION    C00092 + C00003 <=> C01236 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00066  C00092_C01236
-ENZYME      1.1.1.363       1.1.1.388
-ORTHOLOGY   K19243  NAD+ dependent glucose-6-phosphate dehydrogenase [EC:1.1.1.388]
-///

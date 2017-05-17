@@ -1,8 +1,0 @@
-ENTRY       R01144                      Reaction
-NAME        Oxaloacetate-4-methyl-ester oxaloacetohydrolase
-DEFINITION  Oxaloacetate 4-methyl ester + H2O <=> Oxaloacetate + Methanol
-EQUATION    C03716 + C00001 <=> C00036 + C00132
-RCLASS      RC00460  C00036_C03716
-            RC00461  C00132_C03716
-ENZYME      3.1.1.44
-///

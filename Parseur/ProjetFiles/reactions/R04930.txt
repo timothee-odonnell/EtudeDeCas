@@ -1,9 +1,0 @@
-ENTRY       R04930                      Reaction
-NAME        Selenocystathionine Lysteine-lyase (deaminating)
-DEFINITION  L-Selenocystathionine + H2O <=> L-Selenocysteine + Ammonia + 2-Oxobutanoate
-EQUATION    C05699 + C00001 <=> C05688 + C00014 + C00109
-RCLASS      RC00056  C05688_C05699
-            RC01209  C00109_C05699
-ENZYME      4.4.1.1
-ORTHOLOGY   K01758  cystathionine gamma-lyase [EC:4.4.1.1]
-///

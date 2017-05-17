@@ -1,9 +1,0 @@
-ENTRY       R11202                      Reaction
-NAME        [Wnt]-O-(9Z)-hexadec-9-enoyl-L-serine acylhydrolase
-DEFINITION  [Wnt]-O-(9Z)-hexadec-9-enoyl-L-serine + H2O <=> [Wnt]-L-serine + (9Z)-Hexadecenoic acid
-EQUATION    C21171 + C00001 <=> C21172 + C08362
-RCLASS      RC00020  C08362_C21171
-            RC00041  C21171_C21172
-ENZYME      3.1.1.98
-ORTHOLOGY   K19882  O-palmitoleoyl-L-serine hydrolase [EC:3.1.1.98]
-///

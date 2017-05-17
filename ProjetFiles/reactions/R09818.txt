@@ -1,9 +1,0 @@
-ENTRY       R09818                      Reaction
-NAME        1-hydroxy-2-naphthoate,NADPH:oxygen oxidoreductase (2-hydroxylating, decarboxylating)
-DEFINITION  1-Hydroxy-2-naphthoate + NADPH + H+ + Oxygen <=> Naphthalene-1,2-diol + NADP+ + H2O + CO2
-EQUATION    C03203 + C00005 + C00080 + C00007 <=> C03012 + C00006 + C00001 + C00011
-COMMENT     NADH (see R05632)
-RCLASS      RC00001  C00005_C00006
-            RC00389  C03012_C03203
-ENZYME      1.14.13.135
-///

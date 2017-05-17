@@ -1,7 +1,0 @@
-ENTRY       R10927                      Reaction
-NAME        arsenate:thioredoxin oxidoreductase
-DEFINITION  Arsenate ion + Thioredoxin <=> Arsenite + Thioredoxin disulfide + H2O
-EQUATION    C11215 + C00342 <=> C06697 + C00343 + C00001
-RCLASS      RC00013  C00342_C00343
-ENZYME      1.20.4.4
-///

@@ -1,9 +1,0 @@
-ENTRY       R03862                      Reaction
-NAME        L-arginyl-tRNA(Arg):protein arginyltransferase
-DEFINITION  L-Arginyl-tRNA(Arg) + Protein <=> tRNA(Arg) + L-Arginyl-protein
-EQUATION    C02163 + C00017 <=> C01636 + C16739
-RCLASS      RC00055  C01636_C02163
-            RC00064  C00017_C16739
-ENZYME      2.3.2.8
-ORTHOLOGY   K00685  arginine-tRNA-protein transferase [EC:2.3.2.8]
-///

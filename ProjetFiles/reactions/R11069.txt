@@ -1,6 +1,0 @@
-ENTRY       R11069                      Reaction
-DEFINITION  Terpentetriene <=> Terpentecin
-EQUATION    C19814 <=> C21093
-PATHWAY     rn01130  Biosynthesis of antibiotics
-MODULE      M00788  Terpentecin biosynthesis, GGAP => terpentecin
-///

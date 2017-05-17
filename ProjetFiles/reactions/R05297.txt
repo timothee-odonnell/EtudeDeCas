@@ -1,7 +1,0 @@
-ENTRY       R05297                      Reaction
-DEFINITION  (4E)-2-Oxohexenoic acid + H2O <=> 4-Hydroxy-2-oxohexanoic acid
-EQUATION    C06761 + C00001 <=> C06762
-COMMENT     XylJ
-RCLASS      RC01320  C06761_C06762
-ENZYME      4.2.1.80
-///

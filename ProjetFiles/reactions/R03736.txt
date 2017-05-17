@@ -1,8 +1,0 @@
-ENTRY       R03736                      Reaction
-NAME        Rifamycin-B:oxygen oxidoreductase
-DEFINITION  Rifamycin B + Oxygen <=> Rifamycin O + Hydrogen peroxide
-EQUATION    C01848 + C00007 <=> C01849 + C00027
-RCLASS      RC00988  C01848_C01849
-            RC02755  C00007_C00027
-ENZYME      1.10.3.6
-///

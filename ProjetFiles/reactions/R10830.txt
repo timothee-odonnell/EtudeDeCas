@@ -1,8 +1,0 @@
-ENTRY       R10830                      Reaction
-NAME        beta-D-glucuronoside glucuronosohydrolase
-DEFINITION  G00526 + H2O <=> G00711 + D-Glucuronate
-EQUATION    G00526 + C00001 <=> G00711 + C00191
-ENZYME      3.2.1.31
-PATHWAY     rn00531  Glycosaminoglycan degradation
-ORTHOLOGY   K01195  beta-glucuronidase [EC:3.2.1.31]
-///

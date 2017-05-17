@@ -1,9 +1,0 @@
-ENTRY       R01374                      Reaction
-NAME        D-phenylalanine:quinone oxidoreductase (deaminating)
-DEFINITION  D-Phenylalanine + H2O + Quinone <=> Phenylpyruvate + Ammonia + Hydroquinone
-EQUATION    C02265 + C00001 + C15602 <=> C00166 + C00014 + C15603
-RCLASS      RC00006  C00166_C02265
-ENZYME      1.4.5.1
-PATHWAY     rn00360  Phenylalanine metabolism
-ORTHOLOGY   K00285  D-amino-acid dehydrogenase [EC:1.4.5.1]
-///

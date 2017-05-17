@@ -1,9 +1,0 @@
-ENTRY       R05546                      Reaction
-DEFINITION  2-Amino-5-oxocyclohex-1-enecarbonyl-CoA + 2 H2O <=> 1,4-Cyclohexanedione + Ammonia + CO2 + CoA
-EQUATION    C05165 + 2 C00001 <=> C08063 + C00014 + C00011 + C00010
-COMMENT     non-enzymatic
-RCLASS      RC00004  C00010_C05165
-            RC01417  C05165_C08063
-PATHWAY     rn00627  Aminobenzoate degradation
-            rn01120  Microbial metabolism in diverse environments
-///

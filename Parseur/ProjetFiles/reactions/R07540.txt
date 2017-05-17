@@ -1,6 +1,0 @@
-ENTRY       R07540                      Reaction
-DEFINITION  gamma-Carotene <=> 1',2'-Dihydro-gamma-carotene
-EQUATION    C05435 <=> C15907
-COMMENT     incomplete reaction (unidentified donor)
-RCLASS      RC00522  C05435_C15907
-///

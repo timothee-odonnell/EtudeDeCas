@@ -1,8 +1,0 @@
-ENTRY       R01027                      Reaction
-NAME        3'-phosphoadenylyl-sulfate:choline sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Choline <=> Adenosine 3',5'-bisphosphate + Choline sulfate
-EQUATION    C00053 + C00114 <=> C00054 + C00919
-RCLASS      RC00007  C00053_C00054
-            RC00134  C00114_C00919
-ENZYME      2.8.2.6
-///

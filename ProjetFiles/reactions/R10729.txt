@@ -1,7 +1,0 @@
-ENTRY       R10729                      Reaction
-NAME        L-phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  L-Phenylalanine + Tetrahydrobiopterin + Oxygen <=> 3-Hydroxy-L-phenylalanine + 4a-Hydroxytetrahydrobiopterin
-EQUATION    C00079 + C00272 + C00007 <=> C20807 + C15522
-RCLASS      RC00490  C00079_C20807
-ENZYME      1.14.16.7
-///

@@ -1,8 +1,0 @@
-ENTRY       R00057                      Reaction
-NAME        thiol:oxygen oxidoreductase
-DEFINITION  Oxygen + 2 R'C(R)SH <=> R'C(R)S-S(R)CR' + Hydrogen peroxide
-EQUATION    C00007 + 2 C01525 <=> C02318 + C00027
-RCLASS      RC00946  C01525_C02318
-            RC02755  C00007_C00027
-ENZYME      1.8.3.2
-///

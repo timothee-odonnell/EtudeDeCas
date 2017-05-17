@@ -1,8 +1,0 @@
-ENTRY       R11200                      Reaction
-NAME        4-coumaroyl-CoA:spermidine N-(4-coumaroyl)transferase
-DEFINITION  2 p-Coumaroyl-CoA + Spermidine <=> 2 CoA + N1,N8-Bis(4-coumaroyl)spermidine
-EQUATION    2 C00223 + C00315 <=> 2 C00010 + C21169
-RCLASS      RC00004  C00010_C00223
-            RC03386  C00315_C21169
-ENZYME      2.3.1.249
-///

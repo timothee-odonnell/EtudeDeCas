@@ -1,8 +1,0 @@
-ENTRY       R11088                      Reaction
-NAME        S-adenosyl-3-(methylthio)propylamine:norspermidine 3-aminopropyltransferase
-DEFINITION  S-Adenosylmethioninamine + Norspermidine <=> 5'-Methylthioadenosine + Norspermine + H+
-EQUATION    C01137 + C03375 <=> C00170 + C21004 + C00080
-RCLASS      RC00021  C00170_C01137
-            RC00053  C03375_C21004
-ENZYME      2.5.1.126
-///

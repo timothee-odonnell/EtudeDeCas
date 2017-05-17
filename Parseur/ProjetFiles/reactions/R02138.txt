@@ -1,8 +1,0 @@
-ENTRY       R02138                      Reaction
-NAME        Palmitoyl-CoA:dolichol O-palmitoyltransferase
-DEFINITION  Palmitoyl-CoA + Dolichol <=> CoA + Dolichyl palmitate
-EQUATION    C00154 + C00381 <=> C00010 + C02536
-RCLASS      RC00004  C00010_C00154
-            RC00041  C00381_C02536
-ENZYME      2.3.1.123
-///

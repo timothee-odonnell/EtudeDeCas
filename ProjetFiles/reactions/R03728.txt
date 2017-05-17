@@ -1,9 +1,0 @@
-ENTRY       R03728                      Reaction
-NAME        Octadecanal alkane-lyase
-DEFINITION  Octadecanal + Oxygen + 2 NADPH + 2 H+ <=> Heptadecane + Formate + H2O + 2 NADP+
-EQUATION    C01838 + C00007 + 2 C00005 + 2 C00080 <=> C01816 + C00058 + C00001 + 2 C00006
-RCLASS      RC00001  C00005_C00006
-            RC00987  C01816_C01838
-            RC02543  C00058_C01838
-ENZYME      4.1.99.5
-///

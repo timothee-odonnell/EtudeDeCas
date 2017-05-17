@@ -1,8 +1,0 @@
-ENTRY       R08534                      Reaction
-NAME        hydroxycinnamoyl glucosyltransferase
-DEFINITION  UDP-glucose + 4-Coumarate <=> UDP + p-Coumaroyl-D-glucose
-EQUATION    C00029 + C00811 <=> C00015 + C16827
-RCLASS      RC00005  C00015_C00029
-            RC00523  C00811_C16827
-ENZYME      2.4.1.126
-///

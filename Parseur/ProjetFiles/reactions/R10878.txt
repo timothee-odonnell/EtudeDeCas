@@ -1,9 +1,0 @@
-ENTRY       R10878                      Reaction
-NAME        mycinamicin-V,NADPH:oxygen oxidoreductase (12,13-epoxidizing)
-DEFINITION  Mycinamicin V + NADPH + Oxygen + H+ <=> Mycinamicin II + NADP+ + H2O
-EQUATION    C18847 + C00005 + C00007 + C00080 <=> C15680 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC03294  C15680_C18847
-ENZYME      1.14.13.-
-PATHWAY     rn01130  Biosynthesis of antibiotics
-///

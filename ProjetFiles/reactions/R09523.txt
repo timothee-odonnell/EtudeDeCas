@@ -1,7 +1,0 @@
-ENTRY       R09523                      Reaction
-NAME        S-adenosylmethionine:iodide methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Iodide + H+ <=> S-Adenosyl-L-homocysteine + Methyl iodide
-EQUATION    C00019 + C00708 + C00080 <=> C00021 + C18448
-RCLASS      RC00003  C00019_C00021
-ENZYME      2.1.1.165
-///

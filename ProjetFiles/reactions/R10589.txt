@@ -1,8 +1,0 @@
-ENTRY       R10589                      Reaction
-NAME        anthraniloyl-CoA:3-oxodecanoate C-anthraniloyltransferase (decarboxylating)
-DEFINITION  3-Oxodecanoate + Anthraniloyl-CoA <=> CoA + 2-Heptyl-4(1H)-quinolone + CO2 + H2O
-EQUATION    C20714 + C02247 <=> C00010 + C20643 + C00011 + C00001
-RCLASS      RC00004  C00010_C02247
-ENZYME      2.3.1.230
-ORTHOLOGY   K18003  2-heptyl-4(1H)-quinolone synthase [EC:2.3.1.230]
-///

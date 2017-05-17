@@ -1,7 +1,0 @@
-ENTRY       R09972                      Reaction
-NAME        geranyl-diphosphate diphosphate-lyase [cyclizing, (-)-camphene-forming]
-DEFINITION  Geranyl diphosphate <=> (-)-Camphene + Diphosphate
-EQUATION    C00341 <=> C06305 + C00013
-RCLASS      RC02304  C00341_C06305
-ENZYME      4.2.3.117
-///

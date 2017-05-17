@@ -1,8 +1,0 @@
-ENTRY       R05324                      Reaction
-NAME        UDPglucose:cis-p-coumarate beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + cis-p-Coumarate <=> 4'-O-beta-D-Glucosyl-cis-p-coumarate + UDP
-EQUATION    C00029 + C06738 <=> C06739 + C00015
-RCLASS      RC00005  C00015_C00029
-            RC00171  C06738_C06739
-ENZYME      2.4.1.209
-///

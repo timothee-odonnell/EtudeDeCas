@@ -1,9 +1,0 @@
-ENTRY       C17627                      Compound
-NAME        Prenyl diphosphate;
-            Prenol pyrophosphate
-COMMENT     Generic compound in reaction hierarchy
-REACTION    R03541
-ENZYME      3.1.7.1
-DBLINKS     PubChem: 96023971
-            ChEBI: 16057
-///

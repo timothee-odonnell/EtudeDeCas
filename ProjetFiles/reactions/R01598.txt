@@ -1,8 +1,0 @@
-ENTRY       R01598                      Reaction
-NAME        Arachidonate:CoA ligase (AMP-forming)
-DEFINITION  ATP + Arachidonate + CoA <=> AMP + Diphosphate + Arachidonyl-CoA
-EQUATION    C00002 + C00219 + C00010 <=> C00020 + C00013 + C02249
-RCLASS      RC00004  C00010_C02249
-            RC00014  C00219_C02249
-ENZYME      6.2.1.15
-///

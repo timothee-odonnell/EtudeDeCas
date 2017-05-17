@@ -1,7 +1,0 @@
-ENTRY       R09887                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, alpha-guaiene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> alpha-Guaiene + Diphosphate
-EQUATION    C00448 <=> C20161 + C00013
-RCLASS      RC02697  C00448_C20161
-ENZYME      4.2.3.87
-///

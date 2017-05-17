@@ -1,9 +1,0 @@
-ENTRY       R00630                      Reaction
-NAME        Carboxylic-ester hydrolase
-DEFINITION  Ester + H2O <=> Alcohol + Carboxylate
-EQUATION    C02391 + C00001 <=> C00069 + C00060
-COMMENT     general reaction
-RCLASS      RC00339  C00069_C02391
-            RC00342  C00060_C02391
-ENZYME      3.1.1.1
-///

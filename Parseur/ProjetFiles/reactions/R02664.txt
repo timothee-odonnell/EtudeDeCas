@@ -1,9 +1,0 @@
-ENTRY       R02664                      Reaction
-DEFINITION  2-Phospho-D-glycerate + ATP <=> 2,3-Bisphospho-D-glycerate + ADP
-EQUATION    C00631 + C00002 <=> C01159 + C00008
-COMMENT     2-phosphoglycerate kinase
-RCLASS      RC00002  C00002_C00008
-            RC00017  C00631_C01159
-ENZYME      2.7.2.-
-ORTHOLOGY   K05715  2-phosphoglycerate kinase [EC:2.7.2.-]
-///

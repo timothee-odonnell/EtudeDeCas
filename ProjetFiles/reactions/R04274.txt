@@ -1,7 +1,0 @@
-ENTRY       R04274                      Reaction
-NAME        RNA-3'-phosphate:RNA ligase (cyclizing, AMP-forming)
-DEFINITION  ATP + RNA 3'-terminal-phosphate <=> AMP + Diphosphate + RNA terminal-2',3'-cyclic-phosphate
-EQUATION    C00002 + C03638 <=> C00020 + C00013 + C04312
-RCLASS      RC00296  C03638_C04312
-ENZYME      6.5.1.4
-///

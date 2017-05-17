@@ -1,9 +1,0 @@
-ENTRY       R06342                      Reaction
-NAME        (gibberellin-1),2-oxoglutarate:oxygen oxidoreductase (2beta-hydroxylating)
-DEFINITION  Gibberellin A34 <=> Gibberellin A34-catabolite
-EQUATION    C11868 <=> C11869
-COMMENT     GA 2-oxidase(2-oxoglutarate dependent dioxygenase),GA2ox
-RCLASS      RC01604  C11868_C11869
-ENZYME      1.14.11.13
-PATHWAY     rn00904  Diterpenoid biosynthesis
-///

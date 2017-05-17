@@ -1,8 +1,0 @@
-ENTRY       R04411                      Reaction
-NAME        1-O-trans-Cinnamoyl-beta-D-glucopyranose:alcohol O-cinnamoyltransferase
-DEFINITION  trans-Cinnamoyl beta-D-glucoside + Alcohol <=> Alkyl cinnamate + D-Glucose
-EQUATION    C04164 + C00069 <=> C06357 + C00031
-RCLASS      RC00055  C00031_C04164
-            RC00339  C00069_C06357
-ENZYME      2.3.1.152
-///

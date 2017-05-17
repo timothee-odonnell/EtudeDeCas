@@ -1,8 +1,0 @@
-ENTRY       R11228                      Reaction
-DEFINITION  Epoxypheophorbide a + H2O <=> Red chlorophyll catabolite
-EQUATION    C21192 + C00001 <=> C18022
-COMMENT     spontaneous
-            second step of two-step reaction (see R08921, R11227+R11228)
-RCLASS      RC03396  C18022_C21192
-ENZYME      1.14.15.17
-///

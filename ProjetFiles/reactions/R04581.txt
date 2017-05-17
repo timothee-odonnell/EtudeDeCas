@@ -1,8 +1,0 @@
-ENTRY       R04581                      Reaction
-NAME        CDPabequose:D-mannosyl-L-rhamnosyl-D-galactose-1-diphospholipid D-abequosyltransferase
-DEFINITION  CDP-abequose + D-Mannosyl-L-rhamnosyl-D-galactose-1-diphospholipid <=> CDP + D-Abequosyl-D-mannosyl-rhamnosyl-D-galactose-1-diphospholipid
-EQUATION    C01788 + C04724 <=> C00112 + C04808
-RCLASS      RC00005  C00112_C01788
-            RC00049  C04724_C04808
-ENZYME      2.4.1.60
-///

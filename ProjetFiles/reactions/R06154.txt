@@ -1,9 +1,0 @@
-ENTRY       R06154                      Reaction
-NAME        methylamine:oxygen oxidoreductase (deaminating) (copper-containing)
-DEFINITION  Methylamine + Oxygen + H2O <=> Formaldehyde + Ammonia + Hydrogen peroxide
-EQUATION    C00218 + C00007 + C00001 <=> C00067 + C00014 + C00027
-RCLASS      RC00189  C00067_C00218
-            RC02755  C00007_C00027
-ENZYME      1.4.3.21
-ORTHOLOGY   K00276  primary-amine oxidase [EC:1.4.3.21]
-///

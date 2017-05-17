@@ -1,9 +1,0 @@
-ENTRY       R04948                      Reaction
-NAME        UDPglucose:(S)-4-hydroxymandelonitrile beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Cyanohydrin <=> Cyanoglycoside + UDP
-EQUATION    C00029 + C05712 <=> C05713 + C00015
-RCLASS      RC00005  C00015_C00029
-            RC00262  C05712_C05713
-ENZYME      2.4.1.63        2.4.1.85        2.4.1.178
-ORTHOLOGY   K13030  cyanohydrin beta-glucosyltransferase [EC:2.4.1.85]
-///

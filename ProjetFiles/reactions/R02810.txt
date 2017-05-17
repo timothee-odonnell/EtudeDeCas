@@ -1,9 +1,0 @@
-ENTRY       R02810                      Reaction
-NAME        iodide:hydrogen-peroxide oxidoreductase
-DEFINITION  2 Iodide + Hydrogen peroxide + 2 H+ <=> Iodine + 2 H2O
-EQUATION    2 C00708 + C00027 + 2 C00080 <=> C01382 + 2 C00001
-COMMENT     thyroid peroxidase, TPO
-            multi-step reaction on thyroglobulin [KO:K10809] (see R02810+R08520+R08521+R08522+R08523)
-RCLASS      RC00783  C00708_C01382
-ENZYME      1.11.1.8
-///

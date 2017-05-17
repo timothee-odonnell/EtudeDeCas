@@ -1,7 +1,0 @@
-ENTRY       R10005                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, gamma-muurolene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> gamma-Muurolene + Diphosphate
-EQUATION    C00448 <=> C20273 + C00013
-RCLASS      RC02785  C00448_C20273
-ENZYME      4.2.3.126
-///

@@ -1,9 +1,0 @@
-ENTRY       R11517                      Reaction
-NAME        geranylgeranyl-diphosphate:bacteriochlorophyllide-b geranylgeranytransferase
-DEFINITION  Bacteriochlorophyllide b + Geranylgeranyl diphosphate <=> Geranylgeranyl bacteriochlorophyllide b + Diphosphate
-EQUATION    C18156 + C00353 <=> C21435 + C00013
-RCLASS      RC00020  C18156_C21435
-ENZYME      2.5.1.133
-PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
-ORTHOLOGY   K04040  chlorophyll/bacteriochlorophyll a synthase [EC:2.5.1.62 2.5.1.133]
-///

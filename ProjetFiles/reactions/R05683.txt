@@ -1,9 +1,0 @@
-ENTRY       R05683                      Reaction
-NAME        L-Idonate:NAD oxidoreductase
-DEFINITION  L-Idonate + NAD+ <=> 5-Dehydro-D-gluconate + NADH + H+
-EQUATION    C00770 + C00003 <=> C01062 + C00004 + C00080
-COMMENT     see R05684 (NADPH)
-RCLASS      RC00001  C00003_C00004
-            RC00089  C00770_C01062
-ENZYME      1.1.1.264       1.1.1.366
-///

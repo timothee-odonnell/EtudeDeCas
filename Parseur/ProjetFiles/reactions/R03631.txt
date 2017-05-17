@@ -1,8 +1,0 @@
-ENTRY       R03631                      Reaction
-NAME        Phytanate:CoA ligase (AMP-forming)
-DEFINITION  ATP + Phytanate + CoA <=> AMP + Diphosphate + Phytanoyl-CoA
-EQUATION    C00002 + C01607 + C00010 <=> C00020 + C00013 + C02060
-RCLASS      RC00004  C00010_C02060
-            RC00014  C01607_C02060
-ENZYME      6.2.1.24
-///

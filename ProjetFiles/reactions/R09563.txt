@@ -1,7 +1,0 @@
-ENTRY       R09563                      Reaction
-NAME        glutathione amide:hydrogen-peroxide oxidoreductase
-DEFINITION  2 Glutathione amide + Hydrogen peroxide <=> Glutathione amide disulfide + 2 H2O
-EQUATION    2 C19689 + C00027 <=> C19690 + 2 C00001
-RCLASS      RC00011  C19689_C19690
-ENZYME      1.11.1.17
-///

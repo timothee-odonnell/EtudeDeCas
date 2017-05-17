@@ -1,7 +1,0 @@
-ENTRY       C20832                      Compound
-NAME        Hydroperoxyicosatetraenoate
-COMMENT     Generic compound in reaction hierarchy
-REACTION    R10761 R10766
-ENZYME      4.2.1.152       5.4.4.7
-DBLINKS     PubChem: 254741298
-///

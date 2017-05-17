@@ -1,5 +1,0 @@
-ENTRY       R05260                      Reaction
-DEFINITION  DDT + Reduced acceptor + Oxygen <=> cis-2,3-Dihydrodiol 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane + Acceptor
-EQUATION    C04623 + C00030 + C00007 <=> C06649 + C00028
-RCLASS      RC00267  C04623_C06649
-///

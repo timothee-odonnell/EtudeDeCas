@@ -1,7 +1,0 @@
-ENTRY       R07184                      Reaction
-NAME        (gibberellin-44),2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  Gibberellin A44 + 2-Oxoglutarate + Oxygen <=> Gibberellin A19 + Succinate + CO2
-EQUATION    C12308 + C00026 + C00007 <=> C02034 + C00042 + C00011
-RCLASS      RC01896  C02034_C12308
-ENZYME      1.14.11.12
-///

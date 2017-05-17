@@ -1,7 +1,0 @@
-ENTRY       R10721                      Reaction
-NAME        3-methyl-L-tyrosine:hydrogen-peroxide oxidoreductase (3-hydroxy-5-methyl-L-tyrosine-forming)
-DEFINITION  3-Methyl-L-tyrosine + Hydrogen peroxide <=> 3-Hydroxy-5-methyl-L-tyrosine + H2O
-EQUATION    C20800 + C00027 <=> C20801 + C00001
-RCLASS      RC00046  C20800_C20801
-ENZYME      1.11.2.5
-///

@@ -1,6 +1,0 @@
-ENTRY       R04895                      Reaction
-DEFINITION  2-Hydroxyhepta-2,4-dienedioate + H2O <=> 4-Hydroxy-2-oxo-heptanedioate
-EQUATION    C05600 + C00001 <=> C05601
-RCLASS      RC02712  C05600_C05601
-ENZYME      4.2.1.-
-///

@@ -1,8 +1,0 @@
-ENTRY       R02453                      Reaction
-NAME        Benzoyl-CoA:anthranilate N-benzoyltransferase
-DEFINITION  Benzoyl-CoA + Anthranilate <=> CoA + N-Benzoylanthranilate
-EQUATION    C00512 + C00108 <=> C00010 + C03141
-RCLASS      RC00004  C00010_C00512
-            RC00416  C00108_C03141
-ENZYME      2.3.1.144
-///

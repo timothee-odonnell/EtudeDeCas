@@ -1,8 +1,0 @@
-ENTRY       R01444                      Reaction
-NAME        cellotriose glucohydrolase
-DEFINITION  Cellotriose + H2O <=> Cellobiose + D-Glucose
-EQUATION    C06219 + C00001 <=> C00185 + C00031
-REMARK      Same as: R06105
-RCLASS      RC00049  C00031_C06219  C00185_C06219
-ENZYME      3.2.1.74
-///

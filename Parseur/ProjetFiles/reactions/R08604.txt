@@ -1,9 +1,0 @@
-ENTRY       R08604                      Reaction
-NAME        tryptamine,NADPH:oxygen oxidoreductase (N-hydroxylating)
-DEFINITION  Tryptamine + Oxygen + NADPH <=> N-Hydroxyl-tryptamine + H2O + NADP+
-EQUATION    C00398 + C00007 + C00005 <=> C17203 + C00001 + C00006
-RCLASS      RC00001  C00005_C00006
-            RC00298  C00398_C17203
-ENZYME      1.14.13.-
-PATHWAY     rn00380  Tryptophan metabolism
-///

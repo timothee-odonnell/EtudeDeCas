@@ -1,8 +1,0 @@
-ENTRY       R11496                      Reaction
-NAME        naphthalene-1,2,4,8-tetrol:oxygen oxidoreductase
-DEFINITION  2 Naphthalene-1,2,4,8-tetrol + Oxygen <=> 2 3,5-Dihydroxy-1,4-naphthoquinone + 2 H2O
-EQUATION    2 C21414 + C00007 <=> 2 C04110 + 2 C00001
-COMMENT     second step of two-step reaction (see R04327, R11495+R11496)
-RCLASS      RC01745  C04110_C21414
-ENZYME      1.17.3.4
-///

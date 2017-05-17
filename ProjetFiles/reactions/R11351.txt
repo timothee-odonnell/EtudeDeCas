@@ -1,7 +1,0 @@
-ENTRY       R11351                      Reaction
-NAME        glyoxal:oxygen oxidoreductase
-DEFINITION  Glyoxal + H2O + Oxygen <=> Glyoxylate + Hydrogen peroxide
-EQUATION    C14448 + C00001 + C00007 <=> C00048 + C00027
-RCLASS      RC03419  C00048_C14448
-ENZYME      1.2.3.15
-///

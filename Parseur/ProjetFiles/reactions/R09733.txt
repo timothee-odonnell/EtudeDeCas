@@ -1,9 +1,0 @@
-ENTRY       R09733                      Reaction
-NAME        GDP-mannose:D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol 3-alpha-mannosyltransferase
-DEFINITION  GDP-mannose + D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol <=> GDP + D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol
-EQUATION    C00096 + C19856 <=> C00035 + C19855
-RCLASS      RC00005  C00035_C00096
-            RC00049  C19855_C19856
-ENZYME      2.4.1.252
-ORTHOLOGY   K13657  alpha-1,3-mannosyltransferase [EC:2.4.1.252]
-///

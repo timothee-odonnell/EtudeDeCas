@@ -1,9 +1,0 @@
-ENTRY       R03096                      Reaction
-NAME        Indole-3-acetamide amidohydrolase
-DEFINITION  (Indol-3-yl)acetamide + H2O <=> Indole-3-acetate + Ammonia
-EQUATION    C02693 + C00001 <=> C00954 + C00014
-RCLASS      RC00010  C00954_C02693
-ENZYME      3.5.1.4
-PATHWAY     rn00380  Tryptophan metabolism
-ORTHOLOGY   K01426  amidase [EC:3.5.1.4]
-///

@@ -1,7 +1,0 @@
-ENTRY       R06976                      Reaction
-DEFINITION  ATP + Lombricine <=> ADP + N-Phospholombricine
-EQUATION    C00002 + C14177 <=> C00008 + C14178
-RCLASS      RC00002  C00002_C00008
-            RC00203  C14177_C14178
-ENZYME      2.7.3.5
-///

@@ -1,8 +1,0 @@
-ENTRY       R04036                      Reaction
-NAME        Photinus-luciferin:oxygen 4-oxidoreductase(decarboxylating,ATP-hydrolysing)
-DEFINITION  Photinus luciferin + Oxygen + ATP <=> Oxidized Photinus luciferin + hn + AMP + Diphosphate + CO2
-EQUATION    C02740 + C00007 + C00002 <=> C03797 + C00205 + C00020 + C00013 + C00011
-COMMENT     multi-step reaction
-RCLASS      RC01054  C02740_C03797
-ENZYME      1.13.12.7
-///

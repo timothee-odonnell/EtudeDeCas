@@ -1,9 +1,0 @@
-ENTRY       R08081                      Reaction
-NAME        flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)
-DEFINITION  Pinocembrin + 2-Oxoglutarate + Oxygen <=> Chrysin + Succinate + CO2 + H2O
-EQUATION    C09827 + C00026 + C00007 <=> C10028 + C00042 + C00011 + C00001
-RCLASS      RC00717  C09827_C10028
-ENZYME      1.14.11.22
-PATHWAY     rn00941  Flavonoid biosynthesis
-ORTHOLOGY   K13077  flavone synthase [EC:1.14.11.22]
-///

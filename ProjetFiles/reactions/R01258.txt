@@ -1,8 +1,0 @@
-ENTRY       R01258                      Reaction
-NAME        L-amino-aicd:NAD+ oxidoreductase (deaminating)
-DEFINITION  L-Amino acid + NAD+ + H2O <=> 2-Oxo acid + Ammonia + NADH + H+
-EQUATION    C00151 + C00003 + C00001 <=> C00161 + C00014 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00025  C00151_C00161
-ENZYME      1.4.1.5
-///

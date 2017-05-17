@@ -1,8 +1,0 @@
-ENTRY       R10160                      Reaction
-NAME        cannabigerolate:oxygen oxidoreductase (cyclizing, cannabidiolate-forming)
-DEFINITION  Cannabigerolate + Oxygen <=> Cannabidiolic acid + Hydrogen peroxide
-EQUATION    C20406 + C00007 <=> C10784 + C00027
-RCLASS      RC02755  C00007_C00027
-            RC03067  C10784_C20406
-ENZYME      1.21.3.8
-///

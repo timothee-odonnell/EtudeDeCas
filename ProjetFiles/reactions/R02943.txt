@@ -1,6 +1,0 @@
-ENTRY       R02943                      Reaction
-DEFINITION  Tryptophan + Dimethylallyl diphosphate <=> Dimethylallyltryptophan + Diphosphate
-EQUATION    C00806 + C00235 <=> C06067 + C00013
-RCLASS      RC00209  C00806_C06067
-ENZYME      2.5.1.34
-///

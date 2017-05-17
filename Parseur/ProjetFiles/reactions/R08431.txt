@@ -1,7 +1,0 @@
-ENTRY       R08431                      Reaction
-DEFINITION  1-Methylpyrrolinium <=> Tropinone
-EQUATION    C06178 <=> C00783
-COMMENT     multi-step reaction
-            incomplete reaction
-RCLASS      RC02185  C00783_C06178
-///

@@ -1,9 +1,0 @@
-ENTRY       R10821                      Reaction
-NAME        (R)-pantoate:beta-alanine ligase (ADP-forming)
-DEFINITION  ATP + (R)-Pantoate + beta-Alanine <=> ADP + Orthophosphate + Pantothenate
-EQUATION    C00002 + C00522 + C00099 <=> C00008 + C00009 + C00864
-RCLASS      RC00002  C00002_C00008
-            RC00096  C00099_C00864
-            RC00141  C00522_C00864
-ENZYME      6.3.2.44
-///

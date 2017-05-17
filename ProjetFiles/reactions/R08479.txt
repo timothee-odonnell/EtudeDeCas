@@ -1,8 +1,0 @@
-ENTRY       R08479                      Reaction
-DEFINITION  Tryptamine + 2 S-Adenosyl-L-methionine <=> Psilocin + 2 S-Adenosyl-L-homocysteine
-EQUATION    C00398 + 2 C00019 <=> C08312 + 2 C00021
-COMMENT     multi-step reaction (hydroxylation, methyltransfer x2)
-            incomplete reaction
-RCLASS      RC00003  C00019_C00021
-            RC02174  C00398_C08312
-///

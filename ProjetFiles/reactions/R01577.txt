@@ -1,7 +1,0 @@
-ENTRY       R01577                      Reaction
-NAME        D-arabinose aldose-ketose-isomerase
-DEFINITION  D-Arabinose <=> D-Ribulose
-EQUATION    C00216 <=> C00309
-RCLASS      RC00516  C00216_C00309
-ENZYME      5.3.1.3
-///

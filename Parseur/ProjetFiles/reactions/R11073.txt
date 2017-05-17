@@ -1,7 +1,0 @@
-ENTRY       R11073                      Reaction
-NAME        7,8-dihydroneopterin 2'-epimerase
-DEFINITION  2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine <=> 7,8-Dihydromonapterin
-EQUATION    C04874 <=> C21008
-RCLASS      RC01479  C04874_C21008
-ENZYME      5.1.99.8
-///

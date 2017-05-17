@@ -1,8 +1,0 @@
-ENTRY       R01418                      Reaction
-NAME        1,4-diguanidinobutane amidinohydrolase
-DEFINITION  Agmatine + Urea <=> Arcaine + H2O
-EQUATION    C00179 + C00086 <=> C03047 + C00001
-RCLASS      RC00024  C00179_C03047
-            RC00329  C00086_C03047
-ENZYME      3.5.3.20
-///

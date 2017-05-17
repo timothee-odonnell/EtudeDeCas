@@ -1,9 +1,0 @@
-ENTRY       R05252                      Reaction
-DEFINITION  4-Chlorobenzoate <=> 4-Chlorobenzaldehyde + H2O
-EQUATION    C02370 <=> C06648 + C00001
-COMMENT     4-chlorobenzaldehyde oxidase
-RCLASS      RC00075  C02370_C06648
-ENZYME      1.2.-.-
-PATHWAY     rn00351  DDT degradation
-            rn01120  Microbial metabolism in diverse environments
-///

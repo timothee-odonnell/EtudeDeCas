@@ -1,9 +1,0 @@
-ENTRY       R09153                      Reaction
-DEFINITION  Sulfoacetaldehyde <=> Coenzyme M
-EQUATION    C00593 <=> C03576
-COMMENT     enzyme not yet characterized
-RCLASS      RC02444  C00593_C03576
-PATHWAY     rn00680  Methane metabolism
-            rn01120  Microbial metabolism in diverse environments
-MODULE      M00358  Coenzyme M biosynthesis
-///

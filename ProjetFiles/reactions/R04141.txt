@@ -1,8 +1,0 @@
-ENTRY       R04141                      Reaction
-NAME        4-Methylumbelliferyl-acetate acylhydrolase
-DEFINITION  4-Methylumbelliferyl acetate + H2O <=> 4-Methylumbelliferone + Acetate
-EQUATION    C03837 + C00001 <=> C03081 + C00033
-RCLASS      RC00475  C00033_C03837
-            RC00476  C03081_C03837
-ENZYME      3.1.1.56
-///

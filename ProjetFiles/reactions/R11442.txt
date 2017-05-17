@@ -1,8 +1,0 @@
-ENTRY       R11442                      Reaction
-DEFINITION  (E)-4-Hydroxyphenylacetaldehyde oxime <=> (Z)-4-Hydroxyphenylacetaldehyde oxime
-EQUATION    C04350 <=> C04353
-COMMENT     first step of three-step reaction (see R05728, R11442+R04306+R02708)
-RCLASS      RC01159  C04350_C04353
-ENZYME      1.14.14.37
-ORTHOLOGY   K13029  4-hydroxyphenylacetaldehyde oxime monooxygenase [EC:1.14.14.37]
-///

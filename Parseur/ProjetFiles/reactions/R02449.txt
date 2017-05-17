@@ -1,8 +1,0 @@
-ENTRY       R02449                      Reaction
-NAME        benzoyl-CoA,NADPH:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  Benzoyl-CoA + Oxygen + NADPH + H+ <=> 3-Hydroxybenzoyl-CoA + NADP+ + H2O
-EQUATION    C00512 + C00007 + C00005 + C00080 <=> C05195 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00490  C00512_C05195
-ENZYME      1.14.13.58
-///

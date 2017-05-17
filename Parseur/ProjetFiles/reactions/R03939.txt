@@ -1,8 +1,0 @@
-ENTRY       R03939                      Reaction
-NAME        ATP:hypotaurocyamine N-phosphotransferase
-DEFINITION  ATP + Hypotaurocyamine <=> ADP + N-Phosphohypotaurocyamine
-EQUATION    C00002 + C02419 <=> C00008 + C03624
-RCLASS      RC00002  C00002_C00008
-            RC00203  C02419_C03624
-ENZYME      2.7.3.6
-///

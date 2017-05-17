@@ -1,9 +1,0 @@
-ENTRY       R10760                      Reaction
-NAME        6-deoxy-6-sulfo-D-fructose-1-phosphate 2-hydroxy-3-oxopropane-1-sulfonate-lyase (glycerone-phosphate-forming)
-DEFINITION  6-Deoxy-6-sulfo-D-fructose 1-phosphate <=> Glycerone phosphate + 2-Hydroxy-3-oxopropane-1-sulfonate
-EQUATION    C20831 <=> C00111 + C20798
-RCLASS      RC00438  C00111_C20831
-            RC00439  C20798_C20831
-ENZYME      4.1.2.57
-ORTHOLOGY   K01671  sulfofructosephosphate aldolase [EC:4.1.2.57]
-///

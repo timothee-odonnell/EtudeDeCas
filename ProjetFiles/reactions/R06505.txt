@@ -1,9 +1,0 @@
-ENTRY       R06505                      Reaction
-DEFINITION  Megalomicin A <=> Megalomicin C2
-EQUATION    C11985 <=> C11988
-COMMENT     mycarose O-acyltransferase,MegY
-RCLASS      RC01530  C11985_C11988
-PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
-            rn01130  Biosynthesis of antibiotics
-ORTHOLOGY   K15999  mycarose O-acyltransferase
-///

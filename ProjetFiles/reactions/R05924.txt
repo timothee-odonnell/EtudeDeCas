@@ -1,9 +1,0 @@
-ENTRY       R05924                      Reaction
-DEFINITION  Phosphatidylethanolamine + G00141 <=> 1,2-Diacyl-sn-glycerol + G00151
-EQUATION    C00350 + G00141 <=> C00641 + G00151
-RCLASS      RC00017  C00350_C00641
-ENZYME      2.7.-.-
-PATHWAY     rn00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
-ORTHOLOGY   K05287  phosphatidylinositol glycan, class F [EC:2.7.-.-]
-            K05310  ethanolaminephosphotransferase [EC:2.7.-.-]
-///

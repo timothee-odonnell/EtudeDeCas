@@ -1,8 +1,0 @@
-ENTRY       R11066                      Reaction
-DEFINITION  3-[(1E,4R)-4-Hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate <=> (3E)-3-[(1R,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate
-EQUATION    C21085 <=> C21086
-COMMENT     unclear reaction
-RCLASS      RC03340  C21085_C21086
-PATHWAY     rn01130  Biosynthesis of antibiotics
-MODULE      M00787  Bacilysin biosynthesis, prephenate => bacilysin
-///

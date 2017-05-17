@@ -1,8 +1,0 @@
-ENTRY       R00581                      Reaction
-NAME        L-serine:NAD+ oxidoreductase (deaminating)
-DEFINITION  L-Serine + NAD+ + H2O <=> Hydroxypyruvate + Ammonia + NADH + H+
-EQUATION    C00065 + C00003 + C00001 <=> C00168 + C00014 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00006  C00065_C00168
-ENZYME      1.4.1.7
-///

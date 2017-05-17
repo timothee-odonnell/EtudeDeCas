@@ -1,7 +1,0 @@
-ENTRY       R10813                      Reaction
-NAME        nucleoside-triphosphate:nucleoside-triphosphate nucleotidyltransferase (DNA-directed)
-DEFINITION  n Nucleoside triphosphate <=> 5'-Triphospho-[mRNA](n) + (n-1) Diphosphate
-EQUATION    n C00201 <=> C20864(n) + (n-1) C00013
-RCLASS      RC00078  C00201_C20864
-ENZYME      2.7.7.6
-///

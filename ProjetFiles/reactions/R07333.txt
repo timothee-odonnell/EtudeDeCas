@@ -1,7 +1,0 @@
-ENTRY       R07333                      Reaction
-NAME        UDP-glucose:flavanone 7-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Flavanone <=> UDP + Flavanone 7-O-beta-D-glucoside
-EQUATION    C00029 + C00766 <=> C00015 + C04007
-RCLASS      RC00005  C00015_C00029
-ENZYME      2.4.1.185
-///

@@ -1,9 +1,0 @@
-ENTRY       R02192                      Reaction
-NAME        N-acyl-D-amino acid amidohydrolase
-DEFINITION  N-Acyl-D-amino acid + H2O <=> Carboxylate + D-Amino acid
-EQUATION    C06378 + C00001 <=> C00060 + C00405
-RCLASS      RC00064  C00405_C06378
-            RC00328  C00060_C06378
-ENZYME      3.5.1.81
-ORTHOLOGY   K06015  N-acyl-D-amino-acid deacylase [EC:3.5.1.81]
-///

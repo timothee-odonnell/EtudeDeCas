@@ -1,8 +1,0 @@
-ENTRY       R08507                      Reaction
-DEFINITION  Cholest-5-ene-3beta,26-diol <=> Tomatidine
-EQUATION    C15610 <=> C10826
-COMMENT     unclear reaction
-            multi-step reaction
-            incomplete reaction
-RCLASS      RC02259  C10826_C15610
-///

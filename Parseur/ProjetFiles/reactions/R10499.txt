@@ -1,9 +1,0 @@
-ENTRY       R10499                      Reaction
-NAME        L-phenylalanine:2-oxo-acid aminotransferase
-DEFINITION  L-Phenylalanine + 2-Oxo acid <=> Phenylpyruvate + L-Amino acid
-EQUATION    C00079 + C00161 <=> C00166 + C00151
-RCLASS      RC00006  C00079_C00166
-            RC00025  C00151_C00161
-ENZYME      2.6.1.-
-PATHWAY     rn01210  2-Oxocarboxylic acid metabolism
-///

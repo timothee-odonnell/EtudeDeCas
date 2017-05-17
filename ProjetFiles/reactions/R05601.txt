@@ -1,8 +1,0 @@
-ENTRY       R05601                      Reaction
-DEFINITION  6-Carboxyhex-2-enoyl-CoA + H2O <=> 3-Hydroxypimeloyl-CoA
-EQUATION    C06723 + C00001 <=> C06714
-RCLASS      RC01095  C06714_C06723
-ENZYME      4.2.1.-
-PATHWAY     rn00362  Benzoate degradation
-            rn01120  Microbial metabolism in diverse environments
-///

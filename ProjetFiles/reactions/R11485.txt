@@ -1,6 +1,0 @@
-ENTRY       R11485                      Reaction
-NAME        flavodoxin:NADP+ oxidoreductase
-DEFINITION  Reduced flavodoxin + NADP+ <=> Oxidized flavodoxin + NADPH + H+
-EQUATION    C02745 + C00006 <=> C02869 + C00005 + C00080
-ENZYME      1.19.1.1
-///

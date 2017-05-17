@@ -1,8 +1,0 @@
-ENTRY       R03019                      Reaction
-NAME        S-Adenosyl-L-methionine:tRNA-uridine 3-(3-amino-3-carboxypropyl)transferase
-DEFINITION  S-Adenosyl-L-methionine + tRNA uridine <=> 5'-Methylthioadenosine + 3-[(3S)-3-Amino-3-carboxypropyl]-uridine in tRNA
-EQUATION    C00019 + C00868 <=> C00170 + C04510
-RCLASS      RC00021  C00019_C00170
-            RC00829  C00868_C04510
-ENZYME      2.5.1.25
-///

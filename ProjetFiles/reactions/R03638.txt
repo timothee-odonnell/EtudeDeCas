@@ -1,9 +1,0 @@
-ENTRY       R03638                      Reaction
-NAME        taxifolin,NADPH:oxygen oxidoreductase (8-hydroxylating)
-DEFINITION  Taxifolin + Oxygen + NADPH + H+ <=> 2,3-Dihydrogossypetin + NADP+ + H2O
-EQUATION    C01617 + C00007 + C00005 + C00080 <=> C03052 + C00006 + C00001
-COMMENT     NADH (see R03637)
-RCLASS      RC00001  C00005_C00006
-            RC00236  C01617_C03052
-ENZYME      1.14.13.19
-///

@@ -1,7 +1,0 @@
-ENTRY       R07475                      Reaction
-NAME        geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase
-DEFINITION  Geranylgeranyl diphosphate + Isopentenyl diphosphate <=> all-trans-Pentaprenyl diphosphate + Diphosphate
-EQUATION    C00353 + C00129 <=> C04217 + C00013
-RCLASS      RC00279  C00129_C04217
-ENZYME      2.5.1.81
-///

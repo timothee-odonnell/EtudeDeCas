@@ -1,8 +1,0 @@
-ENTRY       R04512                      Reaction
-NAME        3-D-Glucuronosyl-N2,6-disulfo-beta-D-glucosamine glucuronohydrolase
-DEFINITION  3-D-Glucuronosyl-N2,6-disulfo-beta-D-glucosamine + H2O <=> N,6-O-Disulfo-D-glucosamine + D-Glucuronate
-EQUATION    C04674 + C00001 <=> C03789 + C00191
-REMARK      Same as: R06143
-RCLASS      RC00049  C00191_C04674  C03789_C04674
-ENZYME      3.2.1.56
-///

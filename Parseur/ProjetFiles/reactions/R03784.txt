@@ -1,9 +1,0 @@
-ENTRY       R03784                      Reaction
-NAME        Pregnenolone,hydrogen-donor:oxygen oxidoreductase (21-hydroxylating)
-DEFINITION  Pregnenolone + Reduced acceptor + Oxygen <=> 21-Hydroxypregnenolone + Acceptor + H2O
-EQUATION    C01953 + C00030 + C00007 <=> C05485 + C00028 + C00001
-RCLASS      RC00157  C01953_C05485
-ENZYME      1.14.14.16
-PATHWAY     rn00140  Steroid hormone biosynthesis
-ORTHOLOGY   K00513  steroid 21-monooxygenase [EC:1.14.14.16]
-///

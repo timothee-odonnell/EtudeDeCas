@@ -1,8 +1,0 @@
-ENTRY       R08200                      Reaction
-DEFINITION  3-Phosphonopyruvate + H2O <=> Pyruvate + Orthophosphate
-EQUATION    C02798 + C00001 <=> C00022 + C00009
-RCLASS      RC02147  C00022_C02798
-ENZYME      3.11.1.3
-PATHWAY     rn00440  Phosphonate and phosphinate metabolism
-ORTHOLOGY   K19669  phosphonopyruvate hydrolase [EC:3.11.1.3]
-///

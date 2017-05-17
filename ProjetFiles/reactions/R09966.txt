@@ -1,7 +1,0 @@
-ENTRY       R09966                      Reaction
-NAME        geranyl-diphosphate diphosphate-lyase [cyclizing, (+)-sabinene-forming]
-DEFINITION  Geranyl diphosphate <=> (+)-Sabinene + Diphosphate
-EQUATION    C00341 <=> C20230 + C00013
-RCLASS      RC02763  C00341_C20230
-ENZYME      4.2.3.110
-///

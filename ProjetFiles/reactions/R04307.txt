@@ -1,8 +1,0 @@
-ENTRY       R04307                      Reaction
-NAME        trans-4-hydroxycyclohexanecarboxylate:NAD+ 4-oxidoreductase
-DEFINITION  trans-4-Hydroxycyclohexanecarboxylate + NAD+ <=> 4-Oxocyclohexanecarboxylate + NADH + H+
-EQUATION    C04404 + C00003 <=> C03767 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00144  C03767_C04404
-ENZYME      1.1.1.226
-///

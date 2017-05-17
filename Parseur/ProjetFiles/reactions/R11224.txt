@@ -1,8 +1,0 @@
-ENTRY       R11224                      Reaction
-NAME        UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate:dolichyl N-acetyl-alpha-D-glucosaminyl-phosphate 3-beta-D-2,3-diacetamido-2,3-dideoxy-beta-D-glucuronosyltransferase
-DEFINITION  UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate + Archaeal dolichyl N-acetyl-alpha-D-glucosaminyl phosphate <=> UDP + Archaeal dolichyl 3-O-(2,3-diacetamido-2,3-dideoxy-beta-D-glucuronsyl)-N-acetyl-alpha-D-glucosaminyl phosphate
-EQUATION    C19725 + C04678 <=> C00015 + C21213
-RCLASS      RC00005  C00015_C19725
-            RC00049  C04678_C21213
-ENZYME      2.4.1.335
-///

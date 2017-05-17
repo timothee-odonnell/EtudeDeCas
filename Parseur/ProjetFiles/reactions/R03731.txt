@@ -1,8 +1,0 @@
-ENTRY       R03731                      Reaction
-NAME        S-Adenosyl-L-methionine:isoorientin 3'-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Isoorientin <=> S-Adenosyl-L-homocysteine + Isoscoparine
-EQUATION    C00019 + C01821 <=> C00021 + C05990
-RCLASS      RC00003  C00019_C00021
-            RC00392  C01821_C05990
-ENZYME      2.1.1.78
-///

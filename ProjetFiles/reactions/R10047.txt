@@ -1,7 +1,0 @@
-ENTRY       R10047                      Reaction
-NAME        (+)-camphor,reduced putidaredoxin:oxygen oxidoreductase (6-endo-hydroxylating)
-DEFINITION  (+)-Camphor + Putidaredoxin + Oxygen <=> (+)-6-endo-Hydroxycamphor + Oxidized putidaredoxin + H2O
-EQUATION    C00808 + C02069 + C00007 <=> C20323 + C03302 + C00001
-RCLASS      RC01218  C00808_C20323
-ENZYME      1.14.15.10
-///

@@ -1,9 +1,0 @@
-ENTRY       R04520                      Reaction
-NAME        geranylgeranyl diphosphate:sn-3-O-(geranylgeranyl)glycerol 1-phosphate geranylgeranyltransferase
-DEFINITION  Geranylgeranyl diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + 2,3-Bis-O-(geranylgeranyl)glycerol 1-phosphate
-EQUATION    C00353 + C04590 <=> C00013 + C04638
-RCLASS      RC01171  C04590_C04638
-ENZYME      2.5.1.42
-PATHWAY     rn00564  Glycerophospholipid metabolism
-ORTHOLOGY   K17105  geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]
-///

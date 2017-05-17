@@ -1,8 +1,0 @@
-ENTRY       R00777                      Reaction
-NAME        N-Amidino-L-aspartate amidinohydrolase
-DEFINITION  N-Amidino-L-aspartate + H2O <=> L-Aspartate + Urea
-EQUATION    C03139 + C00001 <=> C00049 + C00086
-RCLASS      RC00329  C00086_C03139
-            RC00380  C00049_C03139
-ENZYME      3.5.3.14
-///

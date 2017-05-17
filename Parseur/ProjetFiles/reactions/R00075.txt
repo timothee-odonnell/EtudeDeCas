@@ -1,8 +1,0 @@
-ENTRY       R00075                      Reaction
-NAME        S-adenosyl-L-methionine:S-adenosyl-L-methionine 3-amino-3-carboxypropyltransferase
-DEFINITION  3 S-Adenosyl-L-methionine <=> 3 5'-Methylthioadenosine + Nicotianamine
-EQUATION    3 C00019 <=> 3 C00170 + C05324
-COMMENT     multi-step reaction
-RCLASS      RC00021  C00019_C00170
-ENZYME      2.5.1.43
-///

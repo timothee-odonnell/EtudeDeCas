@@ -1,8 +1,0 @@
-ENTRY       R01843                      Reaction
-NAME        ATP:Sedoheptulose 7-phosphate 1-phosphotransferase
-DEFINITION  ATP + Sedoheptulose 7-phosphate <=> ADP + Sedoheptulose 1,7-bisphosphate
-EQUATION    C00002 + C05382 <=> C00008 + C00447
-RCLASS      RC00002  C00002_C00008
-            RC00017  C00447_C05382
-ENZYME      2.7.1.11
-///

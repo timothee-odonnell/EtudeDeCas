@@ -1,6 +1,0 @@
-ENTRY       R01008                      Reaction
-NAME        UDP-N-acetyl-D-glucosamine:dolichyl-phosphate alpha-N-acetyl-D-glucosaminyltransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + Archaeal dolichyl phosphate <=> UDP + Archaeal dolichyl N-acetyl-alpha-D-glucosaminyl phosphate
-EQUATION    C00043 + C21212 <=> C00015 + C04678
-ENZYME      2.4.1.153
-///

@@ -1,7 +1,0 @@
-ENTRY       R08560                      Reaction
-NAME        Cinchoninone epimerase
-DEFINITION  Cinchonidinone <=> Cinchoninone
-EQUATION    C16846 <=> C16726
-COMMENT     enzyme not yet characterized
-RCLASS      RC02146  C16726_C16846
-///

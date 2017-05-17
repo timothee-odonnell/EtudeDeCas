@@ -1,8 +1,0 @@
-ENTRY       R10789                      Reaction
-NAME        L-ornithine,NADPH:oxygen oxidoreductase (N5-hydroxylating)
-DEFINITION  L-Ornithine + NADPH + H+ + Oxygen <=> N5-Hydroxy-L-ornithine + NADP+ + H2O
-EQUATION    C00077 + C00005 + C00080 + C00007 <=> C20850 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00298  C00077_C20850
-ENZYME      1.14.13.195     1.14.13.196
-///

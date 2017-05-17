@@ -1,8 +1,0 @@
-ENTRY       R06341                      Reaction
-DEFINITION  Gibberellin A12 aldehyde <=> Gibberellin A14 aldehyde
-EQUATION    C06093 <=> C11853
-COMMENT     GA 3-oxidase(2-oxoglutarate dependent dioxygenase),GA3ox
-RCLASS      RC01218  C06093_C11853
-PATHWAY     rn00904  Diterpenoid biosynthesis
-ORTHOLOGY   K12917  cytochrome P450 monooxygenase 1
-///

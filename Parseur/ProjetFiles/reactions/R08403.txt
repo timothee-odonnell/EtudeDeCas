@@ -1,6 +1,0 @@
-ENTRY       R08403                      Reaction
-DEFINITION  DNA 2,6-diamino-5-formamido-3,4-dihydro-4-oxopyrimidine <=> DNA containing guanine + H2O
-EQUATION    C16691 <=> C11475 + C00001
-RCLASS      RC00294  C11475_C16691
-ENZYME      4.3.2.4
-///

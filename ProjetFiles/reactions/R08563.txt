@@ -1,9 +1,0 @@
-ENTRY       R08563                      Reaction
-NAME        Cinchonidinone:NADPH oxidoreductase
-DEFINITION  Cinchonidinone + NADPH + H+ <=> Cinchonidine + NADP+
-EQUATION    C16846 + C00005 + C00080 <=> C11379 + C00006
-COMMENT     unclear reaction
-            possibly catalyzed by Cinchoninone:NADPH oxidoreductase (see R08492 and R08561)
-RCLASS      RC00001  C00005_C00006
-            RC02145  C11379_C16846
-///

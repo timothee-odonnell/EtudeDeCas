@@ -1,9 +1,0 @@
-ENTRY       R06406                      Reaction
-NAME        alpha-Pinene monooxygenase
-DEFINITION  alpha-Pinene + NADH + H+ + Oxygen <=> alpha-Pinene-oxide + NAD+ + H2O
-EQUATION    C09880 + C00004 + C00080 + C00007 <=> C02759 + C00003 + C00001
-RCLASS      RC00001  C00003_C00004
-            RC01509  C02759_C09880
-ENZYME      1.14.13.-
-PATHWAY     rn00903  Limonene and pinene degradation
-///

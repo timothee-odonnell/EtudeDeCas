@@ -1,8 +1,0 @@
-ENTRY       R03680                      Reaction
-NAME        UDPglucose:gibberellin 2-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Gibberellin A3 <=> UDP + Gibberellin 2-O-beta-D-glucoside
-EQUATION    C00029 + C01699 <=> C00015 + C04070
-RCLASS      RC00005  C00015_C00029
-            RC00049  C01699_C04070
-ENZYME      2.4.1.176
-///

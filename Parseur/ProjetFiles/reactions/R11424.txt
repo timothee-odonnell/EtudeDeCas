@@ -1,7 +1,0 @@
-ENTRY       R11424                      Reaction
-NAME        3-hydroxy-4-methylanthranilyl-[aryl-carrier protein],NADH:oxygen oxidoreductase (5-hydroxylating)
-DEFINITION  3-Hydroxy-4-methylanthranilyl-[aryl-carrier protein] + NADH + H+ + Oxygen <=> 3,5-Dihydroxy-4-methylanthranilyl-[aryl-carrier protein] + NAD+ + H2O
-EQUATION    C21375 + C00004 + C00080 + C00007 <=> C21376 + C00003 + C00001
-RCLASS      RC00046  C21375_C21376
-ENZYME      1.14.13.223
-///

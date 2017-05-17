@@ -1,6 +1,0 @@
-ENTRY       R02504                      Reaction
-NAME        Trimetaphosphate hydrolase
-DEFINITION  Trimetaphosphoric acid + H2O <=> Triphosphate
-EQUATION    C02466 + C00001 <=> C00536
-ENZYME      3.6.1.2
-///

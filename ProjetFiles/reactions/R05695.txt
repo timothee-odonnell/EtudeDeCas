@@ -1,9 +1,0 @@
-ENTRY       R05695                      Reaction
-NAME        Nucleoside:oxygen 5'-oxidoreductase (H2O2-forming)
-DEFINITION  Adenosine + 2 Oxygen + H2O <=> 9-Riburonosyladenine + 2 Hydrogen peroxide
-EQUATION    C00212 + 2 C00007 + C00001 <=> C11501 + 2 C00027
-COMMENT     two-step reaction (R05696 + R05697)
-RCLASS      RC00291  C00212_C11501
-            RC02755  C00007_C00027
-ENZYME      1.1.3.39
-///

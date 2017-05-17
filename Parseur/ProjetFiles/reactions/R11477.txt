@@ -1,7 +1,0 @@
-ENTRY       R11477                      Reaction
-NAME        tert-amyl alcohol,NADPH:oxygen oxidoreductase (1,2-dehydrogenating)
-DEFINITION  tert-Amyl alcohol + NADPH + H+ + Oxygen <=> Isoprenyl alcohol + NADP+ + 2 H2O
-EQUATION    C21401 + C00005 + C00080 + C00007 <=> C21402 + C00006 + 2 C00001
-RCLASS      RC03448  C21401_C21402
-ENZYME      1.14.19.48
-///

@@ -1,8 +1,0 @@
-ENTRY       R07608                      Reaction
-NAME        L-methionine:thioredoxin-disulfide S-oxidoreductase [L-methionine (R)-S-oxide-forming]
-DEFINITION  L-Methionine + Thioredoxin disulfide + H2O <=> L-Methionine (R)-S-oxide + Thioredoxin
-EQUATION    C00073 + C00343 + C00001 <=> C15998 + C00342
-RCLASS      RC00013  C00342_C00343
-            RC00639  C00073_C15998
-ENZYME      1.8.4.14
-///

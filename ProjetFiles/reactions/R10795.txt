@@ -1,8 +1,0 @@
-ENTRY       R10795                      Reaction
-NAME        docosahexaenoate,NADPH:O2 oxidoreductase (22-hydroxydocosahexaenoate-forming)
-DEFINITION  (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid + NADPH + H+ + Oxygen <=> 22-Hydroxydocosahexaenoate + NADP+ + H2O
-EQUATION    C06429 + C00005 + C00080 + C00007 <=> C20855 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00797  C06429_C20855
-ENZYME      1.14.13.199
-///

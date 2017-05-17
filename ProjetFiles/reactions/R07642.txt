@@ -1,8 +1,0 @@
-ENTRY       R07642                      Reaction
-NAME        L-amino acid:L-amino acid ligase (ADP-forming)
-DEFINITION  ATP + L-Amino acid + L-Amino acid <=> ADP + Orthophosphate + L-Aminoacyl-L-amino acid
-EQUATION    C00002 + C00151 + C00151 <=> C00008 + C00009 + C16116
-RCLASS      RC00002  C00002_C00008
-            RC00064  C00151_C16116
-            RC00141  C00151_C16116
-///

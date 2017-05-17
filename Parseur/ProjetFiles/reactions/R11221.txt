@@ -1,9 +1,0 @@
-ENTRY       R11221                      Reaction
-NAME        S-adenosyl-L-methionine:[protein]-L-arginine N-methyltransferase ([protein]-N5-methyl-L-arginine-forming)
-DEFINITION  S-Adenosyl-L-methionine + Protein-L-arginine <=> S-Adenosyl-L-homocysteine + Protein N5-methyl-L-arginine
-EQUATION    C00019 + C00613 <=> C00021 + C21190
-RCLASS      RC00003  C00019_C00021
-            RC00614  C00613_C21190
-ENZYME      2.1.1.322
-ORTHOLOGY   K18477  type IV protein arginine methyltransferase [EC:2.1.1.322]
-///

@@ -1,8 +1,0 @@
-ENTRY       R10450                      Reaction
-NAME        S-adenosyl-L-methionine:gibberellin A4 O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Gibberellin A4 <=> S-Adenosyl-L-homocysteine + Methyl gibberellin A4
-EQUATION    C00019 + C11864 <=> C00021 + C20633
-RCLASS      RC00003  C00019_C00021
-            RC00460  C11864_C20633
-ENZYME      2.1.1.276
-///

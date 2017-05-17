@@ -1,8 +1,0 @@
-ENTRY       R04476                      Reaction
-NAME        3'-Phosphoadenylylsulfate:UDP-N-acetyl-D-galactosamine-4-sulfate 6-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + UDP-N-acetyl-D-galactosamine 4-sulfate <=> Adenosine 3',5'-bisphosphate + UDP-N-acetyl-D-galactosamine 4,6-bissulfate
-EQUATION    C00053 + C04426 <=> C00054 + C04589
-RCLASS      RC00007  C00053_C00054
-            RC00134  C04426_C04589
-ENZYME      2.8.2.7
-///

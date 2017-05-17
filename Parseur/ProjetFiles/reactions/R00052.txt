@@ -1,7 +1,0 @@
-ENTRY       R00052                      Reaction
-NAME        chloride:hydrogen-peroxide oxidoreductase
-DEFINITION  Hydrogen peroxide + Alkane + Hydrochloric acid <=> RCl + 2 H2O
-EQUATION    C00027 + C01371 + C01327 <=> C01334 + 2 C00001
-RCLASS      RC02324  C01334_C01371
-ENZYME      1.11.1.10
-///

@@ -1,8 +1,0 @@
-ENTRY       R09533                      Reaction
-NAME        5,6,7-trihydroxyflavone-7-O-beta-D-glucupyranosiduronate glucuronosylhydrolase
-DEFINITION  Baicalin + H2O <=> Baicalein + D-Glucuronate
-EQUATION    C10025 + C00001 <=> C10023 + C00191
-RCLASS      RC00171  C10023_C10025
-            RC00714  C00191_C10025
-ENZYME      3.2.1.167
-///

@@ -1,8 +1,0 @@
-ENTRY       R08134                      Reaction
-DEFINITION  3beta,5beta-Ketotriol <=> 2-Deoxyecdysone
-EQUATION    C16494 <=> C16495
-COMMENT     CYP302A1: 22-hydroxylase
-RCLASS      RC00773  C16494_C16495
-PATHWAY     rn00981  Insect hormone biosynthesis
-ORTHOLOGY   K10721  CYP302A1; ecdysteroid 22-hydroxylase
-///

@@ -1,8 +1,0 @@
-ENTRY       R03796                      Reaction
-NAME        Pyruvate-oxime:acetone oximinotransferase
-DEFINITION  Pyruvate oxime + Acetone <=> Pyruvate + Acetone oxime
-EQUATION    C02193 + C00207 <=> C00022 + C01995
-RCLASS      RC00999  C00207_C01995
-            RC01000  C00022_C02193
-ENZYME      2.6.3.1
-///

@@ -1,8 +1,0 @@
-ENTRY       R09933                      Reaction
-NAME        (R)-benzoin:NADP+ oxidoreductase
-DEFINITION  (R)-Benzoin + NADP+ <=> Benzil + NADPH + H+
-EQUATION    C20228 + C00006 <=> C20226 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC02730  C20226_C20228
-ENZYME      1.1.1.321
-///

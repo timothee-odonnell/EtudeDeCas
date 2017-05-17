@@ -1,8 +1,0 @@
-ENTRY       R00881                      Reaction
-NAME        GDP-mannose mannophosphohydrolase
-DEFINITION  GDP-mannose + H2O <=> GMP + D-Mannose 1-phosphate
-EQUATION    C00096 + C00001 <=> C00144 + C00636
-RCLASS      RC00002  C00096_C00144  C00096_C00636
-ENZYME      3.6.1.21        3.6.1.-
-PATHWAY     rn00051  Fructose and mannose metabolism
-///

@@ -1,8 +1,0 @@
-ENTRY       R04642                      Reaction
-NAME        UDP-N-acetyl-D-glucosamine:2,6-bis(N-acetyl-beta-D-glucosaminyl)-alpha-D-mannosyl-glycoprotein 4-beta-N-acetyl-D-glucosaminyltransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + N-Acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-alpha-D-mannosyl-R <=> UDP + N-Acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-(N-acetyl-beta-D-glucosaminyl-1,4)-alpha-D-mannosyl-R
-EQUATION    C00043 + C04906 <=> C00015 + C04934
-RCLASS      RC00005  C00015_C00043
-            RC00049  C04906_C04934
-ENZYME      2.4.1.201
-///

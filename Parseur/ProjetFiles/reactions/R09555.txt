@@ -1,7 +1,0 @@
-ENTRY       R09555                      Reaction
-NAME        benzoyl-CoA,NADPH:oxygen oxidoreductase (2,3-epoxydizing)
-DEFINITION  Benzoyl-CoA + NADPH + H+ + Oxygen <=> 2,3-Epoxy-2,3-dihydrobenzoyl-CoA + NADP+ + H2O
-EQUATION    C00512 + C00005 + C00080 + C00007 <=> C19684 + C00006 + C00001
-RCLASS      RC01739  C00512_C19684
-ENZYME      1.14.13.208
-///

@@ -1,8 +1,0 @@
-ENTRY       R03579                      Reaction
-NAME        N-Feruloylglycine amidohydrolase
-DEFINITION  N-Feruloylglycine + H2O <=> Ferulate + Glycine
-EQUATION    C02564 + C00001 <=> C01494 + C00037
-RCLASS      RC00096  C00037_C02564
-            RC00957  C01494_C02564
-ENZYME      3.5.1.71
-///

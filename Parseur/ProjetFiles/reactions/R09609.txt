@@ -1,7 +1,0 @@
-ENTRY       R09609                      Reaction
-NAME        (2Z,6Z)-farnesyl diphosphate lyase (cyclizing;(+)-endo-beta-bergamotene-forming)
-DEFINITION  (2Z,6Z)-Farnesyl diphosphate <=> (+)-endo-beta-Bergamotene + Diphosphate
-EQUATION    C19760 <=> C19737 + C00013
-RCLASS      RC02579  C19737_C19760
-ENZYME      4.2.3.53
-///

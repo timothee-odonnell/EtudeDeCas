@@ -1,8 +1,0 @@
-ENTRY       R02513                      Reaction
-NAME        Nomega,Nomega'-dimethyl-L-arginine dimethylamidohydrolase
-DEFINITION  NG,NG-Dimethyl-L-arginine + H2O <=> Dimethylamine + L-Citrulline
-EQUATION    C03626 + C00001 <=> C00543 + C00327
-RCLASS      RC00735  C00327_C03626
-            RC00736  C00543_C03626
-ENZYME      3.5.3.18
-///

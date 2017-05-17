@@ -1,8 +1,0 @@
-ENTRY       R02195                      Reaction
-NAME        Feruloyl-CoA:quinate O-(hydroxycinnamoyl)transferase
-DEFINITION  Feruloyl-CoA + Quinate <=> CoA + 5-O-Feruloylquinic acid
-EQUATION    C00406 + C00296 <=> C00010 + C02572
-RCLASS      RC00004  C00010_C00406
-            RC00055  C00296_C02572
-ENZYME      2.3.1.99
-///

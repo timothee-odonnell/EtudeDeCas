@@ -1,7 +1,0 @@
-ENTRY       R03445                      Reaction
-DEFINITION  4-(2-Aminophenyl)-2,4-dioxobutanoate <=> 4-Hydroxy-2-quinolinecarboxylic acid + H2O
-EQUATION    C01252 <=> C01717 + C00001
-COMMENT     non-enzymatic
-RCLASS      RC00930  C01252_C01717
-PATHWAY     rn01100  Metabolic pathways
-///

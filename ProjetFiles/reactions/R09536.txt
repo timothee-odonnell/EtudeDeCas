@@ -1,8 +1,0 @@
-ENTRY       R09536                      Reaction
-NAME        fatty acylamide amidohydrolase
-DEFINITION  Anandamide + H2O <=> Arachidonate + Ethanolamine
-EQUATION    C11695 + C00001 <=> C00219 + C00189
-RCLASS      RC00090  C00219_C11695
-            RC00096  C00189_C11695
-ENZYME      3.5.1.99
-///

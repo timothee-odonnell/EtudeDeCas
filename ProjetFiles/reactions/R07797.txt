@@ -1,8 +1,0 @@
-ENTRY       R07797                      Reaction
-NAME        3'-phosphoadenylyl-sulfate:5alpha-cholan-3alpha,7alpha,12alpha,24-tetrol sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Petromyzonol <=> Adenosine 3',5'-bisphosphate + Petromyzonol 24-sulfate
-EQUATION    C00053 + C16258 <=> C00054 + C16259
-RCLASS      RC00007  C00053_C00054
-            RC00134  C16258_C16259
-ENZYME      2.8.2.31
-///

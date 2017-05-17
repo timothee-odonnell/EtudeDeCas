@@ -1,9 +1,0 @@
-ENTRY       R03585                      Reaction
-NAME        L-glycol:NADP+ oxidoreductase
-DEFINITION  L-Glycol + NADP+ <=> 2-Hydroxycarbonyl compound + NADPH + H+
-EQUATION    C01506 + C00006 <=> C03667 + C00005 + C00080
-COMMENT     NAD+ (see R03584)
-RCLASS      RC00001  C00005_C00006
-            RC00103  C01506_C03667
-ENZYME      1.1.1.185
-///

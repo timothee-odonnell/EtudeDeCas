@@ -1,9 +1,0 @@
-ENTRY       R07342                      Reaction
-NAME        aryl-ester hydrolase
-DEFINITION  Phenyl acetate + H2O <=> Phenol + Acetate
-EQUATION    C15583 + C00001 <=> C15584 + C00033
-COMMENT     general reaction (see R01241 and R06893)
-RCLASS      RC00475  C00033_C15583
-            RC00476  C15583_C15584
-ENZYME      3.1.1.2
-///

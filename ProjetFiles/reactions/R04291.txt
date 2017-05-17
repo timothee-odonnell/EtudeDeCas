@@ -1,8 +1,0 @@
-ENTRY       R04291                      Reaction
-NAME        UDP-N-acetyl-D-glucosamine:lysosomal-enzyme N-acetylglucosaminephosphotransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + Lysosomal-enzyme D-mannose <=> UMP + Lysosomal-enzyme N-acetyl-D-glucosaminyl-phospho-D-mannose
-EQUATION    C00043 + C03706 <=> C00105 + C04789
-RCLASS      RC00002  C00043_C00105
-            RC00017  C03706_C04789
-ENZYME      2.7.8.17
-///

@@ -1,7 +1,0 @@
-ENTRY       R10469                      Reaction
-NAME        2-amino-4,5-dihydroxy-6-oxo-7-(phosphooxy)heptanoate hydro-lyase (cyclizing, 3-amino-4-hydroxybenzoate-forming)
-DEFINITION  2-Amino-4,5-dihydroxy-6-oxo-7-(phosphooxy)heptanoate <=> 3-Amino-4-hydroxybenzoate + Orthophosphate + 2 H2O
-EQUATION    C20644 <=> C12115 + C00009 + 2 C00001
-RCLASS      RC03177  C12115_C20644
-ENZYME      4.1.99.20
-///

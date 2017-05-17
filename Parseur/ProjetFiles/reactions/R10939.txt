@@ -1,7 +1,0 @@
-ENTRY       R10939                      Reaction
-NAME        (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione aldose-ketose-isomerase
-DEFINITION  (4S)-4-Hydroxy-5-phosphonooxypentane-2,3-dione <=> 3-Hydroxy-5-phosphonooxypentane-2,4-dione
-EQUATION    C20959 <=> C20960
-RCLASS      RC03310  C20959_C20960
-ENZYME      5.3.1.32
-///

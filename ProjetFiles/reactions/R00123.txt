@@ -1,7 +1,0 @@
-ENTRY       R00123                      Reaction
-NAME        ADP aminohydrolase
-DEFINITION  ADP + H2O <=> IDP + Ammonia
-EQUATION    C00008 + C00001 <=> C00104 + C00014
-RCLASS      RC00477  C00008_C00104
-ENZYME      3.5.4.7         3.5.4.17
-///

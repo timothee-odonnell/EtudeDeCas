@@ -1,8 +1,0 @@
-ENTRY       R00311                      Reaction
-NAME        Heme, hydrogen-donor:oxygen oxidoreductase (alpha-methylene-oxydizing, hydroxylating)
-DEFINITION  Heme + 3 Reduced acceptor + 3 Oxygen <=> Biliverdin + CO + Fe2+ + 3 Acceptor + 3 H2O
-EQUATION    C00032 + 3 C00030 + 3 C00007 <=> C00500 + C00237 + C14818 + 3 C00028 + 3 C00001
-COMMENT     multi-step reaction
-RCLASS      RC01270  C00032_C00500
-ENZYME      1.14.14.18
-///

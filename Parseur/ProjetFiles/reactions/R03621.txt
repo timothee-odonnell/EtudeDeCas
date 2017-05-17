@@ -1,8 +1,0 @@
-ENTRY       R03621                      Reaction
-NAME        Acetyl-CoA:imidazole N-acetyltransferase
-DEFINITION  Acetyl-CoA + Imidazole <=> CoA + N-Acetylimidazole
-EQUATION    C00024 + C01589 <=> C00010 + C02560
-RCLASS      RC00004  C00010_C00024
-            RC00965  C01589_C02560
-ENZYME      2.3.1.2
-///

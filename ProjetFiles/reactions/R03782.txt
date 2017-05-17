@@ -1,7 +1,0 @@
-ENTRY       R03782                      Reaction
-NAME        Isopiperitenone delta8-delta4-isomerase
-DEFINITION  Isopiperitenone <=> Piperitenone
-EQUATION    C02289 <=> C01951
-RCLASS      RC00996  C01951_C02289
-ENZYME      5.3.3.11
-///

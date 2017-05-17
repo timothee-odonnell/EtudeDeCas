@@ -1,7 +1,0 @@
-ENTRY       R10277                      Reaction
-NAME        L-lysine ammonia-lyase (cyclizing; ammonia-forming)
-DEFINITION  L-Lysine <=> L-Pipecolate + Ammonia
-EQUATION    C00047 <=> C00408 + C00014
-RCLASS      RC00354  C00047_C00408
-ENZYME      4.3.1.28
-///

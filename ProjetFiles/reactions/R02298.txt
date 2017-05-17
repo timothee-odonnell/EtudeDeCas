@@ -1,7 +1,0 @@
-ENTRY       R02298                      Reaction
-NAME        Pyrimidine-nucleoside:orthophosphate alpha-D-ribosyltransferase
-DEFINITION  Pyrimidine nucleoside + Orthophosphate <=> Pyrimidine + alpha-D-Ribose 1-phosphate + H+
-EQUATION    C03169 + C00009 <=> C00396 + C00620 + C00080
-RCLASS      RC00033  C00396_C03169
-ENZYME      2.4.2.2
-///

@@ -1,9 +1,0 @@
-ENTRY       R00911                      Reaction
-NAME        beta-Alanyl-L-lysine hydrolase
-DEFINITION  beta-Alanyl-L-lysine + H2O <=> beta-Alanine + L-Lysine
-EQUATION    C05341 + C00001 <=> C00099 + C00047
-RCLASS      RC00064  C00047_C05341
-            RC00090  C00099_C05341
-ENZYME      3.4.13.4
-PATHWAY     rn00410  beta-Alanine metabolism
-///

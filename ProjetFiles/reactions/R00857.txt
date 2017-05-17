@@ -1,8 +1,0 @@
-ENTRY       R00857                      Reaction
-NAME        Glycerophosphodiester glycerophosphohydrolase
-DEFINITION  Glycerophosphodiester + H2O <=> Alcohol + sn-Glycerol 3-phosphate
-EQUATION    C03120 + C00001 <=> C00069 + C00093
-RCLASS      RC00338  C00069_C03120
-            RC00398  C00093_C03120
-ENZYME      3.1.4.46
-///

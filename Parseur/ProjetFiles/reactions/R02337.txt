@@ -1,8 +1,0 @@
-ENTRY       R02337                      Reaction
-NAME        1-Haloalkane halidohydrolase
-DEFINITION  1-Haloalkane + H2O <=> Primary alcohol + Halide
-EQUATION    C01872 + C00001 <=> C00226 + C00462
-COMMENT     general reaction
-RCLASS      RC00698  C00226_C01872
-ENZYME      3.8.1.5
-///

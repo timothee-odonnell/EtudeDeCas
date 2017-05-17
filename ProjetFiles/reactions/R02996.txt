@@ -1,8 +1,0 @@
-ENTRY       R02996                      Reaction
-NAME        Arylsulfate:phenol sulfotransferase
-DEFINITION  Aryl sulfate + Phenol <=> Phenol + Aryl sulfate
-EQUATION    C00850 + C15584 <=> C15584 + C00850
-COMMENT     general reaction
-RCLASS      RC00128  C00850_C15584
-ENZYME      2.8.2.22
-///

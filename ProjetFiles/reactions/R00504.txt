@@ -1,8 +1,0 @@
-ENTRY       R00504                      Reaction
-NAME        UDP-alpha-D-galactose:UDP-N-acetyl-alpha-D-glucosamine galactose phosphotransferase
-DEFINITION  UDP-alpha-D-galactose + UDP-N-acetyl-alpha-D-glucosamine <=> UMP + UDP-N-acetyl-6-(alpha-D-galactose-1-phospho)-alpha-D-glucosamine
-EQUATION    C00052 + C00043 <=> C00105 + C04739
-RCLASS      RC00002  C00052_C00105
-            RC00017  C00043_C04739
-ENZYME      2.7.8.18
-///

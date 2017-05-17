@@ -1,5 +1,0 @@
-ENTRY       R11117                      Reaction
-DEFINITION  Bacteriohopanetetrol-glucosamine <=> Bacteriohopanetetrol cyclitol ether
-EQUATION    C21121 <=> C21122
-COMMENT     radical SAM
-///

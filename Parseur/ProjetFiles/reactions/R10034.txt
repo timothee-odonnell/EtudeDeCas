@@ -1,8 +1,0 @@
-ENTRY       R10034                      Reaction
-DEFINITION  (E)-2-Methylpropanal oxime <=> (Z)-2-Methylpropanal oxime
-EQUATION    C03219 <=> C20315
-COMMENT     spontaneous
-RCLASS      RC03010  C03219_C20315
-PATHWAY     rn00460  Cyanoamino acid metabolism
-            rn01110  Biosynthesis of secondary metabolites
-///

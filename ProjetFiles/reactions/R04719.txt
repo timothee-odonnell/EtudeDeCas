@@ -1,6 +1,0 @@
-ENTRY       R04719                      Reaction
-DEFINITION  S-Adenosyl-L-methionine + [Myeline basic protein] L-arginine <=> S-Adenosyl-L-homocysteine + [Myeline basic protein] N(omega)-methyl-L-arginine
-EQUATION    C00019 + C05207 <=> C00021 + C05321
-RCLASS      RC00003  C00019_C00021
-            RC02120  C05207_C05321
-///

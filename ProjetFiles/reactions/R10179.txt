@@ -1,8 +1,0 @@
-ENTRY       R10179                      Reaction
-NAME        4-aminobutanoate:glyoxylate aminotransferase
-DEFINITION  4-Aminobutanoate + Glyoxylate <=> Succinate semialdehyde + Glycine
-EQUATION    C00334 + C00048 <=> C00232 + C00037
-RCLASS      RC00018  C00037_C00048
-            RC00062  C00232_C00334
-ENZYME      2.6.1.96
-///

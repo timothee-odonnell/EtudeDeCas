@@ -1,9 +1,0 @@
-ENTRY       R04764                      Reaction
-DEFINITION  2-Hydroxyestradiol + S-Adenosyl-L-methionine <=> 2-Methoxy-17beta-estradiol + S-Adenosyl-L-homocysteine
-EQUATION    C05301 + C00019 <=> C05302 + C00021
-RCLASS      RC00003  C00019_C00021
-            RC00392  C05301_C05302
-ENZYME      2.1.1.6
-PATHWAY     rn00140  Steroid hormone biosynthesis
-ORTHOLOGY   K00545  catechol O-methyltransferase [EC:2.1.1.6]
-///

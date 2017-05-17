@@ -1,7 +1,0 @@
-ENTRY       R04168                      Reaction
-NAME        Nucleoside:purine(pyrimidine) deoxy-D-ribosyltransferase
-DEFINITION  Deoxynucleoside + Base <=> Deoxynucleoside + Base
-EQUATION    C02269 + C00701 <=> C02269 + C00701
-COMMENT     general reaction
-ENZYME      2.4.2.6
-///

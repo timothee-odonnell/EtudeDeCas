@@ -1,7 +1,0 @@
-ENTRY       R08444                      Reaction
-DEFINITION  Dopamine <=> Mescaline
-EQUATION    C03758 <=> C06546
-COMMENT     multi-step reaction (hydroxylation and methyltransfer x3)
-            incomplete reaction
-RCLASS      RC02203  C03758_C06546
-///

@@ -1,9 +1,0 @@
-ENTRY       R05784                      Reaction
-NAME        limonene-1,2-epoxide hydrolase
-DEFINITION  Limonene-1,2-epoxide + H2O <=> Limonene-1,2-diol
-EQUATION    C07271 + C00001 <=> C07276
-RCLASS      RC01473  C07271_C07276
-ENZYME      3.3.2.8
-PATHWAY     rn00903  Limonene and pinene degradation
-ORTHOLOGY   K10533  limonene-1,2-epoxide hydrolase [EC:3.3.2.8]
-///

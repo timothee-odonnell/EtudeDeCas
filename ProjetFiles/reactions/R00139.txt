@@ -1,9 +1,0 @@
-ENTRY       R00139                      Reaction
-NAME        ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase
-DEFINITION  2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP <=> 2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP
-EQUATION    C11038 + C00002 <=> C11039 + C00008
-RCLASS      RC00002  C00002_C00008  C11038_C11039
-ENZYME      2.7.4.6
-PATHWAY     rn00240  Pyrimidine metabolism
-ORTHOLOGY   K00940  nucleoside-diphosphate kinase [EC:2.7.4.6]
-///

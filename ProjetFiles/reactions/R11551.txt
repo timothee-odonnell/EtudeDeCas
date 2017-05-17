@@ -1,8 +1,0 @@
-ENTRY       R11551                      Reaction
-NAME        geranyl-diphosphate phosphohydrolase
-DEFINITION  Geranyl diphosphate + H2O <=> Geranyl phosphate + Orthophosphate
-EQUATION    C00341 + C00001 <=> C21203 + C00009
-RCLASS      RC00002  C00341_C21203
-ENZYME      3.6.1.68
-ORTHOLOGY   K20986  geranyl diphosphate phosphohydrolase [EC:3.6.1.68]
-///

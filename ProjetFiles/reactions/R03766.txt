@@ -1,8 +1,0 @@
-ENTRY       R03766                      Reaction
-NAME        ATP:D-hamamelose 2'-phosphotransferase
-DEFINITION  ATP + D-Hamamelose <=> ADP + D-Hamamelose 2(1)-phosphate
-EQUATION    C00002 + C01906 <=> C00008 + C03606
-RCLASS      RC00002  C00002_C00008
-            RC00017  C01906_C03606
-ENZYME      2.7.1.102
-///

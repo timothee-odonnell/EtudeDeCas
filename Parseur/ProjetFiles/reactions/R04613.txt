@@ -1,8 +1,0 @@
-ENTRY       R04613                      Reaction
-NAME        L-alanyl-tRNA(Ala):UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine N6-alanyltransferase
-DEFINITION  UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala) + L-Alanyl-tRNA <=> UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-N6-(L-alanyl)-L-lysyl-D-alanyl-D-alanine + tRNA(Ala)
-EQUATION    C04702 + C00886 <=> C04894 + C01635
-RCLASS      RC00055  C00886_C01635
-            RC00096  C04702_C04894
-ENZYME      2.3.2.10
-///

@@ -1,8 +1,0 @@
-ENTRY       R11109                      Reaction
-NAME        palmitoyl-[acyl-carrier protein],reduced-ferredoxin:oxygen oxidoreductase (6,7 cis-dehydrogenating)
-DEFINITION  Hexadecanoyl-[acp] + 2 Reduced ferredoxin + Oxygen + 2 H+ <=> (6Z)-Hexadec-6-enoyl-[acyl-carrier protein] + 2 Oxidized ferredoxin + 2 H2O
-EQUATION    C05764 + 2 C00138 + C00007 + 2 C00080 <=> C21115 + 2 C00139 + 2 C00001
-RCLASS      RC00917  C05764_C21115
-ENZYME      1.14.19.26
-ORTHOLOGY   K03921  acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2 1.14.19.11 1.14.19.26]
-///

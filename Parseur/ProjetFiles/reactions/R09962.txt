@@ -1,7 +1,0 @@
-ENTRY       R09962                      Reaction
-NAME        geranyl-diphosphate diphosphate-lyase [(E)-beta-ocimene-forming]
-DEFINITION  Geranyl diphosphate <=> (E)-beta-Ocimene + Diphosphate
-EQUATION    C00341 <=> C09873 + C00013
-RCLASS      RC02338  C00341_C09873
-ENZYME      4.2.3.106
-///

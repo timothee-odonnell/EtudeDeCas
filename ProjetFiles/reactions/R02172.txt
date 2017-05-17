@@ -1,9 +1,0 @@
-ENTRY       R02172                      Reaction
-NAME        pyrimidine-nucleoside ribohydrolase
-DEFINITION  Pyrimidine nucleoside + H2O <=> Pyrimidine + D-Ribose + H+
-EQUATION    C03169 + C00001 <=> C00396 + C00121 + C00080
-COMMENT     general reaction
-RCLASS      RC00033  C00396_C03169
-            RC00485  C00121_C03169
-ENZYME      3.2.2.8
-///

@@ -1,7 +1,0 @@
-ENTRY       R09093                      Reaction
-DEFINITION  Tetrahydrofolate + Formaldehyde <=> 5,10-Methylenetetrahydrofolate + H2O
-EQUATION    C00101 + C00067 <=> C00143 + C00001
-COMMENT     Non-enzymatic reaction
-RCLASS      RC00022  C00101_C00143
-            RC01795  C00067_C00143
-///

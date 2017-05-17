@@ -1,8 +1,0 @@
-ENTRY       R10837                      Reaction
-NAME        CMP:phosphate (5-phospho-alpha-D-ribosyl)transferase
-DEFINITION  CMP + Orthophosphate <=> Cytosine + D-Ribose 1,5-bisphosphate
-EQUATION    C00055 + C00009 <=> C00380 + C01151
-RCLASS      RC00063  C00055_C00380
-ENZYME      2.4.2.57
-ORTHOLOGY   K18931  AMP phosphorylase [EC:2.4.2.57]
-///

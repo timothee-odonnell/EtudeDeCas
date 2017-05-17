@@ -1,9 +1,0 @@
-ENTRY       R03031                      Reaction
-NAME        vinylacetyl-CoA Delta3-Delta2-isomerase
-DEFINITION  Vinylacetyl-CoA <=> Crotonoyl-CoA
-EQUATION    C02331 <=> C00877
-RCLASS      RC01857  C00877_C02331
-ENZYME      5.3.3.3
-PATHWAY     rn00650  Butanoate metabolism
-ORTHOLOGY   K14534  4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]
-///

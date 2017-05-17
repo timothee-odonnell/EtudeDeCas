@@ -1,8 +1,0 @@
-ENTRY       R04051                      Reaction
-DEFINITION  3-Phosphonopyruvate + L-Glutamate <=> 2-Amino-3-phosphonopropanoate + 2-Oxoglutarate
-EQUATION    C02798 + C00025 <=> C05672 + C00026
-RCLASS      RC00006  C00025_C00026  C02798_C05672
-ENZYME      2.6.1.-
-PATHWAY     rn00440  Phosphonate and phosphinate metabolism
-            rn01100  Metabolic pathways
-///

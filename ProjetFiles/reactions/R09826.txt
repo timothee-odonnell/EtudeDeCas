@@ -1,8 +1,0 @@
-ENTRY       R09826                      Reaction
-NAME        all-trans-retinyl ester acylhydrolase, 13-cis retinol forming
-DEFINITION  Retinyl ester + H2O <=> 13-cis-Retinol + Fatty acid
-EQUATION    C02075 + C00001 <=> C19962 + C00162
-RCLASS      RC00020  C00162_C02075
-            RC02665  C02075_C19962
-ENZYME      3.1.1.90
-///

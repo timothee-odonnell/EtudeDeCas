@@ -1,8 +1,0 @@
-ENTRY       R10803                      Reaction
-NAME        hydrogen sulfide:coenzyme F420 oxidoreductase
-DEFINITION  Hydrogen sulfide + 3 Coenzyme F420 + 3 H2O <=> Sulfite + 3 Reduced coenzyme F420
-EQUATION    C00283 + 3 C00876 + 3 C00001 <=> C00094 + 3 C01080
-RCLASS      RC00065  C00094_C00283
-            RC02628  C00876_C01080
-ENZYME      1.8.98.3
-///

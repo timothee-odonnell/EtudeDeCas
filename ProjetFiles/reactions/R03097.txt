@@ -1,7 +1,0 @@
-ENTRY       R03097                      Reaction
-DEFINITION  Indole-3-acetate + Oxygen <=> 2-Formaminobenzoylacetate
-EQUATION    C00954 + C00007 <=> C05835
-RCLASS      RC00356  C00954_C05835
-ENZYME      1.13.11.-
-PATHWAY     rn00380  Tryptophan metabolism
-///

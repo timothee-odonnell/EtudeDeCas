@@ -1,8 +1,0 @@
-ENTRY       R05756                      Reaction
-NAME        S-adenosyl-L-methionine:methylarsonite As-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Methanearsonous acid <=> S-Adenosyl-L-homocysteine + Cacodylate
-EQUATION    C00019 + C07295 <=> C00021 + C07308
-RCLASS      RC00003  C00019_C00021
-            RC02363  C07295_C07308
-ENZYME      2.1.1.137
-///

@@ -1,9 +1,0 @@
-ENTRY       R08579                      Reaction
-NAME        parathion oxidoreductase
-DEFINITION  Parathion <=> Paraoxon
-EQUATION    C06604 <=> C06606
-COMMENT     incomplete reaction
-            P-450 in mammals (see R05259), while unclear in microbial
-RCLASS      RC01311  C06604_C06606
-ENZYME      1.14.-.-
-///

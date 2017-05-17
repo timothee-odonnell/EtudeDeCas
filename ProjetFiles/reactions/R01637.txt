@@ -1,6 +1,0 @@
-ENTRY       R01637                      Reaction
-DEFINITION  3,4-Dihydroxybenzoate <=> Gallate
-EQUATION    C00230 <=> C01424
-COMMENT     incomplete reaction
-RCLASS      RC00046  C00230_C01424
-///

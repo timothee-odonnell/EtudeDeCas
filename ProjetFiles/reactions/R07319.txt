@@ -1,7 +1,0 @@
-ENTRY       R07319                      Reaction
-NAME        maltose 1-epimerase
-DEFINITION  alpha-Maltose <=> beta-Maltose
-EQUATION    C00897 <=> C01971
-RCLASS      RC00563  C00897_C01971
-ENZYME      5.1.3.21
-///

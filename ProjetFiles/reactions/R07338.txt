@@ -1,7 +1,0 @@
-ENTRY       R07338                      Reaction
-NAME        UDP-glucose:flavonol 7-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Flavonol <=> UDP + Flavonol 7-O-beta-D-glucoside
-EQUATION    C00029 + C01495 <=> C00015 + C15580
-RCLASS      RC00005  C00015_C00029
-ENZYME      2.4.1.237
-///

@@ -1,8 +1,0 @@
-ENTRY       C02506                      Compound
-NAME        21-Hydroxysteroid
-COMMENT     Generic compound in reaction hierarchy
-REACTION    R02130
-ENZYME      1.14.14.16
-DBLINKS     PubChem: 5518
-            ChEBI: 35344
-///

@@ -1,9 +1,0 @@
-ENTRY       R02750                      Reaction
-DEFINITION  2-Deoxy-D-ribose 5-phosphate + ADP <=> Deoxyribose + ATP
-EQUATION    C00673 + C00008 <=> C01801 + C00002
-RCLASS      RC00002  C00002_C00008
-            RC00017  C00673_C01801
-ENZYME      2.7.1.15
-PATHWAY     rn00030  Pentose phosphate pathway
-ORTHOLOGY   K00852  ribokinase [EC:2.7.1.15]
-///

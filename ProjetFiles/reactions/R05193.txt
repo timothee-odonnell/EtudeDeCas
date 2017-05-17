@@ -1,4 +1,0 @@
-ENTRY       R05193                      Reaction
-DEFINITION  n ATP + Calmodulin + n Ubiquitin <=> n AMP + n Diphosphate + (Ubiquitin)n-calmodulin
-EQUATION    n C00002 + C00391 + n C00496 <=> n C00020 + n C00013 + C03330
-///

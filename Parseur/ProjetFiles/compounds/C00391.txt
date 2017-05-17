@@ -1,5 +1,0 @@
-ENTRY       C00391                      Compound
-NAME        Calmodulin
-REACTION    R05193
-DBLINKS     PubChem: 3681
-///

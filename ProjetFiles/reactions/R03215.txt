@@ -1,7 +1,0 @@
-ENTRY       R03215                      Reaction
-NAME        Formate:ferricytochrome-c-553 oxidoreductase
-DEFINITION  Formate + 2 Ferricytochrome c-553 <=> CO2 + 2 Ferrocytochrome c-553 + H+
-EQUATION    C00058 + 2 C01070 <=> C00011 + 2 C01071 + C00080
-RCLASS      RC02796  C00011_C00058
-ENZYME      1.2.2.3
-///

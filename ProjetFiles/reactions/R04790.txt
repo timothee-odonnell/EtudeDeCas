@@ -1,7 +1,0 @@
-ENTRY       R04790                      Reaction
-DEFINITION  5-Cholestene + NADPH + Oxygen + H+ <=> 5,6alpha-Epoxy-5alpha-cholestane + NADP+ + H2O
-EQUATION    C05416 + C00005 + C00007 + C00080 <=> C05423 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00520  C05416_C05423
-ENZYME      1.14.13.-
-///

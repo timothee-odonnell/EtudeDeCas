@@ -1,5 +1,0 @@
-ENTRY       R02659                      Reaction
-DEFINITION  2-Keto-D-gluconic acid <=> 2-Dehydro-D-glucono-1,5-lactone + H2O
-EQUATION    C06473 <=> C06440 + C00001
-RCLASS      RC00765  C06440_C06473
-///

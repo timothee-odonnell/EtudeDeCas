@@ -1,9 +1,0 @@
-ENTRY       R10772                      Reaction
-NAME        L-glutamate:aniline ligase (ADP-forming)
-DEFINITION  ATP + L-Glutamate + Aniline <=> ADP + Orthophosphate + N5-Phenyl-L-glutamine
-EQUATION    C00002 + C00025 + C00292 <=> C00008 + C00009 + C20843
-RCLASS      RC00002  C00002_C00008
-            RC00090  C00025_C20843
-            RC00416  C00292_C20843
-ENZYME      6.3.1.18
-///

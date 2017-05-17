@@ -1,8 +1,0 @@
-ENTRY       R10494                      Reaction
-NAME        6-tuliposide-A D-glucose-lyase (tulipalin-A-forming)
-DEFINITION  6-Tuliposide A <=> Tulipalin A + D-Glucose
-EQUATION    C20577 <=> C20578 + C00031
-RCLASS      RC00041  C00031_C20577
-            RC03164  C20577_C20578
-ENZYME      4.2.99.22
-///

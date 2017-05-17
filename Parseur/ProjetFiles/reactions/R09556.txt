@@ -1,7 +1,0 @@
-ENTRY       R09556                      Reaction
-NAME        2,3-epoxy-2,3-dihydrobenzoyl-CoA (3Z)-6-oxohex-3-enoyl-CoA-lyase (formate-forming)
-DEFINITION  2,3-Epoxy-2,3-dihydrobenzoyl-CoA + 2 H2O <=> 3,4-Didehydroadipyl-CoA semialdehyde + Formate
-EQUATION    C19684 + 2 C00001 <=> C19683 + C00058
-RCLASS      RC03426  C19683_C19684
-ENZYME      4.1.2.44
-///

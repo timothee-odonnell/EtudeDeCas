@@ -1,6 +1,0 @@
-ENTRY       R05153                      Reaction
-NAME        6-Chlorobenzene-1,2,4-triol:oxygen 7S,8S-oxidoreductase
-DEFINITION  6-Chlorobenzene-1,2,4-triol + Oxygen <=> 2-Chloromaleylacetate
-EQUATION    C06328 + C00007 <=> C06329
-RCLASS      RC02671  C06328_C06329
-///

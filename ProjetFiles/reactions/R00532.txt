@@ -1,7 +1,0 @@
-ENTRY       R00532                      Reaction
-NAME        L-Serine-O-sulfate ammonia-lyase (pyruvate-forming)
-DEFINITION  L-Serine O-sulfate + H2O <=> Pyruvate + Ammonia + Sulfate
-EQUATION    C02703 + C00001 <=> C00022 + C00014 + C00059
-RCLASS      RC00324  C00022_C02703
-ENZYME      4.3.1.10
-///

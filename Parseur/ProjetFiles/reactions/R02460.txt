@@ -1,9 +1,0 @@
-ENTRY       R02460                      Reaction
-NAME        Bacitracin synthetase 2
-DEFINITION  D-Ornithine <=> Bacitracin
-EQUATION    C00515 <=> C01667
-COMMENT     Non-ribosomal peptide synthesis
-            multi-step reaction
-            incomplete reaction
-PATHWAY     rn00472  D-Arginine and D-ornithine metabolism
-///

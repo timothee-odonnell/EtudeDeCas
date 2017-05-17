@@ -1,8 +1,0 @@
-ENTRY       R04234                      Reaction
-NAME        D-4-Hydroxyphenylglycine:2-oxoglutarate aminotransferase
-DEFINITION  D-4-Hydroxyphenylglycine + 2-Oxoglutarate <=> 4-Hydroxyphenylglyoxylate + L-Glutamate
-EQUATION    C03493 + C00026 <=> C03590 + C00025
-RCLASS      RC00006  C00025_C00026
-            RC01104  C03493_C03590
-ENZYME      2.6.1.72
-///

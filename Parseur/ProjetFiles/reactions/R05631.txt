@@ -1,9 +1,0 @@
-ENTRY       R05631                      Reaction
-NAME        UDP-N-Acetyl-D-galactosamine:D-galactosyl-1,4-D-galactosyl-1,4--D-glucosylceramide beta-N-acetyl-D-galactosaminyltransferase
-DEFINITION  UDP-N-acetyl-D-galactosamine + alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide <=> UDP + Globoside
-EQUATION    C00203 + C04737 <=> C00015 + C03272
-REMARK      Same as: R05962
-RCLASS      RC00005  C00015_C00203
-            RC00049  C03272_C04737
-ENZYME      2.4.1.79
-///

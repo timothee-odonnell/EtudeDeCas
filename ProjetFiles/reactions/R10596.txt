@@ -1,9 +1,0 @@
-ENTRY       R10596                      Reaction
-NAME        UDP-N-acetyl-alpha-D-glucosamine:alpha-D-mannosyl-threonyl-[protein] 4-beta-N-acetyl-D-glucosaminyltransferase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + 3-O-(alpha-D-Mannosyl)-L-threonyl-[protein] <=> UDP + 3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]
-EQUATION    C00043 + C20722 <=> C00015 + C20723
-RCLASS      RC00005  C00015_C00043
-            RC00049  C20722_C20723
-ENZYME      2.4.1.312
-ORTHOLOGY   K18207  protein O-mannose beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.312]
-///

@@ -1,9 +1,0 @@
-ENTRY       R03367                      Reaction
-DEFINITION  Caffeate <=> 3,4-Dihydroxystyrene + CO2
-EQUATION    C01197 <=> C06224 + C00011
-RCLASS      RC00814  C01197_C06224
-ENZYME      4.1.1.102
-PATHWAY     rn00940  Phenylpropanoid biosynthesis
-ORTHOLOGY   K03186  flavin prenyltransferase [EC:2.5.1.129]
-            K20039  phenacrylate decarboxylase [EC:4.1.1.102]
-///

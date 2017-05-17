@@ -1,8 +1,0 @@
-ENTRY       R08511                      Reaction
-NAME        R-nitrile:glutathione R-transferase
-DEFINITION  Nitrile + Glutathione <=> Hydrogen cyanide + R-S-Glutathione
-EQUATION    C00726 + C00051 <=> C01326 + C02320
-COMMENT     glutathione S-transferase
-RCLASS      RC00948  C00051_C02320
-ENZYME      2.5.1.18
-///

@@ -1,7 +1,0 @@
-ENTRY       R10493                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (kunzeaol forming)
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> Kunzeaol + Diphosphate
-EQUATION    C00448 + C00001 <=> C20576 + C00013
-RCLASS      RC03163  C00448_C20576
-ENZYME      4.2.3.143
-///

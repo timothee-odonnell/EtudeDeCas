@@ -1,8 +1,0 @@
-ENTRY       R11035                      Reaction
-NAME        2-dehydro-3-deoxy-L-galactonate:NAD+ 5-oxidoreductase
-DEFINITION  2-Dehydro-3-deoxy-L-galactonate + NAD+ <=> (4S)-4,6-Dihydroxy-2,5-dioxohexanoate + NADH + H+
-EQUATION    C20680 + C00003 <=> C04349 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00089  C04349_C20680
-ENZYME      1.1.1.389
-///

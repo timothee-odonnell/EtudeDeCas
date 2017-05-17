@@ -1,9 +1,0 @@
-ENTRY       R11386                      Reaction
-NAME        aurachin-C-epoxide mutase
-DEFINITION  Aurachin C epoxide <=> 4-Hydroxy-2-methyl-3-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide
-EQUATION    C21331 <=> C21141
-COMMENT     second step of two-step reaction (see R11382, R11384+R11386)
-            second step of two-step reaction (see R11383, R11385+R11386)
-RCLASS      RC03424  C21141_C21331
-ENZYME      1.14.13.222
-///

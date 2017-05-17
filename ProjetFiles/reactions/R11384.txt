@@ -1,8 +1,0 @@
-ENTRY       R11384                      Reaction
-NAME        aurachin C:NADH:oxygen oxidoreductase (aurachin-C-epoxide-forming)
-DEFINITION  Aurachin C + NADH + H+ + Oxygen <=> Aurachin C epoxide + NAD+ + H2O
-EQUATION    C21330 + C00004 + C00080 + C00007 <=> C21331 + C00003 + C00001
-COMMENT     first step of two-step reaction (see R11382, R11384+R11386)
-RCLASS      RC03423  C21330_C21331
-ENZYME      1.14.13.222
-///

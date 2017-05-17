@@ -1,7 +1,0 @@
-ENTRY       R01535                      Reaction
-NAME        UDP-alpha-D-galactose:undecaprenyl-phosphate galactose phosphotransferase
-DEFINITION  UDP-alpha-D-galactose + di-trans,poly-cis-Undecaprenyl phosphate <=> UMP + alpha-D-Galactosyl-diphosphoundecaprenol
-EQUATION    C00052 + C17556 <=> C00105 + C04507
-RCLASS      RC00002  C00052_C00105  C04507_C17556
-ENZYME      2.7.8.6
-///

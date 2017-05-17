@@ -1,9 +1,0 @@
-ENTRY       R00250                      Reaction
-NAME        L-Glutamate:oxygen oxidoreductase (deaminating)
-DEFINITION  L-Glutamate + Oxygen + H2O <=> 2-Oxoglutarate + Ammonia + Hydrogen peroxide
-EQUATION    C00025 + C00007 + C00001 <=> C00026 + C00014 + C00027
-RCLASS      RC00006  C00025_C00026
-            RC02755  C00007_C00027
-            RC02799  C00014_C00025
-ENZYME      1.4.3.11
-///

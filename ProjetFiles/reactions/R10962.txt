@@ -1,8 +1,0 @@
-ENTRY       R10962                      Reaction
-NAME        S-adenosyl-L-methionine:3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + 3-Hydroxy-5-methyl-1-naphthoate <=> S-Adenosyl-L-homocysteine + 3-Methoxy-5-methyl-1-naphthoate
-EQUATION    C00019 + C20805 <=> C00021 + C20980
-RCLASS      RC00003  C00019_C00021
-            RC00392  C20805_C20980
-ENZYME      2.1.1.302
-///

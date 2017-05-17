@@ -1,8 +1,0 @@
-ENTRY       R08616                      Reaction
-NAME        raffinose:raffinose 3F-alpha-D-galactosyltransferase
-DEFINITION  2 Raffinose <=> Isolychnose + Sucrose
-EQUATION    2 C00492 <=> C03989 + C00089
-RCLASS      RC00049  C00492_C03989
-            RC00059  C00089_C00492
-ENZYME      2.4.1.166
-///

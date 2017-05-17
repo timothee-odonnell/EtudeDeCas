@@ -1,8 +1,0 @@
-ENTRY       R03609                      Reaction
-NAME        (gamma-L-Glutamyl)-N1-(4-hydroxymethylphenyl)hydrazine:(acceptor) gamma-glutamyltransferase
-DEFINITION  Agaritine + Acceptor <=> 4-Hydroxymethylphenylhydrazine + gamma-L-Glutamyl-acceptor
-EQUATION    C01550 + C16722 <=> C03994 + C03649
-RCLASS      RC00962  C01550_C03994
-            RC00992  C03649_C16722
-ENZYME      2.3.2.9
-///

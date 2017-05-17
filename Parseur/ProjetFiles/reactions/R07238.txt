@@ -1,9 +1,0 @@
-ENTRY       R07238                      Reaction
-NAME        S-adenosyl-L-methionine:precorrin-1 C-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Precorrin 1 <=> S-Adenosyl-L-homocysteine + Precorrin 2
-EQUATION    C00019 + C15527 <=> C00021 + C02463
-COMMENT     second step of two-step reaction (R03194, R07237+R07238), following after R07237
-RCLASS      RC00003  C00019_C00021
-            RC01778  C02463_C15527
-ENZYME      2.1.1.107
-///

@@ -1,7 +1,0 @@
-ENTRY       R04100                      Reaction
-NAME        3-cis-Dodecenoyl-CoA delta3-cis-delta2-trans-isomerase
-DEFINITION  3-cis-Dodecenoyl-CoA <=> 2-trans-Dodecenoyl-CoA
-EQUATION    C02944 <=> C03221
-RCLASS      RC01078  C02944_C03221
-ENZYME      5.3.3.8
-///

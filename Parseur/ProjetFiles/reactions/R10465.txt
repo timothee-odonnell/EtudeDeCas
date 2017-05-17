@@ -1,7 +1,0 @@
-ENTRY       R10465                      Reaction
-NAME        UDP-N-acetyl-alpha-D-galactosamine:ditrans,octacis-undecaprenyl phosphate N-acetyl-D-galactosaminephosphotransferase
-DEFINITION  UDP-N-acetyl-D-galactosamine + di-trans,poly-cis-Undecaprenyl phosphate <=> UMP + N-Acetyl-alpha-D-galactosaminyl-diphospho-ditrans,octacis-undecaprenol
-EQUATION    C00203 + C17556 <=> C00105 + C20620
-RCLASS      RC00002  C00105_C00203  C17556_C20620
-ENZYME      2.7.8.40
-///

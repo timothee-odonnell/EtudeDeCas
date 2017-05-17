@@ -1,8 +1,0 @@
-ENTRY       R03735                      Reaction
-NAME        (2S,3S)-2-Hydroxytridecane-1,2,3-tricarboxylate oxaloacetate-lyase (CoA-acylating)
-DEFINITION  (2S,3S)-2-Hydroxytridecane-1,2,3-tricarboxylate + CoA <=> Lauroyl-CoA + H2O + Oxaloacetate
-EQUATION    C04655 + C00010 <=> C01832 + C00001 + C00036
-RCLASS      RC00004  C00010_C01832
-            RC00406  C00036_C04655
-ENZYME      2.3.3.2
-///

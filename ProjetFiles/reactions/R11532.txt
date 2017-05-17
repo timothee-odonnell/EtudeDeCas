@@ -1,8 +1,0 @@
-ENTRY       R11532                      Reaction
-NAME        2-aminomuconate aminohydrolase (2-hydroxymuconate-forming)
-DEFINITION  2-Aminomuconate + H2O <=> 2-Hydroxymuconate + Ammonia
-EQUATION    C02220 + C00001 <=> C02501 + C00014
-RCLASS      RC03465  C02220_C02501
-ENZYME      3.5.1.120
-ORTHOLOGY   K20931  2-aminomuconate deaminase (2-hydroxymuconate-forming) [EC:3.5.1.120]
-///

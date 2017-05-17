@@ -1,7 +1,0 @@
-ENTRY       R10133                      Reaction
-NAME        2-nitroimidazole nitrohydrolase
-DEFINITION  Azomycin + H2O <=> Imidazol-2-one + Nitrite
-EQUATION    C14531 + C00001 <=> C20382 + C00088
-RCLASS      RC03054  C14531_C20382
-ENZYME      3.5.99.9
-///

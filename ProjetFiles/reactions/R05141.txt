@@ -1,8 +1,0 @@
-ENTRY       R05141                      Reaction
-NAME        1,4-beta-D-Glucan glucohydrolase
-DEFINITION  Celloheptaose + H2O <=> Cellohexaose + D-Glucose
-EQUATION    C06216 + C00001 <=> C06217 + C00031
-REMARK      Same as: R06108
-RCLASS      RC00049  C00031_C06216  C06216_C06217
-ENZYME      3.2.1.74
-///

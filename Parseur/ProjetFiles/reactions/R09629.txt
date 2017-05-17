@@ -1,9 +1,0 @@
-ENTRY       R09629                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (patchoulol-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> Patchoulol + Diphosphate
-EQUATION    C00448 + C00001 <=> C19755 + C00013
-RCLASS      RC02591  C00448_C19755
-ENZYME      4.2.3.70
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K15807  patchoulol synthase [EC:4.2.3.70]
-///

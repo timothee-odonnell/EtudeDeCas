@@ -1,6 +1,0 @@
-ENTRY       R10944                      Reaction
-NAME        3-{[(2E)-4-amino-4-oxobut-2-enoyl]amino}-L-alanine:L-leucine ligase (ADP-forming)
-DEFINITION  ATP + 3-{[(2E)-4-Amino-4-oxobut-2-enoyl]amino}-L-alanine + L-Leucine <=> ADP + Orthophosphate + Dapdiamide C
-EQUATION    C00002 + C20966 + C00123 <=> C00008 + C00009 + C20964
-ENZYME      6.3.2.47
-///

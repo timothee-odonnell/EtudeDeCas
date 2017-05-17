@@ -1,8 +1,0 @@
-ENTRY       R01594                      Reaction
-NAME        Arachidonate:oxygen 8-oxidoreductase
-DEFINITION  Arachidonate + Oxygen <=> 8(R)-HPETE
-EQUATION    C00219 + C00007 <=> C04822
-RCLASS      RC00561  C00219_C04822
-ENZYME      1.13.11.40
-PATHWAY     rn00590  Arachidonic acid metabolism
-///

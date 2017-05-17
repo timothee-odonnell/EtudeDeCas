@@ -1,8 +1,0 @@
-ENTRY       R09475                      Reaction
-NAME        acetate:[acyl-carrier-protein] ligase (AMP-forming)
-DEFINITION  ATP + Acetate + Acyl-carrier protein <=> AMP + Diphosphate + Acetyl-[acyl-carrier protein]
-EQUATION    C00002 + C00033 + C00229 <=> C00020 + C00013 + C03939
-RCLASS      RC00012  C00033_C03939
-            RC00039  C00229_C03939
-ENZYME      6.2.1.35
-///

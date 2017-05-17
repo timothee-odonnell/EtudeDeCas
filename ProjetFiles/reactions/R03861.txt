@@ -1,7 +1,0 @@
-ENTRY       R03861                      Reaction
-NAME        Sinapoyl-CoA:glucarolactone O-(hydroxycinnamoyl)transferase
-DEFINITION  Sinapoyl-CoA + D-Glucono-1,5-lactone <=> CoA + O-Sinapoylglucarolactone
-EQUATION    C00411 + C00198 <=> C00010 + C03526
-RCLASS      RC00004  C00010_C00411
-ENZYME      2.3.1.132
-///

@@ -1,8 +1,0 @@
-ENTRY       R08428                      Reaction
-DEFINITION  1-Methylpyrrolinium <=> (-)-Hygrine
-EQUATION    C06178 <=> C11359
-COMMENT     multi-step reaction
-            incomplete reaction
-RCLASS      RC01627  C06178_C11359
-PATHWAY     rn01110  Biosynthesis of secondary metabolites
-///

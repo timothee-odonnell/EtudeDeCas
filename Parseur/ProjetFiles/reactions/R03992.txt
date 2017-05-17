@@ -1,8 +1,0 @@
-ENTRY       R03992                      Reaction
-NAME        Tetradecanoyl-CoA:glycylpeptide N-tetradecanoyltransferase
-DEFINITION  Tetradecanoyl-CoA + Glycylpeptide <=> CoA + N-Tetradecanoylglycylpeptide
-EQUATION    C02593 + C02038 <=> C00010 + C03881
-RCLASS      RC00004  C00010_C02593
-            RC00096  C02038_C03881
-ENZYME      2.3.1.97
-///

@@ -1,5 +1,0 @@
-ENTRY       R03603                      Reaction
-DEFINITION  Selenium <=> Selenate
-EQUATION    C01529 <=> C05697
-COMMENT     incomplete reaction (unidentified electron-acceptor)
-///

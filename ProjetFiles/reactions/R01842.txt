@@ -1,9 +1,0 @@
-ENTRY       R01842                      Reaction
-NAME        androstenedione,NADPH---hemoprotein reductase:oxygen oxidoreductase (7alpha-hydroxylating)
-DEFINITION  Androstenedione + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 7alpha-Hydroxyandrost-4-ene-3,17-dione + [Oxidized NADPH---hemoprotein reductase] + H2O
-EQUATION    C00280 + C03024 + C00007 <=> C05296 + C03161 + C00001
-COMMENT     CYP2A1
-RCLASS      RC00661  C00280_C05296
-ENZYME      1.14.14.1
-PATHWAY     rn00140  Steroid hormone biosynthesis
-///

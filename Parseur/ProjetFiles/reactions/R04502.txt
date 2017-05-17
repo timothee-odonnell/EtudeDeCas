@@ -1,9 +1,0 @@
-ENTRY       R04502                      Reaction
-NAME        GDPmannose:chitobiosyldiphosphodolichol beta-D-mannosyltransferase
-DEFINITION  GDP-mannose + N,N'-Diacetylchitobiosyldiphosphodolichol <=> GDP + beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol
-EQUATION    C00096 + C04537 <=> C00035 + C05860
-REMARK      Same as: R05972
-RCLASS      RC00005  C00035_C00096
-            RC00049  C04537_C05860
-ENZYME      2.4.1.142
-///

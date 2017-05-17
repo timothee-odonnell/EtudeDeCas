@@ -1,8 +1,0 @@
-ENTRY       R00543                      Reaction
-NAME        3-Acylpyruvate acylhydrolase
-DEFINITION  3-Acylpyruvate + H2O <=> Carboxylate + Pyruvate
-EQUATION    C02119 + C00001 <=> C00060 + C00022
-RCLASS      RC00326  C00022_C02119
-            RC00327  C00060_C02119
-ENZYME      3.7.1.5
-///

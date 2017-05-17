@@ -1,7 +1,0 @@
-ENTRY       R08421                      Reaction
-DEFINITION  Cadaverine <=> Lupanine
-EQUATION    C01672 <=> C10772
-COMMENT     multi-step reaction
-            incomplete reaction
-RCLASS      RC02192  C01672_C10772
-///

@@ -1,7 +1,0 @@
-ENTRY       R03120                      Reaction
-NAME        Aromatic-amino-acid:2-oxoglutarate aminotransferase
-DEFINITION  Aromatic amino acid + 2-Oxoglutarate <=> Aromatic oxo acid + L-Glutamate
-EQUATION    C01021 + C00026 <=> C00972 + C00025
-RCLASS      RC00006  C00025_C00026  C00972_C01021
-ENZYME      2.6.1.57
-///

@@ -1,8 +1,0 @@
-ENTRY       R11124                      Reaction
-NAME        malonyl-CoA:acetyl-CoA malonyltransferase (5-methyl-1-naphthoic acid forming)
-DEFINITION  Acetyl-CoA + 5 Malonyl-CoA + 3 NADPH + 3 H+ <=> 5-Methyl-1-naphthoate + 6 CoA + 5 CO2 + 4 H2O + 3 NADP+
-EQUATION    C00024 + 5 C00083 + 3 C00005 + 3 C00080 <=> C20803 + 6 C00010 + 5 C00011 + 4 C00001 + 3 C00006
-RCLASS      RC00001  C00005_C00006
-            RC00004  C00010_C00024  C00010_C00083
-ENZYME      2.3.1.236
-///

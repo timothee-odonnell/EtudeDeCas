@@ -1,9 +1,0 @@
-ENTRY       R05109                      Reaction
-NAME        (N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase
-DEFINITION  UDP-N-acetyl-D-galactosamine + GD3 <=> UDP + GD2
-EQUATION    C00203 + C06133 <=> C00015 + C06134
-REMARK      Same as: R05946
-RCLASS      RC00005  C00015_C00203
-            RC00049  C06133_C06134
-ENZYME      2.4.1.92
-///

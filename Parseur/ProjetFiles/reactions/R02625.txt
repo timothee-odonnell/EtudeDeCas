@@ -1,8 +1,0 @@
-ENTRY       R02625                      Reaction
-NAME        ATP:protein-L-histidine N(pi)-phosphotransferase
-DEFINITION  ATP + Protein histidine <=> ADP + Protein N(pi)-phospho-L-histidine
-EQUATION    C00002 + C00615 <=> C00008 + C04261
-RCLASS      RC00002  C00002_C00008
-            RC03206  C00615_C04261
-ENZYME      2.7.13.1
-///

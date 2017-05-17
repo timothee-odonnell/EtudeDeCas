@@ -1,8 +1,0 @@
-ENTRY       R11017                      Reaction
-DEFINITION  Iminoarginine + H2O <=> 5-Guanidino-2-oxopentanoate + Ammonia
-EQUATION    C21026 + C00001 <=> C03771 + C00014
-COMMENT     spontaneous
-            second step of two-step reaction (see R11018, R11016+R11017)
-RCLASS      RC03275  C03771_C21026
-ENZYME      1.4.99.6
-///

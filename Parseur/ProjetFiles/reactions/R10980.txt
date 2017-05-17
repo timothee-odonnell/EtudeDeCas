@@ -1,7 +1,0 @@
-ENTRY       R10980                      Reaction
-NAME        5-valerolactone lactonohydrolase
-DEFINITION  5-Valerolactone + H2O <=> 5-Hydroxypentanoate
-EQUATION    C02240 + C00001 <=> C02804
-RCLASS      RC00983  C02240_C02804
-ENZYME      3.1.1.-
-///

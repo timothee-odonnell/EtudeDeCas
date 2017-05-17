@@ -1,9 +1,0 @@
-ENTRY       R09896                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, avermitilol-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> Avermitilol + Diphosphate
-EQUATION    C00448 + C00001 <=> C20181 + C00013
-RCLASS      RC02703  C00448_C20181
-ENZYME      4.2.3.96
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K18110  avermitilol synthase [EC:4.2.3.96]
-///

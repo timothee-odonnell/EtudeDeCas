@@ -1,8 +1,0 @@
-ENTRY       R10580                      Reaction
-NAME        avenacoside B 26-beta-D-glucohydrolase
-DEFINITION  Avenacoside B + H2O <=> 26-Desgluco-avenacoside B + D-Glucose
-EQUATION    C08888 + C00001 <=> C20707 + C00031
-RCLASS      RC00059  C08888_C20707
-            RC00451  C00031_C08888
-ENZYME      3.2.1.188
-///

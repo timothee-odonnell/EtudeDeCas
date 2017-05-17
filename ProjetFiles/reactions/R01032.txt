@@ -1,7 +1,0 @@
-ENTRY       R01032                      Reaction
-NAME        3-chloro-L-alanine chloride-lyase (deaminating; pyruvate-forming)
-DEFINITION  Cl- + Pyruvate + Ammonia <=> 3-Chloro-L-alanine + H2O
-EQUATION    C00698 + C00022 + C00014 <=> C02635 + C00001
-COMMENT     unclear reaction
-RCLASS      RC00426  C00022_C02635
-///

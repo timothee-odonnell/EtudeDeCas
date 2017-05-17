@@ -1,8 +1,0 @@
-ENTRY       R00334                      Reaction
-NAME        ATP:nucleoside-phosphate phosphotransferase
-DEFINITION  ATP + Nucleoside phosphate <=> ADP + NDP
-EQUATION    C00002 + C01329 <=> C00008 + C00454
-COMMENT     general reaction
-RCLASS      RC00002  C00002_C00008  C00454_C01329
-ENZYME      2.7.4.4
-///

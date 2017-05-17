@@ -1,8 +1,0 @@
-ENTRY       R01469                      Reaction
-NAME        Ethanolamine:oxygen oxidoreductase (deaminating)
-DEFINITION  Ethanolamine + H2O + Oxygen <=> Glycolaldehyde + Ammonia + Hydrogen peroxide
-EQUATION    C00189 + C00001 + C00007 <=> C00266 + C00014 + C00027
-RCLASS      RC00062  C00189_C00266
-            RC02755  C00007_C00027
-ENZYME      1.4.3.8
-///

@@ -1,8 +1,0 @@
-ENTRY       R09940                      Reaction
-NAME        S-adenosyl-L-methionine:geranyl-diphosphate 2-C-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Geranyl diphosphate <=> S-Adenosyl-L-homocysteine + (E)-2-Methylgeranyl diphosphate
-EQUATION    C00019 + C00341 <=> C00021 + C20235
-RCLASS      RC00003  C00019_C00021
-            RC02736  C00341_C20235
-ENZYME      2.1.1.255
-///

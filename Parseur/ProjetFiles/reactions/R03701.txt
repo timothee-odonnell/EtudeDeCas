@@ -1,9 +1,0 @@
-ENTRY       R03701                      Reaction
-NAME        S-Adenosyl-L-methionine:thiopurine S-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Thiopurine <=> S-Adenosyl-L-homocysteine + 6-Methylmercaptopurine
-EQUATION    C00019 + C01756 <=> C00021 + C16614
-COMMENT     general reaction (see R08236, R08239 and R08246)
-RCLASS      RC00003  C00019_C00021
-            RC00980  C01756_C16614
-ENZYME      2.1.1.67
-///

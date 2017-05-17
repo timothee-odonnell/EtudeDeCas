@@ -1,9 +1,0 @@
-ENTRY       R09914                      Reaction
-NAME        (3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, beta-seco-amyrin-forming)
-DEFINITION  (S)-2,3-Epoxysqualene <=> beta-Seco-amyrin
-EQUATION    C01054 <=> C20193
-RCLASS      RC02719  C01054_C20193
-ENZYME      5.4.99.54
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K16204  seco-amyrin synthase [EC:5.4.99.52 5.4.99.54]
-///

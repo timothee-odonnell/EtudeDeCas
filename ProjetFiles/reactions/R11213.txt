@@ -1,8 +1,0 @@
-ENTRY       R11213                      Reaction
-NAME        2-dehydro-3,6-dideoxy-6-sulfo-D-gluconate (2S)-3-sulfolactaldehyde-lyase (pyruvate-forming)
-DEFINITION  2-Dehydro-3,6-dideoxy-6-sulfo-D-gluconate <=> (2S)-3-Sulfolactaldehyde + Pyruvate
-EQUATION    C21180 <=> C21181 + C00022
-RCLASS      RC00307  C00022_C21180
-            RC00435  C21180_C21181
-ENZYME      4.1.2.58
-///

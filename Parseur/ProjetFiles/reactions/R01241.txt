@@ -1,8 +1,0 @@
-ENTRY       R01241                      Reaction
-NAME        phenyl acetate acetylhydrolase
-DEFINITION  Phenol + Acetate <=> Phenyl acetate + H2O
-EQUATION    C00146 + C00033 <=> C00548 + C00001
-RCLASS      RC00475  C00033_C00548
-            RC00476  C00146_C00548
-ENZYME      3.1.1.2
-///

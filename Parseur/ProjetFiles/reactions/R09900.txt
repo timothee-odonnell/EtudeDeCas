@@ -1,7 +1,0 @@
-ENTRY       R09900                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (bicyclogermacrene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> Bicyclogermacrene + Diphosphate
-EQUATION    C00448 <=> C20175 + C00013
-RCLASS      RC00641  C00448_C20175
-ENZYME      4.2.3.100
-///

@@ -1,8 +1,0 @@
-ENTRY       R10967                      Reaction
-NAME        malonyl-CoA:malonyl-CoA malonyltransferase (decarboxylating, phloroglucinol-forming)
-DEFINITION  3 Malonyl-CoA <=> Phloroglucinol + 3 CoA + 3 CO2
-EQUATION    3 C00083 <=> C02183 + 3 C00010 + 3 C00011
-RCLASS      RC00004  C00010_C00083
-ENZYME      2.3.1.253
-ORTHOLOGY   K15431  phloroglucinol synthase [EC:2.3.1.253]
-///

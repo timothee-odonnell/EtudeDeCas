@@ -1,8 +1,0 @@
-ENTRY       R02171                      Reaction
-NAME        Pyrimidine-5'-nucleotide phosphoribo(deoxyribo)hydrolase
-DEFINITION  Pyrimidine 5'-nucleotide + H2O <=> Pyrimidine + D-Ribose 5-phosphate + H+
-EQUATION    C03536 + C00001 <=> C00396 + C00117 + C00080
-RCLASS      RC00033  C00396_C03536
-            RC00485  C00117_C03536
-ENZYME      3.2.2.10
-///

@@ -1,9 +1,0 @@
-ENTRY       R08824                      Reaction
-NAME        UDP-glucuronate:betanin beta-D-glucuronosyltransferase
-DEFINITION  Betanin + UDP-glucuronate <=> Amaranthin + UDP
-EQUATION    C08540 + C00167 <=> C08537 + C00015
-RCLASS      RC00005  C00015_C00167
-            RC00049  C08537_C08540
-ENZYME      2.4.1.-
-PATHWAY     rn00965  Betalain biosynthesis
-///

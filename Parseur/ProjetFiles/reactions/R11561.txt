@@ -1,8 +1,0 @@
-ENTRY       R11561                      Reaction
-NAME        N5-phenyl-L-glutamine amidohydrolase
-DEFINITION  N5-Phenyl-L-glutamine + H2O <=> L-Glutamate + Aniline
-EQUATION    C20843 + C00001 <=> C00025 + C00292
-RCLASS      RC00416  C00292_C20843
-ENZYME      3.5.1.123
-ORTHOLOGY   K21287  gamma-glutamylanilide hydrolase [EC:3.5.1.123]
-///

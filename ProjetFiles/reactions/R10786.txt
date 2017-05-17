@@ -1,8 +1,0 @@
-ENTRY       R10786                      Reaction
-NAME        (2S)-2-hydroxycarboxylate:NADP+ oxidoreductase
-DEFINITION  (S)-2-Hydroxyacid + NADP+ <=> 2-Oxo acid + NADPH + H+
-EQUATION    C15565 + C00006 <=> C00161 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00501  C00161_C15565
-ENZYME      1.1.1.375
-///

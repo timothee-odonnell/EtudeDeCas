@@ -1,8 +1,0 @@
-ENTRY       R01367                      Reaction
-NAME        Acetoacetate hydro-lyase (3-butynoate-forming)
-DEFINITION  Acetoacetate <=> 3-Butynoate + H2O
-EQUATION    C00164 <=> C06144 + C00001
-RCLASS      RC00504  C00164_C06144
-ENZYME      4.2.1.27
-PATHWAY     rn00650  Butanoate metabolism
-///

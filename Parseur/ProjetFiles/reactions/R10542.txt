@@ -1,8 +1,0 @@
-ENTRY       R10542                      Reaction
-NAME        (R)-2-(4-chloro-2-dichlorophenoxy)propanoate,2-oxoglutarate:oxygen oxidoreductase (pyruvate-forming)
-DEFINITION  (R)-(2,4-Dichlorophenoxy)propanoate + 2-Oxoglutarate + Oxygen <=> 2,4-Dichlorophenol + Pyruvate + Succinate + CO2
-EQUATION    C20685 + C00026 + C00007 <=> C02625 + C00022 + C00042 + C00011
-RCLASS      RC03192  C02625_C20685
-            RC03193  C00022_C20685
-ENZYME      1.14.11.44
-///

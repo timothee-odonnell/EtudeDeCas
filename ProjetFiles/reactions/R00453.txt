@@ -1,8 +1,0 @@
-ENTRY       R00453                      Reaction
-NAME        L-Lysine:pyruvate aminotransferase
-DEFINITION  L-Lysine + Pyruvate <=> L-2-Aminoadipate 6-semialdehyde + L-Alanine
-EQUATION    C00047 + C00022 <=> C04076 + C00041
-RCLASS      RC00008  C00022_C00041
-            RC00062  C00047_C04076
-ENZYME      2.6.1.71
-///

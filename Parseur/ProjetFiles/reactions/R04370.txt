@@ -1,8 +1,0 @@
-ENTRY       R04370                      Reaction
-NAME        benzyl-(2R,3S)-2-methyl-3-hydroxybutanoate:NADP+ 3-oxidoreductase
-DEFINITION  Benzyl (2R,3S)-2-methyl-3-hydroxybutanoate + NADP+ <=> Benzyl 2-methyl-3-oxobutanoate + NADPH + H+
-EQUATION    C04561 + C00006 <=> C04000 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00525  C04000_C04561
-ENZYME      1.1.1.217
-///

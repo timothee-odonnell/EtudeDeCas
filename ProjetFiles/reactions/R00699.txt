@@ -1,9 +1,0 @@
-ENTRY       R00699                      Reaction
-NAME        L-phenylalanine carboxy-lyase (phenylethylamine-forming)
-DEFINITION  L-Phenylalanine <=> Phenethylamine + CO2
-EQUATION    C00079 <=> C05332 + C00011
-RCLASS      RC00299  C00079_C05332
-ENZYME      4.1.1.28        4.1.1.53
-PATHWAY     rn00360  Phenylalanine metabolism
-ORTHOLOGY   K01593  aromatic-L-amino-acid decarboxylase [EC:4.1.1.28]
-///

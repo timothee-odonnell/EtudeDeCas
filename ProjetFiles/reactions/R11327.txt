@@ -1,7 +1,0 @@
-ENTRY       R11327                      Reaction
-NAME        D-sedoheptulose-7-phosphate phosphate-lyase (cyclizing; 2-epi-valiolone-forming)
-DEFINITION  Sedoheptulose 7-phosphate <=> 2-epi-Valiolone + Orthophosphate
-EQUATION    C05382 <=> C21282 + C00009
-RCLASS      RC03415  C05382_C21282
-ENZYME      4.2.3.155
-///

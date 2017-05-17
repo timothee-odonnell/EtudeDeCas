@@ -1,8 +1,0 @@
-ENTRY       R10144                      Reaction
-NAME        pentalenolactone-E,2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  Pentalenolactone E + 2-Oxoglutarate + Oxygen <=> Pentalenolactone F + Succinate + CO2
-EQUATION    C20398 + C00026 + C00007 <=> C20397 + C00042 + C00011
-COMMENT     second step of two-step reaction (see R10145, R10143+R10144)
-RCLASS      RC03060  C20397_C20398
-ENZYME      1.14.11.36
-///

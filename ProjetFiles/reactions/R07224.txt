@@ -1,7 +1,0 @@
-ENTRY       R07224                      Reaction
-NAME        2',4,4',6'-tetrahydroxychalcone:oxygen oxidoreductase
-DEFINITION  Naringenin chalcone + Oxygen <=> Aureusidin + H2O
-EQUATION    C06561 + C00007 <=> C08576 + C00001
-RCLASS      RC02001  C06561_C08576
-ENZYME      1.21.3.6
-///

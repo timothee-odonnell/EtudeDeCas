@@ -1,8 +1,0 @@
-ENTRY       R00572                      Reaction
-NAME        CTP:pyruvate 2-O-phosphotransferase
-DEFINITION  CTP + Pyruvate <=> CDP + Phosphoenolpyruvate
-EQUATION    C00063 + C00022 <=> C00112 + C00074
-RCLASS      RC00002  C00063_C00112
-            RC00015  C00022_C00074
-ENZYME      2.7.1.40
-///

@@ -1,8 +1,0 @@
-ENTRY       R10982                      Reaction
-NAME        glutarate-semialdehyde:NADP+ oxidoreductase
-DEFINITION  5-Oxopentanoate + NADP+ + H2O <=> Glutarate + NADPH + H+
-EQUATION    C03273 + C00006 + C00001 <=> C00489 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00080  C00489_C03273
-ENZYME      1.2.1.-
-///

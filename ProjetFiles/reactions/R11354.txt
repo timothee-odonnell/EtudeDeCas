@@ -1,8 +1,0 @@
-ENTRY       R11354                      Reaction
-NAME        RCH2NHR':oxygen oxidoreductase (deaminating)
-DEFINITION  RCH2NHR' + H2O + Oxygen <=> Aldehyde + R'NH2 + Hydrogen peroxide
-EQUATION    C21299 + C00001 + C00007 <=> C00071 + C21300 + C00027
-COMMENT     general reaction
-ENZYME      1.4.3.4
-ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
-///

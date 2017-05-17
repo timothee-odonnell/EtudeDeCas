@@ -1,8 +1,0 @@
-ENTRY       R11148                      Reaction
-DEFINITION  Aurachin B + H2O <=> 3,4-Dihydroxy-2-methy-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide
-EQUATION    C21140 + C00001 <=> C21142
-COMMENT     spontaneous
-            second step of two-step reaction (see R11149, R11147+R11148)
-RCLASS      RC03370  C21140_C21142
-ENZYME      1.1.1.394
-///

@@ -1,9 +1,0 @@
-ENTRY       R03732                      Reaction
-NAME        (2S)-2-{[1-(R)-carboxyethyl]amino}pentanoate dehydrogenase (NAD+, L-aminopentanoate-forming)
-DEFINITION  (2S)-2-{[1-(R)-Carboxyethyl]amino}pentanoate + NAD+ + H2O <=> L-Norvaline + Pyruvate + NADH + H+
-EQUATION    C06326 + C00003 + C00001 <=> C01826 + C00022 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00283  C01826_C06326
-            RC00581  C00022_C06326
-ENZYME      1.5.1.28
-///

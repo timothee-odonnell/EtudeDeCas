@@ -1,8 +1,0 @@
-ENTRY       R00390                      Reaction
-NAME        Long-chain carboxylate:CoA ligase (AMP-forming)
-DEFINITION  ATP + Long-chain carboxylate + CoA <=> AMP + Diphosphate + Acyl-CoA
-EQUATION    C00002 + C00347 + C00010 <=> C00020 + C00013 + C00040
-COMMENT     general reaction
-RCLASS      RC00004  C00010_C00040
-ENZYME      6.2.1.3
-///

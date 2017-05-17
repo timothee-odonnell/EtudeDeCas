@@ -1,7 +1,0 @@
-ENTRY       R08920                      Reaction
-NAME        3,4-dihydroxy-L-phenylalanine:oxygen oxidoreductase (deaminating)
-DEFINITION  2 3,4-Dihydroxy-L-phenylalanine + Oxygen <=> 2 3-(3,4-Dihydroxyphenyl)pyruvate + 2 Ammonia
-EQUATION    2 C00355 + C00007 <=> 2 C04045 + 2 C00014
-RCLASS      RC00006  C00355_C04045
-ENZYME      1.13.12.15
-///

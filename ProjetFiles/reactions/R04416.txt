@@ -1,6 +1,0 @@
-ENTRY       R04416                      Reaction
-NAME        (3R)-3-Hydroxydecanoyl-[acyl-carrier protein] hydro-lyase
-DEFINITION  (3R)-3-Hydroxydecanoyl-[acyl-carrier protein] <=> cis-Dec-3-enoyl-[acp] + H2O
-EQUATION    C04619 <=> C04180 + C00001
-RCLASS      RC00785  C04180_C04619
-///

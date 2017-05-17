@@ -1,8 +1,0 @@
-ENTRY       R03788                      Reaction
-NAME        S-Adenosyl-L-methionine:mRNA (2'-O-methyladenosine-N6-)-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + m7G(5')pppAm-mRNA <=> S-Adenosyl-L-homocysteine + m7G(5')pppm6Am-mRNA
-EQUATION    C00019 + C01972 <=> C00021 + C04833
-RCLASS      RC00003  C00019_C00021
-            RC00335  C01972_C04833
-ENZYME      2.1.1.62
-///

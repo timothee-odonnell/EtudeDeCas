@@ -1,9 +1,0 @@
-ENTRY       R01851                      Reaction
-NAME        Methanethiol:oxygen oxidoreductase
-DEFINITION  Methanethiol + Oxygen + H2O <=> Hydrogen sulfide + Formaldehyde + Hydrogen peroxide
-EQUATION    C00409 + C00007 + C00001 <=> C00283 + C00067 + C00027
-RCLASS      RC01534  C00067_C00409
-            RC02755  C00007_C00027
-ENZYME      1.8.3.4
-PATHWAY     rn00920  Sulfur metabolism
-///

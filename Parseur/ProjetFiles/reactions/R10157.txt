@@ -1,9 +1,0 @@
-ENTRY       R10157                      Reaction
-NAME        1-deoxypentalenic acid,2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  1-Deoxypentalenate + 2-Oxoglutarate + Oxygen <=> 1-Deoxy-11beta-hydroxypentalenate + Succinate + CO2
-EQUATION    C20404 + C00026 + C00007 <=> C20403 + C00042 + C00011
-RCLASS      RC00661  C20403_C20404
-ENZYME      1.14.11.35
-PATHWAY     rn01130  Biosynthesis of antibiotics
-MODULE      M00819  Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone
-///

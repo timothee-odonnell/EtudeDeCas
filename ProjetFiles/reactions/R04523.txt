@@ -1,9 +1,0 @@
-ENTRY       R04523                      Reaction
-NAME        1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine,NADPH:oxygen oxidoreductase (N-oxide-forming)
-DEFINITION  1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine + NADPH + H+ + Oxygen <=> 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine N-oxide + NADP+ + H2O
-EQUATION    C04599 + C00005 + C00080 + C00007 <=> C04731 + C00006 + C00001
-COMMENT     FMO
-RCLASS      RC00001  C00005_C00006
-            RC01174  C04599_C04731
-ENZYME      1.14.13.8
-///

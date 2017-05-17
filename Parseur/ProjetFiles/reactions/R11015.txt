@@ -1,8 +1,0 @@
-ENTRY       R11015                      Reaction
-NAME        L-histidine,L-cysteine:oxygen [S-(L-histidin-5-yl)-L-cysteine S-oxide-forming]
-DEFINITION  L-Histidine + L-Cysteine + Oxygen <=> S-(L-Histidin-5-yl)-L-cysteine S-oxide + H2O
-EQUATION    C00135 + C00097 + C00007 <=> C20993 + C00001
-RCLASS      RC03324  C00097_C20993
-            RC03325  C00135_C20993
-ENZYME      1.14.99.52
-///

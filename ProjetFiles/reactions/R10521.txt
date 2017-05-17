@@ -1,7 +1,0 @@
-ENTRY       R10521                      Reaction
-NAME        2-amino-5-chlorophenol:oxygen 1,6-oxidoreductase (decyclizing)
-DEFINITION  2-Amino-5-chlorophenol + Oxygen <=> 2-Amino-5-chloromuconate 6-semialdehyde
-EQUATION    C20669 + C00007 <=> C20670
-RCLASS      RC00643  C20669_C20670
-ENZYME      1.13.11.76
-///

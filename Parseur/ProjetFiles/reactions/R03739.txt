@@ -1,7 +1,0 @@
-ENTRY       R03739                      Reaction
-NAME        Stipitatonate carboxy-lyase (decyclizing)
-DEFINITION  Stipitatonate + H2O <=> Stipitatate + CO2
-EQUATION    C02080 + C00001 <=> C01853 + C00011
-RCLASS      RC00990  C01853_C02080
-ENZYME      4.1.1.60
-///

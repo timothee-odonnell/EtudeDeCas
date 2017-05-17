@@ -1,9 +1,0 @@
-ENTRY       R08228                      Reaction
-NAME        alpha-fluoro-beta-ureidopropionic acid amidohydrolase
-DEFINITION  alpha-Fluoro-beta-ureidopropionic acid + H2O <=> alpha-Fluoro-beta-alanine + CO2 + Ammonia
-EQUATION    C16631 + C00001 <=> C16632 + C00011 + C00014
-RCLASS      RC00096  C16631_C16632
-ENZYME      3.5.1.6
-PATHWAY     rn00983  Drug metabolism - other enzymes
-ORTHOLOGY   K01431  beta-ureidopropionase [EC:3.5.1.6]
-///

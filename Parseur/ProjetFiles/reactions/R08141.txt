@@ -1,9 +1,0 @@
-ENTRY       R08141                      Reaction
-DEFINITION  3-Dehydroecdysone + NADH + H+ <=> Ecdysone + NAD+
-EQUATION    C02513 + C00004 + C00080 <=> C00477 + C00003
-COMMENT     3-dehydroecdysone 3beta-reductase
-RCLASS      RC00001  C00003_C00004
-            RC00154  C00477_C02513
-ENZYME      1.1.1.-
-PATHWAY     rn00981  Insect hormone biosynthesis
-///

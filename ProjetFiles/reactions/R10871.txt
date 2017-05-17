@@ -1,7 +1,0 @@
-ENTRY       R10871                      Reaction
-NAME        dermatan-sulfate lyase;
-            chondroitin-sulfate-B lyase
-DEFINITION  Dermatan 4-sulfate <=> n 4-Deoxy-beta-D-gluc-4-enuronosyl-(1,3)-N-acetyl-D-galactosamine 4-sulfate
-EQUATION    C20908 <=> n C04864
-ENZYME      4.2.2.19        4.2.2.20        4.2.2.21
-///

@@ -1,7 +1,0 @@
-ENTRY       R00682                      Reaction
-NAME        L-Tryptophanamide amidohydrolase
-DEFINITION  L-Tryptophanamide + H2O <=> L-Tryptophan + Ammonia
-EQUATION    C00977 + C00001 <=> C00078 + C00014
-RCLASS      RC00358  C00078_C00977
-ENZYME      3.5.1.57
-///

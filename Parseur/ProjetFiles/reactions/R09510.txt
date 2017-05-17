@@ -1,9 +1,0 @@
-ENTRY       R09510                      Reaction
-NAME        protein-N6,N6-dimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  Protein N6,N6-dimethyl-L-lysine + 2-Oxoglutarate + Oxygen <=> Protein N6-methyl-L-lysine + Succinate + Formaldehyde + CO2
-EQUATION    C05545 + C00026 + C00007 <=> C05544 + C00042 + C00067 + C00011
-COMMENT     first step of two-step reaction (see R10056, R09510+R09511)
-RCLASS      RC00181  C05544_C05545
-            RC00185  C00067_C05545
-ENZYME      1.14.11.27
-///

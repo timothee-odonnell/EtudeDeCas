@@ -1,7 +1,0 @@
-ENTRY       R11457                      Reaction
-NAME        dimethyl sulfone,FMNH2:oxygen oxidoreductase
-DEFINITION  Dimethyl sulfone + Reduced FMN + Oxygen <=> Methanesulfinic acid + Formaldehyde + FMN + H2O
-EQUATION    C11142 + C01847 + C00007 <=> C21398 + C00067 + C00061 + C00001
-RCLASS      RC03442  C11142_C21398
-ENZYME      1.14.14.35
-///

@@ -1,8 +1,0 @@
-ENTRY       R03956                      Reaction
-NAME        Glutathione:poly(4-glutamyl-cysteinyl)glycine 4-glutamylcysteinyltransferase
-DEFINITION  Glutathione + [Glu(-Cys)]n-Gly <=> Glycine + [Glu(-Cys)]n+1-Gly
-EQUATION    C00051 + C02471 <=> C00037 + C02755
-RCLASS      RC00064  C02471_C02755
-            RC00096  C00037_C00051
-ENZYME      2.3.2.15
-///

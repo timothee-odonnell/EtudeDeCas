@@ -1,8 +1,0 @@
-ENTRY       R01343                      Reaction
-NAME        L-Ornithine:2-oxo-acid aminotransferase
-DEFINITION  L-Ornithine + 2-Oxo acid <=> L-Glutamate 5-semialdehyde + L-Amino acid
-EQUATION    C00077 + C00161 <=> C01165 + C00151
-RCLASS      RC00025  C00151_C00161
-            RC00062  C00077_C01165
-ENZYME      2.6.1.13
-///

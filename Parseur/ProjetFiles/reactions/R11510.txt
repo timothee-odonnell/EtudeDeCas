@@ -1,9 +1,0 @@
-ENTRY       R11510                      Reaction
-DEFINITION  8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d + H2O <=> 8-Ethyl-12-methylbacteriochlorophyllide d
-EQUATION    C18157 + C00001 <=> C21431
-RCLASS      RC02412  C18157_C21431
-ENZYME      4.2.1.169
-PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
-            rn01110  Biosynthesis of secondary metabolites
-ORTHOLOGY   K13603  3-vinyl bacteriochlorophyllide hydratase [EC:4.2.1.169]
-///

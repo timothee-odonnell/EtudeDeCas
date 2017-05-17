@@ -1,8 +1,0 @@
-ENTRY       R03552                      Reaction
-NAME        Acetyl-CoA:histone acetyltransferase
-DEFINITION  Acetyl-CoA + Histone-L-lysine <=> CoA + Histone N6-acetyl-L-lysine
-EQUATION    C00024 + C02415 <=> C00010 + C01997
-RCLASS      RC00004  C00010_C00024
-            RC00096  C01997_C02415
-ENZYME      2.3.1.48
-///

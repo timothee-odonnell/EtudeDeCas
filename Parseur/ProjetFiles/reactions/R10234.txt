@@ -1,7 +1,0 @@
-ENTRY       R10234                      Reaction
-NAME        4-coumaroyl-CoA:malonyl-CoA 4-coumaryltransferase (4-hydroxybenzalacetone-forming)
-DEFINITION  p-Coumaroyl-CoA + Malonyl-CoA + H2O <=> 2 CoA + 4-Hydroxycinnamoylmethane + 2 CO2
-EQUATION    C00223 + C00083 + C00001 <=> 2 C00010 + C12088 + 2 C00011
-RCLASS      RC00004  C00010_C00083  C00010_C00223
-ENZYME      2.3.1.212
-///

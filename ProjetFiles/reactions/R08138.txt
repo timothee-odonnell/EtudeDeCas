@@ -1,7 +1,0 @@
-ENTRY       R08138                      Reaction
-DEFINITION  2,22-Dideoxy-3-dehydroecdysone <=> 3-Dehydro-2-deoxyecdysone
-EQUATION    C16498 <=> C16497
-RCLASS      RC00773  C16497_C16498
-PATHWAY     rn00981  Insect hormone biosynthesis
-ORTHOLOGY   K10721  CYP302A1; ecdysteroid 22-hydroxylase
-///

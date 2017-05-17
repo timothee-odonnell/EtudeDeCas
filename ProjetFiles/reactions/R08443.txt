@@ -1,6 +1,0 @@
-ENTRY       R08443                      Reaction
-DEFINITION  3,4-Dihydroxy-L-phenylalanine <=> (-)-Salsolinol
-EQUATION    C00355 <=> C09642
-COMMENT     multi-step reaction
-            incomplete reaction
-///

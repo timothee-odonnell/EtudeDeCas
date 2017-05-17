@@ -1,7 +1,0 @@
-ENTRY       R04933                      Reaction
-DEFINITION  L-Selenocysteine <=> Selenocysteine seleninic acid
-EQUATION    C05688 <=> C05705
-COMMENT     oxidoreduction
-            incomplete reaction
-RCLASS      RC01976  C05688_C05705
-///

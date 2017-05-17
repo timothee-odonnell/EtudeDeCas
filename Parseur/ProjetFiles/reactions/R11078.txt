@@ -1,7 +1,0 @@
-ENTRY       R11078                      Reaction
-NAME        isoleucine 2-epimerase
-DEFINITION  L-Isoleucine <=> D-allo-Isoleucine
-EQUATION    C00407 <=> C21092
-RCLASS      RC03345  C00407_C21092
-ENZYME      5.1.1.21
-///

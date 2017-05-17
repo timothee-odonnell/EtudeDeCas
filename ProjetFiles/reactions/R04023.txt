@@ -1,8 +1,0 @@
-ENTRY       R04023                      Reaction
-NAME        ATP:myosin-heavy-chain O-phosphotransferase
-DEFINITION  ATP + Myosin heavy chain <=> ADP + Myosin heavy-chain phosphate
-EQUATION    C00002 + C02707 <=> C00008 + C03874
-RCLASS      RC00002  C00002_C00008
-            RC00428  C02707_C03874
-ENZYME      2.7.11.7
-///

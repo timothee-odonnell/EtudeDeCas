@@ -1,8 +1,0 @@
-ENTRY       R09591                      Reaction
-NAME        L-cysteine:1-O-(2-amino-2-deoxy-alpha-D-glucopyranosyl)-1D-myo-inositol ligase (AMP-forming)
-DEFINITION  1-O-(2-Amino-2-deoxy-alpha-D-glucopyranosyl)-1D-myo-inositol + L-Cysteine + ATP <=> 1-O-[2-(L-Cysteinamido)-2-deoxy-alpha-D-glucopyranosyl]-1D-myo-inositol + AMP + Diphosphate
-EQUATION    C19702 + C00097 + C00002 <=> C19703 + C00020 + C00013
-RCLASS      RC00141  C00097_C19703
-            RC00166  C19702_C19703
-ENZYME      6.3.1.13
-///

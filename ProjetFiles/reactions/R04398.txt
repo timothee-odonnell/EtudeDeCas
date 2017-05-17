@@ -1,8 +1,0 @@
-ENTRY       R04398                      Reaction
-NAME        S-Adenosyl-L-methionine:3,3',4',5,7,8-hexahydroxyflavone 8-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Gossypetin <=> S-Adenosyl-L-homocysteine + Corniculatusin
-EQUATION    C00019 + C04109 <=> C00021 + C04527
-RCLASS      RC00003  C00019_C00021
-            RC00392  C04109_C04527
-ENZYME      2.1.1.88
-///

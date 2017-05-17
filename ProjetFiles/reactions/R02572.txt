@@ -1,8 +1,0 @@
-ENTRY       R02572                      Reaction
-NAME        S-Adenosyl-L-methionine:dimethyl-sulfide S-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Dimethyl sulfide <=> S-Adenosyl-L-homocysteine + Trimethylsulfonium
-EQUATION    C00019 + C00580 <=> C00021 + C01008
-RCLASS      RC00003  C00019_C00021
-            RC00124  C00580_C01008
-ENZYME      2.1.1.96
-///

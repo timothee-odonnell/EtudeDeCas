@@ -1,6 +1,0 @@
-ENTRY       R06242                      Reaction
-DEFINITION  Hyaluronic acid <=> n Hyaluronan-derived disaccharide
-EQUATION    G10505 <=> n G02170
-REMARK      Same as: R02465
-ENZYME      4.2.2.1
-///

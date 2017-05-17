@@ -1,8 +1,0 @@
-ENTRY       R02969                      Reaction
-NAME        Hydroxymalonate:NAD+ oxidoreductase
-DEFINITION  Hydroxymalonate + NAD+ <=> Oxomalonate + NADH + H+
-EQUATION    C02287 + C00003 <=> C00830 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00820  C00830_C02287
-ENZYME      1.1.1.167
-///

@@ -1,9 +1,0 @@
-ENTRY       R11037                      Reaction
-NAME        7,8-dihydroneopterin:oxygen oxidoreductase
-DEFINITION  2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine + Oxygen <=> 7,8-Dihydroxanthopterin + Formate + Glycolaldehyde
-EQUATION    C04874 + C00007 <=> C21065 + C00058 + C00266
-RCLASS      RC00721  C00266_C04874
-            RC03333  C04874_C21065
-            RC03334  C00058_C04874
-ENZYME      1.13.11.81
-///

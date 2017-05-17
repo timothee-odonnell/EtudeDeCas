@@ -1,7 +1,0 @@
-ENTRY       R04939                      Reaction
-DEFINITION  R + Se-Adenosylselenomethionine <=> CH3-R + Se-Adenosyl-L-selenohomocysteine
-EQUATION    C05693 + C05691 <=> C05694 + C05692
-RCLASS      RC01244  C05691_C05692
-ENZYME      2.1.1.-
-ORTHOLOGY   K00599  methyltransferase-like protein 6 [EC:2.1.1.-]
-///

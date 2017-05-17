@@ -1,8 +1,0 @@
-ENTRY       R10591                      Reaction
-NAME        protopanaxadiol,NADPH:O2 oxidoreductase (6alpha-hydroxylating)
-DEFINITION  Protopanaxadiol + NADPH + H+ + Oxygen <=> Protopanaxatriol + NADP+ + H2O
-EQUATION    C20715 + C00005 + C00080 + C00007 <=> C20716 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00661  C20715_C20716
-ENZYME      1.14.13.184
-///

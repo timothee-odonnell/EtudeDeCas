@@ -1,9 +1,0 @@
-ENTRY       R02165                      Reaction
-NAME        Nitrite:(acceptor) oxidoreductase
-DEFINITION  Ubiquinol + Nitrate <=> Ubiquinone + Nitrite + H2O
-EQUATION    C00390 + C00244 <=> C00399 + C00088 + C00001
-COMMENT     respiratory nitrate reductase
-RCLASS      RC00061  C00390_C00399
-            RC02812  C00088_C00244
-ENZYME      1.7.99.4
-///

@@ -1,9 +1,0 @@
-ENTRY       R04579                      Reaction
-NAME        UDP-alpha-D-glucose:2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + DIMBOA <=> UDP + DIMBOA-glucoside
-EQUATION    C00029 + C04720 <=> C00015 + C04831
-RCLASS      RC00005  C00015_C00029
-            RC00049  C04720_C04831
-ENZYME      2.4.1.202
-ORTHOLOGY   K13227  UDP-glucosyltransferase BX8/BX9 [EC:2.4.1.202]
-///

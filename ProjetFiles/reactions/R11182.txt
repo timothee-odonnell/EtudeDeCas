@@ -1,8 +1,0 @@
-ENTRY       R11182                      Reaction
-NAME        acetyl-CoA:glycerone phosphate C-acetyltransferase
-DEFINITION  Glycerone phosphate + Acetyl-CoA <=> 3-Hydroxy-5-phosphonooxypentane-2,4-dione + CoA
-EQUATION    C00111 + C00024 <=> C20960 + C00010
-RCLASS      RC00004  C00010_C00024
-            RC03384  C00111_C20960
-ENZYME      2.3.1.245
-///

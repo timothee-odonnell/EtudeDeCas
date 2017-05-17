@@ -1,9 +1,0 @@
-ENTRY       R01892                      Reaction
-NAME        Ribitol:ferricytochrome-c 2-oxidoreductase
-DEFINITION  Ribitol + 2 Ferricytochrome c <=> D-Ribulose + 2 Ferrocytochrome c + 2 H+
-EQUATION    C00474 + 2 C00125 <=> C00309 + 2 C00126 + 2 C00080
-RCLASS      RC00016  C00125_C00126
-            RC00102  C00309_C00474
-ENZYME      1.1.2.2
-PATHWAY     rn00040  Pentose and glucuronate interconversions
-///

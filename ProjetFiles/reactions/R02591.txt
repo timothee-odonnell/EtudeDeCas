@@ -1,8 +1,0 @@
-ENTRY       R02591                      Reaction
-NAME        sn-Glycero-3-phosphocholine cholinephosphohydrolase
-DEFINITION  sn-Glycero-3-phosphocholine + H2O <=> Glycerol + Choline phosphate
-EQUATION    C00670 + C00001 <=> C00116 + C00588
-RCLASS      RC00017  C00116_C00670
-            RC00425  C00588_C00670
-ENZYME      3.1.4.38
-///

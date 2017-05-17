@@ -1,7 +1,0 @@
-ENTRY       R02183                      Reaction
-NAME        UDP-N-acetyl-D-galactosamine:polypeptide N-acetylgalactosaminyl transferase
-DEFINITION  UDP-N-acetyl-D-galactosamine + Polypeptide <=> UDP + N-Acetyl-alpha-D-galactosaminyl-polypeptide
-EQUATION    C00203 + C00403 <=> C00015 + C04387
-RCLASS      RC00005  C00015_C00203
-ENZYME      2.4.1.41
-///

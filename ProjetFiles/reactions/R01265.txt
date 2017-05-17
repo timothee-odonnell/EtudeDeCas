@@ -1,8 +1,0 @@
-ENTRY       R01265                      Reaction
-NAME        amino-acid racemase
-DEFINITION  L-Amino acid <=> D-Amino acid
-EQUATION    C00151 <=> C00405
-COMMENT     general reaction
-RCLASS      RC00480  C00151_C00405
-ENZYME      5.1.1.10
-///

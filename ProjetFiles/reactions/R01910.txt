@@ -1,9 +1,0 @@
-ENTRY       R01910                      Reaction
-NAME        Primary alcohol:(acceptor) oxidoreductase
-DEFINITION  Pyridoxine + Oxygen <=> Isopyridoxal + Hydrogen peroxide
-EQUATION    C00314 + C00007 <=> C06051 + C00027
-RCLASS      RC00116  C00314_C06051
-            RC02755  C00007_C00027
-ENZYME      1.1.99.9
-PATHWAY     rn00750  Vitamin B6 metabolism
-///

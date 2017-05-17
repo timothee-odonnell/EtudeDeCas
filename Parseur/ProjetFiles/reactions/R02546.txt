@@ -1,8 +1,0 @@
-ENTRY       R02546                      Reaction
-NAME        (R,R)-Tartrate epimerase
-DEFINITION  (R,R)-Tartaric acid <=> meso-Tartaric acid
-EQUATION    C00898 <=> C00552
-RCLASS      RC00695  C00552_C00898
-ENZYME      5.1.2.5
-PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
-///

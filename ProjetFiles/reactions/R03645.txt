@@ -1,9 +1,0 @@
-ENTRY       R03645                      Reaction
-NAME        Vitamin K:oxidized-dithiothreitol oxidoreductase
-DEFINITION  Vitamin K + Oxidized dithiothreitol + H2O <=> Vitamin K epoxide + Dithiothreitol
-EQUATION    C01628 + C01119 + C00001 <=> C16711 + C00265
-COMMENT     general reaction (see R03511 R09992)
-RCLASS      RC00970  C01628_C16711
-ENZYME      1.17.4.4
-ORTHOLOGY   K05357  vitamin-K-epoxide reductase (warfarin-sensitive) [EC:1.17.4.4]
-///

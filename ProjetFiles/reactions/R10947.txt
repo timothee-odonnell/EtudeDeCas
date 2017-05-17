@@ -1,9 +1,0 @@
-ENTRY       R10947                      Reaction
-NAME        3-oxopropionyl-CoA hydrolase
-DEFINITION  3-Oxopropionyl-CoA + H2O <=> 3-Oxopropanoate + CoA
-EQUATION    C05989 + C00001 <=> C00222 + C00010
-COMMENT     the third step of four-step reaction (see R10936, R10945+R10946+R10947+R06973)
-RCLASS      RC00004  C00010_C05989
-            RC00014  C00222_C05989
-ENZYME      4.2.1.155
-///

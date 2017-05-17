@@ -1,6 +1,0 @@
-ENTRY       R05611                      Reaction
-DEFINITION  all-trans-Octaprenyl diphosphate + Diphosphate <=> all-trans-Heptaprenyl diphosphate + Isopentenyl diphosphate
-EQUATION    C04146 + C00013 <=> C04216 + C00129
-RCLASS      RC00279  C00129_C04146
-ENZYME      2.5.1.-
-///

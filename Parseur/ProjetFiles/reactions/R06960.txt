@@ -1,9 +1,0 @@
-ENTRY       R06960                      Reaction
-NAME        carotenoid psi-end group lyase (decyclizing)
-DEFINITION  all-trans-Neurosporene <=> alpha-Zeacarotene
-EQUATION    C05431 <=> C14146
-COMMENT     lycopene epsilon cyclase
-RCLASS      RC01612  C05431_C14146
-ENZYME      5.5.1.18
-ORTHOLOGY   K06444  lycopene epsilon-cyclase [EC:5.5.1.18]
-///

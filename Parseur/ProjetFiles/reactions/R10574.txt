@@ -1,8 +1,0 @@
-ENTRY       R10574                      Reaction
-NAME        secondary-alcohol:coenzyme F420 oxidoreductase
-DEFINITION  Secondary alcohol + Coenzyme F420 <=> Ketone + Reduced coenzyme F420
-EQUATION    C01612 + C00876 <=> C01450 + C01080
-RCLASS      RC00955  C01450_C01612
-            RC02628  C00876_C01080
-ENZYME      1.1.98.5
-///

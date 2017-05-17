@@ -1,7 +1,0 @@
-ENTRY       R04422                      Reaction
-NAME        alpha-D-Aldosyl-beta-D-fructoside:aldose 1-beta-D-fructosyltransferase
-DEFINITION  alpha-D-Aldosyl beta-D-fructoside + D-Aldose <=> D-Aldose + alpha-D-Aldosyl beta-D-fructoside
-EQUATION    C04219 + C00737 <=> C00737 + C04219
-RCLASS      RC00077  C00737_C04219
-ENZYME      2.4.1.162
-///

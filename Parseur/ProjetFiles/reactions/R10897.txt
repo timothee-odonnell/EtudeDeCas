@@ -1,7 +1,0 @@
-ENTRY       R10897                      Reaction
-NAME        geranylgeranyl-diphosphate diphosphate-lyase [(R)-nephthenol-forming]
-DEFINITION  Geranylgeranyl diphosphate + H2O <=> (R)-Nephthenol + Diphosphate
-EQUATION    C00353 + C00001 <=> C20923 + C00013
-RCLASS      RC03300  C00353_C20923
-ENZYME      4.2.3.149
-///

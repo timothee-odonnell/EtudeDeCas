@@ -1,8 +1,0 @@
-ENTRY       R07652                      Reaction
-NAME        farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase (4,4'-diapophytoene forming)
-DEFINITION  2 trans,trans-Farnesyl diphosphate <=> 4,4'-Diapophytoene + 2 Diphosphate
-EQUATION    2 C00448 <=> C16144 + 2 C00013
-COMMENT     two-step reaction (R00702+R09793)
-ENZYME      2.5.1.96
-ORTHOLOGY   K10208  4,4'-diapophytoene synthase [EC:2.5.1.96]
-///

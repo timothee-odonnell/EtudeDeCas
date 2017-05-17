@@ -1,9 +1,0 @@
-ENTRY       R05344                      Reaction
-DEFINITION  4-Chloroacetophenone <=> 4-Chlorobenzaldehyde + CO2
-EQUATION    C06647 <=> C06648 + C00011
-COMMENT     incomplete reaction
-            multi-step reaction (oxidation and decarboxylation)
-RCLASS      RC02008  C06647_C06648
-PATHWAY     rn00351  DDT degradation
-            rn01120  Microbial metabolism in diverse environments
-///

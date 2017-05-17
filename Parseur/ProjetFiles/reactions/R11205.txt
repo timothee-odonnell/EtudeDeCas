@@ -1,9 +1,0 @@
-ENTRY       R11205                      Reaction
-NAME        phosphatidylethanolamine:KDO2-lipid-IV(A) 7''-O-ethanolaminephosphotransferase
-DEFINITION  Phosphatidylethanolamine + Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A) <=> 1,2-Diacyl-sn-glycerol + PEtN-KDO2-lipid IV(A)
-EQUATION    C00350 + C06025 <=> C00641 + C21174
-RCLASS      RC00017  C00350_C00641
-            RC00428  C06025_C21174
-ENZYME      2.7.8.42
-ORTHOLOGY   K12975  KDO II ethanolaminephosphotransferase [EC:2.7.8.42]
-///

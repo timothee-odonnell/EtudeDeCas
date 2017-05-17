@@ -1,7 +1,0 @@
-ENTRY       R02339                      Reaction
-DEFINITION  Indole + Oxygen + NADPH + H+ <=> Indoxyl + H2O + NADP+
-EQUATION    C00463 + C00007 + C00005 + C00080 <=> C05658 + C00001 + C00006
-RCLASS      RC00046  C00463_C05658
-ENZYME      1.14.16.-
-PATHWAY     rn00380  Tryptophan metabolism
-///
