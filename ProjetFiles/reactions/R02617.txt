@@ -1,0 +1,8 @@
+ENTRY       R02617                      Reaction
+NAME        2,3-Dehydroacyl-CoA:sn-glycerol-3-phosphate O-acyltransferase
+DEFINITION  2,3-Dehydroacyl-CoA + sn-Glycerol 3-phosphate <=> CoA + 1-Acyl-sn-glycerol 3-phosphate
+EQUATION    C00605 + C00093 <=> C00010 + C00681
+RCLASS      RC00004  C00010_C00605
+            RC00041  C00093_C00681
+ENZYME      2.3.1.15
+///

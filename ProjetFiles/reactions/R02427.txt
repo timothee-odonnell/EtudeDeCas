@@ -1,0 +1,9 @@
+ENTRY       R02427                      Reaction
+NAME        D-Xylonolactone lactonohydrolase
+DEFINITION  D-Xylonolactone + H2O <=> D-Xylonate
+EQUATION    C02266 + C00001 <=> C00502
+RCLASS      RC00713  C00502_C02266
+ENZYME      3.1.1.68
+PATHWAY     rn00040  Pentose and glucuronate interconversions
+ORTHOLOGY   K14274  D-xylonolactonase
+///

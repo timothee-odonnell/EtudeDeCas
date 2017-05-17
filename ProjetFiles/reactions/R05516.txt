@@ -1,0 +1,7 @@
+ENTRY       R05516                      Reaction
+DEFINITION  dTDP-L-rhamnose <=> dTDP-L-dihydrostreptose
+EQUATION    C03319 <=> C03442
+RCLASS      RC01926  C03319_C03442
+PATHWAY     rn00521  Streptomycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+///

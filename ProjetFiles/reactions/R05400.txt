@@ -1,0 +1,12 @@
+ENTRY       R05400                      Reaction
+NAME        hydroxylaminobenzene:NADP+ oxidoreductase
+DEFINITION  Nitrosobenzene + NADPH + H+ <=> Hydroxylaminobenzene + NADP+
+EQUATION    C06876 + C00005 + C00080 <=> C02720 + C00006
+COMMENT     nitrobenzene nitroreductase, nbzA
+RCLASS      RC00001  C00005_C00006
+            RC01361  C02720_C06876
+ENZYME      1.7.1.-
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K15057  nitrobenzene nitroreductase [EC:1.7.1.-]
+///

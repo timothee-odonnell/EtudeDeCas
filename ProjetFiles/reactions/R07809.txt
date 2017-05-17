@@ -1,0 +1,9 @@
+ENTRY       R07809                      Reaction
+DEFINITION  G13074 + H2O <=> G01391 + N-Acetyl-D-glucosamine
+EQUATION    G13074 + C00001 <=> G01391 + C00140
+ENZYME      3.2.1.52
+PATHWAY     rn00531  Glycosaminoglycan degradation
+            rn01100  Metabolic pathways
+MODULE      M00079  Keratan sulfate degradation
+ORTHOLOGY   K01207  beta-N-acetylhexosaminidase [EC:3.2.1.52]
+///

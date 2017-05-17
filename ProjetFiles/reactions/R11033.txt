@@ -1,0 +1,8 @@
+ENTRY       R11033                      Reaction
+DEFINITION  L-Arginine <=> N(omega)-Hydroxyarginine
+EQUATION    C00062 <=> C05933
+COMMENT     unclear reaction
+RCLASS      RC00330  C00062_C05933
+PATHWAY     rn01130  Biosynthesis of antibiotics
+MODULE      M00785  Cycloserine biosynthesis, arginine/serine => cycloserine
+///

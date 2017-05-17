@@ -1,0 +1,10 @@
+ENTRY       R10784                      Reaction
+NAME        (2->6)-beta-D-fructanan 6-(beta-D-fructosyl)-D-fructohydrolase;
+            levan levanbiohydrolase
+DEFINITION  Levan + H2O <=> Levan + Levanbiose
+EQUATION    C06215 + C00001 <=> C06215 + C01725
+RCLASS      RC03278  C01725_C06215
+ENZYME      3.2.1.64
+PATHWAY     rn00500  Starch and sucrose metabolism
+ORTHOLOGY   K18775  levanbiose-producing levanase [EC:3.2.1.64]
+///

@@ -1,0 +1,8 @@
+ENTRY       R07255                      Reaction
+NAME        malonyl-CoA:anthocyanidin-3-O-beta-D-glucoside 6''-O-malonyltransferase
+DEFINITION  Malonyl-CoA + Anthocyanidin 3-O-beta-D-glucoside <=> CoA + Anthocyanidin 3-O-(6-O-malonyl-beta-D-glucoside)
+EQUATION    C00083 + C15539 <=> C00010 + C15540
+RCLASS      RC00004  C00010_C00083
+            RC00041  C15539_C15540
+ENZYME      2.3.1.171
+///

@@ -1,0 +1,9 @@
+ENTRY       R01143                      Reaction
+NAME        methane,NADPH:oxygen oxidoreductase (hydroxylating)
+DEFINITION  Methane + Oxygen + NADPH + H+ <=> Methanol + NADP+ + H2O
+EQUATION    C01438 + C00007 + C00005 + C00080 <=> C00132 + C00006 + C00001
+COMMENT     NADH (see R01142)
+RCLASS      RC00001  C00005_C00006
+            RC00173  C00132_C01438
+ENZYME      1.14.13.25
+///

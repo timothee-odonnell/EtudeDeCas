@@ -1,0 +1,8 @@
+ENTRY       R00626                      Reaction
+NAME        phosphate-monoester phosphohydrolase
+DEFINITION  Orthophosphoric monoester + H2O <=> Alcohol + Orthophosphate
+EQUATION    C01153 + C00001 <=> C00069 + C00009
+COMMENT     general reaction
+RCLASS      RC00338  C00069_C01153
+ENZYME      3.1.3.1         3.1.3.2
+///

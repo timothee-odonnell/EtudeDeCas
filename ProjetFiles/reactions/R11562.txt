@@ -1,0 +1,8 @@
+ENTRY       R11562                      Reaction
+NAME        protein-Nomega-(1-hydroxy-2-oxopropyl)-L-arginine hydrolase
+DEFINITION  Protein Nomega-(1-hydroxy-2-oxopropyl)-L-arginine + H2O <=> Protein-L-arginine + (R)-Lactate
+EQUATION    C21466 + C00001 <=> C00613 + C00256
+RCLASS      RC00447  C00613_C21466
+            RC03469  C00256_C21466
+ENZYME      3.5.1.124
+///

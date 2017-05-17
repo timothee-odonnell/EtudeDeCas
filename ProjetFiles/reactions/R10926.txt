@@ -1,0 +1,7 @@
+ENTRY       R10926                      Reaction
+NAME        icosanoyl-CoA,ferrocytochrome b5:oxygen oxidoreductase (5,6 cis-dehydrogenating)
+DEFINITION  Eicosanoyl-CoA + Ferrocytochrome b5 + Oxygen + 2 H+ <=> (Z)-Icos-5-enoyl-CoA + Ferricytochrome b5 + 2 H2O
+EQUATION    C02041 + C00999 + C00007 + 2 C00080 <=> C20947 + C00996 + 2 C00001
+RCLASS      RC00917  C02041_C20947
+ENZYME      1.14.19.10
+///

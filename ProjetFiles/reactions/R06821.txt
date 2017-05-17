@@ -1,0 +1,9 @@
+ENTRY       R06821                      Reaction
+NAME        malonyl-CoA:flavone-7-O-beta-D-glucoside 6''-O-malonyltransferase
+DEFINITION  Apigenin 7-O-beta-D-glucoside + Malonyl-CoA <=> Apigenin 7-(6''-malonylglucoside) + CoA
+EQUATION    C04608 + C00083 <=> C10020 + C00010
+COMMENT     isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase
+RCLASS      RC00004  C00010_C00083
+            RC00041  C04608_C10020
+ENZYME      2.3.1.115
+///

@@ -1,0 +1,8 @@
+ENTRY       R11555                      Reaction
+NAME        phosphatidylethanolamine:Kdo2-lipid-A ethanolaminephosphotransferase
+DEFINITION  Phosphatidylethanolamine + Di[3-deoxy-D-manno-octulosonyl]-lipid A <=> Diacylglycerol + Kdo2-lipid A 1-(2-aminoethyl diphosphate)
+EQUATION    C00350 + C06026 <=> C00165 + C21461
+RCLASS      RC00002  C06026_C21461
+ENZYME      2.7.8.43
+ORTHOLOGY   K03760  lipid A ethanolaminephosphotransferase [EC:2.7.8.43]
+///

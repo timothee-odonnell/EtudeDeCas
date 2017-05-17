@@ -1,0 +1,7 @@
+ENTRY       R01484                      Reaction
+NAME        D-Glucurono-6,2-lactone lactonohydrolase
+DEFINITION  D-Glucurono-6,2-lactone + H2O <=> D-Glucuronate
+EQUATION    C03387 + C00001 <=> C00191
+RCLASS      RC00532  C00191_C03387
+ENZYME      3.1.1.19
+///

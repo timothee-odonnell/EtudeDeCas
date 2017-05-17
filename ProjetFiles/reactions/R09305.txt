@@ -1,0 +1,10 @@
+ENTRY       R09305                      Reaction
+DEFINITION  7,9,12-Octaketide intermediate 3 <=> Octaketide bicyclic intermediate + H2O
+EQUATION    C18329 <=> C18353 + C00001
+COMMENT     cyclase, actIV
+ENZYME      4.-.-.-
+PATHWAY     rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00778  Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide
+ORTHOLOGY   K05555  cyclase [EC:4.-.-.-]
+///

@@ -1,0 +1,7 @@
+ENTRY       R01533                      Reaction
+NAME        Diisopropyl-fluorophosphate fluorohydrolase
+DEFINITION  Isoflurophate + H2O <=> Diisopropyl phosphate + Hydrofluoric acid
+EQUATION    C00202 + C00001 <=> C03113 + C16487
+RCLASS      RC00542  C00202_C03113
+ENZYME      3.1.8.2
+///

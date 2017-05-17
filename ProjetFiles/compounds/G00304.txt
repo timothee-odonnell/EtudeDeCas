@@ -1,0 +1,22 @@
+ENTRY       G00304                      Glycan
+NAME        Linear B type 2 trisaccharide
+COMPOSITION (Gal)2 (GlcNAc)1
+MASS        545.5
+REMARK      Same as: C04847
+REACTION    R06145
+ENZYME      2.4.1.87
+REFERENCE   1  [PMID:2331705]
+            Katoh H, Ohgi K, Irie M, Endo T, Kobata A.
+            The structure of the asparagine-linked sugar chains of bovine brain ribonuclease.
+            Carbohydr. Res. 195 (1990) 273-93.
+DBLINKS     CCSD: 8817 11541 12187 13787 14161 14318 14325 15537 15827 15911 18450 18729 21623 22104 22654 22776 29391 31308 34218 34549 35009 35220 35274 35285 35715 41571 43540 44971 44972 45756 46214 46415 48432 48514 49154 49339 50332 50732 50751 50753 50761 50767
+            GlycomeDB: 2626
+            JCGGDB: JCGG-STR017487
+NODE        3
+            1   GlcNAc     10     0
+            2   Gal         0     0
+            3   Gal       -10     0
+EDGE        2
+            1     2:b1    1:4  
+            2     3:a1    2:3  
+///

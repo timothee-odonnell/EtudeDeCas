@@ -1,0 +1,6 @@
+ENTRY       R11028                      Reaction
+DEFINITION  (S)-Methylmalonate semialdehyde <=> (R)-Methylmalonate semialdehyde
+EQUATION    C06002 <=> C21030
+COMMENT     non-enzymatic
+RCLASS      RC03331  C06002_C21030
+///

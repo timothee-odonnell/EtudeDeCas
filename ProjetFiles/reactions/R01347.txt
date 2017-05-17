@@ -1,0 +1,9 @@
+ENTRY       R01347                      Reaction
+NAME        Fatty acid,reduced rubredoxin:oxygen oxidoreductase (omega-hydroxylating)
+DEFINITION  Fatty acid + Oxygen + 2 Reduced rubredoxin + 2 H+ <=> omega-Hydroxy fatty acid + 2 Oxidized rubredoxin + H2O
+EQUATION    C00162 + C00007 + 2 C00340 + 2 C00080 <=> C03547 + 2 C00435 + C00001
+COMMENT     Oxidized rubredoxin is re-reduced by NAD(P)H (see R02000, R02002)
+ENZYME      1.14.15.3
+PATHWAY     rn00071  Fatty acid degradation
+ORTHOLOGY   K00496  alkane 1-monooxygenase [EC:1.14.15.3]
+///

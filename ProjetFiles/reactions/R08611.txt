@@ -1,0 +1,7 @@
+ENTRY       R08611                      Reaction
+NAME        5-formyluracil,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  Uracil 5-carbaldehyde + 2-Oxoglutarate + Oxygen <=> Uracil 5-carboxylate + Succinate + CO2
+EQUATION    C17206 + C00026 + C00007 <=> C03030 + C00042 + C00011
+RCLASS      RC00075  C03030_C17206
+ENZYME      1.14.11.6
+///

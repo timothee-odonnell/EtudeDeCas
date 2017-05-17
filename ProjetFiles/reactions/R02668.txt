@@ -1,0 +1,12 @@
+ENTRY       R02668                      Reaction
+NAME        3-Hydroxy-L-kynurenine hydrolase
+DEFINITION  3-Hydroxy-L-kynurenine + H2O <=> 3-Hydroxyanthranilate + L-Alanine
+EQUATION    C03227 + C00001 <=> C00632 + C00041
+RCLASS      RC00284  C00041_C03227
+            RC00415  C00632_C03227
+ENZYME      3.7.1.3
+PATHWAY     rn00380  Tryptophan metabolism
+            rn01100  Metabolic pathways
+MODULE      M00038  Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate
+ORTHOLOGY   K01556  kynureninase [EC:3.7.1.3]
+///

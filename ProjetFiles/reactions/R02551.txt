@@ -1,0 +1,8 @@
+ENTRY       R02551                      Reaction
+NAME        N-Benzyloxycarbonylglycine urethanehydrolase
+DEFINITION  N-Benzyloxycarbonylglycine + H2O <=> Benzyl alcohol + CO2 + Glycine
+EQUATION    C03710 + C00001 <=> C00556 + C00011 + C00037
+RCLASS      RC00041  C00556_C03710
+            RC00744  C00037_C03710
+ENZYME      3.5.1.58
+///

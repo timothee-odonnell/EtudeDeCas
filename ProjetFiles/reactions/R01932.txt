@@ -1,0 +1,8 @@
+ENTRY       R01932                      Reaction
+NAME        2-hydroxyadipate:NAD+ 2-oxidoreductase
+DEFINITION  2-Oxoadipate + NADH + H+ <=> 2-Hydroxyadipate + NAD+
+EQUATION    C00322 + C00004 + C00080 <=> C02360 + C00003
+RCLASS      RC00001  C00003_C00004
+            RC00031  C00322_C02360
+ENZYME      1.1.1.172
+///

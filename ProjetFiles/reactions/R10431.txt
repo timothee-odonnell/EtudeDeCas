@@ -1,0 +1,8 @@
+ENTRY       R10431                      Reaction
+NAME        S-adenosyl-L-methionine:2-oxo-3-phenylpropanoate C3-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Phenylpyruvate <=> S-Adenosyl-L-homocysteine + (3S)-2-Oxo-3-phenylbutanoate
+EQUATION    C00019 + C00166 <=> C00021 + C20646
+RCLASS      RC00003  C00019_C00021
+            RC00631  C00166_C20646
+ENZYME      2.1.1.281
+///

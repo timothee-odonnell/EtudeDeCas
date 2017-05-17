@@ -1,0 +1,9 @@
+ENTRY       R00317                      Reaction
+NAME        Acetyl phosphate phosphohydrolase
+DEFINITION  Acetyl phosphate + H2O <=> Acetate + Orthophosphate
+EQUATION    C00227 + C00001 <=> C00033 + C00009
+RCLASS      RC00043  C00033_C00227
+ENZYME      3.6.1.7
+PATHWAY     rn00620  Pyruvate metabolism
+ORTHOLOGY   K01512  acylphosphatase [EC:3.6.1.7]
+///

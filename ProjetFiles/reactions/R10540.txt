@@ -1,0 +1,8 @@
+ENTRY       R10540                      Reaction
+NAME        dammarenediol-II,NADPH:O2 oxidoreductase (12beta-hydroxylating)
+DEFINITION  Dammarenediol II + NADPH + H+ + Oxygen <=> Protopanaxadiol + NADP+ + H2O
+EQUATION    C19829 + C00005 + C00080 + C00007 <=> C20715 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00661  C19829_C20715
+ENZYME      1.14.13.183
+///

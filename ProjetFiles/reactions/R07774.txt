@@ -1,0 +1,11 @@
+ENTRY       R07774                      Reaction
+NAME        S-adenosyl-L-methionine:cobalt-precorrin-6B C15-methyltransferase (C12-decarboxylating)
+DEFINITION  Cobalt-dihydro-precorrin 6 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 7 + S-Adenosyl-L-homocysteine + CO2
+EQUATION    C11543 + C00019 <=> C16244 + C00021 + C00011
+RCLASS      RC00003  C00019_C00021
+            RC02054  C11543_C16244
+ENZYME      2.1.1.196
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K02191  cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]
+///

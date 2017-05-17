@@ -1,0 +1,9 @@
+ENTRY       R00595                      Reaction
+NAME        S-adenosyl-L-methionine:tRNA (cytosine-C5)-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + tRNA cytosine <=> S-Adenosyl-L-homocysteine + tRNA containing 5-methylcytosine
+EQUATION    C00019 + C17325 <=> C00021 + C04155
+COMMENT     general reaction
+RCLASS      RC00003  C00019_C00021
+            RC00332  C04155_C17325
+ENZYME      2.1.1.202       2.1.1.203       2.1.1.204
+///

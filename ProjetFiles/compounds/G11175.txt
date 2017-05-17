@@ -1,0 +1,26 @@
+ENTRY       G11175                      Glycan
+NAME        Mycothione
+COMPOSITION (GlcN)2 (acyl)2 (myo-Ino)2
+REMARK      Same as: C11502
+COMMENT     acyl:Acetyl-L-cystein linked with amidebond
+            acyl-acyl:disulfide bond
+REACTION    R06289 R06290
+ENZYME      1.8.1.15
+REFERENCE   1  [PMID:12809551]
+            Vogt RN, Steenkamp DJ, Zheng R, Blanchard JS.
+            The metabolism of nitrosothiols in the Mycobacteria: identification and characterization of S-nitrosomycothiol reductase.
+            Biochem. J. 374 (2003) 657-66.
+NODE        6
+            1   myo-Ino     9     6
+            2   myo-Ino     9    -6
+            3   GlcN       -1     6
+            4   GlcN       -1    -6
+            5   acyl       -9     1
+            6   acyl       -9    -2
+EDGE        5
+            1     3:a1    1:1  
+            2     4:a1    2:1  
+            3     5       3:2  
+            4     6       4:2  
+            5     5       6    
+///

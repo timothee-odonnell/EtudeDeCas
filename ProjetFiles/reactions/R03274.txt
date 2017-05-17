@@ -1,0 +1,8 @@
+ENTRY       R03274                      Reaction
+NAME        ATP:beta-adrenergic-receptor phosphotransferase
+DEFINITION  ATP + beta-Adrenergic receptor <=> ADP + Phospho-beta-adrenergic receptor
+EQUATION    C00002 + C01141 <=> C00008 + C04141
+RCLASS      RC00002  C00002_C00008
+            RC00017  C01141_C04141
+ENZYME      2.7.11.15
+///

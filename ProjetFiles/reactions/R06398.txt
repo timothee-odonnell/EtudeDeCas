@@ -1,0 +1,10 @@
+ENTRY       R06398                      Reaction
+NAME        limonene 1,2-monooxygenase
+DEFINITION  d-Limonene + NADH + Oxygen + H+ <=> Limonene-1,2-epoxide + NAD+ + H2O
+EQUATION    C06099 + C00004 + C00007 + C00080 <=> C07271 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC01506  C06099_C07271
+ENZYME      1.14.13.107
+PATHWAY     rn00903  Limonene and pinene degradation
+ORTHOLOGY   K14733  limonene 1,2-monooxygenase [EC:1.14.13.107]
+///

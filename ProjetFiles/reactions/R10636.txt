@@ -1,0 +1,8 @@
+ENTRY       R10636                      Reaction
+NAME        NADPH:oxygen oxidoreductase (H2O2-forming, epimerising)
+DEFINITION  alpha-NADPH + H+ + Oxygen <=> NADP+ + Hydrogen peroxide
+EQUATION    C20745 + C00080 + C00007 <=> C00006 + C00027
+RCLASS      RC02755  C00007_C00027
+            RC03214  C00006_C20745
+ENZYME      1.6.3.5
+///

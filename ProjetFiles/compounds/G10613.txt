@@ -1,0 +1,11 @@
+ENTRY       G10613                      Glycan
+NAME        UDP-D-xylose;
+            UDP-xylose
+COMPOSITION (UDP-Xyl)1
+REMARK      Same as: C00190
+REACTION    R05925 R06016 R06083 R09290
+ENZYME      2.4.2.24        2.4.2.26        2.4.2.38        2.4.2.-
+NODE        1
+            1   UDP-Xyl     0     0
+EDGE        0
+///

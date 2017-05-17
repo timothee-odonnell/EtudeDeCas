@@ -1,0 +1,6 @@
+ENTRY       R02857                      Reaction
+DEFINITION  Hydrofluoric acid + Glycolate <=> Fluoroacetate + H2O
+EQUATION    C16487 + C00160 <=> C06108 + C00001
+RCLASS      RC00697  C00160_C06108
+ENZYME      3.8.1.3
+///

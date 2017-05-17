@@ -1,0 +1,10 @@
+ENTRY       R06551                      Reaction
+NAME        flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)
+DEFINITION  Pentahydroxyflavanone + 2-Oxoglutarate + Oxygen <=> Tricetin + Succinate + CO2 + H2O
+EQUATION    C05911 + C00026 + C00007 <=> C10192 + C00042 + C00011 + C00001
+COMMENT     flavone synthase I
+RCLASS      RC00717  C05911_C10192
+ENZYME      1.14.11.22
+PATHWAY     rn00941  Flavonoid biosynthesis
+ORTHOLOGY   K13077  flavone synthase [EC:1.14.11.22]
+///

@@ -1,0 +1,8 @@
+ENTRY       R07275                      Reaction
+NAME        diamine:2-oxoglutarate aminotransferase
+DEFINITION  alpha,omega-Diamine + 2-Oxoglutarate <=> omega-Aminoaldehyde + L-Glutamate
+EQUATION    C02896 + C00026 <=> C02903 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC00062  C02896_C02903
+ENZYME      2.6.1.29
+///

@@ -1,0 +1,8 @@
+ENTRY       R09646                      Reaction
+NAME        N-acyl-L-homoserine-lactone amidohydrolase
+DEFINITION  N-Acyl-L-homoserine lactone + H2O <=> L-Homoserine lactone + Carboxylate
+EQUATION    C18049 + C00001 <=> C19777 + C00060
+RCLASS      RC00166  C18049_C19777
+            RC00328  C00060_C18049
+ENZYME      3.5.1.97
+///

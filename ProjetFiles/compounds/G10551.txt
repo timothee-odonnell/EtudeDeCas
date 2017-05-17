@@ -1,0 +1,13 @@
+ENTRY       G10551                      Glycan
+COMPOSITION (MurNAc)1 (D-Ala-D-Ala-Lys-D-Glu-Ala)1 (PP-Und)1
+REACTION    R06172
+ENZYME      2.4.1.227
+DBLINKS     GlycomeDB: 34079
+NODE        3
+            1   PP-Und     12     0
+            2   MurNAc      2     0
+            3   D-Ala-D-Ala-Lys-D-Glu-Ala   -13     0
+EDGE        2
+            1     2:a1    1    
+            2     3       2:3  
+///

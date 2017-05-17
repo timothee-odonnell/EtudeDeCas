@@ -1,0 +1,10 @@
+ENTRY       R11279                      Reaction
+NAME        kanamycin-B:carbamoyl-phosphate ligase (AMP,phosphate-forming)
+DEFINITION  Kanamycin B + Carbamoyl phosphate + ATP + H2O <=> Nebramycin factor 4 + AMP + Diphosphate + Orthophosphate
+EQUATION    C00825 + C00169 + C00002 + C00001 <=> C18000 + C00020 + C00013 + C00009
+RCLASS      RC00041  C00825_C18000
+ENZYME      6.1.2.2
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20579  nebramycin 5' synthase [EC:6.1.2.2]
+///

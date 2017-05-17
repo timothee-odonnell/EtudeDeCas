@@ -1,0 +1,12 @@
+ENTRY       R03351                      Reaction
+NAME        CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase
+DEFINITION  CTP + 3-Deoxy-D-manno-octulosonate <=> Diphosphate + CMP-3-deoxy-D-manno-octulosonate
+EQUATION    C00063 + C01187 <=> C00013 + C04121
+COMMENT     KdsB
+RCLASS      RC00910  C01187_C04121
+ENZYME      2.7.7.38
+PATHWAY     rn00540  Lipopolysaccharide biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00063  CMP-KDO biosynthesis
+ORTHOLOGY   K00979  3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+///

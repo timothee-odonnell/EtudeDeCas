@@ -1,0 +1,7 @@
+ENTRY       R11231                      Reaction
+DEFINITION  (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + NAD+ + 2 H2O <=> L-2-Aminoadipate + NADH + H+
+EQUATION    C00450 + C00003 + 2 C00001 <=> C00956 + C00004 + C00080
+COMMENT     second step of two-step reaction (see R03102, R02317+R11231)
+RCLASS      RC00216  C00450_C00956
+ENZYME      1.2.1.31
+///

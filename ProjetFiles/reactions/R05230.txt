@@ -1,0 +1,10 @@
+ENTRY       R05230                      Reaction
+DEFINITION  Deacetylcephalosporin C + Carbamoyl phosphate <=> O-Carbamoyl-deacetylcephalosporin C + Orthophosphate
+EQUATION    C03112 + C00169 <=> C06568 + C00009
+RCLASS      RC00041  C03112_C06568
+ENZYME      2.1.3.7
+PATHWAY     rn00311  Penicillin and cephalosporin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00673  Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C
+ORTHOLOGY   K04128  hydroxymethyl cephem carbamoyltransferase [EC:2.1.3.7]
+///

@@ -1,0 +1,8 @@
+ENTRY       R10231                      Reaction
+NAME        tRNA(Ala)-adenine37 aminohydrolase
+DEFINITION  tRNA(Ala) adenine + H2O <=> tRNA(Ala) hypoxanthine + Ammonia
+EQUATION    C20459 + C00001 <=> C20458 + C00014
+RCLASS      RC00477  C20458_C20459
+ENZYME      3.5.4.34
+ORTHOLOGY   K15440  tRNA-specific adenosine deaminase 1 [EC:3.5.4.34]
+///

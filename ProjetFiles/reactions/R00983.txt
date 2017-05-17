@@ -1,0 +1,8 @@
+ENTRY       R00983                      Reaction
+NAME        2,3-Dihydroxyindole:oxygen 2,3-oxidoreductase (decyclizing)
+DEFINITION  2,3-Dihydroxyindole + Oxygen <=> Anthranilate + CO2
+EQUATION    C02775 + C00007 <=> C00108 + C00011
+RCLASS      RC00413  C00108_C02775
+ENZYME      1.13.11.23
+PATHWAY     rn00380  Tryptophan metabolism
+///

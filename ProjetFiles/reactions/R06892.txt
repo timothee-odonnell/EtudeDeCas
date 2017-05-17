@@ -1,0 +1,12 @@
+ENTRY       R06892                      Reaction
+NAME        (4-hydroxyphenyl)ethan-1-one,NADPH:oxygen oxidoreductase (ester-forming)
+DEFINITION  4'-Hydroxyacetophenone + NADPH + H+ + Oxygen <=> 4-Hydroxyphenyl acetate + NADP+ + H2O
+EQUATION    C10700 + C00005 + C00080 + C00007 <=> C13636 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC01644  C10700_C13636
+ENZYME      1.14.13.84
+PATHWAY     rn00363  Bisphenol degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K14520  4-hydroxyacetophenone monooxygenase [EC:1.14.13.84]
+///

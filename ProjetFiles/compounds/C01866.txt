@@ -1,0 +1,12 @@
+ENTRY       C01866                      Compound
+NAME        beta-Lactam
+SEQUENCE    0 Aad  1 Cys  2 Val
+  GENE      0-2 pcbAB [UP:Q9C1G0]
+  ORGANISM  Kallichroma tethys
+  TYPE      NRP
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R03743
+ENZYME      3.5.2.6
+DBLINKS     PubChem: 4980
+            ChEBI: 35627
+///

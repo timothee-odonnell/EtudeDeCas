@@ -1,0 +1,7 @@
+ENTRY       R11380                      Reaction
+NAME        (R)-mandelonitrile:oxygen oxidoreductase
+DEFINITION  Mandelonitrile + Oxygen <=> Benzoyl cyanide + Hydrogen peroxide
+EQUATION    C00561 + C00007 <=> C21329 + C00027
+RCLASS      RC03421  C00561_C21329
+ENZYME      1.1.3.49
+///

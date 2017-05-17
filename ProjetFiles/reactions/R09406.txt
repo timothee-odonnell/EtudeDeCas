@@ -1,0 +1,10 @@
+ENTRY       R09406                      Reaction
+DEFINITION  Aflatoxin M1 + Oxygen + NADPH + H+ <=> Aflatoxin-M1-8,9-epoxide + H2O + NADP+
+EQUATION    C16756 + C00007 + C00005 + C00080 <=> C19594 + C00001 + C00006
+COMMENT     CYP2A13
+RCLASS      RC00001  C00005_C00006
+            RC02525  C16756_C19594
+ENZYME      1.14.14.1
+PATHWAY     rn00980  Metabolism of xenobiotics by cytochrome P450
+ORTHOLOGY   K17685  cytochrome P450 family 2 subfamily A polypeptide 13 [EC:1.14.14.1]
+///

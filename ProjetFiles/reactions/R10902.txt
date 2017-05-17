@@ -1,0 +1,11 @@
+ENTRY       R10902                      Reaction
+NAME        tyramine:L-glutamate gamma-ligase (ADP-forming)
+DEFINITION  ATP + Tyramine + L-Glutamate <=> ADP + Orthophosphate + gamma-Glutamyltyramine
+EQUATION    C00002 + C00483 + C00025 <=> C00008 + C00009 + C20926
+RCLASS      RC00002  C00002_C00008
+            RC00090  C00025_C20926
+            RC00096  C00483_C20926
+ENZYME      6.3.4.24
+PATHWAY     rn00680  Methane metabolism
+ORTHOLOGY   K06914  tyramine---L-glutamate ligase [EC:6.3.4.24]
+///

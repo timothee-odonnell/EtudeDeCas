@@ -1,0 +1,24 @@
+ENTRY       G00255                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)1 (Neu5Ac)1
+MASS        674.6
+REMARK      Same as: C04886
+REACTION    R06188
+ENZYME      2.4.99.1
+BRITE       Carbohydrates in viral and bacterial infections [br08431.html]
+             Viral infection
+              G00255
+REFERENCE   1  [PMID:12954214]
+            Mochalova L, Gambaryan A, Romanova J, Tuzikov A, Chinarev A, Katinger D, Katinger H, Egorov A, Bovin N.
+            Receptor-binding properties of modern human influenza viruses primarily isolated in Vero and MDCK cells and chicken embryonated eggs.
+            Virology. 313 (2003) 473-80.
+DBLINKS     CCSD: 2361 3047 3415 4033 4034 5158 5159 6109 7108 7976 8492 10863 12251 14193 14212 15812 15959 15969 19330 20284 21225 21236 21237 21665 22649 22769 23172 25228 25765 25860 27324 27577 27613 27702 28804 28807 29201 29256 29259 29373 31244 31611 32457 32458 33528 33744 34614 35735 36043 36189 38568 38671 40609 40963 41556 41574 41580 42376 42493 44786 45677 45896 46061 46403 46497 46890 46997 47739 47901 48188 49218 49295 49529 50475 50816
+            GlycomeDB: 915
+            JCGGDB: JCGG-STR030432
+NODE        3
+            1   GlcNAc     10     0
+            2   Gal         0     0
+            3   Neu5Ac    -10     0
+EDGE        2
+            1     2:b1    1:4  
+            2     3:a2    2:6  
+///

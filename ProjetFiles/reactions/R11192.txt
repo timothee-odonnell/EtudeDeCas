@@ -1,0 +1,8 @@
+ENTRY       R11192                      Reaction
+NAME        S-adenosyl-L-methionine:6-demethylmitomycin-B 6-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 7-Demethylmitomycin B <=> S-Adenosyl-L-homocysteine + Mitomycin B
+EQUATION    C00019 + C21164 <=> C00021 + C21162
+RCLASS      RC00003  C00019_C00021
+            RC01895  C21162_C21164
+ENZYME      2.1.1.316
+///

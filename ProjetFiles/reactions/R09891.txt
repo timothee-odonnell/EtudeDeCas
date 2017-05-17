@@ -1,0 +1,7 @@
+ENTRY       R09891                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, cubebol-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> Cubebol + Diphosphate
+EQUATION    C00448 + C00001 <=> C20172 + C00013
+RCLASS      RC02700  C00448_C20172
+ENZYME      4.2.3.91
+///

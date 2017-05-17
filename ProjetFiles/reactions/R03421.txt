@@ -1,0 +1,8 @@
+ENTRY       R03421                      Reaction
+NAME        N4-(beta-N-Acetyl-D-glucosaminyl)-L-asparagine amidohydrolase
+DEFINITION  N4-(Acetyl-beta-D-glucosaminyl)asparagine + H2O <=> N-Acetyl-beta-D-glucosaminylamine + L-Aspartate
+EQUATION    C04540 + C00001 <=> C01239 + C00049
+RCLASS      RC00090  C00049_C04540
+            RC00166  C01239_C04540
+ENZYME      3.5.1.26
+///

@@ -1,0 +1,12 @@
+ENTRY       R10656                      Reaction
+NAME        20-oxo-5-O-beta-mycaminosyltylactone,NADPH:oxygen oxidoreductase (23-hydroxylating)
+DEFINITION  20-Oxo-5-O-beta-mycaminosyltylactone + NADPH + H+ + Oxygen <=> 5-O-beta-D-Mycaminosyltylonolide + NADP+ + H2O
+EQUATION    C20760 + C00005 + C00080 + C00007 <=> C12002 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC03228  C12002_C20760
+ENZYME      1.14.13.186
+PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00773  Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin
+ORTHOLOGY   K15991  20-oxo-5-O-mycaminosyltylactone 23-monooxygenase [EC:1.14.13.186]
+///

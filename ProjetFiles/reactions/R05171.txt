@@ -1,0 +1,7 @@
+ENTRY       R05171                      Reaction
+NAME        N-(Carboxyaminomethyl)urea aminohydrolase
+DEFINITION  N-(Carboxyaminomethyl)urea <=> N-(Aminomethyl)urea + CO2
+EQUATION    C06382 <=> C06383 + C00011
+RCLASS      RC01288  C06382_C06383
+ENZYME      3.5.3.21
+///

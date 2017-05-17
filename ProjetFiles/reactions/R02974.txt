@@ -1,0 +1,7 @@
+ENTRY       R02974                      Reaction
+NAME        Sepiapterin aminohydrolase
+DEFINITION  Sepiapterin + H2O <=> Xanthopterin-B2 + Ammonia
+EQUATION    C00835 + C00001 <=> C02333 + C00014
+RCLASS      RC00204  C00835_C02333
+ENZYME      3.5.4.24
+///

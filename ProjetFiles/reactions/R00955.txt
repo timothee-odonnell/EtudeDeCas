@@ -1,0 +1,13 @@
+ENTRY       R00955                      Reaction
+NAME        UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase
+DEFINITION  UDP-glucose + alpha-D-Galactose 1-phosphate <=> D-Glucose 1-phosphate + UDP-alpha-D-galactose
+EQUATION    C00029 + C00446 <=> C00103 + C00052
+RCLASS      RC00002  C00029_C00103  C00052_C00446
+ENZYME      2.7.7.12
+PATHWAY     rn00052  Galactose metabolism
+            rn00520  Amino sugar and nucleotide sugar metabolism
+            rn01100  Metabolic pathways
+MODULE      M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose
+            M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P
+ORTHOLOGY   K00965  UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]
+///

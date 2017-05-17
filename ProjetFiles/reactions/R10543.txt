@@ -1,0 +1,8 @@
+ENTRY       R10543                      Reaction
+NAME        tobramycin:carbamoyl phosphate ligase (AMP,phosphate-forming)
+DEFINITION  O-Carbamoyladenylate + Tobramycin <=> AMP + Nebramycin 5'
+EQUATION    C20684 + C00397 <=> C00020 + C18001
+RCLASS      RC00041  C00397_C18001
+            RC00070  C00020_C20684
+ENZYME      6.1.2.2
+///

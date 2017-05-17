@@ -1,0 +1,7 @@
+ENTRY       R09974                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase [cyclizing, (+)-alpha-pinene-forming]
+DEFINITION  Geranyl diphosphate <=> (+)-alpha-Pinene + Diphosphate
+EQUATION    C00341 <=> C06306 + C00013
+RCLASS      RC01465  C00341_C06306
+ENZYME      4.2.3.121
+///

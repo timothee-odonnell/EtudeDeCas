@@ -1,0 +1,8 @@
+ENTRY       R11044                      Reaction
+NAME        palmitoleoyl-CoA,ferrocytochrome b5:oxygen oxidoreductase (12,13 cis-dehydrogenating)
+DEFINITION  Palmitoleoyl-CoA + 2 Ferrocytochrome b51 + Oxygen + 2 H+ <=> (9Z,12Z)-Hexadeca-9,12-dienoyl-CoA + 2 Ferricytochrome b5 + 2 H2O
+EQUATION    C21072 + 2 C009991 + C00007 + 2 C00080 <=> C21000 + 2 C00996 + 2 C00001
+RCLASS      RC00917  C21000_C21072
+ENZYME      1.14.19.6
+ORTHOLOGY   K10256  omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase) [EC:1.14.19.6 1.14.19.22]
+///

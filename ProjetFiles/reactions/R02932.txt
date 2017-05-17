@@ -1,0 +1,10 @@
+ENTRY       R02932                      Reaction
+NAME        UDP-glucose:isoflavone 7-O-beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Genistein <=> UDP + Genistein 7-O-beta-D-glucoside
+EQUATION    C00029 + C06563 <=> C00015 + C09126
+RCLASS      RC00005  C00015_C00029
+            RC00171  C06563_C09126
+ENZYME      2.4.1.170
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+ORTHOLOGY   K13263  isoflavone 7-O-glucosyltransferase [EC:2.4.1.170]
+///

@@ -1,0 +1,7 @@
+ENTRY       R00281                      Reaction
+NAME        NADH:acceptor oxidoreductase
+DEFINITION  Acceptor + NADH + H+ <=> Reduced acceptor + NAD+
+EQUATION    C00028 + C00004 + C00080 <=> C00030 + C00003
+RCLASS      RC00001  C00003_C00004
+ENZYME      1.6.5.11        1.6.99.3
+///

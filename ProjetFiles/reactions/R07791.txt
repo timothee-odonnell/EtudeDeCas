@@ -1,0 +1,13 @@
+ENTRY       R07791                      Reaction
+NAME        22alpha-hydroxy-5alpha-campestan-3-one,NADPH:oxygen oxidoreductase (C-23-hydroxylating)
+DEFINITION  22alpha-Hydroxy-5alpha-campestan-3-one + NADPH + H+ + Oxygen <=> 3-Dehydro-6-deoxoteasterone + NADP+ + H2O
+EQUATION    C15797 + C00005 + C00080 + C00007 <=> C15800 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC02078  C15797_C15800
+ENZYME      1.14.13.112
+PATHWAY     rn00905  Brassinosteroid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+MODULE      M00371  Castasterone biosynthesis, campesterol => castasterone
+ORTHOLOGY   K12637  3-epi-6-deoxocathasterone 23-monooxygenase [EC:1.14.13.112]
+            K12638  3-epi-6-deoxocathasterone 23-monooxygenase [EC:1.14.13.112]
+///

@@ -1,0 +1,7 @@
+ENTRY       R01780                      Reaction
+NAME        Succinyl-CoA:3-oxo-acid CoA-transferase
+DEFINITION  Succinyl-CoA + 3-Oxo acid <=> Succinate + 3-Oxoacyl-CoA
+EQUATION    C00091 + C01656 <=> C00042 + C00264
+RCLASS      RC00014  C00042_C00091  C00264_C01656
+ENZYME      2.8.3.5
+///

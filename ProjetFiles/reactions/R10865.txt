@@ -1,0 +1,9 @@
+ENTRY       R10865                      Reaction
+NAME        UDP-galactose:1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol (1->2) galactosyltransferase
+DEFINITION  UDP-alpha-D-galactose + 1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol <=> UDP + Galactosylglucosyldiacylglycerol
+EQUATION    C00052 + C06364 <=> C00015 + C20906
+RCLASS      RC00005  C00015_C00052
+            RC00049  C06364_C20906
+ENZYME      2.4.1.-
+ORTHOLOGY   K13678  1,2-diacylglycerol-3-alpha-glucose alpha-1,2-galactosyltransferase [EC:2.4.1.-]
+///

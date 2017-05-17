@@ -1,0 +1,7 @@
+ENTRY       R02212                      Reaction
+NAME        Progesterone,hydrogen-donor:oxygen oxidoreductase (hydroxylating)
+DEFINITION  Progesterone + Reduced acceptor + Oxygen <=> Testosterone acetate + Acceptor + H2O
+EQUATION    C00410 + C00030 + C00007 <=> C03027 + C00028 + C00001
+RCLASS      RC00140  C00410_C03027
+ENZYME      1.14.99.4
+///

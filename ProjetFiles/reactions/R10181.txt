@@ -1,0 +1,11 @@
+ENTRY       R10181                      Reaction
+NAME        indole-3-pyruvate,NADPH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)
+DEFINITION  Indolepyruvate + NADPH + H+ + Oxygen <=> Indole-3-acetate + NADP+ + H2O + CO2
+EQUATION    C00331 + C00005 + C00080 + C00007 <=> C00954 + C00006 + C00001 + C00011
+RCLASS      RC00001  C00005_C00006
+            RC00866  C00331_C00954
+ENZYME      1.14.13.168
+PATHWAY     rn00380  Tryptophan metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K11816  indole-3-pyruvate monooxygenase [EC:1.14.13.168]
+///

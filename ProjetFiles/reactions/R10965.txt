@@ -1,0 +1,8 @@
+ENTRY       R10965                      Reaction
+NAME        malonyl-CoA C-acyl transferase (1,3,6,8-tetrahydroxynaphthalene forming)
+DEFINITION  5 Malonyl-CoA <=> 1,3,6,8-Naphthalenetetrol + 5 CoA + 5 CO2 + H2O
+EQUATION    5 C00083 <=> C04033 + 5 C00010 + 5 C00011 + C00001
+RCLASS      RC00004  C00010_C00083
+ENZYME      2.3.1.233
+ORTHOLOGY   K19580  1,3,6,8-tetrahydroxynaphthalene synthase [EC:2.3.1.233]
+///

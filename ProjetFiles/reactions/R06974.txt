@@ -1,0 +1,10 @@
+ENTRY       R06974                      Reaction
+NAME        glycinamide ribonucleotide transformylase
+DEFINITION  Formate + ATP + 5'-Phosphoribosylglycinamide <=> ADP + Orthophosphate + 5'-Phosphoribosyl-N-formylglycinamide
+EQUATION    C00058 + C00002 + C03838 <=> C00008 + C00009 + C04376
+COMMENT     purT
+RCLASS      RC00002  C00002_C00008
+            RC00197  C03838_C04376
+            RC00323  C00058_C04376
+ENZYME      2.1.2.-
+///

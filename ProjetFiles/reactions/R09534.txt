@@ -1,0 +1,8 @@
+ENTRY       R09534                      Reaction
+NAME        hesperetin 7-(6-O-alpha-L-rhamnopyranosyl-beta-D-glucopyranoside) 6-O-alpha-rhamnopyranosyl-beta-glucohydrolase
+DEFINITION  Hesperidin + H2O <=> Hesperetin + Rutinose
+EQUATION    C09755 + C00001 <=> C01709 + C08247
+RCLASS      RC00171  C01709_C09755
+            RC00714  C08247_C09755
+ENZYME      3.2.1.168
+///

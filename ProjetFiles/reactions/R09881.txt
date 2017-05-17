@@ -1,0 +1,7 @@
+ENTRY       R09881                      Reaction
+NAME        P1,P6-bis(5'-adenosyl)hexaphosphate nucleotidohydrolase (AMP-forming)
+DEFINITION  P1,P6-Bis(5'-adenosyl)hexaphosphate + H2O <=> Adenosine 5'-pentaphosphate + AMP
+EQUATION    C20190 + C00001 <=> C20198 + C00020
+RCLASS      RC00002  C00020_C20190  C20190_C20198
+ENZYME      3.6.1.60
+///

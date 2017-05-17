@@ -1,0 +1,8 @@
+ENTRY       R01924                      Reaction
+NAME        O-Acylcarnitine acylhydrolase
+DEFINITION  O-Acylcarnitine + H2O <=> Fatty acid + L-Carnitine
+EQUATION    C02301 + C00001 <=> C00162 + C00318
+RCLASS      RC00037  C00318_C02301
+            RC00094  C00162_C02301
+ENZYME      3.1.1.28
+///

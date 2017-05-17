@@ -1,0 +1,9 @@
+ENTRY       R01556                      Reaction
+NAME        Acetyl-CoA:maltose O-acetyltransferase
+DEFINITION  Acetyl-CoA + Maltose <=> CoA + Acetyl-maltose
+EQUATION    C00024 + C00208 <=> C00010 + C02130
+REMARK      Same as: R06251
+RCLASS      RC00004  C00010_C00024
+            RC00041  C00208_C02130
+ENZYME      2.3.1.79
+///

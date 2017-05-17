@@ -1,0 +1,10 @@
+ENTRY       C03597                      Compound
+NAME        Actinomycinic monolactone
+SEQUENCE
+  TYPE      NRP
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R03711
+ENZYME      3.1.1.39
+DBLINKS     PubChem: 6388
+            ChEBI: 15370
+///

@@ -1,0 +1,11 @@
+ENTRY       R11098                      Reaction
+NAME        2-iminobutanoate aminohydrolase
+DEFINITION  2-Iminobutanoate + H2O <=> 2-Oxobutanoate + Ammonia
+EQUATION    C20905 + C00001 <=> C00109 + C00014
+COMMENT     spontaneous
+            following after R11101
+            This reaction is accelerated by enzyme ec 3.5.99.10.
+RCLASS      RC03275  C00109_C20905
+ENZYME      3.5.99.10
+ORTHOLOGY   K09022  2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]
+///

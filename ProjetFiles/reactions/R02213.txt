@@ -1,0 +1,11 @@
+ENTRY       R02213                      Reaction
+NAME        Progesterone,hydrogen-donor:oxygen oxidoreductase (21-hydroxylating)
+DEFINITION  Progesterone + Reduced acceptor + Oxygen <=> 11-Deoxycorticosterone + Acceptor + H2O
+EQUATION    C00410 + C00030 + C00007 <=> C03205 + C00028 + C00001
+RCLASS      RC00157  C00410_C03205
+ENZYME      1.14.14.16
+PATHWAY     rn00140  Steroid hormone biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00108  C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone
+ORTHOLOGY   K00513  steroid 21-monooxygenase [EC:1.14.14.16]
+///

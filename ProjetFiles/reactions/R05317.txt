@@ -1,0 +1,8 @@
+ENTRY       R05317                      Reaction
+NAME        L-Tryptophan:oxygen alpha,beta-oxidoreductase
+DEFINITION  L-Tryptophan + Oxygen <=> alpha,beta-Didehydrotryptophan + Hydrogen peroxide
+EQUATION    C00078 + C00007 <=> C06732 + C00027
+RCLASS      RC01328  C00078_C06732
+            RC02755  C00007_C00027
+ENZYME      1.3.3.10
+///

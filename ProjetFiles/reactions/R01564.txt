@@ -1,0 +1,9 @@
+ENTRY       R01564                      Reaction
+NAME        N,N-Dimethylglycine:oxygen oxidoreductase (demethylating)
+DEFINITION  N,N-Dimethylglycine + H2O + Oxygen <=> Sarcosine + Formaldehyde + Hydrogen peroxide
+EQUATION    C01026 + C00001 + C00007 <=> C00213 + C00067 + C00027
+RCLASS      RC00181  C00213_C01026
+            RC00185  C00067_C01026
+            RC02755  C00007_C00027
+ENZYME      1.5.3.10
+///

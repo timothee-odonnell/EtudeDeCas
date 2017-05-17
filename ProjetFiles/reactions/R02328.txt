@@ -1,0 +1,13 @@
+ENTRY       R02328                      Reaction
+NAME        dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase
+DEFINITION  dTTP + D-Glucose 1-phosphate <=> Diphosphate + dTDP-glucose
+EQUATION    C00459 + C00103 <=> C00013 + C00842
+RCLASS      RC00002  C00103_C00842
+ENZYME      2.7.7.24
+PATHWAY     rn00521  Streptomycin biosynthesis
+            rn00523  Polyketide sugar unit biosynthesis
+            rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00793  dTDP-L-rhamnose biosynthesis
+ORTHOLOGY   K00973  glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+///

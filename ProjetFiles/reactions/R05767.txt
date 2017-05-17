@@ -1,0 +1,8 @@
+ENTRY       R05767                      Reaction
+NAME        trehalose 6-phosphate:phosphate b-D-glucosyltransferase
+DEFINITION  alpha,alpha'-Trehalose 6-phosphate + Orthophosphate <=> D-Glucose 6-phosphate + beta-D-Glucose 1-phosphate
+EQUATION    C00689 + C00009 <=> C00092 + C00663
+REMARK      Same as: R06044
+RCLASS      RC00049  C00092_C00689
+ENZYME      2.4.1.216
+///

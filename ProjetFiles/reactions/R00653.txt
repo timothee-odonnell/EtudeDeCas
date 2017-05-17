@@ -1,0 +1,11 @@
+ENTRY       R00653                      Reaction
+NAME        N-Formyl-L-methionine amidohydrolase
+DEFINITION  N-Formylmethionine + H2O <=> Formate + L-Methionine
+EQUATION    C03145 + C00001 <=> C00058 + C00073
+RCLASS      RC00165  C00073_C03145
+            RC00323  C00058_C03145
+ENZYME      3.5.1.31
+PATHWAY     rn00270  Cysteine and methionine metabolism
+            rn00630  Glyoxylate and dicarboxylate metabolism
+ORTHOLOGY   K01450  formylmethionine deformylase [EC:3.5.1.31]
+///

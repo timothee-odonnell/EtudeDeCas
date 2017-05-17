@@ -1,0 +1,8 @@
+ENTRY       R04145                      Reaction
+NAME        S-Adenosyl-L-methionine:cytochrome-c-L-lysine N6-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Cytochrome c L-lysine <=> S-Adenosyl-L-homocysteine + Cytochrome c N6-methyl-L-lysine
+EQUATION    C00019 + C03105 <=> C00021 + C04061
+RCLASS      RC00003  C00019_C00021
+            RC00060  C03105_C04061
+ENZYME      2.1.1.59
+///

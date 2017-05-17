@@ -1,0 +1,10 @@
+ENTRY       R11042                      Reaction
+DEFINITION  dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose <=> dTDP-L-oleandrose
+EQUATION    C21071 <=> C11921
+COMMENT     4-ketoreductase, aveBIV, avrE
+RCLASS      RC00182  C11921_C21071
+PATHWAY     rn00523  Polyketide sugar unit biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00799  dTDP-L-oleandrose biosynthesis
+ORTHOLOGY   K19857  dTDP-4-keto-6-deoxy-L-hexose 4-reductase
+///

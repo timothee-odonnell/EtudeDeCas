@@ -1,0 +1,7 @@
+ENTRY       R11058                      Reaction
+NAME        (11Z,14Z,17Z)-icosatrienoyl-CoA,acceptor:oxygen oxidoreductase (5,6 cis-dehydrogenating)
+DEFINITION  (11Z,14Z,17Z)-Icosatrienoyl-CoA + Reduced acceptor + Oxygen <=> (5Z,11Z,14Z,17Z)-Icosa-5,11,14,17-tetraenoyl-CoA + Acceptor + 2 H2O
+EQUATION    C16179 + C00030 + C00007 <=> C21083 + C00028 + 2 C00001
+RCLASS      RC00917  C16179_C21083
+ENZYME      1.14.19.37
+///

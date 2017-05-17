@@ -1,0 +1,9 @@
+ENTRY       R00319                      Reaction
+NAME        (S)-lactate:oxygen 2-oxidoreductase (decarboxylating)
+DEFINITION  (S)-Lactate + Oxygen <=> Acetate + CO2 + H2O
+EQUATION    C00186 + C00007 <=> C00033 + C00011 + C00001
+RCLASS      RC01312  C00033_C00186
+ENZYME      1.13.12.4
+PATHWAY     rn00620  Pyruvate metabolism
+ORTHOLOGY   K00467  lactate 2-monooxygenase [EC:1.13.12.4]
+///

@@ -1,0 +1,8 @@
+ENTRY       R01161                      Reaction
+NAME        L-histidine:2-oxoglutarate aminotransferase
+DEFINITION  L-Histidine + 2-Oxoglutarate <=> Imidazol-5-yl-pyruvate + L-Glutamate
+EQUATION    C00135 + C00026 <=> C03277 + C00025
+RCLASS      RC00006  C00025_C00026  C00135_C03277
+ENZYME      2.6.1.38
+PATHWAY     rn00340  Histidine metabolism
+///

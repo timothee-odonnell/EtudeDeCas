@@ -1,0 +1,7 @@
+ENTRY       R07646                      Reaction
+NAME        L-lysine:tRNAPyl ligase (AMP-forming)
+DEFINITION  ATP + L-Lysine + tRNA(Pyl) <=> AMP + Diphosphate + L-Lysyl-tRNA(Pyl)
+EQUATION    C00002 + C00047 + C16139 <=> C00020 + C00013 + C16140
+RCLASS      RC00055  C16139_C16140
+            RC00523  C00047_C16140
+///

@@ -1,0 +1,9 @@
+ENTRY       R00398                      Reaction
+NAME        2,2'-iminodipropanoate:NAD+ oxidoreductase (L-alanine-forming)
+DEFINITION  Alanopine + NAD+ + H2O <=> L-Alanine + Pyruvate + NADH + H+
+EQUATION    C03210 + C00003 + C00001 <=> C00041 + C00022 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00283  C00041_C03210
+            RC00581  C00022_C03210
+ENZYME      1.5.1.17
+///

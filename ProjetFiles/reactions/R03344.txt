@@ -1,0 +1,8 @@
+ENTRY       R03344                      Reaction
+NAME        N,N-dimethylaniline,NADPH:oxygen oxidoreductase(N-oxide-forming)
+DEFINITION  N,N-Dimethylaniline + Oxygen + NADPH + H+ <=> N,N-Dimethylaniline N-oxide + NADP+ + H2O
+EQUATION    C02846 + C00007 + C00005 + C00080 <=> C01183 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00907  C01183_C02846
+ENZYME      1.14.13.8
+///

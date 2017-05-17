@@ -1,0 +1,9 @@
+ENTRY       R07776                      Reaction
+NAME        biochanin A,NADPH:oxygen oxidoreductase (3'-hydroxylating)
+DEFINITION  Biochanin A + Oxygen + NADPH + H+ <=> Pratensein + NADP+ + H2O
+EQUATION    C00814 + C00007 + C00005 + C00080 <=> C10520 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00046  C00814_C10520
+ENZYME      1.14.13.52
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+///

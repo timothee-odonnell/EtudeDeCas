@@ -1,0 +1,13 @@
+ENTRY       R10027                      Reaction
+NAME        L-isoleucine,NADPH:oxygen oxidoreductase (N-hydroxylating)
+DEFINITION  L-Isoleucine + Oxygen + NADPH + H+ <=> N-Hydroxy-L-isoleucine + NADP+ + H2O
+EQUATION    C00407 + C00007 + C00005 + C00080 <=> C20310 + C00006 + C00001
+COMMENT     first step of three-step reaction (see R09403, R10027+R10028+R10029)
+RCLASS      RC00001  C00005_C00006
+            RC00365  C00407_C20310
+ENZYME      1.14.13.117     1.14.13.118
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K13401  valine N-monooxygenase [EC:1.14.13.118]
+            K14984  isoleucine N-monooxygenase [EC:1.14.13.117]
+///

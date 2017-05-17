@@ -1,0 +1,18 @@
+ENTRY       G01504                      Glycan
+COMPOSITION (Fruf)1 (Gal)2 (Glc)1
+MASS        666.6
+REMARK      Same as: C08242
+REACTION    R06139
+ENZYME      2.4.1.166
+DBLINKS     CCSD: 12220 12883 13168 13653
+            GlycomeDB: 34406
+NODE        4
+            1   Fruf        5     4
+            2   Glc         5    -4
+            3   Gal        -5     4
+            4   Gal        -5    -4
+EDGE        3
+            1     3:a1    1:1  
+            2     1:b2    2:a1 
+            3     4:a1    2:6  
+///

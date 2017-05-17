@@ -1,0 +1,9 @@
+ENTRY       R06830                      Reaction
+DEFINITION  2-Aminomalonate semialdehyde <=> Aminoacetaldehyde + CO2
+EQUATION    C11822 <=> C06735 + C00011
+COMMENT     spontaneous
+            second step of two-step reaction (see R10984, R06126+R06830)
+            second step of two-step reaction (see R10986, R10985+R06830)
+RCLASS      RC01634  C06735_C11822
+ENZYME      1.1.1.276       1.1.1.387
+///

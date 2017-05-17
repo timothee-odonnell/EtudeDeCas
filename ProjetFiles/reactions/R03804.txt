@@ -1,0 +1,7 @@
+ENTRY       R03804                      Reaction
+NAME        Monoamide of a dicarboxylic acid amidohydrolase
+DEFINITION  Monoamide of dicarboxylate + H2O <=> Dicarboxylate + Ammonia
+EQUATION    C04131 + C00001 <=> C02028 + C00014
+RCLASS      RC00010  C02028_C04131
+ENZYME      3.5.1.3
+///

@@ -1,0 +1,16 @@
+ENTRY       C00706                      Compound
+NAME        Amine;
+            Primary amine;
+            Substituted amine
+FORMULA     NH2R
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R02808 R02809 R05167
+ENZYME      2.1.1.49        2.8.2.3         3.5.1.79
+DBLINKS     PubChem: 3973
+            ChEBI: 32952
+ATOM        2
+            1   N1a N    22.7358  -15.8371
+            2   R   R    21.5042  -16.5029
+BOND        1
+            1     1   2 1
+///

@@ -1,0 +1,9 @@
+ENTRY       R11249                      Reaction
+DEFINITION  1-epi-Valienol 7-phosphate <=> 1-epi-Valienol 1-phosphate
+EQUATION    C21205 <=> C21209
+COMMENT     unclear reaction
+RCLASS      RC00408  C21205_C21209
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20439  putative phosphohexomutase / phosphatase
+///

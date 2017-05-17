@@ -1,0 +1,10 @@
+ENTRY       R03681                      Reaction
+NAME        UDP-alpha-D-glucose:glycogenin alpha-D-glucosyltransferase
+DEFINITION  UDP-glucose + Glycogenin <=> UDP + alpha-D-Glucosylglycogenin
+EQUATION    C00029 + C01702 <=> C00015 + C02687
+COMMENT     Glycogenin is the enzyme itself.
+RCLASS      RC00005  C00015_C00029
+            RC00171  C01702_C02687
+ENZYME      2.4.1.186
+ORTHOLOGY   K00750  glycogenin [EC:2.4.1.186]
+///

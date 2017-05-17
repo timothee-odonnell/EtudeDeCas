@@ -1,0 +1,5 @@
+ENTRY       R08145                      Reaction
+DEFINITION  Farnesol <=> Farnesal
+EQUATION    C01493 <=> C16501
+COMMENT     Farnesol oxidase
+///

@@ -1,0 +1,8 @@
+ENTRY       R02486                      Reaction
+NAME        2-Deoxyuridine,2-Oxoglutarate:oxygen oxidoreductase (1'-hydroxylating)
+DEFINITION  Deoxyuridine + 2-Oxoglutarate + Oxygen <=> Deoxyribonolactone + Uracil + Succinate + CO2
+EQUATION    C00526 + C00026 + C00007 <=> C02674 + C00106 + C00042 + C00011
+RCLASS      RC00063  C00106_C00526
+            RC00729  C00526_C02674
+ENZYME      1.14.11.10
+///

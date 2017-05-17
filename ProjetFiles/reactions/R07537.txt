@@ -1,0 +1,14 @@
+ENTRY       R07537                      Reaction
+NAME        spheroidene,reduced-ferredoxin:oxygen oxidoreductase (spheroiden-2-one-forming)
+DEFINITION  Spheroidene + 2 Oxygen + 2 Reduced ferredoxin <=> Spheroidenone + 3 H2O + 2 Oxidized ferredoxin
+EQUATION    C15900 + 2 C00007 + 2 C00138 <=> C15903 + 3 C00001 + 2 C00139
+RCLASS      RC02084  C15900_C15903
+ENZYME      1.14.15.9
+PATHWAY     rn00906  Carotenoid biosynthesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K09847  spheroidene monooxygenase [EC:1.14.15.9]
+REFERENCE   1  [PMID:12664193]
+            Pinta V, Ouchane S, Picaud M, Takaichi S, Astier C, Reiss-Husson F.
+            Characterization of unusual hydroxy- and ketocarotenoids in Rubrivivax gelatinosus: involvement of enzyme CrtF or CrtA.
+            Arch. Microbiol. 179 (2003) 354-62.
+///

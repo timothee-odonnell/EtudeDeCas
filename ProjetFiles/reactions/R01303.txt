@@ -1,0 +1,6 @@
+ENTRY       R01303                      Reaction
+DEFINITION  4-Hydroxybenzoate + Acceptor + H2O <=> 4-Hydroxybenzaldehyde + Reduced acceptor + Oxygen
+EQUATION    C00156 + C00028 + C00001 <=> C00633 + C00030 + C00007
+RCLASS      RC00075  C00156_C00633
+ENZYME      1.14.99.-
+///

@@ -1,0 +1,8 @@
+ENTRY       R01149                      Reaction
+NAME        L-Glutamine:D-alanine gamma-glutamyltransferase
+DEFINITION  D-Alanine + L-Glutamine <=> Ammonia + gamma-L-Glutamyl-D-alanine
+EQUATION    C00133 + C00064 <=> C00014 + C03738
+RCLASS      RC00064  C00133_C03738
+            RC02798  C00014_C00064
+ENZYME      2.3.2.14
+///

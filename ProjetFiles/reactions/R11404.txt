@@ -1,0 +1,7 @@
+ENTRY       R11404                      Reaction
+NAME        2-methylpropan-1-amine,FADH2:O2 N-oxidoreductase
+DEFINITION  2-Methylpropanamine + Reduced FMN + Oxygen <=> N-(2-Methylpropanyl)hydroxylamine + FMN + H2O
+EQUATION    C02787 + C01847 + C00007 <=> C21369 + C00061 + C00001
+RCLASS      RC00298  C02787_C21369
+ENZYME      1.14.14.30
+///

@@ -1,0 +1,7 @@
+ENTRY       R11141                      Reaction
+NAME        pyruvate:(E)-oct-2-enal acetaldehydetransferase (decarboxylating)
+DEFINITION  Pyruvate + trans-2-Octenal <=> (S)-3-Acetyloctanal + CO2
+EQUATION    C00022 + C21138 <=> C21139 + C00011
+RCLASS      RC03367  C21138_C21139
+ENZYME      2.2.1.12
+///

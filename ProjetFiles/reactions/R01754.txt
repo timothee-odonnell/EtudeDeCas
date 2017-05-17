@@ -1,0 +1,11 @@
+ENTRY       R01754                      Reaction
+NAME        ATP:L-arabinose 1-phosphotransferase
+DEFINITION  ATP + L-Arabinose <=> ADP + beta-L-Arabinose 1-phosphate
+EQUATION    C00002 + C00259 <=> C00008 + C03906
+RCLASS      RC00002  C00002_C00008
+            RC00078  C00259_C03906
+ENZYME      2.7.1.46
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K12446  L-arabinokinase [EC:2.7.1.46]
+///

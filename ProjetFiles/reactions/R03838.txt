@@ -1,0 +1,9 @@
+ENTRY       R03838                      Reaction
+NAME        Acyl-CoA:2-acylglycerol O-acyltransferase
+DEFINITION  2,3-Dehydroacyl-CoA + 2-Acylglycerol <=> CoA + 1,2-Diacyl-sn-glycerol
+EQUATION    C00605 + C02112 <=> C00010 + C00641
+COMMENT     see R03756 (1-acyl type reaction)
+RCLASS      RC00004  C00010_C00605
+            RC00041  C00641_C02112
+ENZYME      2.3.1.22
+///

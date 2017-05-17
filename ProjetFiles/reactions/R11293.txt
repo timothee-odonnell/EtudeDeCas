@@ -1,0 +1,10 @@
+ENTRY       R11293                      Reaction
+NAME        S-adenosyl-L-methionine:methylcob(III)alamin:gentamicin-A methyltransferase
+DEFINITION  Gentamicin A + Methylcobalamin + S-Adenosyl-L-methionine + H+ + e- <=> Gentamicin X2 + Cob(II)alamin + 5'-Deoxyadenosine + L-Methionine
+EQUATION    C01917 + C06453 + C00019 + C00080 + C05359 <=> C17702 + C00541 + C05198 + C00073
+RCLASS      RC03407  C01917_C17702
+ENZYME      2.1.1.-
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20593  cobalamin-dependent radical SAM methyltransferase [EC:2.1.1.-]
+///

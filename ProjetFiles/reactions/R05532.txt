@@ -1,0 +1,13 @@
+ENTRY       R05532                      Reaction
+NAME        S-adenosyl-L-methionine:erythromycin-D 3''-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Erythromycin D <=> S-Adenosyl-L-homocysteine + Erythromycin B
+EQUATION    C00019 + C06633 <=> C00021 + C06653
+COMMENT     EryG: O-methyl transferase
+RCLASS      RC00003  C00019_C00021
+            RC01324  C06633_C06653
+ENZYME      2.1.1.254
+PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00774  Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B
+ORTHOLOGY   K14369  erythromycin 3''-O-methyltransferase [EC:2.1.1.254]
+///

@@ -1,0 +1,7 @@
+ENTRY       R05174                      Reaction
+NAME        16-alpha-Hydroxypregnenolone hydro-lyase
+DEFINITION  16-alpha-Hydroxypregnenolone <=> 16,17-Didehydropregnenolone + H2O
+EQUATION    C06390 <=> C06392 + C00001
+RCLASS      RC01093  C06390_C06392
+ENZYME      4.2.1.98
+///

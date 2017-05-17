@@ -1,0 +1,17 @@
+ENTRY       G10523                      Glycan
+COMPOSITION (Gal)1 (LFuc)1 (Me)1
+MASS        340.3
+REMARK      Same as: C04698
+REACTION    R06118
+ENZYME      3.2.1.63
+DBLINKS     CCSD: 23969 33332 34029 41608
+            GlycomeDB: 17429
+            JCGGDB: JCGG-STR007986
+NODE        3
+            1   Me          8     0
+            2   Gal         1     0
+            3   LFuc       -8     0
+EDGE        2
+            1     2:1     1    
+            2     3:a1    2:2  
+///

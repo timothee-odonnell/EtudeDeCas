@@ -1,0 +1,6 @@
+ENTRY       R10941                      Reaction
+NAME        N(beta)-epoxysuccinamoyl-DAP:L-valine ligase (ADP-forming)
+DEFINITION  ATP + N(beta)-Epoxysuccinamoyl-DAP + L-Valine <=> ADP + Orthophosphate + N(beta)-Epoxysuccinamoyl-DAP-Val
+EQUATION    C00002 + C20967 + C00183 <=> C00008 + C00009 + C20965
+ENZYME      6.3.2.47
+///

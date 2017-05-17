@@ -1,0 +1,25 @@
+ENTRY       G02952                      Glycan
+NAME        nLc4
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1 (Neu5Gc)1
+MASS        1014.9
+REACTION    R06283
+ENZYME      3.2.1.123
+REFERENCE   1  [PMID:10611486]
+            Masuda H, Suzuki T, Sugiyama Y, Horiike G, Murakami K, Miyamoto D, Jwa Hidari KI, Ito T, Kida H, Kiso M, Fukunaga K, Ohuchi M, Toyoda T, Ishihama A, Kawaoka Y, Suzuki Y.
+            Substitution of amino acid residue in influenza A virus hemagglutinin affects recognition of sialyl-oligosaccharides containing N-glycolylneuraminic acid.
+            FEBS. Lett. 464 (1999) 71-4.
+DBLINKS     CCSD: 16064 18230
+            GlycomeDB: 19147
+            JCGGDB: JCGG-STR009857
+NODE        5
+            1   Glc        17     0
+            2   Gal        10     0
+            3   GlcNAc      1     0
+            4   Gal        -8     0
+            5   Neu5Gc    -17     0
+EDGE        4
+            1     2:b1    1:4  
+            2     3:b1    2:3  
+            3     4:b1    3:4  
+            4     5:a2    4:3  
+///

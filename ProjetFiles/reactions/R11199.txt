@@ -1,0 +1,8 @@
+ENTRY       R11199                      Reaction
+NAME        sinapoyl-CoA:spermidine N-sinapoyltransferase
+DEFINITION  2 Sinapoyl-CoA + Spermidine <=> 2 CoA + N1,N8-Bis(sinapoyl)spermidine
+EQUATION    2 C00411 + C00315 <=> 2 C00010 + C21170
+RCLASS      RC00004  C00010_C00411
+            RC03386  C00315_C21170
+ENZYME      2.3.1.248
+///

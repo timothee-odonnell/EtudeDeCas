@@ -1,0 +1,7 @@
+ENTRY       R00141                      Reaction
+NAME        ATP:ammonia phosphotransferase
+DEFINITION  ATP + Ammonia <=> ADP + Phosphoramidate
+EQUATION    C00002 + C00014 <=> C00008 + C02306
+RCLASS      RC00002  C00002_C00008
+ENZYME      2.7.3.8
+///

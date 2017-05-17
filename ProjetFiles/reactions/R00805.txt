@@ -1,0 +1,11 @@
+ENTRY       R00805                      Reaction
+NAME        sucrose-6F-phosphate phosphohydrolase
+DEFINITION  Sucrose 6'-phosphate + H2O <=> Sucrose + Orthophosphate
+EQUATION    C02591 + C00001 <=> C00089 + C00009
+REMARK      Same as: R06211
+RCLASS      RC00017  C00089_C02591
+ENZYME      3.1.3.24
+PATHWAY     rn00500  Starch and sucrose metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K07024  sucrose-6-phosphatase&#160; [EC:3.1.3.24]
+///

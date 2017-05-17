@@ -1,0 +1,7 @@
+ENTRY       R10335                      Reaction
+NAME        L-tyrosyl-tRNATyr:L-tyrosyl-tRNATyr tyrosyltransferase (cyclizing)
+DEFINITION  2 L-Tyrosyl-tRNA(Tyr) <=> 2 tRNA(Tyr) + Cyclo(L-tyrosyl-L-tyrosyl)
+EQUATION    2 C02839 <=> 2 C00787 + C20516
+RCLASS      RC00055  C00787_C02839
+ENZYME      2.3.2.21
+///

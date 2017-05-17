@@ -1,0 +1,8 @@
+ENTRY       R08713                      Reaction
+NAME        acyl-CoA:pseudotropine O-acyltransferase
+DEFINITION  Acyl-CoA + Pseudotropine <=> CoA + O-Acylpseudotropine
+EQUATION    C00040 + C02066 <=> C00010 + C17378
+RCLASS      RC00004  C00010_C00040
+            RC00055  C02066_C17378
+ENZYME      2.3.1.186
+///

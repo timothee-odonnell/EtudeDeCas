@@ -1,0 +1,24 @@
+ENTRY       G10524                      Glycan
+NAME        Digalactosylceramide sulfate
+COMPOSITION (Gal)2 (S)1 (Cer)1
+MASS        404.3 (Cer)
+REMARK      Same as: C06127
+REACTION    R06122
+ENZYME      2.8.2.11
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP06 Acidic glycosphingolipids
+               SP0602 Sulfoglycosphingolipids (sulfatides)
+                C06127  Digalactosylceramidesulfate
+DBLINKS     GlycomeDB: 24283
+            JCGGDB: JCGG-STR015379
+NODE        4
+            1   Cer        15     0
+            2   Gal         5     0
+            3   Gal        -5     0
+            4   S         -15     0
+EDGE        3
+            1     2:b1    1:1  
+            2     3:a1    2:4  
+            3     4       3:3  
+///

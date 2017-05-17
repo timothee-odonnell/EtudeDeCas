@@ -1,0 +1,7 @@
+ENTRY       R10650                      Reaction
+DEFINITION  N6-L-Threonylcarbamoyladenine in tRNA + Sulfur donor + S-Adenosyl-L-methionine <=> 2-Thio-N6-L-threonylcarbamoyladenine in tRNA + L-Methionine + 5'-Deoxyadenosine
+EQUATION    C20751 + C17023 + C00019 <=> C20754 + C00073 + C05198
+RCLASS      RC00021  C00019_C00073
+            RC03222  C20751_C20754
+ENZYME      2.8.4.5
+///

@@ -1,0 +1,14 @@
+ENTRY       R01706                      Reaction
+NAME        hexadecanoyl-[acyl-carrier protein] hydrolase
+DEFINITION  Hexadecanoyl-[acp] + H2O <=> Acyl-carrier protein + Hexadecanoic acid
+EQUATION    C05764 + C00001 <=> C00229 + C00249
+COMMENT     the last step (thioester-hydrolysing) of fatty-acid synthase (ec 2.3.1.85, see R05188, map00061)
+RCLASS      RC00014  C00249_C05764
+            RC00039  C00229_C05764
+ENZYME      2.3.1.85        3.1.2.14
+PATHWAY     rn00061  Fatty acid biosynthesis
+            rn01100  Metabolic pathways
+            rn01212  Fatty acid metabolism
+ORTHOLOGY   K00665  fatty acid synthase, animal type [EC:2.3.1.85]
+            K10781  fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]
+///

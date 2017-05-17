@@ -1,0 +1,8 @@
+ENTRY       R11492                      Reaction
+NAME        (1R)-1,4,5,10-tetrahydrophenazine-1-carboxylate:oxygen oxidoreductase
+DEFINITION  (1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate + Oxygen <=> 5,10-Dihydrophenazine-1-carboxylate + Hydrogen peroxide
+EQUATION    C21413 + C00007 <=> C20981 + C00027
+RCLASS      RC03450  C20981_C21413
+ENZYME      1.10.3.16
+ORTHOLOGY   K20262  dihydrophenazinedicarboxylate synthase [EC:1.10.3.16]
+///

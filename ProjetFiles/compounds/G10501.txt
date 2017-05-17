@@ -1,0 +1,22 @@
+ENTRY       G10501                      Glycan
+NAME        beta-D-Glucosyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol
+COMPOSITION (Glc)1 (GlcNAc)1 (PP-Und)1
+MASS        365.3 (PP-Und)
+REMARK      Same as: C04830
+REACTION    R06062
+ENZYME      2.4.1.188
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0303 Bactoprenol diphosphates
+                C04830  beta-D-Glucosyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol
+DBLINKS     GlycomeDB: 18932
+            JCGGDB: JCGG-STR009624
+NODE        3
+            1   PP-Und     10     0
+            2   GlcNAc      0     0
+            3   Glc       -10     0
+EDGE        2
+            1     2       1    
+            2     3:b1    2:4  
+///

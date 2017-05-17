@@ -1,0 +1,9 @@
+ENTRY       R06752                      Reaction
+DEFINITION  L-Tyrosyl-[pcp] + Oxygen <=> beta-Hydroxy-L-tyrosyl-[pcp] + H2O
+EQUATION    C12461 + C00007 <=> C12462 + C00001
+COMMENT     monooxygenase, NovI CloI CouI
+RCLASS      RC01680  C12461_C12462
+PATHWAY     rn00401  Novobiocin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12702  novobiocin biosynthesis protein NovI
+///

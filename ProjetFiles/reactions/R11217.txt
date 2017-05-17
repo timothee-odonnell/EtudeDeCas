@@ -1,0 +1,15 @@
+ENTRY       R11217                      Reaction
+NAME        S-adenosyl-L-methionine:[protein]-N(omega)-methyl-L-arginine N-methyltransferase ([protein]-N(omega),N(omega)-dimethyl-L-arginine-forming)
+DEFINITION  S-Adenosyl-L-methionine + Protein N(omega)-methyl-L-arginine <=> S-Adenosyl-L-homocysteine + Protein N(omega),N(omega)-dimethyl-L-arginine
+EQUATION    C00019 + C04143 <=> C00021 + C21188
+COMMENT     following after R11216
+RCLASS      RC00003  C00019_C00021
+            RC03388  C04143_C21188
+ENZYME      2.1.1.319
+ORTHOLOGY   K05931  type I protein arginine methyltransferase [EC:2.1.1.319]
+            K11434  type I protein arginine methyltransferase [EC:2.1.1.319]
+            K11435  type I protein arginine methyltransferase [EC:2.1.1.319]
+            K11436  type I protein arginine methyltransferase [EC:2.1.1.319]
+            K11437  type I protein arginine methyltransferase [EC:2.1.1.319]
+            K11439  type I protein arginine methyltransferase [EC:2.1.1.319]
+///

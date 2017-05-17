@@ -1,0 +1,7 @@
+ENTRY       R11499                      Reaction
+DEFINITION  Valienol 7-phosphate <=> Valienol 1-phosphate
+EQUATION    C21415 <=> C21367
+COMMENT     unclear reaction
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+///

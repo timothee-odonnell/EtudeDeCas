@@ -1,0 +1,7 @@
+ENTRY       R07408                      Reaction
+DEFINITION  4-Aminobutyraldehyde <=> 1-Pyrroline + H2O
+EQUATION    C00555 <=> C15668 + C00001
+COMMENT     spontaneous
+RCLASS      RC01629  C00555_C15668
+ENZYME      2.6.1.82
+///

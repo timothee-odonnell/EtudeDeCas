@@ -1,0 +1,7 @@
+ENTRY       R03137                      Reaction
+NAME        Renilla-luciferin:oxygen 2-oxidoreductase (decarboxylating)
+DEFINITION  Renilla luciferin + Oxygen <=> Oxidized Renilla luciferin + hn + CO2
+EQUATION    C00982 + C00007 <=> C03717 + C00205 + C00011
+RCLASS      RC00857  C00982_C03717
+ENZYME      1.13.12.5
+///

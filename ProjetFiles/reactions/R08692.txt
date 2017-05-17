@@ -1,0 +1,10 @@
+ENTRY       R08692                      Reaction
+NAME        GDP-D-mannuronate:Poly(beta-D-mannuronate) beta-D-mannuronyltransferase
+DEFINITION  GDP-D-mannuronate + (beta-D-Mannuronate)n <=> (beta-D-Mannuronate)n + GDP
+EQUATION    C00976 + C05144 <=> C05144 + C00035
+RCLASS      RC00005  C00035_C00976
+ENZYME      2.4.1.33
+PATHWAY     rn00051  Fructose and mannose metabolism
+ORTHOLOGY   K19290  mannuronan synthase [EC:2.4.1.33]
+            K19291  mannuronan synthase [EC:2.4.1.33]
+///

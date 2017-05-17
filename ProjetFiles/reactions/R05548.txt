@@ -1,0 +1,10 @@
+ENTRY       R05548                      Reaction
+DEFINITION  Paraoxon + H2O <=> Diethylphosphoric acid + 4-Nitrophenol
+EQUATION    C06606 + C00001 <=> C06608 + C00870
+RCLASS      RC00151  C00870_C06606
+            RC01282  C06606_C06608
+ENZYME      3.1.8.1
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K01045  arylesterase / paraoxonase [EC:3.1.1.2 3.1.8.1]
+///

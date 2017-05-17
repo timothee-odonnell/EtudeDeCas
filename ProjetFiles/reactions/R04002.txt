@@ -1,0 +1,8 @@
+ENTRY       R04002                      Reaction
+NAME        ATP:branched-chain-fatty-acid 1-phosphotransferase
+DEFINITION  ATP + 2-Methylpropanoate <=> ADP + 2-Methylpropanoyl phosphate
+EQUATION    C00002 + C02632 <=> C00008 + C03754
+RCLASS      RC00002  C00002_C00008
+            RC00043  C02632_C03754
+ENZYME      2.7.2.14
+///

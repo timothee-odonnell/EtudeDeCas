@@ -1,0 +1,8 @@
+ENTRY       R04022                      Reaction
+NAME        Palmitoyl-CoA:myelin-proteolipid O-palmitoyltransferase
+DEFINITION  Palmitoyl-CoA + Myelin proteolipid <=> CoA + Myelin proteolipid O-palmitoylprotein
+EQUATION    C00154 + C02706 <=> C00010 + C04386
+RCLASS      RC00004  C00010_C00154
+            RC00041  C02706_C04386
+ENZYME      2.3.1.100
+///

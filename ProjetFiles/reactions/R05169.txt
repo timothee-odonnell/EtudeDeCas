@@ -1,0 +1,7 @@
+ENTRY       R05169                      Reaction
+NAME        Methylenediurea aminohydrolase
+DEFINITION  Methylenediurea + 2 H2O <=> N-(Hydroxymethyl)urea + CO2 + 2 Ammonia
+EQUATION    C06381 + 2 C00001 <=> C06384 + C00011 + 2 C00014
+RCLASS      RC01286  C06381_C06384
+ENZYME      3.5.3.21
+///

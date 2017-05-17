@@ -1,0 +1,8 @@
+ENTRY       R07295                      Reaction
+NAME        deoxycholoyl-CoA:cholate CoA-transferase
+DEFINITION  Deoxycholoyl-CoA + Cholic acid <=> Deoxycholic acid + Choloyl-CoA
+EQUATION    C15560 + C00695 <=> C04483 + C01794
+RCLASS      RC00014  C00695_C01794  C04483_C15560
+ENZYME      2.8.3.25
+ORTHOLOGY   K15871  bile acid CoA-transferase [EC:2.8.3.25]
+///

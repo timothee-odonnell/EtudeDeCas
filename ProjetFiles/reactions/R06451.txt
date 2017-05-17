@@ -1,0 +1,12 @@
+ENTRY       R06451                      Reaction
+NAME        dTDP-6-deoxy-alpha-D-allose:5-O-beta-D-mycaminosyltylonolide 23-O-6-deoxy-beta-D-allosyltransferase
+DEFINITION  5-O-beta-D-Mycaminosyltylonolide + dTDP-6-deoxy-D-allose <=> Demethyllactenocin + dTDP
+EQUATION    C12002 + C11912 <=> C12003 + C00363
+RCLASS      RC00005  C00363_C11912
+            RC00059  C12002_C12003
+ENZYME      2.4.1.317
+PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00773  Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin
+ORTHOLOGY   K15993  O-mycaminosyltylonolide 6-deoxyallosyltransferase [EC:2.4.1.317]
+///

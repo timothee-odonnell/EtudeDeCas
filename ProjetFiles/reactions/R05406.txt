@@ -1,0 +1,13 @@
+ENTRY       R05406                      Reaction
+NAME        catechol:oxygen 2,3-oxidoreductase (ring-opening)
+DEFINITION  4-Chlorocatechol + Oxygen <=> 5-Chloro-2-hydroxymuconic semialdehyde
+EQUATION    C02375 + C00007 <=> C07089
+COMMENT     Ref.: 1. Mol Cells 2000;10(4):475-479
+RCLASS      RC00643  C02375_C07089
+ENZYME      1.13.11.2
+PATHWAY     rn00361  Chlorocyclohexane and chlorobenzene degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K00446  catechol 2,3-dioxygenase [EC:1.13.11.2]
+            K07104  catechol 2,3-dioxygenase [EC:1.13.11.2]
+///

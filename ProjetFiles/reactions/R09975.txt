@@ -1,0 +1,7 @@
+ENTRY       R09975                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase [(+)-beta-pinene-forming]
+DEFINITION  Geranyl diphosphate <=> (+)-beta-Pinene + Diphosphate
+EQUATION    C00341 <=> C20244 + C00013
+RCLASS      RC01466  C00341_C20244
+ENZYME      4.2.3.122
+///

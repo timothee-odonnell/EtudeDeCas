@@ -1,0 +1,7 @@
+ENTRY       R03422                      Reaction
+NAME        Nucleoside-2',3'-cyclic-phosphate 2'-nucleotidohydrolase
+DEFINITION  2',3'-Cyclic nucleotide + H2O <=> Nucleoside 2'-phosphate
+EQUATION    C01240 + C00001 <=> C03418
+RCLASS      RC00296  C01240_C03418
+ENZYME      3.1.4.37
+///

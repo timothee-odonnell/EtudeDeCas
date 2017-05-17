@@ -1,0 +1,8 @@
+ENTRY       R04211                      Reaction
+NAME        Oxalyl-CoA:L-2,3-diaminopropanoate N3-oxalyltransferase
+DEFINITION  Oxalyl-CoA + 3-Amino-L-alanine <=> CoA + 3-(Carboxycarbonylamino)-L-alanine
+EQUATION    C00313 + C03401 <=> C00010 + C04209
+RCLASS      RC00004  C00010_C00313
+            RC00096  C03401_C04209
+ENZYME      2.3.1.58
+///

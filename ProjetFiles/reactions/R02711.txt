@@ -1,0 +1,8 @@
+ENTRY       R02711                      Reaction
+NAME        4-Methylene-L-glutamate:ammonia ligase (AMP-forming)
+DEFINITION  ATP + 4-Methylene-L-glutamate + Ammonia <=> AMP + Diphosphate + 4-Methylene-L-glutamine
+EQUATION    C00002 + C00651 + C00014 <=> C00020 + C00013 + C01109
+RCLASS      RC00222  C00651_C01109
+ENZYME      6.3.1.7
+PATHWAY     rn00660  C5-Branched dibasic acid metabolism
+///

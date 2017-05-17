@@ -1,0 +1,16 @@
+ENTRY       G02515                      Glycan
+COMPOSITION (Fruf)2 (Glc)1
+MASS        504.4
+REMARK      Same as: C03661
+REACTION    R06135
+ENZYME      2.4.1.99
+DBLINKS     CCSD: 256 16759 19892 23588 26122 42254 43050 46964 48947 48958
+            GlycomeDB: 34399
+NODE        3
+            1   Fruf        5     4
+            2   Glc         5    -4
+            3   Fruf       -5     4
+EDGE        2
+            1     2:a1    1:b2 
+            2     3:b2    1:1  
+///

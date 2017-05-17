@@ -1,0 +1,11 @@
+ENTRY       R08217                      Reaction
+NAME        ATP:7-mercaptoheptanoylthreonine 3-phosphotransferase
+DEFINITION  7-Mercaptoheptanoylthreonine + ATP <=> Coenzyme B + ADP
+EQUATION    C16594 + C00002 <=> C04628 + C00008
+COMMENT     enzyme not yet characterized
+RCLASS      RC00002  C00002_C00008
+            RC00428  C04628_C16594
+ENZYME      2.7.1.-
+PATHWAY     rn00680  Methane metabolism
+            rn01120  Microbial metabolism in diverse environments
+///

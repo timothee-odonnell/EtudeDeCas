@@ -1,0 +1,8 @@
+ENTRY       R02375                      Reaction
+NAME        Palmitoyl-CoA:ecdysone O-palmitoyltransferase
+DEFINITION  Palmitoyl-CoA + Ecdysone <=> CoA + Ecdysone palmitate
+EQUATION    C00154 + C00477 <=> C00010 + C02681
+RCLASS      RC00004  C00010_C00154
+            RC00055  C00477_C02681
+ENZYME      2.3.1.139
+///

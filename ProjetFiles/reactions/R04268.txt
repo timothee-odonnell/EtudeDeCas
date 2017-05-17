@@ -1,0 +1,8 @@
+ENTRY       R04268                      Reaction
+NAME        N-Formyl-L-methionylaminoacyl-tRNA amidohydrolase
+DEFINITION  N-Formyl-L-methionylaminoacyl-tRNA + H2O <=> Formate + L-Methionylaminoacyl-tRNA
+EQUATION    C04258 + C00001 <=> C00058 + C03617
+RCLASS      RC00165  C03617_C04258
+            RC00323  C00058_C04258
+ENZYME      3.5.1.88
+///

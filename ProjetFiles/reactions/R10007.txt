@@ -1,0 +1,7 @@
+ENTRY       R10007                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, beta-cubebene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> beta-Cubebene + Diphosphate
+EQUATION    C00448 <=> C09648 + C00013
+RCLASS      RC02992  C00448_C09648
+ENZYME      4.2.3.128
+///

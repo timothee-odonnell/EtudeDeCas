@@ -1,0 +1,12 @@
+ENTRY       R10882                      Reaction
+NAME        Nocardicin-C,NADPH:oxygen oxidoreductase
+DEFINITION  Nocardicin C + 2 NADPH + 2 H+ + 2 Oxygen <=> Nocardicin A + 2 NADP+ + 3 H2O
+EQUATION    C17351 + 2 C00005 + 2 C00080 + 2 C00007 <=> C01941 + 2 C00006 + 3 C00001
+RCLASS      RC00001  C00005_C00006
+            RC03299  C01941_C17351
+ENZYME      1.14.13.-
+PATHWAY     rn00261  Monobactam biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00736  Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A
+ORTHOLOGY   K19106  nocardicin N-oxygenase [EC:1.14.13.-]
+///

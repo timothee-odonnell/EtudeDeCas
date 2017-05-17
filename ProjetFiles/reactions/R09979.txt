@@ -1,0 +1,12 @@
+ENTRY       R09979                      Reaction
+NAME        (2S)-ethylmalonyl-CoA epimerase
+DEFINITION  (2S)-Ethylmalonyl-CoA <=> (2R)-Ethylmalonyl-CoA
+EQUATION    C18026 <=> C20238
+RCLASS      RC02739  C18026_C20238
+ENZYME      5.1.99.1
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00373  Ethylmalonyl pathway
+ORTHOLOGY   K05606  methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]
+///

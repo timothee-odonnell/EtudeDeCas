@@ -1,0 +1,12 @@
+ENTRY       R01246                      Reaction
+NAME        L-proline:NAD+ 2-oxidoreductase
+DEFINITION  L-Proline + NAD+ <=> 1-Pyrroline-2-carboxylate + NADH + H+
+EQUATION    C00148 + C00003 <=> C03564 + C00004 + C00080
+COMMENT     NADP+ (see R01249)
+RCLASS      RC00001  C00003_C00004
+            RC00135  C00148_C03564
+ENZYME      1.5.1.1         1.5.1.49
+PATHWAY     rn00330  Arginine and proline metabolism
+ORTHOLOGY   K19742  1-pyrroline-2-carboxylate reductase [NAD(P)H] [EC:1.5.1.49]
+            K19743  1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H] [EC:1.5.1.1]
+///

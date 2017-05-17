@@ -1,0 +1,9 @@
+ENTRY       R11524                      Reaction
+NAME        [Sulfur-carrier protein]-L-cysteine carboxypeptidase
+DEFINITION  [Sulfur-carrier protein]-Gly-Gly-L-Cys + H2O <=> L-Cysteine + Sulfur-carrier protein
+EQUATION    C21437 + C00001 <=> C00097 + C15810
+RCLASS      RC00064  C00097_C21437
+            RC00090  C15810_C21437
+ENZYME      3.4.17.-
+ORTHOLOGY   K21140  sulfur-carrier protein carboxypeptidase [EC:3.4.17.-]
+///

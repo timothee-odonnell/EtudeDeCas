@@ -1,0 +1,7 @@
+ENTRY       R08658                      Reaction
+NAME        glycerol-1-phosphate phosphohydrolase
+DEFINITION  DL-Glycerol 1-phosphate + H2O <=> Glycerol + Orthophosphate
+EQUATION    C03189 + C00001 <=> C00116 + C00009
+RCLASS      RC00017  C00116_C03189
+ENZYME      3.1.3.21
+///

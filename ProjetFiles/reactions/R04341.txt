@@ -1,0 +1,7 @@
+ENTRY       R04341                      Reaction
+NAME        alpha-N-Peptidyl-L-glutamine amidohydrolase
+DEFINITION  alpha-N-Peptidyl-L-glutamine + H2O <=> alpha-N-Peptidyl-L-glutamate + Ammonia
+EQUATION    C03905 + C00001 <=> C03904 + C00014
+RCLASS      RC00010  C03904_C03905
+ENZYME      3.5.1.43
+///

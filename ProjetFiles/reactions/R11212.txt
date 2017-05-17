@@ -1,0 +1,7 @@
+ENTRY       R11212                      Reaction
+NAME        (-)-deoxypodophyllotoxin,NADPH:oxygen oxidoreductase (4-hydroxylating)
+DEFINITION  4'-Demethyldeoxypodophyllotoxin + NADPH + H+ + Oxygen <=> 4'-Demethylepipodophyllotoxin + NADP+ + H2O
+EQUATION    C10552 + C00005 + C00080 + C00007 <=> C21185 + C00006 + C00001
+RCLASS      RC01552  C10552_C21185
+ENZYME      1.14.13.214
+///

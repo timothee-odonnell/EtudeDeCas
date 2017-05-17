@@ -1,0 +1,8 @@
+ENTRY       R10680                      Reaction
+NAME        S-adenosyl-L-methionine:(+/-)-pavine N-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + (+/-)-Pavine <=> S-Adenosyl-L-homocysteine + N-Methylpavine
+EQUATION    C00019 + C20771 <=> C00021 + C20770
+RCLASS      RC00003  C00019_C00021
+            RC03227  C20770_C20771
+ENZYME      2.1.1.300
+///

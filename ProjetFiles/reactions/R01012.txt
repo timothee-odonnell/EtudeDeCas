@@ -1,0 +1,8 @@
+ENTRY       R01012                      Reaction
+NAME        Phosphoenolpyruvate:glycerone phosphotransferase
+DEFINITION  Phosphoenolpyruvate + Glycerone <=> Pyruvate + Glycerone phosphate
+EQUATION    C00074 + C00184 <=> C00022 + C00111
+RCLASS      RC00015  C00022_C00074
+            RC00017  C00111_C00184
+ENZYME      2.7.1.121
+///

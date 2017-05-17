@@ -1,0 +1,9 @@
+ENTRY       R08715                      Reaction
+NAME        chitosan exo-1,4-beta-D-glucosaminidase;
+            chitosan glucosaminohydrolase
+DEFINITION  Chitosan(n+1) + H2O <=> Chitosan(n) + D-Glucosamine
+EQUATION    C00734(n+1) + C00001 <=> C00734(n) + C00329
+REMARK      Same as: R06225
+RCLASS      RC00049  C00329_C00734
+ENZYME      3.2.1.165
+///

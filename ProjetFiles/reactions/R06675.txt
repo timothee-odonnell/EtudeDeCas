@@ -1,0 +1,13 @@
+ENTRY       R06675                      Reaction
+NAME        S-adenosyl-L-methionine:nogalonic-acid O-methyltransferase
+DEFINITION  Nogalonate + S-Adenosyl-L-methionine <=> Methyl nogalonate + S-Adenosyl-L-homocysteine
+EQUATION    C12416 + C00019 <=> C12415 + C00021
+COMMENT     methyltransferase, snoaC
+RCLASS      RC00003  C00019_C00021
+            RC00460  C12415_C12416
+ENZYME      2.1.1.-
+PATHWAY     rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00781  Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone
+ORTHOLOGY   K15942  O-methyltransferase / aklanonic acid methyltransferase [EC:2.1.1.- 2.1.1.288]
+///

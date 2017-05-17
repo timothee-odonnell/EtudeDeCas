@@ -1,0 +1,7 @@
+ENTRY       R00223                      Reaction
+NAME        serine ammonia-lyase (pyruvate-forming)
+DEFINITION  Serine <=> Pyruvate + Ammonia
+EQUATION    C00716 <=> C00022 + C00014
+RCLASS      RC02600  C00022_C00716
+ENZYME      4.3.1.15
+///

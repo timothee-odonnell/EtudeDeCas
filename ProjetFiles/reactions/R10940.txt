@@ -1,0 +1,8 @@
+ENTRY       R10940                      Reaction
+NAME        fumarate:(S)-2,3-diaminopropanoate ligase (AMP-forming)
+DEFINITION  ATP + Fumarate + 3-Amino-L-alanine <=> AMP + Diphosphate + N3-Fumaroyl-(S)-2,3-diaminopropanoate
+EQUATION    C00002 + C00122 + C03401 <=> C00020 + C00013 + C20961
+RCLASS      RC00096  C03401_C20961
+            RC00957  C00122_C20961
+ENZYME      6.3.2.46
+///

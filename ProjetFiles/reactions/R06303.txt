@@ -1,0 +1,11 @@
+ENTRY       R06303                      Reaction
+NAME        ent-copalyl-diphosphate diphosphate-lyase [ent-abieta-8(14),12-diene-forming]
+DEFINITION  Copalyl diphosphate <=> Neoabietadiene + Diphosphate
+EQUATION    C11901 <=> C11880 + C00013
+RCLASS      RC01497  C11880_C11901
+ENZYME      4.2.3.132
+PATHWAY     rn00904  Diterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K12927  abietadiene/neoabietadiene/copalyl diphosphate synthase [EC:4.2.3.18 4.2.3.132 5.5.1.12]
+            K19571  levopimaradiene/neoabietadiene/copalyl diphosphate synthase [EC:4.2.3.32 4.2.3.132 5.5.1.12]
+///

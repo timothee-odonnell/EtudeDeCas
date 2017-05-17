@@ -1,0 +1,9 @@
+ENTRY       R10662                      Reaction
+NAME        dTDP-beta-L-evernosamine,NADPH:oxygen oxidoreductase (N-hydroxylating)
+DEFINITION  dTDP-beta-L-evernosamine + NADPH + H+ + Oxygen <=> dTDP-N-hydroxy-beta-L-evernosamine + NADP+ + H2O
+EQUATION    C20765 + C00005 + C00080 + C00007 <=> C20766 + C00006 + C00001
+COMMENT     first step of two-step reaction (see R10664, R10662+R10663)
+RCLASS      RC00001  C00005_C00006
+            RC03229  C20765_C20766
+ENZYME      1.14.13.187
+///

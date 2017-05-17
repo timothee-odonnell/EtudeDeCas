@@ -1,0 +1,7 @@
+ENTRY       R09882                      Reaction
+NAME        P1,P5-bis(5'-adenosyl)pentaphosphate nucleotidohydrolase (AMP-forming)
+DEFINITION  Bis(5'-adenosyl) pentaphosphate + H2O <=> Adenosine tetraphosphate + AMP
+EQUATION    C04058 + C00001 <=> C03483 + C00020
+RCLASS      RC00002  C00020_C04058  C03483_C04058
+ENZYME      3.6.1.60
+///

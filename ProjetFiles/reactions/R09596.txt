@@ -1,0 +1,9 @@
+ENTRY       R09596                      Reaction
+NAME        UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:D-lysine alpha-ligase (ADP-forming)
+DEFINITION  ATP + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate + D-Lysine <=> ADP + Orthophosphate + N6-(UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl)-D-lysine
+EQUATION    C00002 + C00692 + C00739 <=> C00008 + C00009 + C19720
+RCLASS      RC00002  C00002_C00008
+            RC00090  C00692_C19720
+            RC00096  C00739_C19720
+ENZYME      6.3.2.37
+///

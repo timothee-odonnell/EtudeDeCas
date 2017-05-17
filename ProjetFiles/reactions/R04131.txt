@@ -1,0 +1,6 @@
+ENTRY       R04131                      Reaction
+DEFINITION  2-Oxohept-3-enedioate + H2O <=> 4-Hydroxy-2-oxo-heptanedioate
+EQUATION    C03063 + C00001 <=> C05601
+RCLASS      RC01095  C03063_C05601
+ENZYME      4.2.1.-
+///

@@ -1,0 +1,10 @@
+ENTRY       R10203                      Reaction
+DEFINITION  Dimethyl sulfone + 2 Reduced FMN + 2 Oxygen <=> Methanesulfonic acid + Formaldehyde + 2 FMN + 2 H2O
+EQUATION    C11142 + 2 C01847 + 2 C00007 <=> C11145 + C00067 + 2 C00061 + 2 C00001
+COMMENT     FMNH2-dependent dimethyl sulfone monooxygenase 
+RCLASS      RC00126  C00061_C01847
+            RC02556  C00067_C11142
+            RC03080  C11142_C11145
+PATHWAY     rn00920  Sulfur metabolism
+ORTHOLOGY   K17228  FMNH2-dependent dimethyl sulfone monooxygenase
+///

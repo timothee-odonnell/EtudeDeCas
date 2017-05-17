@@ -1,0 +1,7 @@
+ENTRY       R09558                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [(+)-germacrene-D-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-Germacrene D + Diphosphate
+EQUATION    C00448 <=> C19619 + C00013
+RCLASS      RC02425  C00448_C19619
+ENZYME      4.2.3.77
+///

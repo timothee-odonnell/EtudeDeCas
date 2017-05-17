@@ -1,0 +1,9 @@
+ENTRY       R09574                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [(+)-5-epiaristolochene-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate <=> 5-Epiaristolochene + Diphosphate
+EQUATION    C00448 <=> C19708 + C00013
+RCLASS      RC00691  C00448_C19708
+ENZYME      4.2.3.61
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+ORTHOLOGY   K15804  5-epiaristolochene synthase [EC:4.2.3.61]
+///

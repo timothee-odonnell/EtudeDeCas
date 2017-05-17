@@ -1,0 +1,8 @@
+ENTRY       R08139                      Reaction
+DEFINITION  3-Dehydro-2-deoxyecdysone <=> 3-Dehydroecdysone
+EQUATION    C16497 <=> C02513
+COMMENT     CYP315A1: 2-hydroxylase
+RCLASS      RC00704  C02513_C16497
+PATHWAY     rn00981  Insect hormone biosynthesis
+ORTHOLOGY   K10722  ecdysteroid 2-hydroxylase
+///

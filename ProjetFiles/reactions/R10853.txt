@@ -1,0 +1,8 @@
+ENTRY       R10853                      Reaction
+DEFINITION  5-Hydroxymethyl-2-furaldehyde + Oxygen <=> Furan-2,5-dicarbaldehyde + Hydrogen peroxide
+EQUATION    C11101 + C00007 <=> C20899 + C00027
+COMMENT     a part of multi-step reaction (see R10858, R10853+R10854+R10855+R10856+R10857)
+RCLASS      RC00116  C11101_C20899
+            RC02755  C00007_C00027
+ENZYME      1.1.3.47
+///

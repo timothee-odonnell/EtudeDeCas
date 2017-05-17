@@ -1,0 +1,6 @@
+ENTRY       R04878                      Reaction
+DEFINITION  Ergothioneine <=> Hercynine
+EQUATION    C05570 <=> C05575
+COMMENT     incomplete reaction
+RCLASS      RC01971  C05570_C05575
+///

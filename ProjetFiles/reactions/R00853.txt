@@ -1,0 +1,8 @@
+ENTRY       R00853                      Reaction
+NAME        UDP-alpha-D-galactose:sn-glycerol-3-phosphate 2-alpha-D-galactosyltransferase
+DEFINITION  UDP-alpha-D-galactose + sn-Glycerol 3-phosphate <=> UDP + 2-(alpha-D-Galactosyl)-sn-glycerol 3-phosphate
+EQUATION    C00052 + C00093 <=> C00015 + C04641
+RCLASS      RC00005  C00015_C00052
+            RC00397  C00093_C04641
+ENZYME      2.4.1.137
+///

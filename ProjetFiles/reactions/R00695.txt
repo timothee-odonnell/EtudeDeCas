@@ -1,0 +1,7 @@
+ENTRY       R00695                      Reaction
+NAME        L-Aspartate:phenylpyruvate aminotransferase
+DEFINITION  L-Aspartate + Phenylpyruvate <=> Oxaloacetate + L-Phenylalanine
+EQUATION    C00049 + C00166 <=> C00036 + C00079
+RCLASS      RC00006  C00036_C00049  C00079_C00166
+ENZYME      2.6.1.70
+///

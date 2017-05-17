@@ -1,0 +1,9 @@
+ENTRY       R11157                      Reaction
+NAME        asperlicin C,NADPH:oxygen oxidoreductase
+DEFINITION  Asperlicin C + NADPH + H+ + Oxygen <=> Asperlicin E + NADP+ + H2O
+EQUATION    C21147 + C00005 + C00080 + C00007 <=> C21148 + C00006 + C00001
+COMMENT     NADH (see R11156)
+RCLASS      RC00001  C00005_C00006
+            RC03376  C21147_C21148
+ENZYME      1.14.13.216
+///

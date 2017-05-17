@@ -1,0 +1,11 @@
+ENTRY       R01305                      Reaction
+NAME        2,4'-dihydroxyacetophenone oxidoreductase (C-C-bond-cleaving)
+DEFINITION  4-Hydroxyphenacyl alcohol + Oxygen <=> 4-Hydroxybenzoate + Formate
+EQUATION    C13635 + C00007 <=> C00156 + C00058
+RCLASS      RC00415  C00156_C13635
+            RC01565  C00058_C13635
+ENZYME      1.13.11.41
+PATHWAY     rn00363  Bisphenol degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K05913  2,4'-dihydroxyacetophenone dioxygenase [EC:1.13.11.41]
+///

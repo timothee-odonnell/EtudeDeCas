@@ -1,0 +1,11 @@
+ENTRY       R06561                      Reaction
+NAME        biochanin A,NADPH:oxygen oxidoreductase (2'-hydroxylating)
+DEFINITION  Biochanin A + NADPH + Oxygen + H+ <=> 2'-Hydroxybiochanin A + NADP+ + H2O
+EQUATION    C00814 + C00005 + C00007 + C00080 <=> C12135 + C00006 + C00001
+COMMENT     isoflavone 2'-hydroxylase
+RCLASS      RC00001  C00005_C00006
+            RC00046  C00814_C12135
+ENZYME      1.14.13.89
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+ORTHOLOGY   K13260  isoflavone 2'-hydroxylase [EC:1.14.13.89]
+///

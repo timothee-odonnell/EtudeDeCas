@@ -1,0 +1,7 @@
+ENTRY       R10969                      Reaction
+NAME        geranyl-diphosphate:flaviolin 3-linalyltransferase
+DEFINITION  Geranyl diphosphate + Flaviolin <=> 3-Linalylflaviolin + Diphosphate
+EQUATION    C00341 + C18012 <=> C20984 + C00013
+RCLASS      RC03317  C18012_C20984
+ENZYME      2.5.1.123
+///

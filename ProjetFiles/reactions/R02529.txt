@@ -1,0 +1,11 @@
+ENTRY       R02529                      Reaction
+NAME        aminoacetone:oxygen oxidoreductase(deaminating)
+DEFINITION  Aminoacetone + H2O + Oxygen <=> Methylglyoxal + Ammonia + Hydrogen peroxide
+EQUATION    C01888 + C00001 + C00007 <=> C00546 + C00014 + C00027
+RCLASS      RC00676  C00546_C01888
+            RC02755  C00007_C00027
+ENZYME      1.4.3.4         1.4.3.21
+PATHWAY     rn00260  Glycine, serine and threonine metabolism
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+            K00276  primary-amine oxidase [EC:1.4.3.21]
+///

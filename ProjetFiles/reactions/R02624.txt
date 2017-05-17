@@ -1,0 +1,8 @@
+ENTRY       R02624                      Reaction
+NAME        Protein-L-glutamate-O4-methyl-ester acylhydrolase
+DEFINITION  Protein glutamate methyl ester + H2O <=> Protein glutamate + Methanol
+EQUATION    C04142 + C00001 <=> C00614 + C00132
+RCLASS      RC00460  C00614_C04142
+            RC00461  C00132_C04142
+ENZYME      3.1.1.61
+///

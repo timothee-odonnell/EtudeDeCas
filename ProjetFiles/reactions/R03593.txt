@@ -1,0 +1,7 @@
+ENTRY       R03593                      Reaction
+NAME        Ricinine aminohydrolase
+DEFINITION  Ricinine + 2 H2O <=> 3-Carboxy-4-methoxy-N-methyl-2-pyridone + Ammonia
+EQUATION    C01526 + 2 C00001 <=> C04447 + C00014
+RCLASS      RC00959  C01526_C04447
+ENZYME      3.5.5.2
+///

@@ -1,0 +1,9 @@
+ENTRY       R06759                      Reaction
+DEFINITION  3-Dimethylallyl-4-hydroxymandelic acid + Oxygen <=> 3-Dimethylallyl-4-hydroxybenzoate + CO2 + H2O
+EQUATION    C12457 + C00007 <=> C12458 + C00011 + C00001
+COMMENT     putative aldolase, NovR CloR
+RCLASS      RC01679  C12457_C12458
+PATHWAY     rn00401  Novobiocin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12708  novobiocin biosynthesis protein NovR
+///

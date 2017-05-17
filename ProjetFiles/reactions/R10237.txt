@@ -1,0 +1,8 @@
+ENTRY       R10237                      Reaction
+NAME        4-hydroxycinnamoyl-CoA:anthocyanin-3-O-glucoside 6''-O-acyltransferase
+DEFINITION  p-Coumaroyl-CoA + Anthocyanidin 3-O-beta-D-glucoside <=> CoA + Anthocyanidin 3-O-[6-O-(4-hydroxycinnamoyl)-beta-D-glucoside]
+EQUATION    C00223 + C15539 <=> C00010 + C20461
+RCLASS      RC00004  C00010_C00223
+            RC00041  C15539_C20461
+ENZYME      2.3.1.215
+///

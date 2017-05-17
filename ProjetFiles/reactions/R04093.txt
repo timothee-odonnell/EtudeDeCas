@@ -1,0 +1,9 @@
+ENTRY       R04093                      Reaction
+NAME        3-Indoleacetaldoxime hydro-lyase
+DEFINITION  Indole-3-acetaldehyde oxime <=> 3-Indoleacetonitrile + H2O
+EQUATION    C02937 <=> C02938 + C00001
+RCLASS      RC01076  C02937_C02938
+ENZYME      4.99.1.6
+PATHWAY     rn00380  Tryptophan metabolism
+ORTHOLOGY   K11868  indoleacetaldoxime dehydratase [EC:4.99.1.6]
+///

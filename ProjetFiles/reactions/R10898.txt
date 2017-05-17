@@ -1,0 +1,7 @@
+ENTRY       R10898                      Reaction
+NAME        geranylgeranyl-diphosphate diphosphate-lyase [(R)-cembrene-A-forming]
+DEFINITION  Geranylgeranyl diphosphate <=> Neocembrene + Diphosphate
+EQUATION    C00353 <=> C09140 + C00013
+RCLASS      RC02586  C00353_C09140
+ENZYME      4.2.3.150
+///

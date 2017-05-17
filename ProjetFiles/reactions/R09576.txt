@@ -1,0 +1,12 @@
+ENTRY       R09576                      Reaction
+NAME        (-)-vetispiradiene,NADPH:oxygen 2alpha-oxidoreductase
+DEFINITION  Vetispiradiene + NADPH + H+ + Oxygen <=> Solavetivol + NADP+ + H2O
+EQUATION    C12142 + C00005 + C00080 + C00007 <=> C19711 + C00006 + C00001
+COMMENT     first step of two-step reaction (see R10073, R09576+R09577)
+RCLASS      RC00001  C00005_C00006
+            RC01963  C12142_C19711
+ENZYME      1.14.13.121
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K15472  premnaspirodiene oxygenase [EC:1.14.13.121]
+///

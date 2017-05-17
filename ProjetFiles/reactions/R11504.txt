@@ -1,0 +1,7 @@
+ENTRY       R11504                      Reaction
+NAME        1,2-dihydro-beta-NAD:oxygen oxidoreductase (H2O2-forming)
+DEFINITION  1,2-Dihydro-beta-NAD + H+ + Oxygen <=> NAD+ + Hydrogen peroxide
+EQUATION    C21423 + C00080 + C00007 <=> C00003 + C00027
+RCLASS      RC03455  C00003_C21423
+ENZYME      1.6.3.5
+///

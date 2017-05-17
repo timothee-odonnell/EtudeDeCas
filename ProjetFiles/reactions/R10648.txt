@@ -1,0 +1,10 @@
+ENTRY       R10648                      Reaction
+NAME        L-threonylcarbamoyladenylate:adenine in tRNA N6-L-threonylcarbamoyltransferase
+DEFINITION  L-Threonylcarbamoyladenylate + tRNA adenine <=> AMP + N6-L-Threonylcarbamoyladenine in tRNA
+EQUATION    C20641 + C17324 <=> C00020 + C20751
+RCLASS      RC00070  C00020_C20641
+            RC00416  C17324_C20751
+ENZYME      2.3.1.234
+ORTHOLOGY   K01409  N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+            K15904  bifunctional N6-L-threonylcarbamoyladenine synthase / protein kinase Bud32 [EC:2.3.1.234 2.7.11.1]
+///

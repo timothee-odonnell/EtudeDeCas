@@ -1,0 +1,8 @@
+ENTRY       R01079                      Reaction
+NAME        D-Ribose:NADP+ 1-oxidoreductase
+DEFINITION  D-Ribose + NADP+ + H2O <=> D-Ribonate + NADPH + H+
+EQUATION    C00121 + C00006 + C00001 <=> C01685 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00194  C00121_C01685
+ENZYME      1.1.1.115
+///

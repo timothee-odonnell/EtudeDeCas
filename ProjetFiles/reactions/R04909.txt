@@ -1,0 +1,9 @@
+ENTRY       R04909                      Reaction
+NAME        5-Hydroxykynurenamine decarboxy-lyase
+DEFINITION  5-Hydroxykynurenamine + CO2 <=> 5-Hydroxykynurenine
+EQUATION    C05638 + C00011 <=> C05651
+RCLASS      RC00299  C05638_C05651
+ENZYME      4.1.1.28
+PATHWAY     rn00380  Tryptophan metabolism
+ORTHOLOGY   K01593  aromatic-L-amino-acid decarboxylase [EC:4.1.1.28]
+///

@@ -1,0 +1,8 @@
+ENTRY       R01336                      Reaction
+NAME        carboxymethyloxysuccinate glycolate-lyase (fumarate-forming)
+DEFINITION  Carboxymethyloxysuccinate <=> Fumarate + Glycolate
+EQUATION    C03600 <=> C00122 + C00160
+RCLASS      RC00499  C00122_C03600
+            RC00500  C00160_C03600
+ENZYME      4.2.99.12
+///

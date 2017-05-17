@@ -1,0 +1,7 @@
+ENTRY       R09650                      Reaction
+NAME        L-prolinamide amidohydrolase
+DEFINITION  L-Prolinamide + H2O <=> L-Proline + Ammonia
+EQUATION    C19781 + C00001 <=> C00148 + C00014
+RCLASS      RC02596  C00148_C19781
+ENZYME      3.5.1.101
+///

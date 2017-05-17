@@ -1,0 +1,8 @@
+ENTRY       R06865                      Reaction
+DEFINITION  3-Hexaprenyl-4-hydroxybenzoate + Oxygen <=> 3-Hexaprenyl-4,5-dihydroxybenzoate
+EQUATION    C13425 + C00007 <=> C05200
+COMMENT     enzyme not yet characterized
+RCLASS      RC00046  C05200_C13425
+PATHWAY     rn00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

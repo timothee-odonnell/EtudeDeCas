@@ -1,0 +1,9 @@
+ENTRY       R11090                      Reaction
+NAME        ATP:[protein]-L-arginine N(omega)-phosphotransferase
+DEFINITION  ATP + Protein-L-arginine <=> ADP + Protein N(omega)-phospho-L-arginine
+EQUATION    C00002 + C00613 <=> C00008 + C21101
+RCLASS      RC00002  C00002_C00008
+            RC00203  C00613_C21101
+ENZYME      2.7.14.1
+ORTHOLOGY   K19405  protein arginine kinase [EC:2.7.14.1]
+///

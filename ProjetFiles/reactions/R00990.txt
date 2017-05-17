@@ -1,0 +1,7 @@
+ENTRY       R00990                      Reaction
+NAME        2-Aminobenzoate carboxy-lyase
+DEFINITION  Anthranilate <=> Aniline + CO2
+EQUATION    C00108 <=> C00292 + C00011
+RCLASS      RC00390  C00108_C00292
+ENZYME      4.1.1.24
+///

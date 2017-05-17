@@ -1,0 +1,7 @@
+ENTRY       R11210                      Reaction
+NAME        (-)-yatein,2-oxoglutarate:oxygen oxidoreductase (ring-forming)
+DEFINITION  Dihydroanhydropodorhizol + 2-Oxoglutarate + Oxygen <=> Deoxypodophyllotoxin + Succinate + CO2 + H2O
+EQUATION    C10557 + C00026 + C00007 <=> C10556 + C00042 + C00011 + C00001
+RCLASS      RC03387  C10556_C10557
+ENZYME      1.14.11.50
+///

@@ -1,0 +1,11 @@
+ENTRY       R10883                      Reaction
+NAME        nocardicin-C epimerase
+DEFINITION  Isonocardicin C <=> Nocardicin C
+EQUATION    C17352 <=> C17351
+RCLASS      RC00302  C17351_C17352
+ENZYME      5.1.1.14
+PATHWAY     rn00261  Monobactam biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00736  Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A
+ORTHOLOGY   K19105  nocardicin-A epimerase [EC:5.1.1.14]
+///

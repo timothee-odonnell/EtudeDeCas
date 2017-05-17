@@ -1,0 +1,11 @@
+ENTRY       R03971                      Reaction
+NAME        gamma-glutamyl-beta-aminopropiononitrile amidohydrolase
+DEFINITION  3-Aminopropiononitrile + L-Glutamate <=> gamma-Glutamyl-beta-aminopropiononitrile + H2O
+EQUATION    C05670 + C00025 <=> C06114 + C00001
+RCLASS      RC00090  C00025_C06114
+            RC00096  C05670_C06114
+ENZYME      2.3.2.2
+PATHWAY     rn00460  Cyanoamino acid metabolism
+ORTHOLOGY   K00681  gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+            K18592  gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+///

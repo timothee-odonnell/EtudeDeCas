@@ -1,0 +1,8 @@
+ENTRY       R08707                      Reaction
+NAME        N-linked-glycopeptide-(N-acetyl-beta-D-glucosaminyl)-L-asparagine amidohydrolase
+DEFINITION  4-N-(N-Acetyl-D-glucosaminyl)-protein + H2O <=> N-Acetyl-beta-D-glucosaminylamine + Peptide L-aspartate
+EQUATION    C04375 + C00001 <=> C01239 + C02871
+RCLASS      RC00090  C02871_C04375
+            RC00166  C01239_C04375
+ENZYME      3.5.1.52
+///

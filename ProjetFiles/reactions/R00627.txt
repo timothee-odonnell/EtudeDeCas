@@ -1,0 +1,9 @@
+ENTRY       R00627                      Reaction
+NAME        Acetyl-CoA:alcohol O-acetyltransferase
+DEFINITION  Acetyl-CoA + Alcohol <=> CoA + Acetic ester
+EQUATION    C00024 + C00069 <=> C00010 + C01883
+COMMENT     general reaction
+RCLASS      RC00004  C00010_C00024
+            RC00339  C00069_C01883
+ENZYME      2.3.1.84
+///

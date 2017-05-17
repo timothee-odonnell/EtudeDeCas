@@ -1,0 +1,8 @@
+ENTRY       R04466                      Reaction
+NAME        Acetyl-CoA:heparan-alpha-D-glucosaminide N-acetyltransferase
+DEFINITION  Acetyl-CoA + Heparan sulfate alpha-D-glucosaminide <=> CoA + Heparan sulfate N-acetyl-alpha-D-glucosaminide
+EQUATION    C00024 + C04384 <=> C00010 + C04649
+RCLASS      RC00004  C00010_C00024
+            RC00166  C04384_C04649
+ENZYME      2.3.1.78
+///

@@ -1,0 +1,9 @@
+ENTRY       R02508                      Reaction
+DEFINITION  Cystathionine + Succinate <=> O-Succinyl-L-homoserine + L-Cysteine
+EQUATION    C00542 + C00042 <=> C01118 + C00097
+RCLASS      RC00020  C00042_C01118
+            RC00069  C00097_C00542
+            RC02866  C00542_C01118
+ENZYME      2.5.1.48
+ORTHOLOGY   K01739  cystathionine gamma-synthase [EC:2.5.1.48]
+///

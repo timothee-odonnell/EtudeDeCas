@@ -1,0 +1,10 @@
+ENTRY       R11130                      Reaction
+DEFINITION  3-(Methylthio)propanoyl-CoA + FAD <=> 3-(Methylthio)acryloyl-CoA + FADH2
+EQUATION    C20870 + C00016 <=> C20955 + C01352
+COMMENT     3-(methylthio)propanoyl-CoA dehydrogenase
+RCLASS      RC00126  C00016_C01352
+            RC03363  C20870_C20955
+ENZYME      1.3.8.-
+PATHWAY     rn00920  Sulfur metabolism
+ORTHOLOGY   K20035  3-(methylthio)propanoyl-CoA dehydrogenase [EC:1.3.8.-]
+///

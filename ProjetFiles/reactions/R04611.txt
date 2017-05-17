@@ -1,0 +1,8 @@
+ENTRY       R04611                      Reaction
+NAME        UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine carboxypeptidase
+DEFINITION  UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala) + H2O <=> UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanine + D-Alanine
+EQUATION    C04702 + C00001 <=> C06432 + C00133
+RCLASS      RC00064  C00133_C04702
+            RC00141  C04702_C06432
+ENZYME      3.4.17.8
+///

@@ -1,0 +1,8 @@
+ENTRY       R02837                      Reaction
+NAME        Acetyl-CoA:cortisol O-acetyltransferase
+DEFINITION  Acetyl-CoA + Cortisol <=> CoA + Cortisol 21-acetate
+EQUATION    C00024 + C00735 <=> C00010 + C02821
+RCLASS      RC00004  C00010_C00024
+            RC00041  C00735_C02821
+ENZYME      2.3.1.27
+///

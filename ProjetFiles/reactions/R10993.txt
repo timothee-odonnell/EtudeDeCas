@@ -1,0 +1,14 @@
+ENTRY       R10993                      Reaction
+NAME        L-glutamate:2-aminobutanoate gamma-ligase (ADP-forming)
+DEFINITION  ATP + L-Glutamate + (S)-2-Aminobutanoate <=> ADP + Orthophosphate + gamma-L-Glutamyl-L-2-aminobutyrate
+EQUATION    C00002 + C00025 + C02356 <=> C00008 + C00009 + C21015
+RCLASS      RC00002  C00002_C00008
+            RC00064  C02356_C21015
+            RC00090  C00025_C21015
+ENZYME      6.3.2.2
+PATHWAY     rn00270  Cysteine and methionine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01919  glutamate--cysteine ligase [EC:6.3.2.2]
+            K11204  glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2]
+            K11205  glutamate--cysteine ligase regulatory subunit
+///

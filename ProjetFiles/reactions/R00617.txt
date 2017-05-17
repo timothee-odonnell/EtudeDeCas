@@ -1,0 +1,11 @@
+ENTRY       R00617                      Reaction
+NAME        ATP:thiamin-phosphate phosphotransferase
+DEFINITION  ATP + Thiamin monophosphate <=> ADP + Thiamin diphosphate
+EQUATION    C00002 + C01081 <=> C00008 + C00068
+RCLASS      RC00002  C00002_C00008  C00068_C01081
+ENZYME      2.7.4.16
+PATHWAY     rn00730  Thiamine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00127  Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P
+ORTHOLOGY   K00946  thiamine-monophosphate kinase [EC:2.7.4.16]
+///

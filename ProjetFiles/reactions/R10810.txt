@@ -1,0 +1,8 @@
+ENTRY       R10810                      Reaction
+NAME        beta-1,4-mannobiose 2-epimerase
+DEFINITION  Mannobiose <=> 4-O-beta-D-Mannopyranosyl-D-glucopyranose
+EQUATION    C20861 <=> C20236
+RCLASS      RC00289  C20236_C20861
+ENZYME      5.1.3.11
+ORTHOLOGY   K16213  cellobiose epimerase [EC:5.1.3.11]
+///

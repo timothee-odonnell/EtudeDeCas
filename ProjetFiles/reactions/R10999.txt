@@ -1,0 +1,8 @@
+ENTRY       R10999                      Reaction
+NAME        oleoyl-CoA,NADPH:O2 oxidoreductase (omega-hydroxylating)
+DEFINITION  Oleoyl-CoA + NADPH + H+ + Oxygen <=> 18-Hydroxyoleoyl-CoA + NADP+ + H2O
+EQUATION    C00510 + C00005 + C00080 + C00007 <=> C21005 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00797  C00510_C21005
+ENZYME      1.14.13.204
+///

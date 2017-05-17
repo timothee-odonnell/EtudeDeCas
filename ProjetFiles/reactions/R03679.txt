@@ -1,0 +1,8 @@
+ENTRY       R03679                      Reaction
+NAME        UDP-alpha-D-galactose:galactogen 6-beta-D-galactosyltransferase
+DEFINITION  UDP-alpha-D-galactose + Galactogen <=> UDP + (1->6)-beta-D-Galactosylgalactogen
+EQUATION    C00052 + C01698 <=> C00015 + C04034
+RCLASS      RC00005  C00015_C00052
+            RC00059  C01698_C04034
+ENZYME      2.4.1.205
+///

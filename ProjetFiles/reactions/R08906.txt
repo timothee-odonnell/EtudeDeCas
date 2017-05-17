@@ -1,0 +1,12 @@
+ENTRY       R08906                      Reaction
+NAME        L-glutamate:4-aminobutyryl-[acp] ligase (ADP-forming)
+DEFINITION  ATP + L-Glutamate + 4-Aminobutyryl-[acp] <=> ADP + Orthophosphate + 4-(gamma-L-Glutamylamino)butanoyl-[acp]
+EQUATION    C00002 + C00025 + C18007 <=> C00008 + C00009 + C18008
+RCLASS      RC00002  C00002_C00008
+            RC00090  C00025_C18008
+            RC00096  C18007_C18008
+ENZYME      6.2.1.39
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K13559  [BtrI acyl-carrier protein]--L-glutamate ligase [EC:6.2.1.39]
+///

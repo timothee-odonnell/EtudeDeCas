@@ -1,0 +1,8 @@
+ENTRY       R01050                      Reaction
+NAME        ATP:D-ribose-5-phosphate 1-phosphotransferase
+DEFINITION  ATP + D-Ribose 5-phosphate <=> ADP + D-Ribose 1,5-bisphosphate
+EQUATION    C00002 + C00117 <=> C00008 + C01151
+RCLASS      RC00002  C00002_C00008
+            RC00078  C00117_C01151
+ENZYME      2.7.1.18
+///

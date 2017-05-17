@@ -1,0 +1,7 @@
+ENTRY       R11214                      Reaction
+NAME        6-deoxy-6-sulfo-D-gluconate hydro-lyase (2-dehydro-3,6-dideoxy-6-sulfo-D-gluconate-forming)
+DEFINITION  6-Deoxy-6-sulfo-D-gluconate <=> 2-Dehydro-3,6-dideoxy-6-sulfo-D-gluconate + H2O
+EQUATION    C21182 <=> C21180 + C00001
+RCLASS      RC00543  C21180_C21182
+ENZYME      4.2.1.162
+///

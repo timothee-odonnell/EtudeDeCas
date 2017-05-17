@@ -1,0 +1,8 @@
+ENTRY       R01493                      Reaction
+NAME        N-Acylsphingosine amidohydrolase
+DEFINITION  N-Acylsphingosine + H2O <=> Carboxylate + Sphingosine
+EQUATION    C00195 + C00001 <=> C00060 + C00319
+RCLASS      RC00064  C00195_C00319
+            RC00328  C00060_C00195
+ENZYME      3.5.1.23
+///

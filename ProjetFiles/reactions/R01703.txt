@@ -1,0 +1,7 @@
+ENTRY       R01703                      Reaction
+NAME        Hexadecanoate:hydrogen-peroxide oxidoreductase
+DEFINITION  Hexadecanoic acid + 2 Hydrogen peroxide <=> Pentadecanal + CO2 + 3 H2O
+EQUATION    C00249 + 2 C00027 <=> C01948 + C00011 + 3 C00001
+RCLASS      RC00584  C00249_C01948
+ENZYME      1.11.1.3
+///

@@ -1,0 +1,10 @@
+ENTRY       R03594                      Reaction
+NAME        UDPglucose:scopoletin O-beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Scopoletin <=> UDP + Scopolin
+EQUATION    C00029 + C01752 <=> C00015 + C01527
+RCLASS      RC00005  C00015_C00029
+            RC00171  C01527_C01752
+ENZYME      2.4.1.128
+PATHWAY     rn00940  Phenylpropanoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

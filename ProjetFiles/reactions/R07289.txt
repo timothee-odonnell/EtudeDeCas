@@ -1,0 +1,8 @@
+ENTRY       R07289                      Reaction
+NAME        3'-phosphoadenylyl-sulfate:glycochenodeoxycholate 7-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Glycochenodeoxycholate <=> Adenosine 3',5'-bisphosphate + Glycochenodeoxycholate 7-sulfate
+EQUATION    C00053 + C05466 <=> C00054 + C15559
+RCLASS      RC00007  C00053_C00054
+            RC00231  C05466_C15559
+ENZYME      2.8.2.34
+///

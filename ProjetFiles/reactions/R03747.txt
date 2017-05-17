@@ -1,0 +1,7 @@
+ENTRY       R03747                      Reaction
+NAME        3-Oxododecanoate carboxy-lyase
+DEFINITION  3-Oxododecanoic acid <=> 2-Undecanone + CO2
+EQUATION    C02367 <=> C01875 + C00011
+RCLASS      RC00040  C01875_C02367
+ENZYME      4.1.1.56
+///

@@ -1,0 +1,7 @@
+ENTRY       R00272                      Reaction
+NAME        2-Oxoglutarate carboxy-lyase
+DEFINITION  2-Oxoglutarate <=> Succinate semialdehyde + CO2
+EQUATION    C00026 <=> C00232 + C00011
+RCLASS      RC00506  C00026_C00232
+ENZYME      4.1.1.71
+///

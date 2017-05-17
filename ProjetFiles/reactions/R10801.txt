@@ -1,0 +1,8 @@
+ENTRY       R10801                      Reaction
+NAME        dihydrochelirubine:NADP+ oxidoreductase
+DEFINITION  Dihydrochelirubine + NADP+ <=> Chelirubine + NADPH + H+
+EQUATION    C05194 + C00006 <=> C06327 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC01204  C05194_C06327
+ENZYME      1.3.1.107
+///

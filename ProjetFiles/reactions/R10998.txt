@@ -1,0 +1,10 @@
+ENTRY       R10998                      Reaction
+NAME        propanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-propanoyltransferase
+DEFINITION  Propanoyl-CoA + Enzyme N6-(dihydrolipoyl)lysine <=> CoA + Enzyme N6-(S-propyldihydrolipoyl)lysine
+EQUATION    C00100 + C15973 <=> C00010 + C21018
+RCLASS      RC00004  C00010_C00100  C15973_C21018
+            RC02727  C00100_C21018
+ENZYME      2.3.1.168
+PATHWAY     rn00640  Propanoate metabolism
+ORTHOLOGY   K09699  2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) [EC:2.3.1.168]
+///

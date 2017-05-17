@@ -1,0 +1,8 @@
+ENTRY       R03907                      Reaction
+NAME        Latia-luciferin, hydrogen-donor:oxygen oxidoreductase (demethylating)
+DEFINITION  Latia luciferin + Reduced acceptor + 2 Oxygen <=> Oxidized Latia luciferin + hn + Formate + Acceptor + CO2 + H2O
+EQUATION    C02293 + C00030 + 2 C00007 <=> C03527 + C00205 + C00058 + C00028 + C00011 + C00001
+RCLASS      RC01023  C02293_C03527
+            RC02473  C00058_C02293
+ENZYME      1.14.99.21
+///

@@ -1,0 +1,9 @@
+ENTRY       R10903                      Reaction
+DEFINITION  Nocardicin G <=> Nocardicin E
+EQUATION    C17355 <=> C01739
+COMMENT     unclear reaction
+RCLASS      RC03299  C01739_C17355
+PATHWAY     rn00261  Monobactam biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00736  Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A
+///

@@ -1,0 +1,8 @@
+ENTRY       R11206                      Reaction
+NAME        3-(3,4-dihydroxyphenyl)propanoyl-CoA:(2E)-3-(3,4-dihydroxyphenyl)prop-2-enoate CoA-transferase
+DEFINITION  Dihydrocaffeoyl-CoA + Caffeate <=> 3,4-Dihydroxyphenylpropanoate + Caffeoyl-CoA
+EQUATION    C21175 + C01197 <=> C10447 + C00323
+RCLASS      RC00014  C10447_C21175
+            RC00131  C00323_C01197
+ENZYME      2.8.3.23
+///

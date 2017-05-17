@@ -1,0 +1,8 @@
+ENTRY       R04714                      Reaction
+NAME        S-Adenosyl-L-methionine:6-O-methylnorlaudanosoline 5'-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 6-O-Methylnorlaudanosoline <=> S-Adenosyl-L-homocysteine + Nororientaline + H+
+EQUATION    C00019 + C05203 <=> C00021 + C05317 + C00080
+RCLASS      RC00003  C00019_C00021
+            RC00392  C05203_C05317
+ENZYME      2.1.1.121
+///

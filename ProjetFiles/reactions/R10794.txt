@@ -1,0 +1,8 @@
+ENTRY       R10794                      Reaction
+NAME        monacolin L acid,NADPH:oxygen oxidoreductase (8-hydroxylating)
+DEFINITION  Monacolin L acid + Oxygen + NADPH + H+ <=> Monacolin J acid + NADP+ + H2O
+EQUATION    C20853 + C00007 + C00005 + C00080 <=> C20854 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00661  C20853_C20854
+ENZYME      1.14.13.198
+///

@@ -1,0 +1,36 @@
+ENTRY       G00393                      Glycan
+NAME        PA5
+COMPOSITION (Gal)2 (GlcNAc)4 (Man)3 (Neu5Ac)1
+MASS        1932.8
+REACTION    R05905
+ENZYME      2.4.99.1
+ORTHOLOGY   K00778  beta-galactoside alpha-2,6-sialyltransferase (sialyltransferase 1) [EC:2.4.99.1]
+REFERENCE   1  [PMID:11388471]
+            Seok JS, Shimoda M, Azuma N, Kanno C.
+            Structures of the N-linked sugar chains in PAS-7 glycoprotein sharing the same protein core with PAS-6 glycoprotein from the bovine milk fat globule membrane.
+            Biosci. Biotechnol. Biochem. 65 (2001) 901-12.
+DBLINKS     CCSD: 1720 1724 2869 3861 3863 7104 8115 8117 8118 8119 8121 8124 11308 11322 12138 22197 23767 24006 24926 34717 38506 39497 40706 41966 41994 42189 46754
+            GlycomeDB: 17485
+            JCGGDB: JCGG-STR008047
+NODE        10
+            1   GlcNAc     25     0
+            2   GlcNAc     16     0
+            3   Man         7     0
+            4   Man        -1     5
+            5   Man        -1    -5
+            6   GlcNAc    -10     5
+            7   GlcNAc    -10    -5
+            8   Gal       -18     5
+            9   Gal       -18    -5
+            10  Neu5Ac    -26    -5
+EDGE        9
+            1     2:b1    1:4  
+            2     3:b1    2:4  
+            3     4:a1    3:6  
+            4     5:a1    3:3  
+            5     6:b1    4:2  
+            6     7:b1    5:2  
+            7     8:b1    6:4  
+            8     9:b1    7:4  
+            9    10:a2    9:6  
+///

@@ -1,0 +1,8 @@
+ENTRY       R06372                      Reaction
+NAME        carvone reductase
+DEFINITION  (+)-(S)-Carvone + Reduced acceptor <=> (1R,4S)-Iso-dihydrocarvone + Acceptor
+EQUATION    C11383 + C00030 <=> C11412 + C00028
+RCLASS      RC01501  C11383_C11412
+ENZYME      1.3.99.25
+PATHWAY     rn00903  Limonene and pinene degradation
+///

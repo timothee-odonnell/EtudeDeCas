@@ -1,0 +1,8 @@
+ENTRY       R10757                      Reaction
+NAME        all-trans-polyprenyl-diphosphate:1,4-dihydroxy-2-naphthoate polyprenyltransferase
+DEFINITION  all-trans-Polyprenyl diphosphate + 1,4-Dihydroxy-2-naphthoate <=> Demethylmenaquinol + Diphosphate + CO2
+EQUATION    C05847 + C03657 <=> C19847 + C00013 + C00011
+RCLASS      RC03264  C03657_C19847
+ENZYME      2.5.1.74
+ORTHOLOGY   K02548  1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]
+///

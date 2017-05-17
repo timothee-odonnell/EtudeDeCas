@@ -1,0 +1,11 @@
+ENTRY       R08035                      Reaction
+DEFINITION  2,4-Diamino-6-hydroxylaminotoluene <=> 2,4,6-Triaminotoluene
+EQUATION    C16399 <=> C16400
+COMMENT     dissimilatory sulfite reductase
+RCLASS      RC01760  C16399_C16400
+ENZYME      1.8.99.5
+PATHWAY     rn00633  Nitrotoluene degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K11180  dissimilatory sulfite reductase alpha subunit [EC:1.8.99.5]
+            K11181  dissimilatory sulfite reductase beta subunit [EC:1.8.99.5]
+///

@@ -1,0 +1,11 @@
+ENTRY       R10457                      Reaction
+NAME        dimethylallyl-diphosphate:12alpha,13alpha-dihydroxyfumitremorgin C dimethylallyl-N-1-transferase
+DEFINITION  Dimethylallyl diphosphate + 12alpha,13alpha-Dihydroxyfumitremorgin C <=> Diphosphate + Fumitremorgin B
+EQUATION    C00235 + C20605 <=> C00013 + C20630
+RCLASS      RC00829  C20605_C20630
+ENZYME      2.5.1.110
+PATHWAY     rn00404  Staurosporine biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00786  Fumitremorgin alkaloid biosynthesis, tryptophan + proline => fumitremorgin C/A
+ORTHOLOGY   K14134  12alpha,13alpha-dihydroxyfumitremorgin C prenyltransferase [EC:2.5.1.110]
+///

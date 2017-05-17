@@ -1,0 +1,8 @@
+ENTRY       R04935                      Reaction
+NAME        (5-L-glutamyl)-peptide:Se-Methylselenocysteine 5-glutamyltransferase
+DEFINITION  (5-L-Glutamyl)-peptide + Se-Methyl-L-selenocysteine <=> Peptide + gamma-Glutamyl-Se-methylselenocysteine
+EQUATION    C03193 + C05689 <=> C00012 + C05695
+RCLASS      RC00064  C00012_C03193  C05689_C05695
+ENZYME      2.3.2.2
+ORTHOLOGY   K00681  gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+///

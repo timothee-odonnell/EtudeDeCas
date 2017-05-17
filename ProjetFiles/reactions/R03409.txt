@@ -1,0 +1,10 @@
+ENTRY       R03409                      Reaction
+NAME        guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase
+DEFINITION  Guanosine 3'-diphosphate 5'-triphosphate + H2O <=> Guanosine 3',5'-bis(diphosphate) + Orthophosphate
+EQUATION    C04494 + C00001 <=> C01228 + C00009
+RCLASS      RC00002  C01228_C04494
+ENZYME      3.6.1.11        3.6.1.40
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K01514  exopolyphosphatase [EC:3.6.1.11]
+            K01524  exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]
+///

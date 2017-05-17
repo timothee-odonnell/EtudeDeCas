@@ -1,0 +1,7 @@
+ENTRY       R08529                      Reaction
+NAME        Monoterpenyl-diphosphate pyrophosphohydrolase
+DEFINITION  (+)-Bornyl diphosphate + H2O <=> (+)-Borneol + Diphosphate
+EQUATION    C03190 + C00001 <=> C01765 + C00013
+RCLASS      RC00078  C01765_C03190
+ENZYME      3.1.7.3
+///

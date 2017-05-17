@@ -1,0 +1,7 @@
+ENTRY       R10763                      Reaction
+NAME        geranylgeranyl-diphosphate diphosphate-lyase (cyclooctat-9-en-7-ol-forming)
+DEFINITION  Geranylgeranyl diphosphate + H2O <=> Cyclooctat-9-en-7-ol + Diphosphate
+EQUATION    C00353 + C00001 <=> C20834 + C00013
+RCLASS      RC03272  C00353_C20834
+ENZYME      4.2.3.146
+///

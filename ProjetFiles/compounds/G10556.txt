@@ -1,0 +1,19 @@
+ENTRY       G10556                      Glycan
+COMPOSITION (MurNAc)1 (D-Ala-D-Ala-A2pm-gamma-D-Glu-Ala)1 (PP-Und)1
+REMARK      Same as: C05897
+REACTION    R06174
+ENZYME      2.4.1.227
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0303 Bactoprenol diphosphates
+                C05897  Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+DBLINKS     GlycomeDB: 34079
+NODE        3
+            1   PP-Und     14     0
+            2   MurNAc      4     0
+            3   D-Ala-D-Ala-A2pm-gamma-D-Glu-Ala   -15     0
+EDGE        2
+            1     2:a1    1    
+            2     3       2:3  
+///

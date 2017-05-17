@@ -1,0 +1,12 @@
+ENTRY       R01526                      Reaction
+NAME        ATP:D-ribulose 5-phosphotransferase
+DEFINITION  ATP + D-Ribulose <=> ADP + D-Ribulose 5-phosphate
+EQUATION    C00002 + C00309 <=> C00008 + C00199
+RCLASS      RC00002  C00002_C00008
+            RC00538  C00199_C00309
+ENZYME      2.7.1.16        2.7.1.47
+PATHWAY     rn00040  Pentose and glucuronate interconversions
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00853  L-ribulokinase [EC:2.7.1.16]
+            K00875  D-ribulokinase [EC:2.7.1.47]
+///

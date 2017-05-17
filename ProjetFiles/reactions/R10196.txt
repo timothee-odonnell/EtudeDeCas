@@ -1,0 +1,8 @@
+ENTRY       R10196                      Reaction
+DEFINITION  S-Adenosyl-L-methionine + 3-Methyl-1,2-didehydro-2,3-dihydrobotryococcene <=> S-Adenosyl-L-homocysteine + 3,20-Dimethyl-1,2,21,22-tetradehydro-2,3,20,21-tetrahydrobotryococcene
+EQUATION    C00019 + C20433 <=> C00021 + C20435
+COMMENT     second step of two-step reaction (see R10199, R10195+R10196)
+RCLASS      RC00003  C00019_C00021
+            RC02680  C20433_C20435
+ENZYME      2.1.1.263
+///

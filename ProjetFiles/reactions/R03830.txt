@@ -1,0 +1,7 @@
+ENTRY       R03830                      Reaction
+NAME        (S)-2-haloacid halidohydrolase
+DEFINITION  (S)-2-Haloacid + H2O <=> (R)-2-Hydroxyacid + Halide
+EQUATION    C02103 + C00001 <=> C02489 + C00462
+RCLASS      RC01005  C02103_C02489
+ENZYME      3.8.1.2         3.8.1.10
+///

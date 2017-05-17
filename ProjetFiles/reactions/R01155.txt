@@ -1,0 +1,11 @@
+ENTRY       R01155                      Reaction
+NAME        putrescine:2-oxoglutarate aminotransferase
+DEFINITION  Putrescine + 2-Oxoglutarate <=> 4-Aminobutyraldehyde + L-Glutamate
+EQUATION    C00134 + C00026 <=> C00555 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC00062  C00134_C00555
+ENZYME      2.6.1.29        2.6.1.82
+PATHWAY     rn00330  Arginine and proline metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K09251  putrescine aminotransferase [EC:2.6.1.82]
+///

@@ -1,0 +1,9 @@
+ENTRY       R09908                      Reaction
+NAME        (3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, achilleol-B-forming)
+DEFINITION  (S)-2,3-Epoxysqualene <=> Achilleol B
+EQUATION    C01054 <=> C20187
+RCLASS      RC02710  C01054_C20187
+ENZYME      5.4.99.48
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+ORTHOLOGY   K19011  achilleol B synthase [EC:5.4.99.48]
+///

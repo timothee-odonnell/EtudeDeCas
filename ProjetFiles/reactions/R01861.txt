@@ -1,0 +1,9 @@
+ENTRY       R01861                      Reaction
+NAME        3'-Phosphoadenylyl-sulfate:benzenamine N-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Aniline <=> Adenosine 3',5'-bisphosphate + Benzenamine sulfate
+EQUATION    C00053 + C00292 <=> C00054 + C06011
+RCLASS      RC00007  C00053_C00054
+            RC00610  C00292_C06011
+ENZYME      2.8.2.3
+ORTHOLOGY   K16949  amine sulfotransferase [EC:2.8.2.3]
+///

@@ -1,0 +1,10 @@
+ENTRY       R11245                      Reaction
+DEFINITION  1-epi-Valienol 7-phosphate <=> 1,7-diphospho-1-epi-valienol
+EQUATION    C21205 <=> C21206
+COMMENT     unclear reaction
+RCLASS      RC00078  C21205_C21206
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00814  Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose
+ORTHOLOGY   K20426  1-epi-valienol-7-phosphate kinase [EC:2.7.-.-]
+///

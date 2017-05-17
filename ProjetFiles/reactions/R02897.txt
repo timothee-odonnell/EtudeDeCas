@@ -1,0 +1,10 @@
+ENTRY       R02897                      Reaction
+NAME        UDPglucose:flavanone 7-O-beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Naringenin <=> UDP + Naringenin 7-O-beta-D-glucoside
+EQUATION    C00029 + C00509 <=> C00015 + C09099
+COMMENT     flavanone 7-O-beta-glucosyltransferase
+RCLASS      RC00005  C00015_C00029
+            RC00171  C00509_C09099
+ENZYME      2.4.1.185
+PATHWAY     rn00941  Flavonoid biosynthesis
+///

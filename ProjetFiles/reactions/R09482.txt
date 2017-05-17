@@ -1,0 +1,7 @@
+ENTRY       R09482                      Reaction
+NAME        malonyl-[acyl-carrier-protein] carboxy-lyase
+DEFINITION  Malonyl-[acyl-carrier protein] <=> Acetyl-[acyl-carrier protein] + CO2
+EQUATION    C01209 <=> C03939 + C00011
+RCLASS      RC00040  C01209_C03939
+ENZYME      4.1.1.87
+///

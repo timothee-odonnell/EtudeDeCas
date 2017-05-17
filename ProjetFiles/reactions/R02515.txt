@@ -1,0 +1,9 @@
+ENTRY       R02515                      Reaction
+NAME        3-hydroxyphenylacetate,NADH:oxygen oxidoreductase (6-hydroxylating)
+DEFINITION  3-Hydroxyphenylacetate + Oxygen + NADH + H+ <=> Homogentisate + NAD+ + H2O
+EQUATION    C05593 + C00007 + C00004 + C00080 <=> C00544 + C00003 + C00001
+COMMENT     NADPH (see R02517)
+RCLASS      RC00001  C00003_C00004
+            RC00046  C00544_C05593
+ENZYME      1.14.13.63
+///

@@ -1,0 +1,11 @@
+ENTRY       G11109                      Glycan
+NAME        ADP-glucose;
+            Adenosine diphosphoglucose
+COMPOSITION (ADP-Glc)1
+REMARK      Same as: C00498
+REACTION    R06049
+ENZYME      2.4.1.21
+NODE        1
+            1   ADP-Glc  -0.2  -0.1
+EDGE        0
+///

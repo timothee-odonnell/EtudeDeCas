@@ -1,0 +1,7 @@
+ENTRY       R03475                      Reaction
+NAME        1-acyl-2-oleoyl-sn-glycero-3-phosphocholine:NAD+ delta12-oxidoreductase
+DEFINITION  1-Acyl-2-oleoyl-sn-glycero-3-phosphocholine + NAD+ <=> 1-Acyl-2-linoleoyl-sn-glycero-3-phosphocholine + NADH + H+
+EQUATION    C01282 + C00003 <=> C04636 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00917  C01282_C04636
+///

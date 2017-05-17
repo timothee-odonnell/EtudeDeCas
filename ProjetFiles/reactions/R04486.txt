@@ -1,0 +1,9 @@
+ENTRY       R04486                      Reaction
+NAME        Glycodeoxycholate amidohydrolase
+DEFINITION  Glycodeoxycholate + H2O <=> Deoxycholic acid + Glycine
+EQUATION    C05464 + C00001 <=> C04483 + C00037
+RCLASS      RC00090  C04483_C05464
+            RC00096  C00037_C05464
+ENZYME      3.5.1.24
+ORTHOLOGY   K01442  choloylglycine hydrolase [EC:3.5.1.24]
+///

@@ -1,0 +1,16 @@
+ENTRY       R11282                      Reaction
+NAME        UDP-N-acetyl-alpha-D-glucosamine:5-ribosylparomamine N-acetyl-D-glucosaminyltransferase
+DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + 5-Ribosylparomamine <=> UDP + 2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II
+EQUATION    C00043 + C18002 <=> C00015 + C21261
+COMMENT     deduced reaction
+RCLASS      RC00005  C00015_C00043
+            RC00049  C18002_C21261
+ENZYME      2.4.1.-
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20582  N-acetylglucosaminyltransferase [EC:2.4.1.-]
+REFERENCE   1  [PMID:21689223]
+            Clausnitzer D, Piepersberg W, Wehmeier UF
+            The oxidoreductases LivQ and NeoQ are responsible for the different 6'-modifications in the aminoglycosides lividomycin and neomycin.
+            J. Appl. Microbiol. 111 (2011) 642-51.
+///

@@ -1,0 +1,8 @@
+ENTRY       R08411                      Reaction
+DEFINITION  L-Leucine <=> 3-Methylbutanoic acid
+EQUATION    C00123 <=> C08262
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC02156  C00123_C08262
+PATHWAY     rn01110  Biosynthesis of secondary metabolites
+///

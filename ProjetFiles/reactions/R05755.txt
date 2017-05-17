@@ -1,0 +1,7 @@
+ENTRY       R05755                      Reaction
+NAME        S-adenosyl-L-methionine:arsenite As-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Arsenite <=> S-Adenosyl-L-homocysteine + Methylarsonate
+EQUATION    C00019 + C06697 <=> C00021 + C07294
+RCLASS      RC00003  C00019_C00021
+ENZYME      2.1.1.137
+///

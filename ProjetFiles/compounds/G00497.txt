@@ -1,0 +1,25 @@
+ENTRY       G00497                      Glycan
+NAME        Ga2-Cer
+COMPOSITION (Gal)2 (Cer)1
+MASS        324.3 (Cer)
+REMARK      Same as: C06126
+REACTION    R06094 R06122 R06234
+ENZYME      2.4.1.-         2.8.2.11        3.2.1.22
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0509 Gal- (Gala series)
+                G00497  Gal-alpha1->4Gal-beta1->1'Cer
+DBLINKS     CCSD: 27 29 8578 10248 11256 15724 16335 27666 27669 32047 33463 34193 35727 35949 36154 42729 44105 46808 47758 47973
+            GlycomeDB: 587
+            JCGGDB: JCGG-STR026896
+            LipidBank: GSG1148
+            GlycoEpitope: EP0113
+NODE        3
+            1   Cer        10     0
+            2   Gal         0     0
+            3   Gal       -10     0
+EDGE        2
+            1     2:b1    1:1  
+            2     3:a1    2:4  
+///

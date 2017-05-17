@@ -1,0 +1,5 @@
+ENTRY       R11573                      Reaction
+DEFINITION  5,10-Dihydrophenazine + Oxygen <=> Phenazine + Hydrogen peroxide
+EQUATION    C21475 + C00007 <=> C21476 + C00027
+COMMENT     spontaneous
+///

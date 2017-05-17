@@ -1,0 +1,8 @@
+ENTRY       R11054                      Reaction
+NAME        dodecanoate,NADPH:oxygen oxidoreductase (7-hydroxylating)
+DEFINITION  Dodecanoic acid + NADPH + H+ + Oxygen <=> 7-Hydroxydodecanoate + NADP+ + H2O
+EQUATION    C02679 + C00005 + C00080 + C00007 <=> C21080 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00709  C02679_C21080
+ENZYME      1.14.13.206
+///

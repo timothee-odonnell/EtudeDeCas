@@ -1,0 +1,7 @@
+ENTRY       R09963                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase [cyclizing, (+)-car-3-ene-forming]
+DEFINITION  Geranyl diphosphate <=> (+)-3-Carene + Diphosphate
+EQUATION    C00341 <=> C11382 + C00013
+RCLASS      RC02789  C00341_C11382
+ENZYME      4.2.3.107
+///

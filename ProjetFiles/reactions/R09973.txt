@@ -1,0 +1,7 @@
+ENTRY       R09973                      Reaction
+NAME        (E)-2-methylgeranyl-diphosphate diphosphate-lyase (cyclizing, 2-methylisoborneol-forming)
+DEFINITION  (E)-2-Methylgeranyl diphosphate + H2O <=> 2-Methylisoborneol + Diphosphate
+EQUATION    C20235 + C00001 <=> C20243 + C00013
+RCLASS      RC02765  C20235_C20243
+ENZYME      4.2.3.118
+///

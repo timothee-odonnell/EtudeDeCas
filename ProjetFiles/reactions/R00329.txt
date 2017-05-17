@@ -1,0 +1,6 @@
+ENTRY       R00329                      Reaction
+NAME        Nucleoside-diphosphate phosphohydrolase
+DEFINITION  NDP + H2O <=> Nucleotide + Orthophosphate
+EQUATION    C00454 + C00001 <=> C00215 + C00009
+ENZYME      3.6.1.6
+///

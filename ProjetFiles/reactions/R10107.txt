@@ -1,0 +1,11 @@
+ENTRY       R10107                      Reaction
+DEFINITION  L-Arginine + Oxygen + NADH + H+ <=> N(omega)-Hydroxyarginine + NAD+ + H2O
+EQUATION    C00062 + C00007 + C00004 + C00080 <=> C05933 + C00003 + C00001
+COMMENT     the former part of multi-step reaction (see R10106, R10107+R10108)
+            NADPH (see R00558)
+RCLASS      RC00001  C00003_C00004
+            RC00330  C00062_C05933
+ENZYME      1.14.13.165
+PATHWAY     rn00330  Arginine and proline metabolism
+ORTHOLOGY   K00491  nitric-oxide synthase, bacterial [EC:1.14.13.165]
+///

@@ -1,0 +1,9 @@
+ENTRY       R09237                      Reaction
+DEFINITION  2,4,5-Trihydroxytoluene + Oxygen <=> cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate
+EQUATION    C18317 + C00007 <=> C18318
+COMMENT     trihydroxytoluene oxygenase
+RCLASS      RC00643  C18317_C18318
+ENZYME      1.13.11.-
+PATHWAY     rn00633  Nitrotoluene degradation
+            rn01120  Microbial metabolism in diverse environments
+///

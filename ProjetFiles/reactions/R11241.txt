@@ -1,0 +1,10 @@
+ENTRY       R11241                      Reaction
+DEFINITION  Validoxylamine A + UDP-glucose <=> Validamycin A + UDP
+EQUATION    C17700 + C00029 <=> C12112 + C00015
+RCLASS      RC00049  C12112_C17700
+ENZYME      2.4.1.338
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20438  validoxylamine A glucosyltransferase [EC:2.4.1.338]
+///

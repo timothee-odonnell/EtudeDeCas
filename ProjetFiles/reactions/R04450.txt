@@ -1,0 +1,8 @@
+ENTRY       R04450                      Reaction
+NAME        [Citrate-(pro-3S)-lyase](acetyl-form) hydrolase
+DEFINITION  Citrate (pro-3S)-lyase (acetyl form) + H2O <=> Citrate (pro-3S)-lyase (thiol form) + Acetate
+EQUATION    C04334 + C00001 <=> C04298 + C00033
+RCLASS      RC00012  C00033_C04334
+            RC00039  C04298_C04334
+ENZYME      3.1.2.16
+///

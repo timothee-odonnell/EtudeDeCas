@@ -1,0 +1,8 @@
+ENTRY       R01589                      Reaction
+NAME        Methylguanidine amidinohydrolase
+DEFINITION  Methylguanidine + H2O <=> Methylamine + Urea
+EQUATION    C02294 + C00001 <=> C00218 + C00086
+RCLASS      RC00329  C00086_C02294
+            RC00558  C00218_C02294
+ENZYME      3.5.3.16
+///

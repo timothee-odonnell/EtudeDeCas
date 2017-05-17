@@ -1,0 +1,8 @@
+ENTRY       R04421                      Reaction
+NAME        S-Adenosyl-L-methionine:N-benzoyl-4-O-hydroxyanthranilate 4-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + N-Benzoyl-4-hydroxyanthranilate <=> S-Adenosyl-L-homocysteine + N-Benzoyl-4-methoxyanthranilate
+EQUATION    C00019 + C04207 <=> C00021 + C04208
+RCLASS      RC00003  C00019_C00021
+            RC00392  C04207_C04208
+ENZYME      2.1.1.105
+///

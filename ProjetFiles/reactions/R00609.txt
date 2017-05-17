@@ -1,0 +1,10 @@
+ENTRY       R00609                      Reaction
+NAME        N-methyl-L-glutamate:acceptor oxidoreductase (demethylating)
+DEFINITION  N-Methyl-L-glutamate + Acceptor + H2O <=> L-Glutamate + Formaldehyde + Reduced acceptor
+EQUATION    C01046 + C00028 + C00001 <=> C00025 + C00067 + C00030
+RCLASS      RC00190  C00025_C01046
+            RC00557  C00067_C01046
+ENZYME      1.5.99.5
+PATHWAY     rn00680  Methane metabolism
+            rn01120  Microbial metabolism in diverse environments
+///

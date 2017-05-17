@@ -1,0 +1,20 @@
+ENTRY       G10545                      Glycan
+NAME        Starch;
+            Dextrin
+COMPOSITION (Glc)1 (*)2
+REMARK      Same as: C00369 C00721 C03018 D00084 D06507
+REACTION    R06157 R06158 R06185 R06186 R06199 R06209
+ENZYME      2.4.1.1         2.4.1.18        3.2.1.1         3.2.1.2         
+            3.2.1.3         3.2.1.10        3.2.1.33        3.2.1.123
+DBLINKS     GlycomeDB: 33452
+NODE        3
+            1   *        10.2   0.5
+            2   Glc       0.2   0.5
+            3   *        -9.8   0.5
+EDGE        2
+            1     2       1    
+            2     3       2    
+BRACKET     1  -4.8   3.5  -4.8  -2.5
+            1   5.2  -2.5   5.2   3.5
+            1 n
+///

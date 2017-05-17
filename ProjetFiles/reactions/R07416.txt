@@ -1,0 +1,10 @@
+ENTRY       R07416                      Reaction
+NAME        N-Methylanthranilate:CoA ligase (AMP-forming)
+DEFINITION  ATP + N-Methylanthranilate + CoA <=> AMP + Diphosphate + N-Methylanthraniloyl-CoA
+EQUATION    C00002 + C03005 + C00010 <=> C00020 + C00013 + C12092
+RCLASS      RC00004  C00010_C12092
+            RC00174  C03005_C12092
+ENZYME      6.2.1.32
+PATHWAY     rn01058  Acridone alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

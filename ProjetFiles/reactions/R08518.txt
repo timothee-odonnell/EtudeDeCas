@@ -1,0 +1,11 @@
+ENTRY       R08518                      Reaction
+NAME        17alpha-hydroxyprogesterone,NADPH---hemoprotein reductase:oxygen oxidoreductase (17alpha-hydroxylating, acetate-releasing)
+DEFINITION  17alpha-Hydroxyprogesterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Androstenedione + Acetate + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C01176 + C03024 + C00007 <=> C00280 + C00033 + C03161 + C00001
+COMMENT     17alpha-hydroxylase/17,20-lyase
+RCLASS      RC00607  C00280_C01176
+            RC00923  C00033_C01176
+ENZYME      1.14.14.32
+PATHWAY     rn00140  Steroid hormone biosynthesis
+ORTHOLOGY   K00512  steroid 17alpha-monooxygenase / 17alpha-hydroxyprogesterone deacetylase [EC:1.14.14.19 1.14.14.32]
+///

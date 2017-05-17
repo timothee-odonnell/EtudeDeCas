@@ -1,0 +1,9 @@
+ENTRY       R04046                      Reaction
+NAME        NADH:N-hydroxy-2-acetamidofluorene N-oxidoreductase
+DEFINITION  2-Acetamidofluorene + NAD+ + H2O <=> N-Hydroxy-2-acetamidofluorene + NADH + H+
+EQUATION    C02778 + C00003 + C00001 <=> C03954 + C00004 + C00080
+COMMENT     see R04047 (NADPH)
+RCLASS      RC00001  C00003_C00004
+            RC00245  C02778_C03954
+ENZYME      1.7.1.12
+///

@@ -1,0 +1,7 @@
+ENTRY       R09610                      Reaction
+NAME        (2Z,6E)-farnesyl-diphosphate diphosphate-lyase [(-)-gamma-cadinene-forming]
+DEFINITION  2-cis,6-trans-Farnesyl diphosphate <=> (-)-gamma-Cadinene + Diphosphate
+EQUATION    C16826 <=> C19738 + C00013
+RCLASS      RC02580  C16826_C19738
+ENZYME      4.2.3.62
+///

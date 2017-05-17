@@ -1,0 +1,12 @@
+ENTRY       R01881                      Reaction
+NAME        ATP:creatine N-phosphotransferase
+DEFINITION  ATP + Creatine <=> ADP + Phosphocreatine
+EQUATION    C00002 + C00300 <=> C00008 + C02305
+RCLASS      RC00002  C00002_C00008
+            RC00203  C00300_C02305
+ENZYME      2.7.3.2
+PATHWAY     rn00330  Arginine and proline metabolism
+            rn01100  Metabolic pathways
+MODULE      M00047  Creatine pathway
+ORTHOLOGY   K00933  creatine kinase [EC:2.7.3.2]
+///

@@ -1,0 +1,8 @@
+ENTRY       R02584                      Reaction
+NAME        ATP:[protein]-L-tyrosine O-phosphotransferase
+DEFINITION  ATP + Protein tyrosine <=> ADP + Protein tyrosine phosphate
+EQUATION    C00002 + C00585 <=> C00008 + C01167
+RCLASS      RC00002  C00002_C00008
+            RC00151  C00585_C01167
+ENZYME      2.7.10.1        2.7.10.2        2.7.12.1        2.7.12.2
+///

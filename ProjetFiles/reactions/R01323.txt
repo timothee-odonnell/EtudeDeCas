@@ -1,0 +1,8 @@
+ENTRY       R01323                      Reaction
+NAME        Acetyl-CoA:citrate CoA-transferase
+DEFINITION  Acetyl-CoA + Citrate <=> Acetate + (3S)-Citryl-CoA
+EQUATION    C00024 + C00158 <=> C00033 + C00566
+RCLASS      RC00012  C00024_C00033
+            RC00014  C00158_C00566
+ENZYME      2.8.3.10
+///

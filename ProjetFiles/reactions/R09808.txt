@@ -1,0 +1,11 @@
+ENTRY       R09808                      Reaction
+DEFINITION  Nitric oxide + Azide <=> Nitrous oxide + Nitrogen
+EQUATION    C00533 + C19935 <=> C00887 + C00697
+COMMENT     incomplete reaction
+RCLASS      RC02794  C00533_C00887
+ENZYME      1.7.1.14
+PATHWAY     rn00910  Nitrogen metabolism
+            rn01120  Microbial metabolism in diverse environments
+MODULE      M00529  Denitrification, nitrate => nitrogen
+ORTHOLOGY   K15877  fungal nitric oxide reductase [EC:1.7.1.14]
+///

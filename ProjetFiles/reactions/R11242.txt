@@ -1,0 +1,7 @@
+ENTRY       R11242                      Reaction
+NAME        6-deoxy-6-sulfo-D-glucono-1,5-lactone lactonohydrolase
+DEFINITION  6-Deoxy-6-sulfo-D-glucono-1,5-lactone + H2O <=> 6-Deoxy-6-sulfo-D-gluconate
+EQUATION    C21064 + C00001 <=> C21182
+RCLASS      RC00537  C21064_C21182
+ENZYME      3.1.1.99
+///

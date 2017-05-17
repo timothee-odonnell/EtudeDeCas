@@ -1,0 +1,11 @@
+ENTRY       R07665                      Reaction
+DEFINITION  3-Cresol + Oxygen + NADH + H+ <=> 3-Hydroxybenzyl alcohol + NAD+ + H2O
+EQUATION    C01467 + C00007 + C00004 + C00080 <=> C03351 + C00003 + C00001
+COMMENT     xylenol methylhydroxylase
+RCLASS      RC00001  C00003_C00004
+            RC00269  C01467_C03351
+ENZYME      1.14.13.-
+PATHWAY     rn00623  Toluene degradation
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+///

@@ -1,0 +1,8 @@
+ENTRY       R07049                      Reaction
+NAME        Arachidonate:oxygen 9-oxidoreductase
+DEFINITION  Arachidonate + Oxygen <=> 9(S)-HPETE
+EQUATION    C00219 + C00007 <=> C14821
+RCLASS      RC00561  C00219_C14821
+ENZYME      1.13.11.-
+PATHWAY     rn00590  Arachidonic acid metabolism
+///

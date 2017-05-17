@@ -1,0 +1,7 @@
+ENTRY       R09685                      Reaction
+NAME        geranylgeranyl-diphosphate diphosphate-lyase (elisabethatriene-forming)
+DEFINITION  Geranylgeranyl diphosphate <=> Elisabethatriene + Diphosphate
+EQUATION    C00353 <=> C19816 + C00013
+RCLASS      RC02601  C00353_C19816
+ENZYME      4.2.3.41
+///

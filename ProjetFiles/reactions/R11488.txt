@@ -1,0 +1,7 @@
+ENTRY       R11488                      Reaction
+NAME        sulfite,hydrogen sulfide:quinone oxidoreductase
+DEFINITION  Sulfite + Hydrogen sulfide + Quinone <=> Thiosulfate + Hydroquinone
+EQUATION    C00094 + C00283 + C15602 <=> C00320 + C15603
+RCLASS      RC02813  C00094_C00320
+ENZYME      1.8.5.5
+///

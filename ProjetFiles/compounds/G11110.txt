@@ -1,0 +1,11 @@
+ENTRY       G11110                      Glycan
+NAME        UDP-D-galacturonate;
+            UDP-D-galacturonic acid
+COMPOSITION (UDP-GalA)1
+REMARK      Same as: C00617
+REACTION    R06072 R06278
+ENZYME      2.4.1.43
+NODE        1
+            1   UDP-GalA   0.4   0.2
+EDGE        0
+///

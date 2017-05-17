@@ -1,0 +1,7 @@
+ENTRY       R00763                      Reaction
+NAME        beta-D-fructose-2,6-bisphosphate 2-phosphohydrolase
+DEFINITION  beta-D-Fructose 2,6-bisphosphate + H2O <=> D-Fructose 6-phosphate + Orthophosphate
+EQUATION    C00665 + C00001 <=> C00085 + C00009
+RCLASS      RC00152  C00085_C00665
+ENZYME      3.1.3.46
+///

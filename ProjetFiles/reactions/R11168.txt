@@ -1,0 +1,7 @@
+ENTRY       R11168                      Reaction
+NAME        carbon-monoxide:quinone oxidoreductase
+DEFINITION  CO + Quinone + H2O <=> CO2 + Hydroquinone
+EQUATION    C00237 + C15602 + C00001 <=> C00011 + C15603
+RCLASS      RC02800  C00011_C00237
+ENZYME      1.2.5.3
+///

@@ -1,0 +1,6 @@
+ENTRY       R04015                      Reaction
+NAME        hydrogen:ferricytochrome-c3 oxidoreductase
+DEFINITION  2 Ferricytochrome c3 + Hydrogen <=> 2 Ferrocytochrome c3 + 2 H+
+EQUATION    2 C02682 + C00282 <=> 2 C02684 + 2 C00080
+ENZYME      1.12.2.1
+///

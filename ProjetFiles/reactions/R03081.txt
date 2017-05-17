@@ -1,0 +1,8 @@
+ENTRY       R03081                      Reaction
+NAME        2-Dehydro-3-deoxy-D-fuconate glycolaldehyde
+DEFINITION  2-Dehydro-3-deoxy-D-fuconate <=> Pyruvate + (R)-Lactaldehyde
+EQUATION    C06159 <=> C00022 + C00937
+RCLASS      RC00307  C00022_C06159
+            RC00435  C00937_C06159
+ENZYME      4.1.2.18
+///

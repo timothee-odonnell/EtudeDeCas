@@ -1,0 +1,10 @@
+ENTRY       R02150                      Reaction
+NAME        1H-Imidazole-4-ethanamine:oxygen oxidoreductase (deaminating) (copper-containing)
+DEFINITION  Histamine + Oxygen + H2O <=> Imidazole-4-acetaldehyde + Ammonia + Hydrogen peroxide
+EQUATION    C00388 + C00007 + C00001 <=> C05130 + C00014 + C00027
+RCLASS      RC00062  C00388_C05130
+            RC02755  C00007_C00027
+ENZYME      1.4.3.22
+PATHWAY     rn00340  Histidine metabolism
+ORTHOLOGY   K11182  diamine oxidase [EC:1.4.3.22]
+///

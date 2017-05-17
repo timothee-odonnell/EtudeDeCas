@@ -1,0 +1,12 @@
+ENTRY       R09560                      Reaction
+NAME        7-chloro-L-tryptophan:oxygen oxidoreductase
+DEFINITION  7-Chloro-L-tryptophan + Oxygen <=> 2-Imino-3-(7-chloroindol-3-yl)propanoate + Hydrogen peroxide
+EQUATION    C19687 + C00007 <=> C19688 + C00027
+RCLASS      RC02566  C19687_C19688
+            RC02755  C00007_C00027
+ENZYME      1.4.3.23
+PATHWAY     rn00404  Staurosporine biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00789  Rebeccamycin biosynthesis, tryptophan => rebeccamycin
+ORTHOLOGY   K19884  7-chloro-L-tryptophan oxidase [EC:1.4.3.23]
+///

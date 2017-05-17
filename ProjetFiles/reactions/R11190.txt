@@ -1,0 +1,7 @@
+ENTRY       R11190                      Reaction
+DEFINITION  L-Alanyl-gamma-D-glutamyl-L-lysine + H2O <=> L-Alanyl-D-glutamate + L-Lysine
+EQUATION    C21160 + C00001 <=> C20957 + C00047
+RCLASS      RC00064  C00047_C21160
+            RC00090  C20957_C21160
+ENZYME      3.4.14.13
+///

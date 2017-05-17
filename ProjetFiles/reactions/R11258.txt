@@ -1,0 +1,7 @@
+ENTRY       R11258                      Reaction
+NAME        [protein]-N-pros-phospho-L-histidine phosphohydrolase
+DEFINITION  Protein N(pi)-phospho-L-histidine + H2O <=> Protein histidine + Orthophosphate
+EQUATION    C04261 + C00001 <=> C00615 + C00009
+RCLASS      RC03206  C00615_C04261
+ENZYME      3.9.1.3
+///

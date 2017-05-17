@@ -1,0 +1,7 @@
+ENTRY       R01734                      Reaction
+DEFINITION  Dimethylbenzimidazole <=> Riboflavin
+EQUATION    C03114 <=> C00255
+COMMENT     unclear reaction
+            incomplete reaction
+RCLASS      RC00593  C00255_C03114
+///

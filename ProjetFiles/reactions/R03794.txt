@@ -1,0 +1,10 @@
+ENTRY       R03794                      Reaction
+NAME        (S)-2-Hydroxy-2-phenylacetate,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)
+DEFINITION  (S)-Mandelate + Tetrahydrobiopterin + Oxygen <=> (S)-4-Hydroxymandelate + Dihydrobiopterin + H2O
+EQUATION    C01984 + C00272 + C00007 <=> C03198 + C00268 + C00001
+RCLASS      RC00023  C00268_C00272
+            RC00490  C01984_C03198
+ENZYME      1.14.16.6
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+///

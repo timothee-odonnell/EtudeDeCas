@@ -1,0 +1,6 @@
+ENTRY       R11001                      Reaction
+NAME        (4R)-4-hydroxysphinganine ceramide,ferrocytochrome-b5:oxygen oxidoreductase (fatty acyl 2-hydroxylating)
+DEFINITION  Phytoceramide + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (2'R)-2'-Hydroxyphytoceramide + 2 Ferricytochrome b5 + H2O
+EQUATION    C12145 + 2 C00999 + C00007 + 2 C00080 <=> C21020 + 2 C00996 + C00001
+ENZYME      1.14.18.6
+///

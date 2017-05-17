@@ -1,0 +1,9 @@
+ENTRY       R10916                      Reaction
+NAME        (2R)-2,3-dihydroxy-3-methylbutanoate:NAD+ oxidoreductase (isomerizing)
+DEFINITION  (R)-2,3-Dihydroxy-3-methylbutanoate + NAD+ <=> (S)-2-Acetolactate + NADH + H+
+EQUATION    C04272 + C00003 <=> C06010 + C00004 + C00080
+COMMENT     NADP+ (see R04439)
+RCLASS      RC00001  C00003_C00004
+            RC00836  C04272_C06010
+ENZYME      1.1.1.382       1.1.1.383
+///

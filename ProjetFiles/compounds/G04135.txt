@@ -1,0 +1,28 @@
+ENTRY       G04135                      Glycan
+COMPOSITION (Gal)2 (GalNAc)3 (Neu5Ac)2 (Neu5Gc)1 (Ser/Thr)1
+MASS        1823.6 (Ser/Thr)
+REACTION    R06274
+ENZYME      2.4.99.-
+DBLINKS     CCSD: 31769
+            GlycomeDB: 10951
+            JCGGDB: JCGG-STR001056
+NODE        9
+            1   Ser/Thr    22     3
+            2   GalNAc     14     3
+            3   Gal         5    -2
+            4   Neu5Ac      4     8
+            5   Gal        -3    -2
+            6   Neu5Ac     -6     8
+            7   GalNAc    -12    -2
+            8   GalNAc    -22     3
+            9   Neu5Gc    -22    -7
+EDGE        8
+            1     2:a1    1    
+            2     3:b1    2:3  
+            3     4:a2    2:6  
+            4     5:b1    3:3  
+            5     6:a2    4:8  
+            6     7:b1    5:4  
+            7     8:b1    7:4  
+            8     9:a2    7:3  
+///

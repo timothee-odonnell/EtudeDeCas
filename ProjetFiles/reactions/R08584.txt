@@ -1,0 +1,8 @@
+ENTRY       R08584                      Reaction
+NAME        chlorophyll-a magnesium-lyase (pheophytin-a-forming)
+DEFINITION  Chlorophyll a + 2 H+ <=> Pheophytin a + Magnesium cation
+EQUATION    C05306 + 2 C00080 <=> C05797 + C00305
+COMMENT     unclear reaction
+RCLASS      RC01012  C05306_C05797
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+///

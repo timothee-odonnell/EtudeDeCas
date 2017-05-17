@@ -1,0 +1,7 @@
+ENTRY       R11411                      Reaction
+NAME        2-(glutathion-S-yl)-2-methylbut-3-en-1-ol lyase [(3R)-3,4-epoxy-3-methylbut-1-ene-forming]
+DEFINITION  2-(Glutathion-S-yl)-2-methylbut-3-en-1-ol <=> (3R)-3,4-Epoxy-3-methylbut-1-ene + Glutathione
+EQUATION    C21374 <=> C21373 + C00051
+RCLASS      RC03433  C21373_C21374
+ENZYME      4.4.1.34
+///

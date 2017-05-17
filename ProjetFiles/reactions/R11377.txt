@@ -1,0 +1,8 @@
+ENTRY       R11377                      Reaction
+DEFINITION  UDP-D-galactose + NORint <=> UDP + NOR2 antigen
+EQUATION    G10609 + G13080 <=> G10619 + G13081
+ENZYME      2.4.1.228
+PATHWAY     rn00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01988  lactosylceramide 4-alpha-galactosyltransferase [EC:2.4.1.228]
+///

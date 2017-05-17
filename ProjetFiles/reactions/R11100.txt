@@ -1,0 +1,7 @@
+ENTRY       R11100                      Reaction
+DEFINITION  Dehydroalanine <=> 2-Iminopropanoate
+EQUATION    C02218 <=> C20904
+COMMENT     spontaneous
+            subsequently R11099
+RCLASS      RC03355  C02218_C20904
+///

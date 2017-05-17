@@ -1,0 +1,9 @@
+ENTRY       R10777                      Reaction
+NAME        5-methylbarbiturate amidohydrolase (2-methyl-3-oxo-3-ureidopropanoate-forming)
+DEFINITION  5-Methylbarbiturate + H2O <=> 3-Oxo-3-ureidoisobutyrate
+EQUATION    C05281 + C00001 <=> C20846
+RCLASS      RC00680  C05281_C20846
+ENZYME      3.5.2.1
+PATHWAY     rn00240  Pyrimidine metabolism
+ORTHOLOGY   K19794  barbiturase [EC:3.5.2.1]
+///

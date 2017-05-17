@@ -1,0 +1,16 @@
+ENTRY       R04870                      Reaction
+NAME        L-2-aminohexanedioate:L-cysteine:L-valine ligase (AMP-forming, valine-inverting)
+DEFINITION  L-2-Aminoadipate + L-Valine + L-Cysteine + 3 ATP + H2O <=> delta-(L-2-Aminoadipyl)-L-cysteinyl-D-valine + 3 AMP + 3 Diphosphate
+EQUATION    C00956 + C00183 + C00097 + 3 C00002 + C00001 <=> C05556 + 3 C00020 + 3 C00013
+COMMENT     multi-step reaction
+RCLASS      RC00090  C00956_C05556
+            RC01227  C00097_C05556
+            RC01228  C00183_C05556
+ENZYME      6.3.2.26
+PATHWAY     rn00311  Penicillin and cephalosporin biosynthesis
+            rn01100  Metabolic pathways
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00672  Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin
+            M00673  Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C
+ORTHOLOGY   K12743  N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase [EC:6.3.2.26]
+///

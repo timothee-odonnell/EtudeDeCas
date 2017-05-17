@@ -1,0 +1,10 @@
+ENTRY       R05828                      Reaction
+NAME        10-deoxysarpagine,NADPH:oxygen oxidoreductase (10-hydroxylating)
+DEFINITION  10-Deoxysarpagine + NADPH + H+ + Oxygen <=> Sarpagine + NADP+ + H2O
+EQUATION    C11635 + C00005 + C00080 + C00007 <=> C09239 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00490  C09239_C11635
+ENZYME      1.14.13.91
+PATHWAY     rn00901  Indole alkaloid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+///

@@ -1,0 +1,10 @@
+ENTRY       R04258                      Reaction
+DEFINITION  4-Chlorocatechol + Oxygen <=> 3-Chloro-cis,cis-muconate
+EQUATION    C02375 + C00007 <=> C03585
+COMMENT     catechol 1,2-dioxygenase
+RCLASS      RC00388  C02375_C03585
+ENZYME      1.13.11.1
+PATHWAY     rn00361  Chlorocyclohexane and chlorobenzene degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K03381  catechol 1,2-dioxygenase [EC:1.13.11.1]
+///

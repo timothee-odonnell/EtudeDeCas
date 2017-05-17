@@ -1,0 +1,8 @@
+ENTRY       R10143                      Reaction
+NAME        pentalenolactone-D,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  Pentalenolactone D + 2-Oxoglutarate + Oxygen <=> Pentalenolactone E + Succinate + CO2 + H2O
+EQUATION    C20399 + C00026 + C00007 <=> C20398 + C00042 + C00011 + C00001
+COMMENT     first step of two-step reaction (see R10145, R10143+R10144)
+RCLASS      RC03059  C20398_C20399
+ENZYME      1.14.11.36
+///

@@ -1,0 +1,8 @@
+ENTRY       R02868                      Reaction
+NAME        dATP:D-hexose 6-phosphotransferase
+DEFINITION  dATP + D-Sorbitol <=> dADP + Sorbitol 6-phosphate
+EQUATION    C00131 + C00794 <=> C00206 + C01096
+RCLASS      RC00002  C00131_C00206
+            RC00017  C00794_C01096
+ENZYME      2.7.1.1
+///

@@ -1,0 +1,9 @@
+ENTRY       R10227                      Reaction
+NAME        (-)-lariciresinol:NADP+ oxidoreductase
+DEFINITION  (-)-Lariciresinol + NADP+ <=> (-)-Pinoresinol + NADPH + H+
+EQUATION    C20454 + C00006 <=> C20455 + C00005 + C00080
+COMMENT     possibly intermediate (quinone methide)
+RCLASS      RC00001  C00005_C00006
+            RC03087  C20454_C20455
+ENZYME      1.23.1.3
+///

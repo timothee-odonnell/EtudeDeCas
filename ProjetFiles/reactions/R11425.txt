@@ -1,0 +1,7 @@
+ENTRY       R11425                      Reaction
+NAME        [F-actin]-L-methionine,NADPH:O2 S-oxidoreductase
+DEFINITION  [F-actin]-L-methionine + NADPH + Oxygen + H+ <=> [F-actin]-L-methionine-(R)-S-oxide + NADP+ + H2O
+EQUATION    C21377 + C00005 + C00007 + C00080 <=> C21378 + C00006 + C00001
+RCLASS      RC00639  C21377_C21378
+ENZYME      1.14.13.225
+///

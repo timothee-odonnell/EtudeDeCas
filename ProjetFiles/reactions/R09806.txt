@@ -1,0 +1,8 @@
+ENTRY       R09806                      Reaction
+NAME        raucaffrinoline:NADP+ oxidoreductase
+DEFINITION  Raucaffrinoline + NADP+ <=> Perakine + NADPH + H+
+EQUATION    C19931 + C00006 <=> C19932 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00450  C19931_C19932
+ENZYME      1.1.1.317
+///

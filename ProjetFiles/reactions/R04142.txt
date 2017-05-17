@@ -1,0 +1,9 @@
+ENTRY       R04142                      Reaction
+DEFINITION  5-Acetamidopentanoate + NADH + H+ + CO2 <=> 6-Acetamido-2-oxohexanoate + NAD+ + H2O
+EQUATION    C03087 + C00004 + C00080 + C00011 <=> C05548 + C00003 + C00001
+COMMENT     oxidoreduction
+RCLASS      RC00001  C00003_C00004
+            RC00866  C03087_C05548
+ENZYME      1.2.4.-
+PATHWAY     rn00310  Lysine degradation
+///

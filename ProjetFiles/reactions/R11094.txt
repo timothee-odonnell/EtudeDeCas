@@ -1,0 +1,7 @@
+ENTRY       R11094                      Reaction
+NAME        5'-deoxyadenosine aminohydrolase
+DEFINITION  5'-Deoxyadenosine + H2O <=> 5'-Deoxyinosine + Ammonia
+EQUATION    C05198 + C00001 <=> C21102 + C00014
+RCLASS      RC00477  C05198_C21102
+ENZYME      3.5.4.41
+///

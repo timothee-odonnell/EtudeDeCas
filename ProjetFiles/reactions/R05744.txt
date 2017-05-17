@@ -1,0 +1,10 @@
+ENTRY       R05744                      Reaction
+NAME        trans-ferulate:CoASH ligase (ATP-hydrolysing)
+DEFINITION  Ferulate + CoA + ATP <=> Feruloyl-CoA + Products of ATP breakdown
+EQUATION    C01494 + C00010 + C00002 <=> C00406 + C07305
+COMMENT     It has not yet been established whether AMP + diphosphate or ADP + 
+            phosphate are formed in this reaction.
+RCLASS      RC00004  C00010_C00406
+            RC00131  C00406_C01494
+ENZYME      6.2.1.34
+///

@@ -1,0 +1,37 @@
+ENTRY       C21397                      Compound
+NAME        Ethylenediamine-N,N'-diacetic acid;
+            Ethylenediaminediacetate;
+            EDDA
+FORMULA     C6H12N2O4
+EXACT_MASS  176.0797
+MOL_WEIGHT  176.1705
+REACTION    R11455 R11456
+ENZYME      1.14.14.33
+DBLINKS     CAS: 5657-17-0
+            PubChem: 328082940
+ATOM        12
+            1   N1b N    16.8460  -15.7975
+            2   C1b C    18.0344  -15.0985
+            3   C1b C    15.5878  -15.0985
+            4   C1b C    19.2926  -15.7975
+            5   C6a C    15.5878  -13.7005
+            6   N1b N    20.4809  -15.0985
+            7   O6a O    14.3995  -13.0015
+            8   O6a O    16.8460  -13.0015
+            9   C1b C    21.6692  -15.7975
+            10  C6a C    21.6692  -17.1955
+            11  O6a O    22.8575  -17.8946
+            12  O6a O    20.4809  -17.8946
+BOND        11
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     5   8 2
+            8     6   9 1
+            9     9  10 1
+            10   10  11 1
+            11   10  12 2
+///

@@ -1,0 +1,7 @@
+ENTRY       R09961                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase (cyclizing; tricyclene-forming)
+DEFINITION  Geranyl diphosphate <=> Tricyclene + Diphosphate
+EQUATION    C00341 <=> C20241 + C00013
+RCLASS      RC02760  C00341_C20241
+ENZYME      4.2.3.105
+///

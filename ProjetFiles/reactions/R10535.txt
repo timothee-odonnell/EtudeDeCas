@@ -1,0 +1,7 @@
+ENTRY       R10535                      Reaction
+NAME        carbonyl-sulfide hydrogen-sulfide-lyase (decarboxylating)
+DEFINITION  Carbonyl sulfide + H2O <=> CO2 + Hydrogen sulfide
+EQUATION    C07331 + C00001 <=> C00011 + C00283
+RCLASS      RC03191  C00283_C07331
+ENZYME      4.4.1.27
+///

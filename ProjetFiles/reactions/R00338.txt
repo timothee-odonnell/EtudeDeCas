@@ -1,0 +1,8 @@
+ENTRY       R00338                      Reaction
+NAME        Oxaloacetate acetylhydrolase
+DEFINITION  Oxaloacetate + H2O <=> Oxalate + Acetate
+EQUATION    C00036 + C00001 <=> C00209 + C00033
+RCLASS      RC01380  C00033_C00036
+            RC01381  C00036_C00209
+ENZYME      3.7.1.1
+///

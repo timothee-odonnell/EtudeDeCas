@@ -1,0 +1,8 @@
+ENTRY       R09759                      Reaction
+NAME        UDP-glucose:beta-D-gentiobiosylcrocetin 8'-O-D-glucosyltransferase
+DEFINITION  UDP-glucose + beta-D-Gentiobiosyl crocetin <=> UDP + trans-Crocetin (beta-D-glucosyl) (beta-D-gentibiosyl) ester
+EQUATION    C00029 + C19869 <=> C00015 + C17513
+RCLASS      RC00005  C00015_C00029
+            RC00523  C17513_C19869
+ENZYME      2.4.1.271
+///

@@ -1,0 +1,8 @@
+ENTRY       R02961                      Reaction
+DEFINITION  S-Adenosyl-L-methionine + DNA adenine <=> S-Adenosyl-L-homocysteine + DNA 6-methylaminopurine
+EQUATION    C00019 + C00821 <=> C00021 + C03391
+COMMENT     restriction-modification system
+RCLASS      RC00003  C00019_C00021
+            RC00335  C00821_C03391
+ENZYME      2.1.1.72
+///

@@ -1,0 +1,8 @@
+ENTRY       R10172                      Reaction
+NAME        octanoyl-CoA:malonyl-[acyl-carrier protein] C-heptanoyltransferase (decarboxylating, CoA-forming)
+DEFINITION  Octanoyl-CoA + Malonyl-[acyl-carrier protein] <=> 3-Oxodecanoyl-[acp] + CoA + CO2
+EQUATION    C01944 + C01209 <=> C05753 + C00010 + C00011
+RCLASS      RC00004  C00010_C01944
+            RC02888  C01209_C05753
+ENZYME      2.3.1.207
+///

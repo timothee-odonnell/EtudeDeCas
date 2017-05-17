@@ -1,0 +1,19 @@
+ENTRY       G13023                      Glycan
+COMPOSITION (Gal)1 (GalNAc)2 (GlcNAc)1 (Ser/Thr)1
+MASS        771.7 (Ser/Thr)
+REACTION    R07614
+ENZYME      2.4.1.313
+DBLINKS     GlycomeDB: 25011
+            JCGGDB: JCGG-STR016144
+NODE        5
+            1   Ser/Thr  13.7   0.4
+            2   GalNAc    4.7   0.4
+            3   Gal      -3.3  -3.6
+            4   GlcNAc   -4.3   4.4
+            5   GalNAc  -14.3   4.4
+EDGE        4
+            1     2:a1    1    
+            2     3:b1    2:3  
+            3     4:b1    2:6  
+            4     5:b1    4:3  
+///

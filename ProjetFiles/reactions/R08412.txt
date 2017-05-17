@@ -1,0 +1,8 @@
+ENTRY       R08412                      Reaction
+DEFINITION  L-Histidine + 3-Methylbutanoic acid <=> Dolichotheline
+EQUATION    C00135 + C08262 <=> C16696
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC00090  C08262_C16696
+PATHWAY     rn01110  Biosynthesis of secondary metabolites
+///

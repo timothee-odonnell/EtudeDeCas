@@ -1,0 +1,8 @@
+ENTRY       R03934                      Reaction
+NAME        S-Adenosyl-L-methionine:6-hydroxymellein 6-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 6-Hydroxymellein <=> S-Adenosyl-L-homocysteine + 6-Methoxymellein
+EQUATION    C00019 + C02379 <=> C00021 + C02381
+RCLASS      RC00003  C00019_C00021
+            RC00392  C02379_C02381
+ENZYME      2.1.1.108
+///

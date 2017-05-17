@@ -1,0 +1,9 @@
+ENTRY       R00628                      Reaction
+NAME        Acetic-ester acetylhydrolase
+DEFINITION  Acetic ester + H2O <=> Alcohol + Acetate
+EQUATION    C01883 + C00001 <=> C00069 + C00033
+COMMENT     general reaction
+RCLASS      RC00339  C00069_C01883
+            RC00342  C00033_C01883
+ENZYME      3.1.1.6
+///

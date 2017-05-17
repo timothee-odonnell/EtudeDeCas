@@ -1,0 +1,12 @@
+ENTRY       R11423                      Reaction
+NAME        dTDP-3'-O-methyl-beta-L-rhamnose:calicheamicin-PsAg 3'-O-methyl-beta-L-rhamnosyltransferase
+DEFINITION  dTDP-3-O-methyl-beta-L-rhamnose + Calicheamicin PsAg <=> dTDP + Calicheamicin alpha3(I)
+EQUATION    C21350 + C21340 <=> C00363 + C21342
+RCLASS      RC00005  C00363_C21350
+            RC00171  C21340_C21342
+ENZYME      2.4.1.-
+PATHWAY     rn01059  Biosynthesis of enediyne antibiotics
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00833  Calicheamicin biosynthesis, calicheamicinone => calicheamicin
+ORTHOLOGY   K21263  calicheamicin 3'-O-methyl-rhamnosyltransferase [EC:2.4.1.-]
+///

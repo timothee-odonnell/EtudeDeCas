@@ -1,0 +1,8 @@
+ENTRY       R04634                      Reaction
+DEFINITION  N-Acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide + H2O <=> GA2 + N-Acetylneuraminate
+EQUATION    C04884 + C00001 <=> C06135 + C00270
+REMARK      Same as: R06012
+RCLASS      RC00028  C00270_C04884
+            RC00077  C04884_C06135
+ENZYME      3.2.1.18
+///

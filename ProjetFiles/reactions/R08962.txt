@@ -1,0 +1,9 @@
+ENTRY       R08962                      Reaction
+NAME        ATP:N-acetyl-D-hexosamine 1-phosphotransferase
+DEFINITION  ATP + N-Acetyl-D-hexosamine <=> ADP + N-Acetyl-alpha-D-hexosamine 1-phosphate
+EQUATION    C00002 + C03136 <=> C00008 + C18055
+RCLASS      RC00002  C00002_C00008
+            RC00078  C03136_C18055
+ENZYME      2.7.1.162
+ORTHOLOGY   K13059  N-acetylhexosamine 1-kinase [EC:2.7.1.162]
+///

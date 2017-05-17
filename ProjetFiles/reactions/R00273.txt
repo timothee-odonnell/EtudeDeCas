@@ -1,0 +1,9 @@
+ENTRY       R00273                      Reaction
+NAME        oxalate:oxygen oxidoreductase
+DEFINITION  Oxalate + Oxygen <=> Hydrogen peroxide + 2 CO2
+EQUATION    C00209 + C00007 <=> C00027 + 2 C00011
+RCLASS      RC02755  C00007_C00027
+            RC02802  C00011_C00209
+ENZYME      1.2.3.4
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+///

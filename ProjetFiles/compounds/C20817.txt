@@ -1,0 +1,45 @@
+ENTRY       C20817                      Compound
+NAME        C20817;
+            Carbapenem biosynthesis intermediate 1
+FORMULA     C9H14N2O3S
+EXACT_MASS  230.0725
+MOL_WEIGHT  230.2841
+REACTION    R10736 R10737
+PATHWAY     map00332  Carbapenem biosynthesis
+            map01130  Biosynthesis of antibiotics
+ENZYME      2.1.1.-
+DBLINKS     PubChem: 254741283
+ATOM        15
+            1   N1y N    17.0089  -16.5030
+            2   C1y C    17.0089  -15.1073
+            3   C1y C    18.3404  -16.9293
+            4   C5x C    15.6016  -16.5147
+            5   C1x C    15.6016  -15.1073
+            6   C1x C    18.3345  -14.6809
+            7   C1y C    19.1580  -15.8022
+            8   C6a C    18.7783  -18.2608
+            9   O5x O    14.5969  -17.5017
+            10  S2a S    20.5594  -15.8022
+            11  O6a O    20.1448  -18.5470
+            12  O6a O    17.8440  -19.3003
+            13  C1b C    21.7625  -15.1014
+            14  C1b C    22.9714  -15.7905
+            15  N1a N    24.1802  -15.0957
+BOND        16
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 2
+            9     7  10 1
+            10    8  11 1
+            11    8  12 2
+            12   10  13 1
+            13   13  14 1
+            14   14  15 1
+            15    4   5 1
+            16    6   7 1
+///

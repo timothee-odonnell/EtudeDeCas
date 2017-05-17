@@ -1,0 +1,16 @@
+ENTRY       G10981                      Glycan
+COMPOSITION (Glc)1 (LFuc)1 (Ser/Thr)1
+MASS        308.3 (Ser/Thr)
+REACTION    R09316
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 27497 27498
+            GlycomeDB: 8819
+            JCGGDB: JCGG-STR030072
+NODE        3
+            1   Ser/Thr     9     0
+            2   LFuc       -1     0
+            3   Glc       -10     0
+EDGE        2
+            1     2:a1    1    
+            2     3:b1    2:3  
+///

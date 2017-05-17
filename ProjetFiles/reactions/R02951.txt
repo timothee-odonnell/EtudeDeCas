@@ -1,0 +1,8 @@
+ENTRY       R02951                      Reaction
+NAME        UDPglucose:trans-4-hydroxycinnamate 4-O-beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + 4-Coumarate <=> UDP + 4-O-beta-D-Glucosyl-4-hydroxycinnamate
+EQUATION    C00029 + C00811 <=> C00015 + C04415
+RCLASS      RC00005  C00015_C00029
+            RC00171  C00811_C04415
+ENZYME      2.4.1.126
+///

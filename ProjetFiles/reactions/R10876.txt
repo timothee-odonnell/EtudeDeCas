@@ -1,0 +1,10 @@
+ENTRY       R10876                      Reaction
+NAME        dTDP-3-dimethylamino-3,4,6-trideoxy-alpha-D-glucopyranose:protomycinolide-IV 5-O-(3-dimethylamino-3,4,6-trideoxy-beta-D-glucosyl)transferase;
+            dTDP-D-desosamine:protomycinolide-IV 5-O-beta-D-desosaminyltransferase
+DEFINITION  dTDP-D-desosamine + Protomycinolide IV <=> Mycinamicin VIII + dTDP
+EQUATION    C11911 + C15685 <=> C15684 + C00363
+RCLASS      RC00005  C00363_C11911
+            RC00049  C15684_C15685
+ENZYME      2.4.1.-
+PATHWAY     rn01130  Biosynthesis of antibiotics
+///

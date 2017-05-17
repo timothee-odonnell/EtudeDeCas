@@ -1,0 +1,10 @@
+ENTRY       C18234                      Compound
+NAME        Ferrocytochrome cL;
+            Reduced cytochrome cL
+COMMENT     Generic compound in reaction hierarchy
+            reduced form of Cytochrome c-L [KO:K16255]
+REACTION    R01146 R09127 R09128 R10713
+ENZYME      1.1.2.7
+DBLINKS     PubChem: 103061416
+            ChEBI: 81597
+///

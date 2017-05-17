@@ -1,0 +1,13 @@
+ENTRY       R08571                      Reaction
+NAME        glyceraldehyde ferredoxin oxidoreductase
+DEFINITION  D-Glyceraldehyde + H2O + Oxidized ferredoxin <=> D-Glycerate + H+ + Reduced ferredoxin
+EQUATION    C00577 + C00001 + C00139 <=> C00258 + C00080 + C00138
+RCLASS      RC00242  C00258_C00577
+ENZYME      1.2.7.5
+PATHWAY     rn00030  Pentose phosphate pathway
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00309  Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate
+ORTHOLOGY   K03738  aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]
+///

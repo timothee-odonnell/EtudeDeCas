@@ -1,0 +1,8 @@
+ENTRY       R03620                      Reaction
+NAME        N-Methylhexanamide amidohydrolase
+DEFINITION  N-Methylhexanamide + H2O <=> Hexanoic acid + Methylamine
+EQUATION    C02722 + C00001 <=> C01585 + C00218
+RCLASS      RC00090  C01585_C02722
+            RC00555  C00218_C02722
+ENZYME      3.5.1.39
+///

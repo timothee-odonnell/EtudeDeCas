@@ -1,0 +1,10 @@
+ENTRY       R03955                      Reaction
+DEFINITION  Xanthurenic acid + S-Adenosyl-L-methionine <=> 8-Methoxykynurenate + S-Adenosyl-L-homocysteine
+EQUATION    C02470 + C00019 <=> C05830 + C00021
+COMMENT     O-methyltransferase
+RCLASS      RC00003  C00019_C00021
+            RC00392  C02470_C05830
+ENZYME      2.1.1.-
+PATHWAY     rn00380  Tryptophan metabolism
+ORTHOLOGY   K00599  methyltransferase-like protein 6 [EC:2.1.1.-]
+///

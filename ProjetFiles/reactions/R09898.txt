@@ -1,0 +1,7 @@
+ENTRY       R09898                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [cyclizing, (+)-T-muurolol-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> (+)-T-Muurolol + Diphosphate
+EQUATION    C00448 + C00001 <=> C20184 + C00013
+RCLASS      RC02788  C00448_C20184
+ENZYME      4.2.3.98
+///

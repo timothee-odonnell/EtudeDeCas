@@ -1,0 +1,12 @@
+ENTRY       R03064                      Reaction
+NAME        acetyl-CoA:deacetylcephalosporin-C O-acetyltransferase
+DEFINITION  Cephalosporin C + CoA <=> Deacetylcephalosporin C + Acetyl-CoA
+EQUATION    C00916 + C00010 <=> C03112 + C00024
+RCLASS      RC00004  C00010_C00024
+            RC00041  C00916_C03112
+ENZYME      2.3.1.175
+PATHWAY     rn00311  Penicillin and cephalosporin biosynthesis
+            rn01100  Metabolic pathways
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12747  deacetylcephalosporin-C acetyltransferase [EC:2.3.1.175]
+///

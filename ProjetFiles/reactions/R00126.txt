@@ -1,0 +1,11 @@
+ENTRY       R00126                      Reaction
+NAME        ADP:ATP adenylyltransferase
+DEFINITION  ADP + ATP <=> Orthophosphate + P1,P4-Bis(5'-adenosyl)tetraphosphate
+EQUATION    C00008 + C00002 <=> C00009 + C01260
+RCLASS      RC00002  C00002_C01260
+            RC02753  C00008_C01260
+ENZYME      2.7.7.53
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K00988  ATP adenylyltransferase [EC:2.7.7.53]
+            K19710  ATP adenylyltransferase [EC:2.7.7.53]
+///

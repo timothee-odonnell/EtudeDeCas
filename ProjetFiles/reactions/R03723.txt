@@ -1,0 +1,8 @@
+ENTRY       R03723                      Reaction
+NAME        (24R,24(1)R)-fucosterol-epoxide acetaldehyde-lyase (desmosterol-forming)
+DEFINITION  (24R,24(1)R)-Fucosterol epoxide <=> Desmosterol + Acetaldehyde
+EQUATION    C03910 <=> C01802 + C00084
+RCLASS      RC01566  C00084_C03910
+            RC01594  C01802_C03910
+ENZYME      4.1.2.33
+///

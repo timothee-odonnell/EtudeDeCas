@@ -1,0 +1,12 @@
+ENTRY       R07421                      Reaction
+NAME        indolin-2-one,NADPH:oxygen oxidoreductase (3-hydroxylating)
+DEFINITION  Indolin-2-one + NADPH + H+ + Oxygen <=> 3-Hydroxyindolin-2-one + NADP+ + H2O
+EQUATION    C12312 + C00005 + C00080 + C00007 <=> C11130 + C00006 + C00001
+COMMENT     Cytochrome P450 monooxygenase (CYP71C2), bx3
+RCLASS      RC00001  C00005_C00006
+            RC02043  C11130_C12312
+ENZYME      1.14.13.138
+PATHWAY     rn00402  Benzoxazinoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K13224  indolin-2-one monooxygenase [EC:1.14.13.138]
+///

@@ -1,0 +1,7 @@
+ENTRY       R03641                      Reaction
+NAME        Testololactone lactonohydrolase
+DEFINITION  Testololactone + H2O <=> Testolate
+EQUATION    C04676 + C00001 <=> C01618
+RCLASS      RC01589  C01618_C04676
+ENZYME      3.1.1.37
+///

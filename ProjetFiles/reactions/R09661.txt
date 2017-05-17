@@ -1,0 +1,7 @@
+ENTRY       R09661                      Reaction
+NAME        5-nitroanthranilate aminohydrolase
+DEFINITION  5-Nitroanthranilate + H2O <=> 5-Nitrosalicylate + Ammonia
+EQUATION    C19788 + C00001 <=> C19789 + C00014
+RCLASS      RC02598  C19788_C19789
+ENZYME      3.5.99.8
+///

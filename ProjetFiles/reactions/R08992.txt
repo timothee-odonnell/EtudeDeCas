@@ -1,0 +1,7 @@
+ENTRY       R08992                      Reaction
+NAME        Geranylgeranyl-diphosphate diphosphohydrolase (sclareol-forming)
+DEFINITION  Geranylgeranyl diphosphate + 2 H2O <=> Sclareol + Diphosphate
+EQUATION    C00353 + 2 C00001 <=> C09183 + C00013
+COMMENT     multi-step reaction (R09967+R10241)
+RCLASS      RC02395  C00353_C09183
+///

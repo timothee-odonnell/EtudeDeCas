@@ -1,0 +1,11 @@
+ENTRY       R03661                      Reaction
+NAME        L-proline:tRNA(Pro) ligase (AMP-forming)
+DEFINITION  ATP + L-Proline + tRNA(Pro) <=> AMP + Diphosphate + L-Prolyl-tRNA(Pro)
+EQUATION    C00002 + C00148 + C01649 <=> C00020 + C00013 + C02702
+RCLASS      RC00055  C01649_C02702
+            RC00523  C00148_C02702
+ENZYME      6.1.1.15
+PATHWAY     rn00970  Aminoacyl-tRNA biosynthesis
+ORTHOLOGY   K01881  prolyl-tRNA synthetase [EC:6.1.1.15]
+            K14163  bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]
+///

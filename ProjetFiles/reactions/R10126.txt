@@ -1,0 +1,11 @@
+ENTRY       R10126                      Reaction
+DEFINITION  (-)-Citronellol + NAD+ <=> (S)-(-)-Citronellal + NADH + H+
+EQUATION    C11386 + C00003 <=> C11384 + C00004 + C00080
+COMMENT     citronellol dehydrogenase
+RCLASS      RC00001  C00003_C00004
+            RC00087  C11384_C11386
+ENZYME      1.1.1.-
+PATHWAY     rn00281  Geraniol degradation
+ORTHOLOGY   K13774  citronellol/citronellal dehydrogenase
+            K13775  citronellol/citronellal dehydrogenase
+///

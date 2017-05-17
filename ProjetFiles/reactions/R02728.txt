@@ -1,0 +1,8 @@
+ENTRY       R02728                      Reaction
+NAME        beta-D-Glucose 1-phosphate 1,6-phosphomutase
+DEFINITION  beta-D-Glucose 1-phosphate <=> beta-D-Glucose 6-phosphate
+EQUATION    C00663 <=> C01172
+RCLASS      RC00408  C00663_C01172
+ENZYME      5.4.2.6
+ORTHOLOGY   K01838  beta-phosphoglucomutase [EC:5.4.2.6]
+///

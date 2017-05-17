@@ -1,0 +1,7 @@
+ENTRY       R08023                      Reaction
+DEFINITION  4-Coumarate <=> Naringin chalcone
+EQUATION    C00811 <=> C16423
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC01855  C00811_C16423
+///

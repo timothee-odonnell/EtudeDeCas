@@ -1,0 +1,9 @@
+ENTRY       R01683                      Reaction
+NAME        tauropine:NAD+ oxidoreductase (taurine-forming)
+DEFINITION  Tauropine + NAD+ + H2O <=> Taurine + Pyruvate + NADH + H+
+EQUATION    C01616 + C00003 + C00001 <=> C00245 + C00022 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00217  C00245_C01616
+            RC00581  C00022_C01616
+ENZYME      1.5.1.23
+///

@@ -1,0 +1,8 @@
+ENTRY       R08880                      Reaction
+NAME        L-idonate:NADP+ 2-oxidoreductase
+DEFINITION  L-Idonate + NADP+ <=> 2-Dehydro-L-idonate + NADPH + H+
+EQUATION    C00770 + C00006 <=> C15673 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00084  C00770_C15673
+ENZYME      1.1.1.215
+///

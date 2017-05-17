@@ -1,0 +1,8 @@
+ENTRY       R10856                      Reaction
+DEFINITION  5-Formyl-2-furoate + H2O <=> 5-(Dihydroxymethyl)furan-2-carboxylate
+EQUATION    C20449 + C00001 <=> C20901
+COMMENT     spontaneous
+            a part of multi-step reaction (see R10858, R10853+R10854+R10855+R10856+R10857)
+RCLASS      RC03289  C20449_C20901
+ENZYME      1.1.3.47
+///

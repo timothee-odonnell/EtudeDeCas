@@ -1,0 +1,13 @@
+ENTRY       R05676                      Reaction
+DEFINITION  N-Acetyl-O-demethylpuromycin + S-Adenosyl-L-methionine <=> N-Acetylpuromycin + S-Adenosyl-L-homocysteine
+EQUATION    C07031 + C00019 <=> C07032 + C00021
+COMMENT     DmpM
+            Ref.1. The Journal of Biological chemistry; vol.271, No.3, Jan 19, 
+            pp.1579-1590, 1996
+RCLASS      RC00003  C00019_C00021
+            RC00392  C07031_C07032
+ENZYME      2.1.1.38
+PATHWAY     rn00231  Puromycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12635  O-demethylpuromycin O-methyltransferase [EC:2.1.1.38]
+///

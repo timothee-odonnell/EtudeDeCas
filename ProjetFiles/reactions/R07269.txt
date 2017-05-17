@@ -1,0 +1,7 @@
+ENTRY       R07269                      Reaction
+NAME        di-trans,poly-cis-decaprenyl-diphosphate:isopentenyl-diphosphate undecaprenylcistransferase
+DEFINITION  di-trans,poly-cis-Decaprenyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + di-trans,poly-cis-Undecaprenyl diphosphate
+EQUATION    C04509 + C00129 <=> C00013 + C04574
+RCLASS      RC00279  C00129_C04574
+ENZYME      2.5.1.-
+///

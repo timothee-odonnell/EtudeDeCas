@@ -1,0 +1,11 @@
+ENTRY       R10738                      Reaction
+DEFINITION  C20818 <=> C20819
+EQUATION    C20818 <=> C20819
+COMMENT     thnP, radical SAM methyltransferase
+            incomplete reaction
+RCLASS      RC03266  C20818_C20819
+ENZYME      2.1.1.-
+PATHWAY     rn00332  Carbapenem biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K18564  methyltransferase [EC:2.1.1.-]
+///

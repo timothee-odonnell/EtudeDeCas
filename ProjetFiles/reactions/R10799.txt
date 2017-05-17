@@ -1,0 +1,8 @@
+ENTRY       R10799                      Reaction
+NAME        dihydrosanguinarine:NADP+ oxidoreductase
+DEFINITION  Dihydrosanguinarine + NADP+ <=> Sanguinarine + NADPH + H+
+EQUATION    C05191 + C00006 <=> C06162 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC01204  C05191_C06162
+ENZYME      1.3.1.107
+///

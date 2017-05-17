@@ -1,0 +1,10 @@
+ENTRY       R01750                      Reaction
+NAME        D-Glycerate:NADP+ oxidoreductase (carboxylating)
+DEFINITION  D-Glycerate + NADP+ + CO2 <=> 2-Hydroxy-3-oxosuccinate + NADPH + H+
+EQUATION    C00258 + C00006 + C00011 <=> C03459 + C00005 + C00080
+COMMENT     NAD+ (see R01749)
+RCLASS      RC00001  C00005_C00006
+            RC00129  C00258_C03459
+ENZYME      1.1.1.92
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+///

@@ -1,0 +1,10 @@
+ENTRY       R01559                      Reaction
+NAME        Succinyl-CoA:oxalate CoA-transferase
+DEFINITION  Succinyl-CoA + Oxalate <=> Succinate + Oxalyl-CoA
+EQUATION    C00091 + C00209 <=> C00042 + C00313
+RCLASS      RC00014  C00042_C00091
+            RC00179  C00209_C00313
+ENZYME      2.8.3.2
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+            rn01100  Metabolic pathways
+///

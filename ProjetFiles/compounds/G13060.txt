@@ -1,0 +1,34 @@
+ENTRY       G13060                      Glycan
+NAME        alpha-Kdo-(2->8)-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA
+COMPOSITION (GlcN)2 (Kdo)3 (P)2 (acyl)4
+REMARK      Same as: C19875
+REACTION    R09764 R09766
+ENZYME      2.4.99.14       2.4.99.15
+REFERENCE   1  [PMID:8748024]
+            Lobau S, Mamat U, Brabetz W, Brade H
+            Molecular cloning, sequence analysis, and functional characterization of the lipopolysaccharide biosynthetic gene kdtA encoding 3-deoxy-alpha-D-manno-octulosonic acid transferase of Chlamydia pneumoniae strain TW-183.
+            Mol. Microbiol. 18 (1995) 391-9.
+NODE        11
+            1   P        23.6   3.7
+            2   acyl     16.6  -4.3
+            3   GlcN     15.6   3.7
+            4   acyl     13.6  -4.3
+            5   acyl      6.6  -4.3
+            6   GlcN      5.6   3.7
+            7   acyl      3.6  -4.3
+            8   P        -1.4  -4.3
+            9   Kdo      -4.4   3.7
+            10  Kdo     -14.4   3.7
+            11  Kdo     -24.4   3.6
+EDGE        10
+            1     3:a1    1    
+            2     3:2     2    
+            3     4       3:3  
+            4     6:b1    3:6  
+            5     6:2     5    
+            6     7       6:3  
+            7     8       6:4  
+            8     9:a2    6:6  
+            9    10:a2    9:4  
+            10   11:a2   10:8  
+///

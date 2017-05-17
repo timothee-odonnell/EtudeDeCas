@@ -1,0 +1,11 @@
+ENTRY       R00719                      Reaction
+NAME        ITP phosphohydrolase
+DEFINITION  ITP + H2O <=> IDP + Orthophosphate
+EQUATION    C00081 + C00001 <=> C00104 + C00009
+RCLASS      RC00002  C00081_C00104
+ENZYME      3.6.1.5
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K01510  apyrase [EC:3.6.1.5]
+            K14641  apyrase [EC:3.6.1.5]
+            K14642  golgi apyrase [EC:3.6.1.5]
+///

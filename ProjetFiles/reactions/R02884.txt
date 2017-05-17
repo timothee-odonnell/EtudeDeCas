@@ -1,0 +1,7 @@
+ENTRY       R02884                      Reaction
+NAME        ATP:Caldesmon phosphotransferase (Ca2+/calmodulin-dependent)
+DEFINITION  ATP + Caldesmon <=> ADP + Caldesmon phosphate
+EQUATION    C00002 + C00759 <=> C00008 + C01022
+RCLASS      RC00002  C00002_C00008
+ENZYME      2.7.11.17
+///

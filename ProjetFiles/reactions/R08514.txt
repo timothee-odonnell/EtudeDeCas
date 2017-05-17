@@ -1,0 +1,7 @@
+ENTRY       R08514                      Reaction
+NAME        phosphoramidate:hexose 1-phosphotransferase
+DEFINITION  Phosphoramidate + D-Glucose <=> D-Glucose 1-phosphate + Ammonia
+EQUATION    C02306 + C00031 <=> C00103 + C00014
+RCLASS      RC00078  C00031_C00103
+ENZYME      2.7.1.62
+///

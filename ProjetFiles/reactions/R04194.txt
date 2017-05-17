@@ -1,0 +1,11 @@
+ENTRY       R04194                      Reaction
+NAME        Sucrose:2,1-beta-D-fructan 1-beta-D-fructosyltransferase
+DEFINITION  Sucrose + (2,1-beta-D-Fructosyl)n <=> D-Glucose + (2,1-beta-D-Fructosyl)n
+EQUATION    C00089 + C03323 <=> C00031 + C03323
+REMARK      Same as: R06059
+RCLASS      RC00077  C00031_C00089
+            RC00247  C03323_C03323
+ENZYME      2.4.1.9
+PATHWAY     rn00500  Starch and sucrose metabolism
+ORTHOLOGY   K20811  inulosucrase [EC:2.4.1.9]
+///

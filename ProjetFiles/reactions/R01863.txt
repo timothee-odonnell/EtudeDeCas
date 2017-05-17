@@ -1,0 +1,11 @@
+ENTRY       R01863                      Reaction
+NAME        inosine:phosphate alpha-D-ribosyltransferase
+DEFINITION  Inosine + Orthophosphate <=> Hypoxanthine + alpha-D-Ribose 1-phosphate
+EQUATION    C00294 + C00009 <=> C00262 + C00620
+RCLASS      RC00063  C00262_C00294
+ENZYME      2.4.2.1         2.4.2.15
+PATHWAY     rn00230  Purine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]
+            K03784  purine-nucleoside phosphorylase [EC:2.4.2.1]
+///

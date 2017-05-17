@@ -1,0 +1,7 @@
+ENTRY       R08847                      Reaction
+DEFINITION  3,4-Dihydroxyphenylpropanoate <=> 3-(3,4-Dihydroxyphenyl)lactate
+EQUATION    C10447 <=> C01207
+COMMENT     unclear reaction
+RCLASS      RC02643  C01207_C10447
+PATHWAY     rn00350  Tyrosine metabolism
+///

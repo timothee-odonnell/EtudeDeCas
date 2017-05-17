@@ -1,0 +1,12 @@
+ENTRY       R08362                      Reaction
+NAME        trypanothione:hydroperoxide oxidoreductase
+DEFINITION  Trypanothione + ROOH <=> Trypanothione disulfide + H2O + ROH
+EQUATION    C02090 + C15498 <=> C03170 + C00001 + C01335
+RCLASS      RC01003  C02090_C03170
+            RC01872  C01335_C15498
+ENZYME      1.11.1.15
+PATHWAY     rn00480  Glutathione metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K11185  cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin [EC:1.11.1.15]
+            K11186  mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin [EC:1.11.1.15]
+///

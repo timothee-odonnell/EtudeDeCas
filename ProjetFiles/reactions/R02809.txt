@@ -1,0 +1,9 @@
+ENTRY       R02809                      Reaction
+NAME        3'-Phosphoadenylylsulfate:amine N-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Amine <=> Adenosine 3',5'-bisphosphate + Sulfamate
+EQUATION    C00053 + C00706 <=> C00054 + C01614
+COMMENT     general reaction (see R01861)
+RCLASS      RC00007  C00053_C00054
+            RC01537  C00706_C01614
+ENZYME      2.8.2.3
+///

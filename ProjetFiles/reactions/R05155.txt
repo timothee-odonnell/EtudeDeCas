@@ -1,0 +1,7 @@
+ENTRY       R05155                      Reaction
+NAME        2-methylquinoline-3,4-diol 2,4-dioxygenase (carbon monoxide-forming)
+DEFINITION  2-Methylquinoline-3,4-diol + Oxygen <=> N-Acetylanthranilate + CO
+EQUATION    C06331 + C00007 <=> C06332 + C00237
+RCLASS      RC01285  C06331_C06332
+ENZYME      1.13.11.48
+///

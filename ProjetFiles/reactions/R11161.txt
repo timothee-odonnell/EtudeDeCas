@@ -1,0 +1,8 @@
+ENTRY       R11161                      Reaction
+DEFINITION  Dibenzothiophene + Reduced FMN + Oxygen <=> Dibenzothiophene-5-oxide + FMN + H2O
+EQUATION    C20125 + C01847 + C00007 <=> C21149 + C00061 + C00001
+COMMENT     first step of two-step reaction (see R11163, R11161+R11162)
+RCLASS      RC00126  C00061_C01847
+            RC03378  C20125_C21149
+ENZYME      1.14.14.21
+///

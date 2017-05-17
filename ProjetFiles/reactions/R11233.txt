@@ -1,0 +1,10 @@
+ENTRY       R11233                      Reaction
+DEFINITION  5-epi-Valiolone <=> Valienone + H2O
+EQUATION    C17694 <=> C17696 + C00001
+RCLASS      RC03398  C17694_C17696
+ENZYME      4.2.1.-
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20432  5-epi-valiolone dehydratase [EC:4.2.1.-]
+///

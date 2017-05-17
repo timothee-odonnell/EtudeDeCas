@@ -1,0 +1,8 @@
+ENTRY       R10526                      Reaction
+NAME        isovaleryl-CoA:S-adenosyl-L-methionine isovaleryltranserase (lactone-forming, methylthioadenosine-releasing)
+DEFINITION  3-Methylbutanoyl-CoA + S-Adenosyl-L-methionine <=> CoA + 5'-Methylthioadenosine + N-Isovaleryl-L-homoserine lactone
+EQUATION    C02939 + C00019 <=> C00010 + C00170 + C20673
+RCLASS      RC00004  C00010_C02939
+            RC00021  C00019_C00170
+ENZYME      2.3.1.228
+///

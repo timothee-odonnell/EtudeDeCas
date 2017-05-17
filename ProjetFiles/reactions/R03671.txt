@@ -1,0 +1,7 @@
+ENTRY       R03671                      Reaction
+NAME        D-Fuconate hydro-lyase
+DEFINITION  D-Fuconate <=> 2-Dehydro-3-deoxy-D-fuconate + H2O
+EQUATION    C01680 <=> C06159 + C00001
+RCLASS      RC00543  C01680_C06159
+ENZYME      4.2.1.67
+///

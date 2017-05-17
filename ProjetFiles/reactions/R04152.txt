@@ -1,0 +1,13 @@
+ENTRY       R04152                      Reaction
+NAME        (2-Aminoethyl)phosphonate:pyruvate aminotransferase
+DEFINITION  2-Aminoethylphosphonate + Pyruvate <=> Phosphonoacetaldehyde + L-Alanine
+EQUATION    C03557 + C00022 <=> C03167 + C00041
+RCLASS      RC00008  C00022_C00041
+            RC00062  C03167_C03557
+ENZYME      2.6.1.37
+PATHWAY     rn00440  Phosphonate and phosphinate metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K03430  2-aminoethylphosphonate-pyruvate transaminase [EC:2.6.1.37]
+            K09469  2-aminoethylphosphonate-pyruvate transaminase
+///

@@ -1,0 +1,8 @@
+ENTRY       R11225                      Reaction
+NAME        dimethylallyl-phosphate:FMNH2 prenyltransferase
+DEFINITION  Dimethylallyl phosphate + Reduced FMN <=> Prenylated FMNH2 + Orthophosphate
+EQUATION    C21214 + C01847 <=> C21215 + C00009
+RCLASS      RC03392  C01847_C21215
+ENZYME      2.5.1.129
+ORTHOLOGY   K03186  flavin prenyltransferase [EC:2.5.1.129]
+///

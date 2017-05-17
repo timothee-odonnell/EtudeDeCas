@@ -1,0 +1,8 @@
+ENTRY       R11542                      Reaction
+NAME        2-aminobenzoylacetyl-CoA hydrolase
+DEFINITION  2-Aminobenzoylacetyl-CoA + H2O <=> 2-Aminobenzoylacetate + CoA
+EQUATION    C21452 + C00001 <=> C21453 + C00010
+RCLASS      RC00014  C21452_C21453
+ENZYME      3.1.2.32
+ORTHOLOGY   K20257  regulatory protein PqsE
+///

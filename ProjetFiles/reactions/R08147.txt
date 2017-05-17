@@ -1,0 +1,10 @@
+ENTRY       R08147                      Reaction
+NAME        S-adenosyl-L-methionine:(2E,6E)-farnesoate O-methyltransferase
+DEFINITION  Farnesoic acid + S-Adenosyl-L-methionine <=> Methyl farnesoate + S-Adenosyl-L-homocysteine
+EQUATION    C16502 + C00019 <=> C16503 + C00021
+RCLASS      RC00460  C16502_C16503
+ENZYME      2.1.1.325
+PATHWAY     rn00981  Insect hormone biosynthesis
+ORTHOLOGY   K10718  juvenile hormone-III synthase [EC:2.1.1.325]
+            K15824  farsoic acid methyltransferase
+///

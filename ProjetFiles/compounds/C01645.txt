@@ -1,0 +1,9 @@
+ENTRY       C01645                      Compound
+NAME        tRNA(Leu)
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R03657 R03813 R10334 R10336 R11443 R11444 R11547 R11548
+ENZYME      2.3.2.6         2.3.2.20        2.3.2.22        2.3.2.29        
+            6.1.1.4
+DBLINKS     PubChem: 4794
+            ChEBI: 29169
+///

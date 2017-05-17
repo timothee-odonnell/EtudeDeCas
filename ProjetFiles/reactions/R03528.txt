@@ -1,0 +1,8 @@
+ENTRY       R03528                      Reaction
+NAME        L-cysteine-S-conjugate aryl-thiol-lyase (deaminating; pyruvate-forming)
+DEFINITION  L-Cysteine-S-conjugate + H2O <=> Aryl thiol + Ammonia + Pyruvate
+EQUATION    C02882 + C00001 <=> C01336 + C00014 + C00022
+RCLASS      RC00488  C00022_C02882
+            RC00815  C01336_C02882
+ENZYME      4.4.1.13
+///

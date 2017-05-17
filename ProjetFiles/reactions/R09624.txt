@@ -1,0 +1,9 @@
+ENTRY       R09624                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (germacrene-C-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> Germacrene C + Diphosphate
+EQUATION    C00448 <=> C19747 + C00013
+RCLASS      RC02587  C00448_C19747
+ENZYME      4.2.3.60
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+ORTHOLOGY   K15802  germacrene C synthase [EC:4.2.3.60]
+///

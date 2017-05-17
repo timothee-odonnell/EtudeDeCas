@@ -1,0 +1,9 @@
+ENTRY       R07307                      Reaction
+NAME        dCTP aminohydrolase (dUMP-forming)
+DEFINITION  dCTP + 2 H2O <=> dUMP + Diphosphate + Ammonia
+EQUATION    C00458 + 2 C00001 <=> C00365 + C00013 + C00014
+RCLASS      RC01825  C00365_C00458
+ENZYME      3.5.4.30
+PATHWAY     rn00240  Pyrimidine metabolism
+ORTHOLOGY   K09887  dCTP deaminase (dUMP-forming) [EC:3.5.4.30]
+///

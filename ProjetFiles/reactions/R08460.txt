@@ -1,0 +1,7 @@
+ENTRY       R08460                      Reaction
+DEFINITION  (S)-Reticuline <=> (S)-Isoboldine
+EQUATION    C02105 <=> C09541
+COMMENT     oxidoreduction
+            incomplete reaction
+RCLASS      RC02197  C02105_C09541
+///

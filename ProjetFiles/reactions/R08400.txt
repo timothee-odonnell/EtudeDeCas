@@ -1,0 +1,8 @@
+ENTRY       R08400                      Reaction
+NAME        poly-cis-polyprenyl-diphosphate:isopentenyl-diphosphate polyprenyl-cis-transferase
+DEFINITION  poly-cis-Polyprenyl diphosphate + Isopentenyl diphosphate <=> poly-cis-Polyprenyl diphosphate longer by one C5 unit + Diphosphate
+EQUATION    C04093 + C00129 <=> C16689 + C00013
+COMMENT     see R03917
+RCLASS      RC00279  C00129_C16689
+ENZYME      2.5.1.20
+///

@@ -1,0 +1,24 @@
+ENTRY       G11136                      Glycan
+COMPOSITION (Gal)2 (GalNAc)1 (GlcNAc)1 (Ser/Thr)1
+MASS        730.7 (Ser/Thr)
+REACTION    R07617
+ENZYME      2.4.1.-
+REFERENCE   1  [PMID:14631106]
+            Wu AM.
+            Carbohydrate structural units in glycoproteins and polysaccharides as important ligands for Gal and GalNAc reactive lectins.
+            J. Biomed. Sci. 10 (2003) 676-88.
+DBLINKS     CCSD: 658 3766
+            GlycomeDB: 488
+            JCGGDB: JCGG-STR025848
+NODE        5
+            1   Ser/Thr    15     0
+            2   GalNAc      5     0
+            3   GlcNAc     -5     5
+            4   Gal        -5    -5
+            5   Gal       -15     5
+EDGE        4
+            1     2:a1    1    
+            2     3:b1    2:6  
+            3     4:b1    2:3  
+            4     5:b1    3:4  
+///

@@ -1,0 +1,29 @@
+ENTRY       C20798                      Compound
+NAME        2-Hydroxy-3-oxopropane-1-sulfonate;
+            3-Sulfolactaldehyde
+FORMULA     C3H6O5S
+EXACT_MASS  153.9936
+MOL_WEIGHT  154.1417
+REACTION    R10719 R10760
+ENZYME      1.1.1.373       4.1.2.57
+DBLINKS     PubChem: 254741265
+ATOM        9
+            1   O4a O    17.7800  -16.3800
+            2   C4a C    19.0400  -17.0800
+            3   C1c C    20.2300  -16.3800
+            4   C1b C    21.4200  -17.0800
+            5   S4a S    22.8200  -17.0800
+            6   O1a O    20.2300  -14.9800
+            7   O1d O    22.8200  -18.4800
+            8   O1d O    24.2200  -17.0800
+            9   O1d O    22.8200  -15.6800
+BOND        8
+            1     2   3 1
+            2     1   2 2
+            3     3   6 1
+            4     3   4 1
+            5     5   7 2
+            6     5   8 2
+            7     4   5 1
+            8     5   9 1
+///

@@ -1,0 +1,8 @@
+ENTRY       R05760                      Reaction
+NAME        S-adenosyl-L-methionine:cycloartenol 24-C-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Cycloartenol <=> S-Adenosyl-L-homocysteine + (24R)-24-Methylcycloarta-25-en-3-beta-ol
+EQUATION    C00019 + C01902 <=> C00021 + C11513
+RCLASS      RC00003  C00019_C00021
+            RC02680  C01902_C11513
+ENZYME      2.1.1.142
+///
