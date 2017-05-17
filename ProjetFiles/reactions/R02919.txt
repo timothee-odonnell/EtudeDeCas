@@ -1,0 +1,12 @@
+ENTRY       R02919                      Reaction
+NAME        4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)
+DEFINITION  L-Adrenaline + H2O + Oxygen <=> 3,4-Dihydroxymandelaldehyde + Methylamine + Hydrogen peroxide
+EQUATION    C00788 + C00001 + C00007 <=> C05577 + C00218 + C00027
+RCLASS      RC00807  C00218_C00788
+            RC00808  C00788_C05577
+            RC02755  C00007_C00027
+ENZYME      1.4.3.4
+PATHWAY     rn00350  Tyrosine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+///

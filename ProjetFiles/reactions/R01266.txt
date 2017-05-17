@@ -1,0 +1,8 @@
+ENTRY       R01266                      Reaction
+NAME        1-beta-Aspartyl-N-acetyl-D-glucosaminylamine L-asparaginohydrolase
+DEFINITION  N4-(Acetyl-beta-D-glucosaminyl)asparagine + H2O <=> N-Acetyl-D-glucosamine + L-Asparagine
+EQUATION    C04540 + C00001 <=> C00140 + C00152
+RCLASS      RC00481  C00140_C04540
+            RC00482  C00152_C04540
+ENZYME      3.2.2.11
+///

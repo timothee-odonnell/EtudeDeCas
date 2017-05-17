@@ -1,0 +1,9 @@
+ENTRY       R07196                      Reaction
+NAME        2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan,NADPH:oxygen oxidoreductase (cyclizing)
+DEFINITION  Glyceocarpin + NADPH + H+ + Oxygen <=> Glyceollin III + NADP+ + 2 H2O
+EQUATION    C15509 + C00005 + C00080 + C00007 <=> C15511 + C00006 + 2 C00001
+RCLASS      RC00001  C00005_C00006
+            RC02070  C15509_C15511
+ENZYME      1.14.13.85
+PATHWAY     rn00943  Isoflavonoid biosynthesis
+///

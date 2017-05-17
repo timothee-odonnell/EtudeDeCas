@@ -1,0 +1,7 @@
+ENTRY       R11356                      Reaction
+DEFINITION  (25S)-26-Oxocholest-4-en-3-one + NADH + H+ + Oxygen <=> Delta4-Dafachronic acid + NAD+ + H2O
+EQUATION    C21304 + C00004 + C00080 + C00007 <=> C21076 + C00003 + C00001
+COMMENT     last step of three-step reaction (see R11357, R09859+R11355+R11356)
+RCLASS      RC00242  C21076_C21304
+ENZYME      1.14.13.141
+///

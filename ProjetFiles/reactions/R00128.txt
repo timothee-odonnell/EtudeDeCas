@@ -1,0 +1,8 @@
+ENTRY       R00128                      Reaction
+NAME        Adenosine-tetraphosphate phosphohydrolase
+DEFINITION  Adenosine tetraphosphate + H2O <=> ATP + Orthophosphate
+EQUATION    C03483 + C00001 <=> C00002 + C00009
+RCLASS      RC00002  C00002_C03483
+ENZYME      3.6.1.14
+PATHWAY     rn00230  Purine metabolism
+///

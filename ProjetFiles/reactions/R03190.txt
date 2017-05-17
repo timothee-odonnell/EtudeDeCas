@@ -1,0 +1,7 @@
+ENTRY       R03190                      Reaction
+NAME        UDPglucose:phosphopolyprenol D-glucosyltransferase
+DEFINITION  UDP-glucose + Polyprenyl phosphate <=> UDP + Polyprenylphosphate-glucose
+EQUATION    C00029 + C01048 <=> C00015 + C03799
+RCLASS      RC00005  C00015_C00029  C01048_C03799
+ENZYME      2.4.1.78
+///

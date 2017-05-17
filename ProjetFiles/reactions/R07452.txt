@@ -1,0 +1,10 @@
+ENTRY       R07452                      Reaction
+NAME        Campest-4-en-3-one,NADPH:brassinosteroid C22alpha-hydroxylase
+DEFINITION  Campest-4-en-3-one + Oxygen + NADPH <=> 22alpha-Hydroxy-campest-4-en-3-one + NADP+ + H2O
+EQUATION    C15785 + C00007 + C00005 <=> C15796 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00773  C15785_C15796
+ENZYME      1.14.13.-
+PATHWAY     rn00905  Brassinosteroid biosynthesis
+ORTHOLOGY   K09587  steroid 22-alpha-hydroxylase [EC:1.14.13.-]
+///

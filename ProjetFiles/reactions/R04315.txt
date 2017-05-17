@@ -1,0 +1,9 @@
+ENTRY       R04315                      Reaction
+NAME        2'-Deoxyribonucleoside triphosphate:oxydized-thioredoxin 2'-oxidoreductase
+DEFINITION  2'-Deoxyribonucleoside triphosphate + Thioredoxin disulfide + H2O <=> Ribonucleoside triphosphate + Thioredoxin
+EQUATION    C04283 + C00343 + C00001 <=> C03802 + C00342
+COMMENT     general reaction (see R02014, R02020, R02022 and R02023)
+RCLASS      RC00013  C00342_C00343
+            RC00613  C03802_C04283
+ENZYME      1.17.4.2
+///

@@ -1,0 +1,10 @@
+ENTRY       R02099                      Reaction
+NAME        ATP:deoxyuridine 5'-phosphotransferase
+DEFINITION  ATP + Deoxyuridine <=> ADP + dUMP
+EQUATION    C00002 + C00526 <=> C00008 + C00365
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00365_C00526
+ENZYME      2.7.1.21
+PATHWAY     rn00240  Pyrimidine metabolism
+ORTHOLOGY   K00857  thymidine kinase [EC:2.7.1.21]
+///

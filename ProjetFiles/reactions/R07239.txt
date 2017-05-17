@@ -1,0 +1,6 @@
+ENTRY       R07239                      Reaction
+DEFINITION  S-Adenosyl-L-methionine + [Cytochrome c]-arginine <=> S-Adenosyl-L-homocysteine + [Cytochrome c]-N(omega)-methylarginine
+EQUATION    C00019 + C15528 <=> C00021 + C15529
+RCLASS      RC00003  C00019_C00021
+            RC02120  C15528_C15529
+///

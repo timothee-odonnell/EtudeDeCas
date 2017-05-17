@@ -1,0 +1,10 @@
+ENTRY       R11428                      Reaction
+NAME        cis-4-hydroxy-D-proline:acceptor oxidoreductase
+DEFINITION  cis-4-Hydroxy-D-proline + Acceptor <=> 1-Pyrroline-4-hydroxy-2-carboxylate + Reduced acceptor
+EQUATION    C03440 + C00028 <=> C04282 + C00030
+RCLASS      RC00135  C03440_C04282
+ENZYME      1.5.99.-
+PATHWAY     rn00330  Arginine and proline metabolism
+ORTHOLOGY   K21060  D-hydroxyproline dehydrogenase [EC:1.5.99.-]
+            K21061  D-hydroxyproline dehydrogenase [EC:1.5.99.-]
+///

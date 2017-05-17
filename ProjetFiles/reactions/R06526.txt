@@ -1,0 +1,10 @@
+ENTRY       R06526                      Reaction
+NAME        dihydroceramide,ferrocytochrome b5:oxygen oxidoreductase (C4-hydroxylating)
+DEFINITION  Dihydroceramide + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> Phytoceramide + 2 Ferricytochrome b5 + H2O
+EQUATION    C12126 + 2 C00999 + C00007 + 2 C00080 <=> C12145 + 2 C00996 + C00001
+RCLASS      RC00773  C12126_C12145
+ENZYME      1.14.18.5
+PATHWAY     rn00600  Sphingolipid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K04713  sphinganine C4-monooxygenase [EC:1.14.18.5]
+///

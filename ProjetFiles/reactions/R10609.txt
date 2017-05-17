@@ -1,0 +1,8 @@
+ENTRY       R10609                      Reaction
+NAME        UDP-alpha-D-xylose:kaempferol 3-O-D-xylosyltransferase
+DEFINITION  UDP-D-xylose + Kaempferol <=> UDP + Kaempferol 3-O-beta-D-xyloside
+EQUATION    C00190 + C05903 <=> C00015 + C20727
+RCLASS      RC00005  C00015_C00190
+            RC00171  C05903_C20727
+ENZYME      2.4.2.56
+///

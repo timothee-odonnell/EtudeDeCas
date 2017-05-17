@@ -1,0 +1,8 @@
+ENTRY       R04169                      Reaction
+NAME        S-Adenosyl-L-methionine:2-methylpropanal-oxime O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + (E)-2-Methylpropanal oxime <=> S-Adenosyl-L-homocysteine + 2-Methylpropanal O-methyloxime
+EQUATION    C00019 + C03219 <=> C00021 + C03982
+RCLASS      RC00003  C00019_C00021
+            RC01094  C03219_C03982
+ENZYME      2.1.1.91
+///

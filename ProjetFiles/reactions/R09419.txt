@@ -1,0 +1,19 @@
+ENTRY       R09419                      Reaction
+NAME        acyl-CoA:malonyl-CoA C-acyltransferase (decarboxylating)
+DEFINITION  Malonyl-CoA + Acyl-CoA <=> 3-Oxoacyl-CoA + CoA + CO2
+EQUATION    C00083 + C00040 <=> C00264 + C00010 + C00011
+RCLASS      RC00004  C00010_C00040
+            RC02888  C00083_C00264
+            RC02997  C00040_C00264
+ENZYME      2.3.1.199
+ORTHOLOGY   K10203  elongation of very long chain fatty acids protein 6 [EC:2.3.1.199]
+            K10205  elongation of very long chain fatty acids protein 2 [EC:2.3.1.199]
+            K10244  elongation of very long chain fatty acids protein 5 [EC:2.3.1.199]
+            K10245  fatty acid elongase 2 [EC:2.3.1.199]
+            K10246  fatty acid elongase 3 [EC:2.3.1.199]
+            K10247  elongation of very long chain fatty acids protein 1 [EC:2.3.1.199]
+            K10248  elongation of very long chain fatty acids protein 3 [EC:2.3.1.199]
+            K10249  elongation of very long chain fatty acids protein 4 [EC:2.3.1.199]
+            K10250  elongation of very long chain fatty acids protein 7 [EC:2.3.1.199]
+            K15397  3-ketoacyl-CoA synthase [EC:2.3.1.199]
+///

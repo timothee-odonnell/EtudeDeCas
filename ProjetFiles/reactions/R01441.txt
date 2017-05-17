@@ -1,0 +1,9 @@
+ENTRY       R01441                      Reaction
+NAME        ATP:cellobiose 6-phosphotransferase
+DEFINITION  ATP + Cellobiose <=> ADP + 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose
+EQUATION    C00002 + C00185 <=> C00008 + C04534
+REMARK      Same as: R06176
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00185_C04534
+ENZYME      2.7.1.85
+///

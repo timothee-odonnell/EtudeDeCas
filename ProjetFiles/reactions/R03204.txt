@@ -1,0 +1,8 @@
+ENTRY       R03204                      Reaction
+NAME        2,5-Dihydroxypyridine:oxygen 5,6-oxidoreductase
+DEFINITION  2,5-Dihydroxypyridine + Oxygen + H2O <=> Maleamate + Formate
+EQUATION    C01059 + C00007 + C00001 <=> C01596 + C00058
+COMMENT     see R09125+R09126
+RCLASS      RC00876  C00058_C01059
+            RC02711  C01059_C01596
+///

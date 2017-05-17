@@ -1,0 +1,9 @@
+ENTRY       R11398                      Reaction
+NAME        beta-D-mannopyranosyl-(1->2)-D-mannopyranose:phosphate alpha-D-mannosyltransferase
+DEFINITION  beta-1,2-Mannobiose + Orthophosphate <=> D-Mannose + D-Mannose 1-phosphate
+EQUATION    C21336 + C00009 <=> C00159 + C00636
+RCLASS      RC00049  C00159_C21336
+            RC02748  C00636_C21336
+ENZYME      2.4.1.339
+ORTHOLOGY   K20885  beta-1,2-mannobiose phosphorylase / 1,2-beta-oligomannan phosphorylase [EC:2.4.1.339 2.4.1.340]
+///

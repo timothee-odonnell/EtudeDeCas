@@ -1,0 +1,6 @@
+ENTRY       R05108                      Reaction
+DEFINITION  Fuc-alpha1->2Gal-beta1->3GlcNAc-beta1->3Gal-beta1->4Glc-beta1-1'Cer + UDP-N-acetyl-D-galactosamine <=> Type A glycolipid + UDP
+EQUATION    C06131 + C00203 <=> C06132 + C00015
+RCLASS      RC00005  C00015_C00203
+            RC00049  C06131_C06132
+///

@@ -1,0 +1,8 @@
+ENTRY       R06046                      Reaction
+DEFINITION  beta-D-Mannosylphosphodecaprenol + 1,6-alpha-D-Mannosyloligosaccharide <=> Decaprenol phosphate + 1,6-alpha-D-Mannosyl-1,6-alpha-D-mannosyloligosaccharide
+EQUATION    C04150 + C04276 <=> C02970 + C04772
+REMARK      Same as: R06074
+RCLASS      RC00005  C02970_C04150
+            RC00059  C04276_C04772
+ENZYME      2.4.1.199
+///

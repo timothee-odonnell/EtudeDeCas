@@ -1,0 +1,9 @@
+ENTRY       R11183                      Reaction
+NAME        ATP:(S)-4,5-dihydroxypentane-2,3-dione 5-phosphotransferase
+DEFINITION  ATP + (S)-4,5-Dihydroxypentane-2,3-dione <=> ADP + (4S)-4-Hydroxy-5-phosphonooxypentane-2,3-dione
+EQUATION    C00002 + C11838 <=> C00008 + C20959
+RCLASS      RC00002  C00002_C00008
+            RC00017  C11838_C20959
+ENZYME      2.7.1.189
+ORTHOLOGY   K11216  autoinducer-2 kinase [EC:2.7.1.189]
+///

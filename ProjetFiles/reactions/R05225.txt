@@ -1,0 +1,13 @@
+ENTRY       R05225                      Reaction
+DEFINITION  Adenosyl cobyrinate a,c diamide + 4 L-Glutamine + 4 ATP + 4 H2O <=> Adenosyl cobyrinate hexaamide + 4 L-Glutamate + 4 Orthophosphate + 4 ADP
+EQUATION    C06506 + 4 C00064 + 4 C00002 + 4 C00001 <=> C06507 + 4 C00025 + 4 C00009 + 4 C00008
+COMMENT     multi-step reaction
+RCLASS      RC00002  C00002_C00008
+            RC00010  C00025_C00064
+            RC01302  C06506_C06507
+ENZYME      6.3.5.10
+PATHWAY     rn00860  Porphyrin and chlorophyll metabolism
+            rn01100  Metabolic pathways
+MODULE      M00122  Cobalamin biosynthesis, cobinamide => cobalamin
+ORTHOLOGY   K02232  adenosylcobyric acid synthase [EC:6.3.5.10]
+///

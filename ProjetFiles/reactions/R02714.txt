@@ -1,0 +1,7 @@
+ENTRY       R02714                      Reaction
+NAME        D-Arabinono-1,4-lactone lactonohydrolase
+DEFINITION  D-Arabinono-1,4-lactone + H2O <=> D-Arabinonate
+EQUATION    C00652 + C00001 <=> C00878
+RCLASS      RC00537  C00652_C00878
+ENZYME      3.1.1.30
+///

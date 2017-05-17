@@ -1,0 +1,7 @@
+ENTRY       R10723                      Reaction
+NAME        L-isoleucine,2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating)
+DEFINITION  L-Isoleucine + 2-Oxoglutarate + Oxygen <=> (4S)-4-Hydroxy-L-isoleucine + Succinate + CO2
+EQUATION    C00407 + C00026 + C00007 <=> C20802 + C00042 + C00011
+RCLASS      RC03258  C00407_C20802
+ENZYME      1.14.11.45
+///

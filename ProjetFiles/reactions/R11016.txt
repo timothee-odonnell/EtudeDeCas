@@ -1,0 +1,7 @@
+ENTRY       R11016                      Reaction
+DEFINITION  D-Arginine + Acceptor <=> Iminoarginine + Reduced acceptor
+EQUATION    C00792 + C00028 <=> C21026 + C00030
+COMMENT     first step of two-step reaction (see R11018, R11016+R11017)
+RCLASS      RC02566  C00792_C21026
+ENZYME      1.4.99.6
+///

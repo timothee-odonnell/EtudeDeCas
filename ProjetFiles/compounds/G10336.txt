@@ -1,0 +1,21 @@
+ENTRY       G10336                      Glycan
+NAME        Chitobiose;
+            Chito-oligosaccharide
+COMPOSITION (GlcNAc)2
+MASS        424.4
+REMARK      Same as: C01674
+REACTION    R06141
+ENZYME      3.2.1.52
+REFERENCE   1  [PMID:2110822]
+            Yamashita K, Inui K, Totani K, Kochibe N, Furukawa M, Okada S.
+            Characteristics of asparagine-linked sugar chains of sphingolipid activator protein 1 purified from normal human liver and GM1 gangliosidosis (type 1) liver.
+            Biochemistry. 29 (1990) 3030-9.
+DBLINKS     CCSD: 2302 4482 10049 10054 10811 13769 13771 16805 16927 18188 23507 23509 23511 23513 23544 26150 26151 27800 29212 29421 29574 29575 29576 29577 30359 30360 32367 33079 33861 34247 34270 34398 34405 35020 35027 35041 35086 35779 35839 35982 36296 37820 38159 38160 38161 38162 38271 38273 38274 39563 39622 41184 41683 41710 42212 42248 44405 44442 46779 46852 46853 47389 47511 47604 47801 47867 48007 48603 49378 49379 49380 49381 49716 50284 50737 50756
+            GlycomeDB: 16487
+            JCGGDB: JCGG-STR007002
+NODE        2
+            1   GlcNAc      0     0
+            2   GlcNAc    -10     0
+EDGE        1
+            1     2:b1    1:4  
+///

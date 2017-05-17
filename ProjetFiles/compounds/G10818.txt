@@ -1,0 +1,28 @@
+ENTRY       G10818                      Glycan
+COMPOSITION (GlcNAc)5 (Man)3 (Asn)1
+MASS        1502.4 (Asn)
+REACTION    R07622 R07624
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 7654 30029 34936 35724 43246 47826 47937
+            GlycomeDB: 1866
+            JCGGDB: JCGG-STR009323
+NODE        9
+            1   Asn        20    -2
+            2   GlcNAc     13    -2
+            3   GlcNAc      4    -2
+            4   Man        -5    -2
+            5   Man       -12     3
+            6   Man       -12    -7
+            7   GlcNAc    -20     8
+            8   GlcNAc    -20    -2
+            9   GlcNAc    -20    -7
+EDGE        8
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:b1    5:6  
+            7     8:b1    5:2  
+            8     9:b1    6:2  
+///

@@ -1,0 +1,7 @@
+ENTRY       R10516                      Reaction
+NAME        2-oxocarboxylate:ferredoxin 2-oxidoreductase (decarboxylating, CoA-acylating)
+DEFINITION  2-Oxo acid + CoA + 2 Oxidized ferredoxin <=> Acyl-CoA + CO2 + 2 Reduced ferredoxin + 2 H+
+EQUATION    C00161 + C00010 + 2 C00139 <=> C00040 + C00011 + 2 C00138 + 2 C00080
+RCLASS      RC00004  C00010_C00040
+ENZYME      1.2.7.11
+///

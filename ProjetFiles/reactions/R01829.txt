@@ -1,0 +1,17 @@
+ENTRY       R01829                      Reaction
+NAME        sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+DEFINITION  Sedoheptulose 1,7-bisphosphate <=> Glycerone phosphate + D-Erythrose 4-phosphate
+EQUATION    C00447 <=> C00111 + C00279
+RCLASS      RC00603  C00111_C00447
+            RC00604  C00279_C00447
+ENZYME      4.1.2.13
+PATHWAY     rn00710  Carbon fixation in photosynthetic organisms
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00165  Reductive pentose phosphate cycle (Calvin cycle)
+            M00167  Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P
+ORTHOLOGY   K01623  fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+            K01624  fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+            K11645  fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+///

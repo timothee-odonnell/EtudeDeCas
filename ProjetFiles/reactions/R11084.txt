@@ -1,0 +1,10 @@
+ENTRY       R11084                      Reaction
+NAME        L-allo-isoleucine:[peptidyl-carrier protein] ligase (AMP-forming)
+DEFINITION  ATP + L-allo-Isoleucine + Peptidyl-carrier protein <=> AMP + Diphosphate + L-allo-Isoleucyl-[peptidyl-carrier protein]
+EQUATION    C00002 + C21096 + C21097 <=> C00020 + C00013 + C21098
+COMMENT     Peptidyl-carrier protein is pcp domain of the enzyme itself [KO:K15646].
+RCLASS      RC00039  C21097_C21098
+            RC00137  C21096_C21098
+ENZYME      6.2.1.46
+ORTHOLOGY   K15646  coronamic acid synthetase CmaA, adenylation and thiolation didomain protein [EC:6.2.1.46]
+///

@@ -1,0 +1,10 @@
+ENTRY       R11229                      Reaction
+NAME        GTP:gentamicin-C 2''-O-phosphotransferase
+DEFINITION  GTP + Gentamicin C <=> GDP + Gentamicin C 2''-phosphate
+EQUATION    C00044 + C01918 <=> C00035 + C21240
+RCLASS      RC00002  C00035_C00044
+            RC00078  C01918_C21240
+ENZYME      2.7.1.190
+ORTHOLOGY   K17910  aminoglycoside 2''-phosphotransferase [EC:2.7.1.190]
+            K19883  bifunctional aminoglycoside 6'-N-acetyltransferase / aminoglycoside 2''-phosphotransferase [EC:2.3.1.82 2.7.1.190]
+///

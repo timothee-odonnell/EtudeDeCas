@@ -1,0 +1,13 @@
+ENTRY       G10531                      Glycan
+NAME        3-Ketolactose
+COMPOSITION (3-keto-Gal)1 (Glc)1
+MASS        340.3
+REMARK      Same as: C05403
+REACTION    R06144 R06219
+ENZYME      1.1.99.13       3.2.1.23
+NODE        2
+            1   Glc         5     0
+            2   3-keto-Gal    -5     0
+EDGE        1
+            1     2:b1    1:4  
+///

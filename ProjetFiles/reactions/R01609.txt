@@ -1,0 +1,8 @@
+ENTRY       R01609                      Reaction
+NAME        3-aci-Nitropropanoate:oxygen oxidoreductase
+DEFINITION  3-Oxopropanoate + Nitrite + Hydrogen peroxide <=> 3-aci-Nitropropanoate + Oxygen + H2O
+EQUATION    C00222 + C00088 + C00027 <=> C03071 + C00007 + C00001
+RCLASS      RC00564  C00222_C03071
+            RC02755  C00007_C00027
+ENZYME      1.7.3.5
+///

@@ -1,0 +1,9 @@
+ENTRY       R11103                      Reaction
+NAME        L-allo-isoleucyl-[peptidyl-carrier protein]:[peptidyl-carrier protein] L-allo-isoleucyltransferase
+DEFINITION  L-allo-Isoleucyl-[peptidyl-carrier protein] + Peptidyl-carrier protein <=> Peptidyl-carrier protein + L-allo-Isoleucyl-[peptidyl-carrier protein]
+EQUATION    C21098 + C21097 <=> C21097 + C21098
+COMMENT     transferring L-allo-isoleucyl group from CmaA [KO:K15646] to CmaD [KO:K15648]
+RCLASS      RC00039  C21097_C21098
+ENZYME      2.3.2.28
+ORTHOLOGY   K15647  coronamic acid synthetase CmaE, aminoacyltransferase [EC:2.3.2.28]
+///

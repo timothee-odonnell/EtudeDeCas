@@ -1,0 +1,8 @@
+ENTRY       R03526                      Reaction
+NAME        UDP-glucose:beta-D-glucosyltransferase (acceptor-unspecific)
+DEFINITION  UDP-glucose + ROH <=> UDP + beta-D-Glucoside
+EQUATION    C00029 + C01335 <=> C00015 + C00963
+COMMENT     general reaction
+ENZYME      2.4.1.35
+PATHWAY     rn00500  Starch and sucrose metabolism
+///

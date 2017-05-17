@@ -1,0 +1,10 @@
+ENTRY       R07659                      Reaction
+DEFINITION  UDP-L-Ara4O + L-Glutamate <=> UDP-L-Ara4N + 2-Oxoglutarate
+EQUATION    C16155 + C00025 <=> C16153 + C00026
+RCLASS      RC00006  C00025_C00026
+            RC01514  C16153_C16155
+ENZYME      2.6.1.87
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+MODULE      M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N
+ORTHOLOGY   K07806  UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]
+///

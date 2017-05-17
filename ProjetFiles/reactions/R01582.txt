@@ -1,0 +1,9 @@
+ENTRY       R01582                      Reaction
+NAME        D-Phenylalanine:2-oxoglutarate aminotransferase
+DEFINITION  D-Phenylalanine + 2-Oxoglutarate <=> Phenylpyruvate + D-Glutamate
+EQUATION    C02265 + C00026 <=> C00166 + C00217
+RCLASS      RC00006  C00026_C00217  C00166_C02265
+ENZYME      2.6.1.21
+PATHWAY     rn00360  Phenylalanine metabolism
+ORTHOLOGY   K00824  D-alanine transaminase [EC:2.6.1.21]
+///

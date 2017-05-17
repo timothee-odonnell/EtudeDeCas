@@ -1,0 +1,9 @@
+ENTRY       R01874                      Reaction
+NAME        D-cysteine sulfide-lyase (deaminating; pyruvate-forming)
+DEFINITION  D-Cysteine + H2O <=> Hydrogen sulfide + Ammonia + Pyruvate
+EQUATION    C00793 + C00001 <=> C00283 + C00014 + C00022
+RCLASS      RC00382  C00022_C00793
+ENZYME      4.4.1.15
+PATHWAY     rn00270  Cysteine and methionine metabolism
+ORTHOLOGY   K05396  D-cysteine desulfhydrase [EC:4.4.1.15]
+///

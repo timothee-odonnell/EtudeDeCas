@@ -1,0 +1,8 @@
+ENTRY       R08404                      Reaction
+NAME        acyl-phosphate:D-glucose phosphotransferase
+DEFINITION  Acyl phosphate + D-Glucose <=> Carboxylate + D-Glucose 6-phosphate
+EQUATION    C02133 + C00031 <=> C00060 + C00092
+RCLASS      RC00017  C00031_C00092
+            RC00043  C00060_C02133
+ENZYME      2.7.1.61
+///

@@ -1,0 +1,9 @@
+ENTRY       R03553                      Reaction
+NAME        3'-Phosphoadenylylsulfate:keratan 6'-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Keratan sulfate <=> Adenosine 3',5'-bisphosphate + Keratan sulfate
+EQUATION    C00053 + C00573 <=> C00054 + C00573
+RCLASS      RC00007  C00053_C00054
+            RC00134  C00573_C00573
+ENZYME      2.8.2.21
+PATHWAY     rn01120  Microbial metabolism in diverse environments
+///

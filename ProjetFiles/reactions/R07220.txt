@@ -1,0 +1,7 @@
+ENTRY       R07220                      Reaction
+NAME        deoxycholate:FAD oxidoreductase (7alpha-dehydroxylating)
+DEFINITION  Deoxycholic acid + FAD + H2O <=> Cholic acid + FADH2
+EQUATION    C04483 + C00016 + C00001 <=> C00695 + C01352
+RCLASS      RC00126  C00016_C01352
+            RC00661  C00695_C04483
+///

@@ -1,0 +1,19 @@
+ENTRY       G10558                      Glycan
+COMPOSITION (Rib-ol)1 (*)2 (P)1
+REMARK      Same as: C00653
+REACTION    R06181 R06182 R06235
+ENZYME      2.4.1.53        2.4.1.70        2.7.8.14
+DBLINKS     GlycomeDB: 33453
+NODE        4
+            1   *           9     0
+            2   P           3     0
+            3   Rib-ol     -2     0
+            4   *         -10     0
+EDGE        3
+            1     2       1    
+            2     3:1     2    
+            3     4       3:5  
+BRACKET     1  -6.0   1.0  -6.0  -1.0
+            1   5.0  -1.0   5.0   1.0
+            1 n
+///

@@ -1,0 +1,11 @@
+ENTRY       R04826                      Reaction
+NAME        7alpha-hydroxycholest-4-en-3-one,ferrocytochrome-b5:oxygen oxidoreductase (12alpha-hydroxylating)
+DEFINITION  7alpha-Hydroxycholest-4-en-3-one + 2 H+ + Oxygen + 2 Ferrocytochrome b5 <=> 4-Cholesten-7alpha,12alpha-diol-3-one + 2 Ferricytochrome b5 + H2O
+EQUATION    C05455 + 2 C00080 + C00007 + 2 C00999 <=> C17339 + 2 C00996 + C00001
+RCLASS      RC01218  C05455_C17339
+ENZYME      1.14.18.8
+PATHWAY     rn00120  Primary bile acid biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+ORTHOLOGY   K07431  sterol 12-alpha-hydroxylase [EC:1.14.18.8 1.14.13.96]
+///

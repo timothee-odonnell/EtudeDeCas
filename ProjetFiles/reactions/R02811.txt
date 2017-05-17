@@ -1,0 +1,13 @@
+ENTRY       R02811                      Reaction
+NAME        Cyanohydrin ketone-lyase
+DEFINITION  Cyanohydrin <=> Ketone + Cyanide ion
+EQUATION    C05712 <=> C01450 + C00177
+COMMENT     general reaction
+RCLASS      RC00784  C01450_C05712
+            RC02852  C00177_C05712
+ENZYME      4.1.2.10        4.1.2.11        4.1.2.46        4.1.2.47
+ORTHOLOGY   K08248  (R)-mandelonitrile lyase [EC:4.1.2.10]
+            K08249  hydroxymandelonitrile lyase [EC:4.1.2.11]
+            K13033  (S)-hydroxynitrile lyase [EC:4.1.2.47]
+            K14577  aliphatic (R)-hydroxynitrile lyase [EC:4.1.2.46]
+///

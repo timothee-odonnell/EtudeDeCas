@@ -1,0 +1,10 @@
+ENTRY       R08264                      Reaction
+DEFINITION  Codeine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Norcodeine + Formaldehyde + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C06174 + C03024 + C00007 <=> C16576 + C00067 + C03161 + C00001
+COMMENT     CYP3A4:N-demethylation
+RCLASS      RC01198  C06174_C16576
+            RC02299  C00067_C06174
+ENZYME      1.14.13.-
+PATHWAY     rn00982  Drug metabolism - cytochrome P450
+ORTHOLOGY   K17689  cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.13.67 1.14.13.97 1.14.13.157 1.14.13.-]
+///

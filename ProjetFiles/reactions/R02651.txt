@@ -1,0 +1,8 @@
+ENTRY       R02651                      Reaction
+NAME        N-acyl-D-mannosamine:NAD+ 1-oxidoreductase
+DEFINITION  N-Acyl-D-mannosamine + NAD+ <=> N-Acyl-D-mannosaminolactone + NADH + H+
+EQUATION    C00625 + C00003 <=> C03792 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00066  C00625_C03792
+ENZYME      1.1.1.233
+///

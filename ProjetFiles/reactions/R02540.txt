@@ -1,0 +1,11 @@
+ENTRY       R02540                      Reaction
+NAME        2-phenylacetamide amidohydrolase
+DEFINITION  2-Phenylacetamide + H2O <=> Phenylacetic acid + Ammonia
+EQUATION    C02505 + C00001 <=> C07086 + C00014
+RCLASS      RC00010  C02505_C07086
+ENZYME      3.5.1.4
+PATHWAY     rn00360  Phenylalanine metabolism
+            rn00643  Styrene degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K01426  amidase [EC:3.5.1.4]
+///

@@ -1,0 +1,8 @@
+ENTRY       R01854                      Reaction
+NAME        RCH2NH2:acceptor oxidoreductase (deaminating);
+            aralkylamine:acceptor oxidoreductase (deaminating)
+DEFINITION  RCH2NH2 + H2O + Acceptor <=> Aldehyde + Ammonia + Reduced acceptor
+EQUATION    C00375 + C00001 + C00028 <=> C00071 + C00014 + C00030
+COMMENT     general reaction
+RCLASS      RC01708  C00071_C00375
+///

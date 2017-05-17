@@ -1,0 +1,16 @@
+ENTRY       G03532                      Glycan
+COMPOSITION (Glc)1 (Xyl)1 (Ser)1
+MASS        294.3 (Ser)
+REACTION    R09290
+ENZYME      2.4.2.-
+DBLINKS     CCSD: 27712 49285
+            GlycomeDB: 9973
+            JCGGDB: JCGG-STR031321
+NODE        3
+            1   Ser         7     0
+            2   Glc         0     0
+            3   Xyl        -8     0
+EDGE        2
+            1     2:b1    1    
+            2     3:a1    2:3  
+///

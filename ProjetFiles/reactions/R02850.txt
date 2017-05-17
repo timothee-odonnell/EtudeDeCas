@@ -1,0 +1,9 @@
+ENTRY       R02850                      Reaction
+NAME        dATP:D-hexose 6-phosphotransferase
+DEFINITION  dATP + D-Hexose <=> dADP + D-Hexose 6-phosphate
+EQUATION    C00131 + C00738 <=> C00206 + C02965
+COMMENT     general reaction (see R01139, R01140, R01330, R01965 and R02868)
+RCLASS      RC00002  C00131_C00206
+            RC00017  C00738_C02965
+ENZYME      2.7.1.1
+///

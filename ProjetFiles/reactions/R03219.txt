@@ -1,0 +1,7 @@
+ENTRY       R03219                      Reaction
+NAME        Procollagen-L-proline,2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating)
+DEFINITION  Procollagen L-proline + 2-Oxoglutarate + Oxygen <=> Procollagen trans-4-hydroxy-L-proline + Succinate + CO2
+EQUATION    C01078 + C00026 + C00007 <=> C04398 + C00042 + C00011
+RCLASS      RC00478  C01078_C04398
+ENZYME      1.14.11.2
+///

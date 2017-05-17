@@ -1,0 +1,14 @@
+ENTRY       R05288                      Reaction
+DEFINITION  p-Xylene + Oxygen + NADH + H+ <=> 4-Methylbenzyl alcohol + NAD+ + H2O
+EQUATION    C06756 + C00007 + C00004 + C00080 <=> C06757 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC00269  C06756_C06757
+ENZYME      1.14.13.-
+PATHWAY     rn00622  Xylene degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00537  Xylene degradation, xylene => methylbenzoate
+ORTHOLOGY   K15757  xylene monooxygenase subunit XylM [EC:1.14.13.-]
+            K15758  xylene monooxygenase electron transfer component [EC:1.18.1.3]
+///

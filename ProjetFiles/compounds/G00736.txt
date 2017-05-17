@@ -1,0 +1,21 @@
+ENTRY       G00736                      Glycan
+NAME        Sda antigen
+COMPOSITION (Gal)2 (GalNAc)1 (GlcNAc)1 (Neu5Ac)1
+MASS        1039.9
+REACTION    R07609
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 810 818 5178 5179 8835 14231 14232 21333 28988 29565 36292 46437
+            GlycomeDB: 17686
+            JCGGDB: JCGG-STR008261
+NODE        5
+            1   Gal        13     0
+            2   GlcNAc      4     0
+            3   Gal        -5     0
+            4   GalNAc    -13     4
+            5   Neu5Ac    -13    -4
+EDGE        4
+            1     2:b1    1:3  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+///

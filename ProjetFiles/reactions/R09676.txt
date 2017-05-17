@@ -1,0 +1,10 @@
+ENTRY       R09676                      Reaction
+NAME        UDP-N-acetyl-D-glucosamine:protein-O-beta-N-acetyl-D-glucosaminyl transferase
+DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + [Protein]-L-serine <=> UDP + [Protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine
+EQUATION    C00043 + C02189 <=> C00015 + C19802
+RCLASS      RC00005  C00015_C00043
+            RC00059  C02189_C19802
+ENZYME      2.4.1.255
+ORTHOLOGY   K09667  protein O-GlcNAc transferase [EC:2.4.1.255]
+            K18134  protein O-GlcNAc transferase [EC:2.4.1.255]
+///

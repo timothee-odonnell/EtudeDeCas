@@ -1,0 +1,8 @@
+ENTRY       R10988                      Reaction
+NAME        UDP-alpha-D-glucose:beta-D-glucosyl-crocetin beta-1,6-glucosyltransferase
+DEFINITION  UDP-glucose + beta-D-Glucosyl crocetin <=> UDP + beta-D-Gentiobiosyl crocetin
+EQUATION    C00029 + C19867 <=> C00015 + C19869
+RCLASS      RC00005  C00015_C00029
+            RC00059  C19867_C19869
+ENZYME      2.4.1.330
+///

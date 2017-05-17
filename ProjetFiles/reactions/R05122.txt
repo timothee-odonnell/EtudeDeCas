@@ -1,0 +1,8 @@
+ENTRY       R05122                      Reaction
+DEFINITION  2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine + 2 S-Adenosyl-L-methionine <=> 6-(3'-Triphosphoryl-1'-methylglyceryl)-7-methyl-7,8-dihydrobiopterin + 2 S-Adenosyl-L-homocysteine + H2O
+EQUATION    C06148 + 2 C00019 <=> C06149 + 2 C00021 + C00001
+COMMENT     incomplete reaction
+RCLASS      RC00003  C00019_C00021
+            RC01271  C06148_C06149
+PATHWAY     rn00790  Folate biosynthesis
+///

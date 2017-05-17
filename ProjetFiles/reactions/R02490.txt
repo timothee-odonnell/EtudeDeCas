@@ -1,0 +1,7 @@
+ENTRY       R02490                      Reaction
+NAME        Citramalyl-CoA hydro-lyase
+DEFINITION  Citramalyl-CoA <=> Itaconyl-CoA + H2O
+EQUATION    C00904 <=> C00531 + C00001
+RCLASS      RC00730  C00531_C00904
+ENZYME      4.2.1.56
+///

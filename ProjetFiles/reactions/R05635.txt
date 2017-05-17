@@ -1,0 +1,8 @@
+ENTRY       R05635                      Reaction
+NAME        Formyl-L-methionyl peptide amidohydrolase
+DEFINITION  Formyl-L-methionyl peptide + H2O <=> Methionyl peptide + Formate
+EQUATION    C11439 + C00001 <=> C11440 + C00058
+RCLASS      RC00165  C11439_C11440
+            RC00323  C00058_C11439
+ENZYME      3.5.1.88
+///

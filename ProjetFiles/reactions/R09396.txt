@@ -1,0 +1,17 @@
+ENTRY       R09396                      Reaction
+NAME        4-hydroxyphenylpyruvate:5-amino-6-(D-ribitylamino)uracil 4-hydroxybenzyltransferase
+DEFINITION  3-(4-Hydroxyphenyl)pyruvate + 5-Amino-6-(1-D-ribitylamino)uracil + 2 S-Adenosyl-L-methionine + H2O <=> 7,8-Didemethyl-8-hydroxy-5-deazariboflavin + 2 L-Methionine + 2 5'-Deoxyadenosine + Oxalate + Ammonia
+EQUATION    C01179 + C04732 + 2 C00019 + C00001 <=> C19154 + 2 C00073 + 2 C05198 + C00209 + C00014
+COMMENT     radical SAM
+RCLASS      RC00021  C00019_C00073
+            RC01381  C00209_C01179
+            RC03002  C01179_C19154
+            RC03007  C04732_C19154
+ENZYME      2.5.1.77
+PATHWAY     rn00680  Methane metabolism
+            rn01120  Microbial metabolism in diverse environments
+MODULE      M00378  F420 biosynthesis
+ORTHOLOGY   K11779  FO synthase [EC:2.5.1.77]
+            K11780  FO synthase subunit 1 [EC:2.5.1.77]
+            K11781  FO synthase subunit 2 [EC:2.5.1.77]
+///

@@ -1,0 +1,15 @@
+ENTRY       G13054                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)1 (LFuc)1 (Ser/Thr)1
+MASS        511.5 (Ser/Thr)
+REACTION    R09297 R09298 R09299
+ENZYME      2.4.1.-         2.4.99.1        2.4.99.6
+NODE        4
+            1   Ser/Thr  14.9   0.3
+            2   LFuc      4.9   0.3
+            3   GlcNAc   -5.1   0.3
+            4   Gal     -15.1   0.3
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:3  
+            3     4:b1    3:4  
+///

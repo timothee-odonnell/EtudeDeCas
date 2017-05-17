@@ -1,0 +1,7 @@
+ENTRY       R11070                      Reaction
+NAME        trans-cinnamate carboxy-lyase
+DEFINITION  trans-Cinnamate <=> Styrene + CO2
+EQUATION    C00423 <=> C07083 + C00011
+RCLASS      RC00814  C00423_C07083
+ENZYME      4.1.1.102
+///

@@ -1,0 +1,9 @@
+ENTRY       R03082                      Reaction
+NAME        (R)-Lactaldehyde:NAD+ oxidoreductase (glutathione-formylating)
+DEFINITION  (R)-Lactaldehyde + Glutathione + NAD+ <=> (R)-S-Lactoylglutathione + NADH + H+
+EQUATION    C00937 + C00051 + C00003 <=> C03451 + C00004 + C00080
+COMMENT     two-step reaction, similar to R06982+R06983
+RCLASS      RC00001  C00003_C00004
+            RC00004  C00051_C03451
+            RC00846  C00937_C03451
+///

@@ -1,0 +1,7 @@
+ENTRY       R08251                      Reaction
+DEFINITION  Isoniazid + H2O <=> Isonicotinic acid + Hydrazine
+EQUATION    C07054 + C00001 <=> C07446 + C05361
+COMMENT     unclear reaction
+RCLASS      RC00162  C07054_C07446
+PATHWAY     rn00983  Drug metabolism - other enzymes
+///

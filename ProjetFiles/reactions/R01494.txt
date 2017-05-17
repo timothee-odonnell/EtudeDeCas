@@ -1,0 +1,14 @@
+ENTRY       R01494                      Reaction
+NAME        N-Acylsphingosine amidohydrolase
+DEFINITION  N-Acylsphingosine + H2O <=> Fatty acid + Sphingosine
+EQUATION    C00195 + C00001 <=> C00162 + C00319
+RCLASS      RC00064  C00195_C00319
+            RC00328  C00162_C00195
+ENZYME      3.5.1.23
+PATHWAY     rn00600  Sphingolipid metabolism
+            rn01100  Metabolic pathways
+MODULE      M00099  Sphingosine biosynthesis
+ORTHOLOGY   K01441  alkaline ceramidase [EC:3.5.1.23]
+            K12348  acid ceramidase [EC:3.5.1.23]
+            K12349  neutral ceramidase [EC:3.5.1.23]
+///

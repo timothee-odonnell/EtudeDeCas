@@ -1,0 +1,9 @@
+ENTRY       R06405                      Reaction
+NAME        Pinocarveol dehydrogenase
+DEFINITION  Pinocarveol <=> Pinocarvone + H+
+EQUATION    C11941 <=> C09884 + C00080
+COMMENT     unclear reaction
+RCLASS      RC00850  C09884_C11941
+ENZYME      1.1.-.-
+PATHWAY     rn00903  Limonene and pinene degradation
+///

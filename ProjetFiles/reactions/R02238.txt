@@ -1,0 +1,9 @@
+ENTRY       R02238                      Reaction
+NAME        Formate:dihydrofolate ligase (ADP-forming)
+DEFINITION  ATP + Formate + Dihydrofolate <=> ADP + Orthophosphate + 10-Formyldihydrofolate
+EQUATION    C00002 + C00058 + C00415 <=> C00008 + C00009 + C03204
+RCLASS      RC00002  C00002_C00008
+            RC00026  C00415_C03204
+            RC00111  C00058_C03204
+ENZYME      6.3.4.17
+///

@@ -1,0 +1,13 @@
+ENTRY       R10124                      Reaction
+NAME        pimeloyl-[acyl-carrier protein]:L-alanine C-pimeloyltransferase (decarboxylating)
+DEFINITION  Pimeloyl-[acyl-carrier protein] + L-Alanine <=> 8-Amino-7-oxononanoate + Acyl-carrier protein + CO2
+EQUATION    C19845 + C00041 <=> C01092 + C00229 + C00011
+RCLASS      RC00039  C00229_C19845
+            RC02725  C01092_C19845
+ENZYME      2.3.1.47
+PATHWAY     rn00780  Biotin metabolism
+            rn01100  Metabolic pathways
+MODULE      M00123  Biotin biosynthesis, pimeloyl-ACP/CoA => biotin
+            M00573  Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin
+ORTHOLOGY   K00652  8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+///

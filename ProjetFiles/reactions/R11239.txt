@@ -1,0 +1,9 @@
+ENTRY       R11239                      Reaction
+DEFINITION  Validamine 7-phosphate + NDP-1-epi-valienol <=> Validoxylamine A 7'-phosphate + NDP
+EQUATION    C21216 + C21210 <=> C21219 + C00454
+RCLASS      RC03400  C21216_C21219
+            RC03401  C21210_C21219
+ENZYME      2.5.1.135
+MODULE      M00815  Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A
+ORTHOLOGY   K20436  validamine 7-phosphate valienyltransferase [EC:2.5.1.135]
+///

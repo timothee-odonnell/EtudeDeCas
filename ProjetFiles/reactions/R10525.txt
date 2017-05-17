@@ -1,0 +1,9 @@
+ENTRY       R10525                      Reaction
+NAME        NDP-alpha-D-glucose:D-glucose 1-alpha-D-glucosyltransferase
+DEFINITION  NDP-glucose + D-Glucose <=> alpha,alpha-Trehalose + NDP
+EQUATION    C15541 + C00031 <=> C01083 + C00454
+RCLASS      RC00005  C00454_C15541
+            RC00049  C00031_C01083
+ENZYME      2.4.1.245
+ORTHOLOGY   K13057  trehalose synthase [EC:2.4.1.245]
+///

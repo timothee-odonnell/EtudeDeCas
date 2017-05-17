@@ -1,0 +1,7 @@
+ENTRY       R05391                      Reaction
+DEFINITION  3-Chloro-cis,cis-muconate <=> cis-4-Carboxymethylenebut-2-en-4-olide + Hydrochloric acid
+EQUATION    C03585 <=> C04431 + C01327
+COMMENT     possibly two-step reaction (see R04259+R04500)
+RCLASS      RC01357  C03585_C04431
+ENZYME      5.5.1.7
+///

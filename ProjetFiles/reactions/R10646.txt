@@ -1,0 +1,8 @@
+ENTRY       R10646                      Reaction
+DEFINITION  tRNA containing 6-isopentenyladenosine + Sulfur donor + S-Adenosyl-L-methionine <=> 2-Thio-N6-dimethylallyladenine in tRNA + L-Methionine + 5'-Deoxyadenosine
+EQUATION    C04432 + C17023 + C00019 <=> C20755 + C00073 + C05198
+RCLASS      RC00021  C00019_C00073
+            RC03222  C04432_C20755
+ENZYME      2.8.4.3
+ORTHOLOGY   K06168  tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]
+///

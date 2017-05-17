@@ -1,0 +1,5 @@
+ENTRY       R05482                      Reaction
+DEFINITION  Hydroquinone + Nitrite + 7 H+ + 6 e- <=> 4-Hydroxyaniline + 3 H2O
+EQUATION    C00530 + C00088 + 7 C00080 + 6 C05359 <=> C02372 + 3 C00001
+RCLASS      RC01393  C00530_C02372
+///

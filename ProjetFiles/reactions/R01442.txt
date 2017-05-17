@@ -1,0 +1,9 @@
+ENTRY       R01442                      Reaction
+NAME        Cellobiose:oxygen 1-oxidoreductase
+DEFINITION  Cellobiose + Oxygen <=> Cellobiono-1,5-lactone + Hydrogen peroxide
+EQUATION    C00185 + C00007 <=> C01093 + C00027
+REMARK      Same as: R06244
+RCLASS      RC00066  C00185_C01093
+            RC02755  C00007_C00027
+ENZYME      1.1.99.18
+///

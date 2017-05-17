@@ -1,0 +1,6 @@
+ENTRY       R04684                      Reaction
+DEFINITION  Aminoacyl-tRNA + Phosphatidylglycerol <=> Aminoacyl-phosphatidylglycerol + tRNA
+EQUATION    C05156 + C00344 <=> C05976 + C00066
+RCLASS      RC00041  C00344_C05976
+            RC00055  C00066_C05156
+///

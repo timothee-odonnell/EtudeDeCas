@@ -1,0 +1,7 @@
+ENTRY       R09888                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (viridiflorene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> Viridiflorene + Diphosphate
+EQUATION    C00448 <=> C20162 + C00013
+RCLASS      RC02699  C00448_C20162
+ENZYME      4.2.3.88
+///

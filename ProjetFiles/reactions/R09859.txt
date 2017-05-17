@@ -1,0 +1,11 @@
+ENTRY       R09859                      Reaction
+NAME        cholest-4-en-3-one,NADH:oxygen oxidoreductase (26-hydroxylating)
+DEFINITION  Cholest-4-en-3-one + NADH + H+ + Oxygen <=> (25S)-26-Hydroxycholest-4-en-3-one + NAD+ + H2O
+EQUATION    C00599 + C00004 + C00080 + C00007 <=> C20143 + C00003 + C00001
+COMMENT     first step of three-step reaction (see R11357, R09859+R11355+R11356)
+RCLASS      RC00001  C00003_C00004
+            RC01216  C00599_C20143
+ENZYME      1.14.13.141
+ORTHOLOGY   K15981  cholest-4-en-3-one 26-monooxygenase [EC:1.14.13.141]
+            K16046  cholest-4-en-3-one 26-monooxygenase [EC:1.14.13.221]
+///

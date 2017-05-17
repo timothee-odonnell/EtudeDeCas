@@ -1,0 +1,10 @@
+ENTRY       R05156                      Reaction
+NAME        2-aminobenzenesulfonate, NADH:oxygen oxidoreductase (2,3-hydroxylating, ammonia-forming)
+DEFINITION  2-Aminobenzenesulfonate + Oxygen + NADH + H+ <=> 3-Sulfocatechol + Ammonia + NAD+
+EQUATION    C06333 + C00007 + C00004 + C00080 <=> C06336 + C00014 + C00003
+RCLASS      RC00001  C00003_C00004
+            RC00412  C06333_C06336
+ENZYME      1.14.12.14
+PATHWAY     rn00362  Benzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+///

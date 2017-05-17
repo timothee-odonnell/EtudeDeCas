@@ -1,0 +1,19 @@
+ENTRY       G00172                      Glycan
+COMPOSITION (Man)4
+MASS        666.6
+REMARK      Same as: C04861
+REACTION    R06014
+ENZYME      2.4.1.138
+DBLINKS     CCSD: 8317 8328 8645 8985 9005 11134 11198 11289 11385 14066 15581 16497 20782 21995 22033 23964 24496 24501 27920 29049 29835 33813 38693 49125
+            GlycomeDB: 17382
+            JCGGDB: JCGG-STR007934
+NODE        4
+            1   Man        15     0
+            2   Man         5     0
+            3   Man        -5     0
+            4   Man       -15     0
+EDGE        3
+            1     2:a1    1:2  
+            2     3:a1    2:2  
+            3     4:a1    3:3  
+///

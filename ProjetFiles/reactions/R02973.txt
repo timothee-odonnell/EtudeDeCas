@@ -1,0 +1,10 @@
+ENTRY       R02973                      Reaction
+NAME        (R)-pantetheine amidohydrolase
+DEFINITION  Pantetheine + H2O <=> Pantothenate + Cysteamine
+EQUATION    C00831 + C00001 <=> C00864 + C01678
+RCLASS      RC00090  C00831_C00864
+            RC00096  C00831_C01678
+ENZYME      3.5.1.92
+PATHWAY     rn00770  Pantothenate and CoA biosynthesis
+ORTHOLOGY   K08069  pantetheine hydrolase [EC:3.5.1.92]
+///

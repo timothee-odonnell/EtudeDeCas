@@ -1,0 +1,8 @@
+ENTRY       R03745                      Reaction
+NAME        (+)-cis-Sabinol:NAD+ oxidoreductase
+DEFINITION  (+)-cis-Sabinol + NAD+ <=> (+)-Sabinone + NADH + H+
+EQUATION    C02213 + C00003 <=> C01868 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00850  C01868_C02213
+ENZYME      1.1.1.228
+///

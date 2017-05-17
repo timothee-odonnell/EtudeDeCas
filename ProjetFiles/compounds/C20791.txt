@@ -1,0 +1,17 @@
+ENTRY       C20791                      Compound
+NAME        Methyl thioether;
+            Methyl sulfide
+FORMULA     CH3SR
+COMMENT     Generic compound in reaction hierarchy
+            Dimethyl sulfide (R = CH3) [CPD:C00580]
+REACTION    R01235
+ENZYME      2.1.1.9
+DBLINKS     PubChem: 254741258
+ATOM        3
+            1   R   R    12.3900  -15.8200
+            2   S2a S    13.7900  -15.8200
+            3   C1a C    15.1900  -15.8200
+BOND        2
+            1     1   2 1
+            2     2   3 1
+///

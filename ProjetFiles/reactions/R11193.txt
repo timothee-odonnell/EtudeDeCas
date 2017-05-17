@@ -1,0 +1,8 @@
+ENTRY       R11193                      Reaction
+NAME        S-adenosyl-L-methionine:(4E,8E)-sphinga-4,8-dienine ceramide C-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + (4E,8E)-Sphinga-4,8-dienine ceramide <=> S-Adenosyl-L-homocysteine + 9-Methyl-(4E,8E)-sphinga-4,8-dienine ceramide
+EQUATION    C00019 + C21022 <=> C00021 + C21165
+RCLASS      RC00003  C00019_C00021
+            RC03385  C21022_C21165
+ENZYME      2.1.1.317
+///

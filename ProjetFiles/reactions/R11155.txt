@@ -1,0 +1,8 @@
+ENTRY       R11155                      Reaction
+NAME        protoasukamycin,NADH:oxygen oxidoreductase (4-hydroxylating)
+DEFINITION  Protoasukamycin + NADH + H+ + Oxygen <=> 4-Hydroxyprotoasukamycin + NAD+ + H2O
+EQUATION    C21145 + C00004 + C00080 + C00007 <=> C21146 + C00003 + C00001
+RCLASS      RC00001  C00003_C00004
+            RC03375  C21145_C21146
+ENZYME      1.14.13.215
+///

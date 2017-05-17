@@ -1,0 +1,9 @@
+ENTRY       R00686                      Reaction
+NAME        L-Phenylalanine racemase (ATP-hydrolysing)
+DEFINITION  ATP + L-Phenylalanine + H2O <=> AMP + Diphosphate + D-Phenylalanine
+EQUATION    C00002 + C00079 + C00001 <=> C00020 + C00013 + C02265
+COMMENT     multi-step reaction (ligating L-phenylalanine and [enzyme]-thiol, epimerizing and thioester-hydrolysing)
+RCLASS      RC00302  C00079_C02265
+ENZYME      5.1.1.11
+PATHWAY     rn00360  Phenylalanine metabolism
+///

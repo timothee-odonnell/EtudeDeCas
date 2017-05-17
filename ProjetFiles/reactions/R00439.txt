@@ -1,0 +1,9 @@
+ENTRY       R00439                      Reaction
+NAME        polyribonucleotide:phosphate guanylyltransferase
+DEFINITION  RNA + Orthophosphate <=> RNA + GDP
+EQUATION    C00046 + C00009 <=> C00046 + C00035
+RCLASS      RC02795  C00035_C00046
+ENZYME      2.7.7.8
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K00962  polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+///

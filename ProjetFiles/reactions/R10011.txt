@@ -1,0 +1,9 @@
+ENTRY       R10011                      Reaction
+DEFINITION  L-Lysine + (2R,3R)-3-Methylornithine + ATP <=> (2R,3R)-3-Methylornithinyl-N6-lysine + Products of ATP breakdown
+EQUATION    C00047 + C20277 + C00002 <=> C20278 + C07305
+RCLASS      RC00096  C00047_C20278
+            RC00141  C20277_C20278
+PATHWAY     rn00300  Lysine biosynthesis
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K16181  pyrrolysine biosynthesis protein PylC
+///

@@ -1,0 +1,8 @@
+ENTRY       R07565                      Reaction
+DEFINITION  beta-Cryptoxanthin <=> 3-Hydroxyechinenone
+EQUATION    C08591 <=> C15966
+COMMENT     beta-carotene ketolase(crtW)
+RCLASS      RC01991  C08591_C15966
+PATHWAY     rn00906  Carotenoid biosynthesis
+ORTHOLOGY   K09836  beta-carotene ketolase (CrtW type)
+///

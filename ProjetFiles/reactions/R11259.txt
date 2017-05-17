@@ -1,0 +1,7 @@
+ENTRY       R11259                      Reaction
+NAME        [protein]-N-tele-phospho-L-histidine phosphohydrolase
+DEFINITION  Protein N(tau)-phospho-L-histidine + H2O <=> Protein histidine + Orthophosphate
+EQUATION    C04262 + C00001 <=> C00615 + C00009
+RCLASS      RC00760  C00615_C04262
+ENZYME      3.9.1.3
+///

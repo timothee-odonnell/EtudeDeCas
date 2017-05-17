@@ -1,0 +1,15 @@
+ENTRY       R02216                      Reaction
+NAME        Pregnenolone:NAD+ 3-oxidoreductase
+DEFINITION  Pregnenolone + NAD+ <=> Progesterone + NADH + H+
+EQUATION    C01953 + C00003 <=> C00410 + C00004 + C00080
+COMMENT     3beta-hydroxysteroid dehydrogenase/ Delta5-Delta4-isomerase
+            two-step reaction
+RCLASS      RC00001  C00003_C00004
+            RC00146  C00410_C01953
+ENZYME      1.1.1.145       5.3.3.1
+PATHWAY     rn00140  Steroid hormone biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00107  Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone
+ORTHOLOGY   K00070  3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase [EC:1.1.1.145 5.3.3.1]
+            K01822  steroid Delta-isomerase [EC:5.3.3.1]
+///

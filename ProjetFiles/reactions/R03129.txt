@@ -1,0 +1,8 @@
+ENTRY       R03129                      Reaction
+NAME        GDP-D-mannuronate:alginate D-mannuronyltransferase
+DEFINITION  GDP-D-mannuronate + (Alginate)n <=> GDP + (Alginate)n
+EQUATION    C00976 + C01768 <=> C00035 + C01768
+COMMENT     C5-epimerization is also required for L-guluronate unit formation (see R08692+R08693)
+RCLASS      RC00005  C00035_C00976
+ENZYME      2.4.1.33
+///

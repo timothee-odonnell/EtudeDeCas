@@ -1,0 +1,7 @@
+ENTRY       R08752                      Reaction
+NAME        ditrans,pentacis-octaprenyl-diphosphate:isopentenyl-diphosphate octaprenylcistransferase
+DEFINITION  di-trans,poly-cis-Octaprenyl diphosphate + Isopentenyl diphosphate <=> di-trans,poly-cis-Nonaprenyl diphosphate + Diphosphate
+EQUATION    C17437 + C00129 <=> C17438 + C00013
+RCLASS      RC00279  C00129_C17438
+ENZYME      2.5.1.-
+///

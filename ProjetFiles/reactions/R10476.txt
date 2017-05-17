@@ -1,0 +1,9 @@
+ENTRY       R10476                      Reaction
+DEFINITION  (1'S,5'S)-Averufin + NADPH + H+ + Oxygen <=> 1'-Hydroxyversicolorone + NADP+ + H2O
+EQUATION    C20574 + C00005 + C00080 + C00007 <=> C20503 + C00006 + C00001
+COMMENT     averufin monooxygenase
+            unclear reaction
+RCLASS      RC00001  C00005_C00006
+            RC03158  C20503_C20574
+PATHWAY     rn00254  Aflatoxin biosynthesis
+///

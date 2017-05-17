@@ -1,0 +1,8 @@
+ENTRY       R02191                      Reaction
+NAME        Acetyl-CoA:D-amino-acid N-acetyltransferase
+DEFINITION  Acetyl-CoA + D-Amino acid <=> CoA + N-Acetyl-D-amino acid
+EQUATION    C00024 + C00405 <=> C00010 + C03135
+RCLASS      RC00004  C00010_C00024
+            RC00064  C00405_C03135
+ENZYME      2.3.1.36
+///

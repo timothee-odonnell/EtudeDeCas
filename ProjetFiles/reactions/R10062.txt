@@ -1,0 +1,8 @@
+ENTRY       R10062                      Reaction
+NAME        S-adenosyl-L-methionine:glycine N-methyltransferase [betaine-forming]
+DEFINITION  3 S-Adenosyl-L-methionine + Glycine <=> 3 S-Adenosyl-L-homocysteine + Betaine
+EQUATION    3 C00019 + C00037 <=> 3 C00021 + C00719
+RCLASS      RC00003  C00019_C00021
+            RC01974  C00037_C00719
+ENZYME      2.1.1.162
+///

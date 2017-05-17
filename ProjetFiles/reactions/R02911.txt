@@ -1,0 +1,12 @@
+ENTRY       R02911                      Reaction
+NAME        Acetyl-CoA:aralkylamine N-acetyltransferase
+DEFINITION  Acetyl-CoA + Serotonin <=> CoA + N-Acetylserotonin
+EQUATION    C00024 + C00780 <=> C00010 + C00978
+RCLASS      RC00004  C00010_C00024
+            RC00096  C00780_C00978
+ENZYME      2.3.1.87
+PATHWAY     rn00380  Tryptophan metabolism
+            rn01100  Metabolic pathways
+MODULE      M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+ORTHOLOGY   K00669  arylalkylamine N-acetyltransferase [EC:2.3.1.87]
+///

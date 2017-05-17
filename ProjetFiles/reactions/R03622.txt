@@ -1,0 +1,7 @@
+ENTRY       R03622                      Reaction
+NAME        Kievitone-hydrate hydro-lyase
+DEFINITION  Kievitone hydrate <=> Kievitone + H2O
+EQUATION    C02549 <=> C01590 + C00001
+RCLASS      RC00966  C01590_C02549
+ENZYME      4.2.1.95
+///

@@ -1,0 +1,9 @@
+ENTRY       R11149                      Reaction
+NAME        aurachin B:NAD+ 3-oxidoreductase
+DEFINITION  Aurachin B + NAD+ + H2O <=> 4-Hydroxy-2-methyl-3-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide + NADH + H+
+EQUATION    C21140 + C00003 + C00001 <=> C21141 + C00004 + C00080
+COMMENT     two-step reaction (see R11148+R11147)
+RCLASS      RC00001  C00003_C00004
+            RC03371  C21140_C21141
+ENZYME      1.1.1.394
+///

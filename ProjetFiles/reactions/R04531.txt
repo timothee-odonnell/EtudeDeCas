@@ -1,0 +1,9 @@
+ENTRY       R04531                      Reaction
+NAME        UDP-alpha-D-galactose:N-acetyllactosamine 3-alpha-D-galactosyltransferase
+DEFINITION  UDP-alpha-D-galactose + N-Acetyllactosamine <=> UDP + alpha-D-Galactosyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosamine
+EQUATION    C00052 + C00611 <=> C00015 + C04847
+REMARK      Same as: R06145
+RCLASS      RC00005  C00015_C00052
+            RC00049  C00611_C04847
+ENZYME      2.4.1.87
+///

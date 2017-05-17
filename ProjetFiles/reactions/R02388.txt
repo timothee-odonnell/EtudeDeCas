@@ -1,0 +1,8 @@
+ENTRY       R02388                      Reaction
+NAME        UDPglucose:arylamine N-D-glucosyltransferase
+DEFINITION  UDP-glucose + Aniline <=> UDP + N-D-Glucosylarylamine
+EQUATION    C00029 + C00292 <=> C00015 + C03142
+RCLASS      RC00005  C00015_C00029
+            RC00440  C00292_C03142
+ENZYME      2.4.1.71
+///

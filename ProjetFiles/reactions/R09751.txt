@@ -1,0 +1,8 @@
+ENTRY       R09751                      Reaction
+NAME        nitrite:nitrite oxidoreductase
+DEFINITION  3 Nitrite <=> 2 Nitric oxide + Nitrate + H2O
+EQUATION    3 C00088 <=> 2 C00533 + C00244 + C00001
+RCLASS      RC00086  C00088_C00533
+            RC02812  C00088_C00244
+ENZYME      1.7.6.1
+///

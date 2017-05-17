@@ -1,0 +1,22 @@
+ENTRY       G00309                      Glycan
+COMPOSITION (GlcNAc)1 (Man)3
+MASS        707.6
+REACTION    R08717
+ENZYME      3.2.1.24
+REFERENCE   1  [PMID:3139665]
+            Warren CD, Daniel PF, Bugge B, Evans JE, James LF, Jeanloz RW.
+            The structures of oligosaccharides excreted by sheep with swainsonine toxicosis.
+            J. Biol. Chem. 263 (1988) 15041-9.
+DBLINKS     CCSD: 548 572 2585 2589 4121 6488 9124 9381 9382 9845 10140 10969 12839 12844 14107 14342 14933 15114 15360 15612 15714 16378 16560 16620 17302 17370 18622 19650 20425 20907 21490 23126 24274 24907 25151 25193 26328 37491 37763 38447 44946 45889
+            GlycomeDB: 5743
+            JCGGDB: JCGG-STR026764
+NODE        4
+            1   GlcNAc    7.5  -0.2
+            2   Man      -1.5  -0.2
+            3   Man      -8.5   4.8
+            4   Man      -8.5  -5.2
+EDGE        3
+            1     2:b1    1:4  
+            2     3:a1    2:6  
+            3     4:a1    2:3  
+///

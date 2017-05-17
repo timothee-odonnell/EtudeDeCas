@@ -1,0 +1,7 @@
+ENTRY       R03523                      Reaction
+NAME        Bromochloromethane halidohydrolase
+DEFINITION  Bromochloromethane + H2O <=> Formaldehyde + Bromide + Cl- + 2 H+
+EQUATION    C02661 + C00001 <=> C00067 + C01324 + C00698 + 2 C00080
+RCLASS      RC00337  C00067_C02661
+ENZYME      3.8.1.1
+///

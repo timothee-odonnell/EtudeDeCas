@@ -1,0 +1,7 @@
+ENTRY       R11548                      Reaction
+NAME        L-leucyl-tRNA(Leu):[protein] N-terminal L-aspartate leucyltransferase
+DEFINITION  L-Leucyl-tRNA + L-Aspartyl-protein <=> tRNA(Leu) + L-Leucyl-L-aspartyl-protein
+EQUATION    C02047 + C21458 <=> C01645 + C21457
+RCLASS      RC00064  C21457_C21458
+ENZYME      2.3.2.29
+///

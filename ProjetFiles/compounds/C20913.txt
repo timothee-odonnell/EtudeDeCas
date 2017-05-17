@@ -1,0 +1,45 @@
+ENTRY       C20913                      Compound
+NAME        C20913;
+            Tabtoxin biosynthesis intermediate 3
+FORMULA     C8H14N2O6
+EXACT_MASS  234.0852
+MOL_WEIGHT  234.2066
+REACTION    R10886 R10887
+PATHWAY     map00261  Monobactam biosynthesis
+            map01130  Biosynthesis of antibiotics
+ENZYME      4.1.1.-
+DBLINKS     PubChem: 254741376
+ATOM        16
+            1   C1c C    22.1991  -16.5002
+            2   C1b C    20.9902  -15.8020
+            3   N1a N    22.1926  -17.9031
+            4   C6a C    23.4078  -15.7957
+            5   C1b C    19.7813  -16.5068
+            6   O6a O    24.6233  -16.4875
+            7   O6a O    23.4013  -14.3864
+            8   C1c C    18.5659  -15.8086
+            9   C1c C    17.3570  -16.5131
+            10  C6a C    16.1482  -15.8150
+            11  N1a N    17.3506  -17.9225
+            12  O6a O    14.9328  -16.5197
+            13  O6a O    16.1353  -14.4123
+            14  C6a C    18.5616  -14.4385
+            15  O6a O    17.3508  -13.7444
+            16  O6a O    19.7788  -13.7308
+BOND        15
+            1     1   2 1
+            2     1   3 1 #Up
+            3     1   4 1
+            4     2   5 1
+            5     4   6 1
+            6     4   7 2
+            7     5   8 1
+            8     8   9 1
+            9     9  10 1
+            10    9  11 1
+            11   10  12 1
+            12   10  13 2
+            13    8  14 1
+            14   14  15 2
+            15   14  16 1
+///

@@ -1,0 +1,9 @@
+ENTRY       R02716                      Reaction
+NAME        UDPglucose:poly(ribitol-phosphate) beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Poly(ribitol phosphate) <=> UDP + beta-D-Glucosylpoly(ribitol phosphate)
+EQUATION    C00029 + C00653 <=> C00015 + C04429
+REMARK      Same as: R06181
+RCLASS      RC00005  C00015_C00029
+            RC00397  C00653_C04429
+ENZYME      2.4.1.53
+///

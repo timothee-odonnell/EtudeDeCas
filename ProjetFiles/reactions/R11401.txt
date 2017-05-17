@@ -1,0 +1,7 @@
+ENTRY       R11401                      Reaction
+NAME        squalene:FAD oxidoreductase (hydroxylating)
+DEFINITION  Squalene + FAD + H2O <=> Hydroxysqualene + FADH2
+EQUATION    C00751 + C00016 + C00001 <=> C21116 + C01352
+RCLASS      RC01712  C00751_C21116
+ENZYME      1.17.8.1
+///

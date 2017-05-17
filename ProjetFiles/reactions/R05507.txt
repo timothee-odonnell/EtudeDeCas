@@ -1,0 +1,11 @@
+ENTRY       R05507                      Reaction
+DEFINITION  6-Aminohexanoate + 2-Oxoglutarate <=> Adipate semialdehyde + L-Glutamate
+EQUATION    C02378 + C00026 <=> C06102 + C00025
+COMMENT     6-aminohexanoate transaminase
+RCLASS      RC00006  C00025_C00026
+            RC00062  C02378_C06102
+ENZYME      2.6.1.-
+PATHWAY     rn00930  Caprolactam degradation
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+///

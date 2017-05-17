@@ -1,0 +1,10 @@
+ENTRY       R06369                      Reaction
+NAME        2-hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA hydro-lyase
+DEFINITION  Perillyl-CoA + H2O <=> 2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA
+EQUATION    C11929 + C00001 <=> C11934
+COMMENT     perillyl-CoA hydratase
+RCLASS      RC02034  C11929_C11934
+ENZYME      4.2.1.-
+PATHWAY     rn00903  Limonene and pinene degradation
+            rn01220  Degradation of aromatic compounds
+///

@@ -1,0 +1,7 @@
+ENTRY       R04915                      Reaction
+NAME        quinoline-3,4-diol 2,4-dioxygenase (carbon monoxide-forming)
+DEFINITION  Quinoline-3,4-diol + Oxygen <=> Formylanthranilate + CO
+EQUATION    C06330 + C00007 <=> C05653 + C00237
+RCLASS      RC01238  C05653_C06330
+ENZYME      1.13.11.47
+///

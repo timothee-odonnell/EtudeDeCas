@@ -1,0 +1,8 @@
+ENTRY       R09547                      Reaction
+DEFINITION  Germacra-1(10),4,11(13)-trien-12-al + NADP+ + H2O <=> Germacrene A acid + NADPH + H+
+EQUATION    C19677 + C00006 + C00001 <=> C19678 + C00005 + C00080
+COMMENT     second step of two-step reaction (see R09548, R09546+R09547)
+RCLASS      RC00001  C00005_C00006
+            RC00254  C19677_C19678
+ENZYME      1.1.1.314
+///

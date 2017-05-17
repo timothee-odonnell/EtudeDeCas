@@ -1,0 +1,8 @@
+ENTRY       R09831                      Reaction
+NAME        beta-D-4-deoxy-Delta4-GlcAp-(1->4)-beta-D-Glcp-(1->4)-alpha-L-Rhap-(1->3)-beta-D-Glcp beta-D-4-deoxy-Delta4-GlcAp hydrolase
+DEFINITION  beta-D-4-Deoxy-Delta4-GlcA-(1->4)-beta-D-Glc-(1->4)-alpha-L-Rha-(1->3)-D-Glc + H2O <=> 5-Dehydro-4-deoxy-D-glucuronate + beta-D-Glc-(1->4)-alpha-L-Rha-(1->3)-D-Glc
+EQUATION    C19965 + C00001 <=> C04053 + C19966
+RCLASS      RC00049  C19965_C19966
+            RC02427  C04053_C19965
+ENZYME      3.2.1.179
+///

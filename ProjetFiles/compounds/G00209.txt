@@ -1,0 +1,18 @@
+ENTRY       G00209                      Glycan
+COMPOSITION (Gal)1 (GalNAc)1 (GlcNAc)2
+MASS        789.7
+REACTION    R05901
+ENZYME      2.4.1.146
+DBLINKS     CCSD: 3654 4154 33473 38654 42741
+            GlycomeDB: 17395
+            JCGGDB: JCGG-STR007948
+NODE        4
+            1   GalNAc      8     0
+            2   Gal         0    -4
+            3   GlcNAc     -1     4
+            4   GlcNAc     -9    -4
+EDGE        3
+            1     2:b1    1:3  
+            2     3:b1    1:6  
+            3     4:b1    2:3  
+///

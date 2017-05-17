@@ -1,0 +1,8 @@
+ENTRY       R09589                      Reaction
+NAME        3-hydroxybenzoate:CoA ligase (AMP-forming)
+DEFINITION  ATP + 3-Hydroxybenzoate + CoA <=> AMP + Diphosphate + 3-Hydroxybenzoyl-CoA
+EQUATION    C00002 + C00587 + C00010 <=> C00020 + C00013 + C05195
+RCLASS      RC00004  C00010_C05195
+            RC00174  C00587_C05195
+ENZYME      6.2.1.37
+///

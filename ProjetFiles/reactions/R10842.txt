@@ -1,0 +1,8 @@
+ENTRY       R10842                      Reaction
+NAME        D-glucuronate:NAD+ 1-oxidoreductase
+DEFINITION  D-Glucuronate + NAD+ <=> D-Glucaro-1,5-lactone + NADH + H+
+EQUATION    C00191 + C00003 <=> C20890 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00066  C00191_C20890
+ENZYME      1.1.1.203
+///

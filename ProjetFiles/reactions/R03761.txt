@@ -1,0 +1,8 @@
+ENTRY       R03761                      Reaction
+NAME        NADH:asparagusate oxidoreductase
+DEFINITION  Asparagusate + NADH + H+ <=> 3-Mercapto-2-mercaptomethylpropanoate + NAD+
+EQUATION    C01892 + C00004 + C00080 <=> C04371 + C00003
+RCLASS      RC00001  C00003_C00004
+            RC00013  C01892_C04371
+ENZYME      1.8.1.11
+///

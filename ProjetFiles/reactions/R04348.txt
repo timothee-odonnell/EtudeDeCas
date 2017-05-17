@@ -1,0 +1,8 @@
+ENTRY       R04348                      Reaction
+NAME        Acetyl-CoA:2-deoxystreptamine-antibiotic N3'-acetyltransferase
+DEFINITION  Acetyl-CoA + 2-Deoxystreptamine antibiotic <=> CoA + N3-Acetyl-2-deoxystreptamine antibiotic
+EQUATION    C00024 + C03922 <=> C00010 + C04504
+RCLASS      RC00004  C00010_C00024
+            RC00166  C03922_C04504
+ENZYME      2.3.1.81
+///

@@ -1,0 +1,7 @@
+ENTRY       R09505                      Reaction
+NAME        bromide:hydrogen-peroxide oxidoreductase
+DEFINITION  Alkane + Hydrobromic acid + Hydrogen peroxide <=> RBr + 2 H2O
+EQUATION    C01371 + C13645 + C00027 <=> C00720 + 2 C00001
+RCLASS      RC02324  C00720_C01371
+ENZYME      1.11.1.18
+///

@@ -1,0 +1,7 @@
+ENTRY       R09964                      Reaction
+NAME        geranyl-diphosphate diphosphate-lyase (cyclizing, 1,8-cineole-forming)
+DEFINITION  Geranyl diphosphate + H2O <=> 1,8-Cineole + Diphosphate
+EQUATION    C00341 + C00001 <=> C09844 + C00013
+RCLASS      RC02762  C00341_C09844
+ENZYME      4.2.3.108
+///

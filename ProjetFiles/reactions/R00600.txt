@@ -1,0 +1,9 @@
+ENTRY       R00600                      Reaction
+NAME        S-Adenosyl-L-methionine:tRNA guanine N7-methyltransferase;
+            S-Adenosyl-L-methionine:tRNA (guanine-N7-)-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + tRNA guanine <=> S-Adenosyl-L-homocysteine + tRNA containing N7-methylguanine
+EQUATION    C00019 + C01977 <=> C00021 + C04160
+RCLASS      RC00003  C00019_C00021
+            RC00336  C01977_C04160
+ENZYME      2.1.1.33
+///

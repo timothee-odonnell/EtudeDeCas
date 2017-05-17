@@ -1,0 +1,9 @@
+ENTRY       R02109                      Reaction
+NAME        Dextrin 6-alpha-D-glucanohydrolase
+DEFINITION  Starch + H2O <=> Amylose + alpha-D-Glucose
+EQUATION    C00369 + C00001 <=> C00718 + C00267
+REMARK      Same as: R06158
+RCLASS      RC00049  C00267_C00369
+ENZYME      3.2.1.33
+ORTHOLOGY   K01196  glycogen debranching enzyme [EC:2.4.1.25 3.2.1.33]
+///

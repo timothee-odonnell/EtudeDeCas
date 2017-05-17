@@ -1,0 +1,8 @@
+ENTRY       R11164                      Reaction
+NAME        dibenzothiophene-5,5-dioxide,FMNH2:oxygen oxidoreductase
+DEFINITION  Dibenzothiophene-5,5-dioxide + 2 Reduced FMN + Oxygen <=> 2'-Hydroxybiphenyl-2-sulfinate + 2 FMN + H2O
+EQUATION    C21150 + 2 C01847 + C00007 <=> C06742 + 2 C00061 + C00001
+RCLASS      RC00126  C00061_C01847
+            RC03381  C06742_C21150
+ENZYME      1.14.14.22
+///

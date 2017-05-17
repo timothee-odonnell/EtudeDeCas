@@ -1,0 +1,7 @@
+ENTRY       R10633                      Reaction
+DEFINITION  NAD+ + Histone N6-acetyl-L-lysine + H2O <=> Nicotinamide + Histone-L-lysine + O-Acetyl-ADP-ribose + H+
+EQUATION    C00003 + C01997 + C00001 <=> C00153 + C02415 + C20658 + C00080
+RCLASS      RC00033  C00003_C00153
+            RC00096  C01997_C02415
+ORTHOLOGY   K11121  NAD-dependent histone deacetylase SIR2 [EC:3.5.1.-]
+///

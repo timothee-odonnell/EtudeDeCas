@@ -1,0 +1,12 @@
+ENTRY       R11387                      Reaction
+DEFINITION  3,6,8-Trihydroxy-2-naphthoate + Reduced acceptor + Oxygen <=> 3,6,7,8-Tetrahydroxy-2-naphthoate + Acceptor + H2O
+EQUATION    C21320 + C00030 + C00007 <=> C21321 + C00028 + C00001
+COMMENT     cytochrome P450 monooxygenase
+            proposed pathway
+RCLASS      RC00236  C21320_C21321
+ENZYME      1.14.-.-
+PATHWAY     rn01059  Biosynthesis of enediyne antibiotics
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00831  Kedarcidin 2-hydroxynaphthoate moiety biosynthesis, malonyl-CoA => 3,6,8-trihydroxy-2-naphthoate => 3-hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA
+ORTHOLOGY   K21222  cytochrome P450 monooxygenase [EC:1.14.-.-]
+///

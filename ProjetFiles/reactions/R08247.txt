@@ -1,0 +1,8 @@
+ENTRY       R08247                      Reaction
+NAME        D-ribose pyranase
+DEFINITION  beta-D-Ribopyranose <=> beta-D-Ribofuranose
+EQUATION    C08353 <=> C16639
+RCLASS      RC02247  C08353_C16639
+ENZYME      5.4.99.62
+ORTHOLOGY   K06726  D-ribose pyranase [EC:5.4.99.62]
+///

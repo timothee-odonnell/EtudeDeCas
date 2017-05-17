@@ -1,0 +1,9 @@
+ENTRY       R11223                      Reaction
+NAME        1-palmitoyl-2-acyl-sn-glycero-3-phosphocholine:lipid A in lipopolysaccharide palmitoyltransferase
+DEFINITION  Palmitoylphosphatidylcholine + Hexa-acyl lipid A in lipopolysaccharide <=> 2-Acyl-sn-glycero-3-phosphocholine + Hepta-acyl lipid A in lipopolysaccharide
+EQUATION    C03889 + C21193 <=> C04233 + C21194
+RCLASS      RC00037  C21193_C21194
+            RC00041  C03889_C04233
+ENZYME      2.3.1.251
+ORTHOLOGY   K12973  lipid IVA palmitoyltransferase [EC:2.3.1.251]
+///

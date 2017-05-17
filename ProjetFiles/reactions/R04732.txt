@@ -1,0 +1,7 @@
+ENTRY       R04732                      Reaction
+DEFINITION  5-Aminoimidazole + CO2 <=> 5-Amino-4-imidazole carboxylate
+EQUATION    C05239 + C00011 <=> C05516
+RCLASS      RC00590  C05239_C05516
+ENZYME      4.1.1.-
+PATHWAY     rn00230  Purine metabolism
+///

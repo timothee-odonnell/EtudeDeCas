@@ -1,0 +1,7 @@
+ENTRY       R05173                      Reaction
+NAME        2-Aryl-2-methylmalonate carboxy-lyase
+DEFINITION  2-Aryl-2-methylmalonate <=> 2-Arylpropionate + CO2
+EQUATION    C06388 <=> C06389 + C00011
+RCLASS      RC01290  C06388_C06389
+ENZYME      4.1.1.76
+///

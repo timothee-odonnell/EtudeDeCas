@@ -1,0 +1,9 @@
+ENTRY       R04215                      Reaction
+NAME        CTP:N-glycoloylneuraminate cytidylyltransferase
+DEFINITION  CTP + N-Glycoloyl-neuraminate <=> Diphosphate + CMP-N-glycoloylneuraminate
+EQUATION    C00063 + C03410 <=> C00013 + C03691
+RCLASS      RC00152  C03410_C03691
+ENZYME      2.7.7.43
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+ORTHOLOGY   K00983  N-acylneuraminate cytidylyltransferase [EC:2.7.7.43]
+///

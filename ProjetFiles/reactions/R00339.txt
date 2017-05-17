@@ -1,0 +1,10 @@
+ENTRY       R00339                      Reaction
+NAME        (R,R)-tartrate hydro-lyase (oxaloacetate-forming)
+DEFINITION  (R,R)-Tartaric acid <=> Oxaloacetate + H2O
+EQUATION    C00898 <=> C00036 + C00001
+RCLASS      RC01382  C00036_C00898
+ENZYME      4.2.1.32
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+ORTHOLOGY   K03779  L(+)-tartrate dehydratase alpha subunit [EC:4.2.1.32]
+            K03780  L(+)-tartrate dehydratase beta subunit [EC:4.2.1.32]
+///

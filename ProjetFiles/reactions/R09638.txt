@@ -1,0 +1,7 @@
+ENTRY       R09638                      Reaction
+NAME        dimethylallyl-diphosphate:L-tryptophan 7-dimethylallyltransferase
+DEFINITION  Dimethylallyl diphosphate + L-Tryptophan <=> Diphosphate + 7-(3-Methylbut-2-enyl)-L-tryptophan
+EQUATION    C00235 + C00078 <=> C00013 + C19767
+RCLASS      RC00209  C00078_C19767
+ENZYME      2.5.1.80
+///

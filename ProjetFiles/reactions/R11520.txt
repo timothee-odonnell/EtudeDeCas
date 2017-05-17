@@ -1,0 +1,9 @@
+ENTRY       R11520                      Reaction
+NAME        S-adenosyl-L-methionine:4-amino-anhydrotetracycline N-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 4-Amino-anhydrotetracycline <=> S-Adenosyl-L-homocysteine + 4-Methylamino-4-de(dimethylamino)anhydrotetracycline
+EQUATION    C00019 + C06654 <=> C00021 + C21436
+RCLASS      RC00003  C00019_C00021
+            RC02262  C06654_C21436
+ENZYME      2.1.1.335
+ORTHOLOGY   K14255  4-amino-anhydrotetracycline N4-methyltransferase [EC:2.1.1.335]
+///

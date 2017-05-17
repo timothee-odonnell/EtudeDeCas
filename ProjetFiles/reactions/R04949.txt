@@ -1,0 +1,11 @@
+ENTRY       R04949                      Reaction
+NAME        Cyanoglycoside glucohydrolase
+DEFINITION  Cyanoglycoside + H2O <=> Cyanohydrin + D-Glucose
+EQUATION    C05713 + C00001 <=> C05712 + C00031
+RCLASS      RC00262  C05712_C05713
+            RC01248  C00031_C05713
+ENZYME      3.2.1.21
+ORTHOLOGY   K01188  beta-glucosidase [EC:3.2.1.21]
+            K05349  beta-glucosidase [EC:3.2.1.21]
+            K05350  beta-glucosidase [EC:3.2.1.21]
+///

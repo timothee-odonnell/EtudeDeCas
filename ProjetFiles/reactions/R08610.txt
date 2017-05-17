@@ -1,0 +1,7 @@
+ENTRY       R08610                      Reaction
+NAME        5-hydroxymethyluracil,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  5-Hydroxymethyluracil + 2-Oxoglutarate + Oxygen <=> Uracil 5-carbaldehyde + Succinate + CO2 + H2O
+EQUATION    C03088 + C00026 + C00007 <=> C17206 + C00042 + C00011 + C00001
+RCLASS      RC00116  C03088_C17206
+ENZYME      1.14.11.6
+///

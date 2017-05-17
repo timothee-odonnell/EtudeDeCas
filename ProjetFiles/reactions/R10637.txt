@@ -1,0 +1,9 @@
+ENTRY       R10637                      Reaction
+NAME        (Z)-phenylacetaldehyde-oxime,NADPH:oxygen oxidoreductase
+DEFINITION  (Z)-Phenylacetaldehyde oxime + NADPH + Oxygen + H+ <=> Mandelonitrile + NADP+ + 2 H2O
+EQUATION    C16075 + C00005 + C00007 + C00080 <=> C00561 + C00006 + 2 C00001
+RCLASS      RC00001  C00005_C00006
+            RC01713  C00561_C16075
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+///

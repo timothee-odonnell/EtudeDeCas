@@ -1,0 +1,7 @@
+ENTRY       R07368                      Reaction
+NAME        dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  Dihydroflavonol + 2-Oxoglutarate + Oxygen <=> Flavonol + Succinate + CO2 + H2O
+EQUATION    C15570 + C00026 + C00007 <=> C01495 + C00042 + C00011 + C00001
+RCLASS      RC00657  C01495_C15570
+ENZYME      1.14.11.23
+///

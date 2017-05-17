@@ -1,0 +1,12 @@
+ENTRY       R00730                      Reaction
+NAME        L-tyrosine,[reduced NADPH-hemoprotein reductase]:oxygen oxidoreductase (N-hydroxylating)
+DEFINITION  L-Tyrosine + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> N-Hydroxy-L-tyrosine + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C00082 + C00007 + C03024 <=> C03004 + C03161 + C00001
+COMMENT     first step of three-step reaction (see R10671, R00730+R04460+R07190)
+RCLASS      RC00365  C00082_C03004
+ENZYME      1.14.14.36
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+MODULE      M00369  Cyanogenic glycoside biosynthesis, tyrosine => dhurrin
+ORTHOLOGY   K13027  tyrosine N-monooxygenase [EC:1.14.14.36]
+///

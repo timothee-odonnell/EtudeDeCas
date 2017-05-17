@@ -1,0 +1,11 @@
+ENTRY       R00087                      Reaction
+NAME        ATP diphosphohydrolase (diphosphate-forming);
+            ATP pyrophosphohydrolase
+DEFINITION  ATP + H2O <=> AMP + Diphosphate
+EQUATION    C00002 + C00001 <=> C00020 + C00013
+RCLASS      RC00002  C00002_C00020
+ENZYME      3.6.1.8         3.6.1.9
+PATHWAY     rn00230  Purine metabolism
+ORTHOLOGY   K01513  ectonucleotide pyrophosphatase/phosphodiesterase family member 1/3 [EC:3.1.4.1 3.6.1.9]
+            K04765  nucleoside triphosphate diphosphatase [EC:3.6.1.9]
+///

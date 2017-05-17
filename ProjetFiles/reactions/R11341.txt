@@ -1,0 +1,7 @@
+ENTRY       R11341                      Reaction
+NAME        D-erythritol-1-phosphate 2-oxidoreductase
+DEFINITION  D-Erythritol 1-phosphate + NADP+ <=> D-Erythrulose 1-phosphate + NADPH + H+
+EQUATION    C21294 + C00006 <=> C21285 + C00005 + C00080
+RCLASS      RC00089  C21285_C21294
+ENZYME      1.1.1.402
+///

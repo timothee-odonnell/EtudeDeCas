@@ -1,0 +1,7 @@
+ENTRY       R04159                      Reaction
+NAME        (5-L-glutamyl)-peptide:amino-acid 5-glutamyltransferase
+DEFINITION  (5-L-Glutamyl)-peptide + Amino acid <=> Peptide + 5-L-Glutamyl amino acid
+EQUATION    C03193 + C00045 <=> C00012 + C03363
+RCLASS      RC00064  C00012_C03193  C00045_C03363
+ENZYME      2.3.2.2
+///

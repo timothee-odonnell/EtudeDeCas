@@ -1,0 +1,9 @@
+ENTRY       R08249                      Reaction
+DEFINITION  N-Acetylisoniazid + H2O <=> Acetylhydrazine + Isonicotinic acid
+EQUATION    C07585 + C00001 <=> C07447 + C07446
+COMMENT     hepatic amidase
+RCLASS      RC00162  C07446_C07585
+            RC00962  C07447_C07585
+ENZYME      3.5.1.-
+PATHWAY     rn00983  Drug metabolism - other enzymes
+///

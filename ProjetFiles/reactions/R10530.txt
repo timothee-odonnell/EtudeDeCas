@@ -1,0 +1,8 @@
+ENTRY       R10530                      Reaction
+NAME        protodioscin glucohydrolase
+DEFINITION  Protodioscin + H2O <=> 26-Deglucoprotodioscin + D-Glucose
+EQUATION    C08907 + C00001 <=> C20678 + C00031
+RCLASS      RC00059  C08907_C20678
+            RC00451  C00031_C08907
+ENZYME      3.2.1.186
+///

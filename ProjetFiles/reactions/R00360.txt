@@ -1,0 +1,9 @@
+ENTRY       R00360                      Reaction
+NAME        (S)-Malate:oxygen oxidoreductase
+DEFINITION  (S)-Malate + Oxygen <=> Oxaloacetate + Hydrogen peroxide
+EQUATION    C00149 + C00007 <=> C00036 + C00027
+RCLASS      RC00031  C00036_C00149
+            RC02755  C00007_C00027
+ENZYME      1.1.5.4
+ORTHOLOGY   K00116  malate dehydrogenase (quinone) [EC:1.1.5.4]
+///

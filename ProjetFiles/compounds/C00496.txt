@@ -1,0 +1,7 @@
+ENTRY       C00496                      Compound
+NAME        Ubiquitin
+REACTION    R02418 R03876 R05193
+ENZYME      3.4.19.12
+DBLINKS     CAS: 60267-61-0
+            PubChem: 3779
+///

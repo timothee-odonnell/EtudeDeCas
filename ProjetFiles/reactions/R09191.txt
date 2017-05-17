@@ -1,0 +1,14 @@
+ENTRY       R09191                      Reaction
+NAME        S-adenosyl-L-methionine:4-amino-anhydrotetracycline N-methyltransferase
+DEFINITION  4-Amino-anhydrotetracycline + 2 S-Adenosyl-L-methionine <=> Anhydrotetracycline + 2 S-Adenosyl-L-homocysteine
+EQUATION    C06654 + 2 C00019 <=> C02811 + 2 C00021
+RCLASS      RC00003  C00019_C00021
+            RC01515  C02811_C06654
+ENZYME      2.1.1.335
+PATHWAY     rn00253  Tetracycline biosynthesis
+            rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00780  Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline
+            M00823  Chlortetracycline biosynthesis, pretetramide => chlortetracycline
+ORTHOLOGY   K14255  4-amino-anhydrotetracycline N4-methyltransferase [EC:2.1.1.335]
+///

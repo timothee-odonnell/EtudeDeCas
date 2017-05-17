@@ -1,0 +1,7 @@
+ENTRY       R07305                      Reaction
+NAME        cyanuric acid amidohydrolase
+DEFINITION  Cyanuric acid + H2O <=> Biuret + CO2
+EQUATION    C06554 + C00001 <=> C06555 + C00011
+RCLASS      RC03058  C06554_C06555
+ENZYME      3.5.2.15
+///

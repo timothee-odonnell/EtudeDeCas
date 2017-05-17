@@ -1,0 +1,8 @@
+ENTRY       R08502                      Reaction
+DEFINITION  Geraniol <=> Actinidine
+EQUATION    C01500 <=> C09910
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC02190  C01500_C09910
+PATHWAY     rn01110  Biosynthesis of secondary metabolites
+///

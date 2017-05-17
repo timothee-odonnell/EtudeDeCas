@@ -1,0 +1,10 @@
+ENTRY       R05699                      Reaction
+NAME        vanillin:NAD oxidoreductase
+DEFINITION  4-Hydroxy-3-methoxy-benzaldehyde + NAD+ + H2O <=> Vanillate + NADH + H+
+EQUATION    C00755 + C00003 + C00001 <=> C06672 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00075  C00755_C06672
+ENZYME      1.2.1.67
+PATHWAY     rn00627  Aminobenzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+///

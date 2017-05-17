@@ -1,0 +1,8 @@
+ENTRY       R03272                      Reaction
+NAME        ATP:[acetyl-CoA carboxylase] phosphotransferase
+DEFINITION  ATP + [Acetyl-CoA carboxylase] <=> ADP + [Acetyl-CoA carboxylase] phosphate
+EQUATION    C00002 + C01139 <=> C00008 + C01247
+RCLASS      RC00002  C00002_C00008
+            RC00017  C01139_C01247
+ENZYME      2.7.11.27
+///

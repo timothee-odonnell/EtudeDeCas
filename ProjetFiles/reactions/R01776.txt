@@ -1,0 +1,13 @@
+ENTRY       R01776                      Reaction
+NAME        Acetyl-CoA:L-homoserine O-acetyltransferase
+DEFINITION  Acetyl-CoA + L-Homoserine <=> CoA + O-Acetyl-L-homoserine
+EQUATION    C00024 + C00263 <=> C00010 + C01077
+RCLASS      RC00004  C00010_C00024
+            RC00041  C00263_C01077
+ENZYME      2.3.1.31
+PATHWAY     rn00270  Cysteine and methionine metabolism
+            rn01100  Metabolic pathways
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K00641  homoserine O-acetyltransferase [EC:2.3.1.31]
+            K19726  serine/homoserine O-acetyltransferase [EC:2.3.1.30 2.3.1.31]
+///

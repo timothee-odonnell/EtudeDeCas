@@ -1,0 +1,9 @@
+ENTRY       R02363                      Reaction
+NAME        Hydroquinone:oxygen oxidoreductase
+DEFINITION  2 Hydroquinone + Oxygen <=> 2 p-Benzoquinone + 2 H2O
+EQUATION    2 C00530 + C00007 <=> 2 C00472 + 2 C00001
+COMMENT     Ref:1. Meth Enzymol 1987; 142: 165-169
+RCLASS      RC00150  C00472_C00530
+ENZYME      1.14.18.1
+ORTHOLOGY   K00505  tyrosinase [EC:1.14.18.1]
+///

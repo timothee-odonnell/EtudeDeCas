@@ -1,0 +1,11 @@
+ENTRY       R00760                      Reaction
+NAME        ATP:D-fructose 6-phosphotransferase
+DEFINITION  ATP + D-Fructose <=> ADP + D-Fructose 6-phosphate
+EQUATION    C00002 + C00095 <=> C00008 + C00085
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00085_C00095
+ENZYME      2.7.1.1         2.7.1.4
+PATHWAY     rn00500  Starch and sucrose metabolism
+ORTHOLOGY   K00844  hexokinase [EC:2.7.1.1]
+            K00847  fructokinase [EC:2.7.1.4]
+///

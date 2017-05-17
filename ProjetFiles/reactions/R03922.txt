@@ -1,0 +1,9 @@
+ENTRY       R03922                      Reaction
+NAME        S-adenosyl-L-methionine:5-(N7-methyl 5-triphosphoguanosine)-(purine-ribonucleotide)-[mRNA] 2-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + m7G(5')pppR-mRNA <=> S-Adenosyl-L-homocysteine + m7G(5')pppRm-mRNA
+EQUATION    C00019 + C02339 <=> C00021 + C04802
+RCLASS      RC00003  C00019_C00021
+            RC00466  C02339_C04802
+ENZYME      2.1.1.57
+ORTHOLOGY   K14589  cap1 methyltransferase [EC:2.1.1.57]
+///

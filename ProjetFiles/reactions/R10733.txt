@@ -1,0 +1,7 @@
+ENTRY       R10733                      Reaction
+NAME        (2E,6E)-farnesyl diphosphate lyase (cyclizing, (+)-alpha-santalene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-alpha-Santalene + Diphosphate
+EQUATION    C00448 <=> C19736 + C00013
+RCLASS      RC02578  C00448_C19736
+ENZYME      4.2.3.82
+///

@@ -1,0 +1,10 @@
+ENTRY       R01662                      Reaction
+NAME        3-phospho-D-glycerate 1,2-phosphomutase
+DEFINITION  3-Phospho-D-glyceroyl phosphate <=> 2,3-Bisphospho-D-glycerate
+EQUATION    C00236 <=> C01159
+RCLASS      RC00579  C00236_C01159
+ENZYME      5.4.2.4
+PATHWAY     rn00010  Glycolysis / Gluconeogenesis
+            rn01100  Metabolic pathways
+ORTHOLOGY   K01837  bisphosphoglycerate/phosphoglycerate mutase [EC:5.4.2.4 5.4.2.11]
+///

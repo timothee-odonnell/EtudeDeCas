@@ -1,0 +1,10 @@
+ENTRY       R11122                      Reaction
+DEFINITION  K-252c + dTDP-L-ristosamine <=> Holyrine A + dTDP
+EQUATION    C21126 + C18092 <=> C21127 + C00363
+RCLASS      RC00611  C21126_C21127
+ENZYME      2.4.-.-
+PATHWAY     rn00404  Staurosporine biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00805  Staurosporine biosynthesis, tryptophan => staurosporine
+ORTHOLOGY   K20079  N-glycosyltransferase StaG [EC:2.4.-.-]
+///

@@ -1,0 +1,11 @@
+ENTRY       R02180                      Reaction
+NAME        3'-Phosphoadenylylsulfate:chondroitin 4'-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Chondroitin <=> Adenosine 3',5'-bisphosphate + Chondroitin 4-sulfate
+EQUATION    C00053 + C00401 <=> C00054 + C00634
+RCLASS      RC00007  C00053_C00054
+            RC00231  C00401_C00634
+ENZYME      2.8.2.5
+ORTHOLOGY   K01017  chondroitin 4-sulfotransferase 11 [EC:2.8.2.5]
+            K04742  chondroitin 4-sulfotransferase 12 [EC:2.8.2.5]
+            K07779  chondroitin 4-sulfotransferase 13 [EC:2.8.2.5]
+///

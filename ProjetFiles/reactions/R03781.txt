@@ -1,0 +1,8 @@
+ENTRY       R03781                      Reaction
+NAME        Nonane-4,6-dione acylhydrolase
+DEFINITION  Nonane-4,6-dione + H2O <=> Pentan-2-one + Butanoic acid
+EQUATION    C02445 + C00001 <=> C01949 + C00246
+RCLASS      RC00326  C01949_C02445
+            RC00995  C00246_C02445
+ENZYME      3.7.1.7
+///

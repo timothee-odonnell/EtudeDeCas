@@ -1,0 +1,7 @@
+ENTRY       R11342                      Reaction
+NAME        D-threitol:NAD+ oxidoreductase
+DEFINITION  D-Threitol + NAD+ <=> D-Erythrulose + NADH + H+
+EQUATION    C16884 + C00003 <=> C02022 + C00004 + C00080
+RCLASS      RC00089  C02022_C16884
+ENZYME      1.1.1.403
+///

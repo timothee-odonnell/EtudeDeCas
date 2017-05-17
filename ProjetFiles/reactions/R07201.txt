@@ -1,0 +1,8 @@
+ENTRY       R07201                      Reaction
+NAME        phenylacetone,NADPH:oxygen oxidoreductase
+DEFINITION  Phenylacetone + NADPH + H+ + Oxygen <=> Benzyl acetate + NADP+ + H2O
+EQUATION    C15512 + C00005 + C00080 + C00007 <=> C15513 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC02071  C15512_C15513
+ENZYME      1.14.13.92
+///

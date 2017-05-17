@@ -1,0 +1,8 @@
+ENTRY       R03573                      Reaction
+NAME        UDPglucose:1,2-dihydroxy-9,10-anthraquinone 2-O-beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Alizarin <=> UDP + 1-Hydroxy-2-(beta-D-glucosyloxy)-9,10-anthraquinone
+EQUATION    C00029 + C01474 <=> C00015 + C04719
+RCLASS      RC00005  C00015_C00029
+            RC00171  C01474_C04719
+ENZYME      2.4.1.103
+///

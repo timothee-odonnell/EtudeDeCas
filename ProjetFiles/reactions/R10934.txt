@@ -1,0 +1,9 @@
+ENTRY       R10934                      Reaction
+NAME        prephenate carboxy-lyase (3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate-forming)
+DEFINITION  Prephenate <=> 3-[(4R)-4-Hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate + CO2
+EQUATION    C00254 <=> C20953 + C00011
+RCLASS      RC03316  C00254_C20953
+ENZYME      4.1.1.100
+PATHWAY     rn01130  Biosynthesis of antibiotics
+MODULE      M00787  Bacilysin biosynthesis, prephenate => bacilysin
+///

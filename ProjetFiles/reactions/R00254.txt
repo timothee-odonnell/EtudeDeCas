@@ -1,0 +1,8 @@
+ENTRY       R00254                      Reaction
+NAME        N-carbamyl-L-glutamate amidohydrolase
+DEFINITION  L-Glutamate + Ammonia + CO2 <=> N-Carbamyl-L-glutamate + H2O
+EQUATION    C00025 + C00014 + C00011 <=> C05829 + C00001
+RCLASS      RC00064  C00025_C05829
+ENZYME      3.5.1.87
+PATHWAY     rn00340  Histidine metabolism
+///

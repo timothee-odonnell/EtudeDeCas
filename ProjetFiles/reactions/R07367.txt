@@ -1,0 +1,7 @@
+ENTRY       R07367                      Reaction
+NAME        flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)
+DEFINITION  Flavanone + 2-Oxoglutarate + Oxygen <=> Flavone + Succinate + CO2 + H2O
+EQUATION    C00766 + C00026 + C00007 <=> C15608 + C00042 + C00011 + C00001
+RCLASS      RC00717  C00766_C15608
+ENZYME      1.14.11.22
+///

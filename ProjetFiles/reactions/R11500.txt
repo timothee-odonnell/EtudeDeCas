@@ -1,0 +1,7 @@
+ENTRY       R11500                      Reaction
+NAME        (2R,3S,4S)-leucoanthocyanidin:NADP+ 4-oxidoreductase
+DEFINITION  (2R,3S,4S)-Leucoanthocyanidin + NADP+ <=> (2R,3R)-Dihydroflavonol + NADPH + H+
+EQUATION    C21418 + C00006 <=> C21417 + C00005 + C00080
+RCLASS      RC00235  C21417_C21418
+ENZYME      1.1.1.219
+///

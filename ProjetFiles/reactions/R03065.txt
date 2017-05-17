@@ -1,0 +1,8 @@
+ENTRY       R03065                      Reaction
+NAME        Acetyl-CoA:chloramphenicol O3-acetyltransferase
+DEFINITION  Acetyl-CoA + Chloramphenicol <=> CoA + Chloramphenicol 3-acetate
+EQUATION    C00024 + C00918 <=> C00010 + C03601
+RCLASS      RC00004  C00010_C00024
+            RC00041  C00918_C03601
+ENZYME      2.3.1.28
+///

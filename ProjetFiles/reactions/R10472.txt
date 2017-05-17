@@ -1,0 +1,8 @@
+ENTRY       R10472                      Reaction
+NAME        S-adenosyl-L-methionine:emodin 8-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Emodin <=> S-Adenosyl-L-homocysteine + Questin
+EQUATION    C00019 + C10343 <=> C00021 + C01448
+RCLASS      RC00003  C00019_C00021
+            RC00392  C01448_C10343
+ENZYME      2.1.1.283
+///

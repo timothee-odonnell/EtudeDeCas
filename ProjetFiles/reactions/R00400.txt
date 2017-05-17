@@ -1,0 +1,10 @@
+ENTRY       R00400                      Reaction
+NAME        L-alanine:oxaloacetate aminotransferase
+DEFINITION  L-Alanine + Oxaloacetate <=> Pyruvate + L-Aspartate
+EQUATION    C00041 + C00036 <=> C00022 + C00049
+RCLASS      RC00006  C00036_C00049
+            RC00008  C00022_C00041
+ENZYME      2.6.1.12
+PATHWAY     rn00250  Alanine, aspartate and glutamate metabolism
+            rn01100  Metabolic pathways
+///

@@ -1,0 +1,10 @@
+ENTRY       R01507                      Reaction
+NAME        2,3-dihydroxybenzoate:oxygen 3,4-oxidoreductase (decyclizing)
+DEFINITION  2,3-Dihydroxybenzoate + Oxygen <=> 3-Carboxy-2-hydroxymuconate semialdehyde
+EQUATION    C00196 + C00007 <=> C04480
+RCLASS      RC00387  C00196_C04480
+ENZYME      1.13.11.14
+PATHWAY     rn00362  Benzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K10621  2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase [EC:1.13.11.- 1.13.11.14]
+///

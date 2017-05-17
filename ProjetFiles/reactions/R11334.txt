@@ -1,0 +1,7 @@
+ENTRY       R11334                      Reaction
+NAME        2-hydroxy-2-methylpropanoyl-CoA CoA-carbonylmutase
+DEFINITION  2-Hydroxyisobutanoyl-CoA <=> (S)-3-Hydroxybutanoyl-CoA
+EQUATION    C21287 <=> C01144
+RCLASS      RC03418  C01144_C21287
+ENZYME      5.3.3.20
+///

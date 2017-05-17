@@ -1,0 +1,8 @@
+ENTRY       R10165                      Reaction
+NAME        hydroxylamine:ferricytochrome-c oxidoreductase
+DEFINITION  Hydroxylamine + 3 Ferricytochrome c <=> Nitric oxide + 3 Ferrocytochrome c + 3 H+
+EQUATION    C00192 + 3 C00125 <=> C00533 + 3 C00126 + 3 C00080
+RCLASS      RC00016  C00125_C00126
+            RC03069  C00192_C00533
+ENZYME      1.7.2.6
+///

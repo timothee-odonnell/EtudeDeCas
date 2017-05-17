@@ -1,0 +1,9 @@
+ENTRY       R03849                      Reaction
+NAME        11beta-Hydroxyprogesterone,hydrogen-donor:oxygen oxidoreductase (21-hydroxylating)
+DEFINITION  11beta-Hydroxyprogesterone + Reduced acceptor + Oxygen <=> Corticosterone + Acceptor + H2O
+EQUATION    C05498 + C00030 + C00007 <=> C02140 + C00028 + C00001
+RCLASS      RC00157  C02140_C05498
+ENZYME      1.14.14.16
+PATHWAY     rn00140  Steroid hormone biosynthesis
+ORTHOLOGY   K00513  steroid 21-monooxygenase [EC:1.14.14.16]
+///

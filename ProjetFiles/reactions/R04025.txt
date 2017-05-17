@@ -1,0 +1,12 @@
+ENTRY       R04025                      Reaction
+NAME        N-Acetylputrescine:oxygen oxidoreductase(deaminating)(flavin-containing)
+DEFINITION  N-Acetylputrescine + H2O + Oxygen <=> N4-Acetylaminobutanal + Ammonia + Hydrogen peroxide
+EQUATION    C02714 + C00001 + C00007 <=> C05936 + C00014 + C00027
+RCLASS      RC00062  C02714_C05936
+            RC02755  C00007_C00027
+ENZYME      1.4.3.4
+PATHWAY     rn00330  Arginine and proline metabolism
+            rn01100  Metabolic pathways
+MODULE      M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+///

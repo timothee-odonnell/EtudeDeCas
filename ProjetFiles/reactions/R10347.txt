@@ -1,0 +1,8 @@
+ENTRY       R10347                      Reaction
+NAME        N1-aminopropylagmatine amidinohydrolase
+DEFINITION  N1-(3-Aminopropyl)agmatine + H2O <=> Spermidine + Urea
+EQUATION    C20560 + C00001 <=> C00315 + C00086
+RCLASS      RC00024  C00315_C20560
+            RC00329  C00086_C20560
+ENZYME      3.5.3.24
+///

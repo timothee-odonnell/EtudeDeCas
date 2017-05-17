@@ -1,0 +1,11 @@
+ENTRY       R11369                      Reaction
+DEFINITION  (S)-beta-Tyrosyl-[pcp] <=> 3-(4-Hydroxyphenyl)-3-oxopropanoyl-[pcp]
+EQUATION    C21309 <=> C21311
+COMMENT     unclear reaction
+            incomplete reaction
+RCLASS      RC03429  C21309_C21311
+PATHWAY     rn01059  Biosynthesis of enediyne antibiotics
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00828  Maduropeptin beta-hydroxy acid moiety biosynthesis, tyrosine => 3-(2-chloro-3-hydroxy-4-methoxyphenyl)-3-hydroxypropanoyl-PCP
+ORTHOLOGY   K21188  PLP-dependent transaminase
+///

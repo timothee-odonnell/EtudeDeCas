@@ -1,0 +1,11 @@
+ENTRY       R01966                      Reaction
+NAME        beta-D-glucosaminide glucosaminohydrolase
+DEFINITION  D-Glucosamine + D-Glucosaminide <=> D-Glucosaminide + H2O
+EQUATION    C00329 + C06023 <=> C06023 + C00001
+REMARK      Same as: R06225
+RCLASS      RC00049  C00329_C06023  C06023_C06023
+ENZYME      3.2.1.165
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K15855  exo-1,4-beta-D-glucosaminidase [EC:3.2.1.165]
+///

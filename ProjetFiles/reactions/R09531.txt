@@ -1,0 +1,8 @@
+ENTRY       R09531                      Reaction
+NAME        S-adenosylmethioninamine:spermidine 3-aminopropyltransferase (thermospermine synthesizing)
+DEFINITION  S-Adenosylmethioninamine + Spermidine <=> 5'-Methylthioadenosine + Thermospermine + H+
+EQUATION    C01137 + C00315 <=> C00170 + C19669 + C00080
+RCLASS      RC00021  C00170_C01137
+            RC00053  C00315_C19669
+ENZYME      2.5.1.79
+///

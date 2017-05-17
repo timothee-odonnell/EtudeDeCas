@@ -1,0 +1,8 @@
+ENTRY       R02503                      Reaction
+NAME        testosterone,NADPH---hemoprotein reductase:oxygen oxidoreductase (7alpha-hydroxylating)
+DEFINITION  Testosterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 7alpha-Hydroxytestosterone + [Oxidized NADPH---hemoprotein reductase] + H2O
+EQUATION    C00535 + C03024 + C00007 <=> C05291 + C03161 + C00001
+RCLASS      RC00661  C00535_C05291
+ENZYME      1.14.14.1
+PATHWAY     rn00140  Steroid hormone biosynthesis
+///

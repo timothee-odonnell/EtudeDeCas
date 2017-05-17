@@ -1,0 +1,12 @@
+ENTRY       R11247                      Reaction
+DEFINITION  NDP-1-epi-valienol 7-phosphate + dTDP-4-amino-4,6-dideoxy-D-glucose <=> dTDP-acarviose-7-phosphate
+EQUATION    C21207 + C04268 <=> C21208
+COMMENT     unclear reaction
+RCLASS      RC03400  C04268_C21208
+            RC03401  C21207_C21208
+ENZYME      2.4.-.-
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00814  Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose
+ORTHOLOGY   K20430  glycosyltransferase AcbS [EC:2.4.-.-]
+///

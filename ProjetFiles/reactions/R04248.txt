@@ -1,0 +1,6 @@
+ENTRY       R04248                      Reaction
+DEFINITION  2-Aminoethylphosphonate + Hydrogen peroxide <=> Ethanolamine + Orthophosphate
+EQUATION    C03557 + C00027 <=> C00189 + C00009
+RCLASS      RC01106  C00189_C03557
+ENZYME      4.99.1.-
+///

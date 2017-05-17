@@ -1,0 +1,8 @@
+ENTRY       R04028                      Reaction
+NAME        6-Acetamido-2-oxohexanoate:2-oxoglutarata aminotransferase
+DEFINITION  6-Acetamido-3-aminohexanoate + 2-Oxoglutarate <=> 6-Acetamido-3-oxohexanoate + L-Glutamate
+EQUATION    C03846 + C00026 <=> C03682 + C00025
+RCLASS      RC00006  C00025_C00026
+            RC00888  C03682_C03846
+ENZYME      2.6.1.65
+///

@@ -1,0 +1,15 @@
+ENTRY       G10488                      Glycan
+NAME        Galactinol;
+            1-alpha-D-Galactosyl-D-myo-inositol
+COMPOSITION (Gal)1 (Ino)1
+MASS        162.1 (Ino)
+REMARK      Same as: C01235
+REACTION    R06042 R06071 R06093 R06214
+ENZYME      2.4.1.67        2.4.1.82        2.4.1.123       3.2.1.22
+DBLINKS     GlycomeDB: 3601
+NODE        2
+            1   Ino         5     0
+            2   Gal        -5     0
+EDGE        1
+            1     2:a1    1    
+///

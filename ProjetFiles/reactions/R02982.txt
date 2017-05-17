@@ -1,0 +1,8 @@
+ENTRY       R02982                      Reaction
+NAME        S-Adenosyl-L-methionine:xanthotoxol O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + Xanthotoxol <=> S-Adenosyl-L-homocysteine + Xanthotoxin
+EQUATION    C00019 + C00841 <=> C00021 + C01864
+RCLASS      RC00003  C00019_C00021
+            RC00392  C00841_C01864
+ENZYME      2.1.1.70
+///

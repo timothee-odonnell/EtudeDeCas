@@ -1,0 +1,8 @@
+ENTRY       R02553                      Reaction
+NAME        Cyclopentanol:NAD+ oxidoreductase
+DEFINITION  Cyclopentanol + NAD+ <=> Cyclopentanone + NADH + H+
+EQUATION    C02020 + C00003 <=> C00557 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00144  C00557_C02020
+ENZYME      1.1.1.163
+///

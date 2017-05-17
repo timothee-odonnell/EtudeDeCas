@@ -1,0 +1,10 @@
+ENTRY       R07202                      Reaction
+NAME        abscisate,NADPH:oxygen oxidoreductase (8'-hydroxylating)
+DEFINITION  Abscisate + NADPH + H+ + Oxygen <=> 8'-Hydroxyabscisate + NADP+ + H2O
+EQUATION    C06082 + C00005 + C00080 + C00007 <=> C15514 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00257  C06082_C15514
+ENZYME      1.14.13.93
+PATHWAY     rn00906  Carotenoid biosynthesis
+ORTHOLOGY   K09843  (+)-abscisic acid 8'-hydroxylase [EC:1.14.13.93]
+///

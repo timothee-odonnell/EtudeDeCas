@@ -1,0 +1,8 @@
+ENTRY       R03138                      Reaction
+NAME        3'-Phosphoadenylylsulfate:Renilla luciferin sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Renilla luciferin <=> Adenosine 3',5'-bisphosphate + Luciferyl sulfate
+EQUATION    C00053 + C00982 <=> C00054 + C02555
+RCLASS      RC00007  C00053_C00054
+            RC03117  C00982_C02555
+ENZYME      2.8.2.10
+///

@@ -1,0 +1,7 @@
+ENTRY       R01798                      Reaction
+NAME        Arachidonyl-CoA:CDPacylglycerol O-arachidonyltransferase
+DEFINITION  Arachidonyl-CoA + CDP-acylglycerol <=> CoA + CDP-diacylglycerol
+EQUATION    C02249 + C02255 <=> C00010 + C00269
+RCLASS      RC00004  C00010_C02249
+            RC00037  C00269_C02255
+///

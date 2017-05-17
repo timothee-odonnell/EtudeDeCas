@@ -1,0 +1,11 @@
+ENTRY       R10917                      Reaction
+NAME        L-dihydroanticapsin:NAD+ oxidoreductase
+DEFINITION  L-Dihydroanticapsin + NAD+ <=> L-Anticapsin + NADH + H+
+EQUATION    C20940 + C00003 <=> C20941 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00154  C20940_C20941
+ENZYME      1.1.1.385
+PATHWAY     rn01130  Biosynthesis of antibiotics
+MODULE      M00787  Bacilysin biosynthesis, prephenate => bacilysin
+ORTHOLOGY   K19548  dihydroanticapsin dehydrogenase [EC:1.1.1.385]
+///

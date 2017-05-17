@@ -1,0 +1,13 @@
+ENTRY       R06462                      Reaction
+NAME        10-deoxymethymycin,NADPH:oxygen oxidoreductase (pikromycin-forming)
+DEFINITION  10-Deoxymethymycin + NADPH + Oxygen <=> Neomethymycin + NADP+ + H2O
+EQUATION    C11994 + C00005 + C00007 <=> C11995 + C00006 + C00001
+COMMENT     CYP107L1
+RCLASS      RC00001  C00005_C00006
+            RC01525  C11994_C11995
+ENZYME      1.14.13.185
+PATHWAY     rn00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00776  Pikromycin/methymycin/neomethymycin biosynthesis, methylmalonyl-CoA + malonyl-CoA => narbonolide/10-deoxymethynolide => pikromycin/methymycin/neomethymycin
+ORTHOLOGY   K16006  pikromycin synthase [EC:1.14.13.185]
+///

@@ -1,0 +1,7 @@
+ENTRY       R02648                      Reaction
+NAME        Glycerol 1,2-cyclic phosphate 2-glycerophosphohydrolase
+DEFINITION  Glycerol 1,2-cyclic phosphate + H2O <=> DL-Glycerol 1-phosphate
+EQUATION    C03947 + C00001 <=> C03189
+RCLASS      RC00763  C03189_C03947
+ENZYME      3.1.4.42
+///

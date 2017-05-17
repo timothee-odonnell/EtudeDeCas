@@ -1,0 +1,13 @@
+ENTRY       R02521                      Reaction
+NAME        4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)
+DEFINITION  3-(4-Hydroxyphenyl)pyruvate + Oxygen <=> Homogentisate + CO2
+EQUATION    C01179 + C00007 <=> C00544 + C00011
+COMMENT     multi-step reaction
+RCLASS      RC00738  C00544_C01179
+ENZYME      1.13.11.27
+PATHWAY     rn00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            rn00350  Tyrosine metabolism
+            rn01100  Metabolic pathways
+MODULE      M00044  Tyrosine degradation, tyrosine => homogentisate
+ORTHOLOGY   K00457  4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+///

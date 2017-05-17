@@ -1,0 +1,8 @@
+ENTRY       R02793                      Reaction
+NAME        3alpha,7alpha,12alpha-trihydroxy-5beta-cholanate:NADP+ 12-oxidoreductase
+DEFINITION  Cholic acid + NADP+ <=> 3alpha,7alpha-Dihydroxy-12-oxo-5beta-cholanate + NADPH + H+
+EQUATION    C00695 + C00006 <=> C01292 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00127  C00695_C01292
+ENZYME      1.1.1.176
+///

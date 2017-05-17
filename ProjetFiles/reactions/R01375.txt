@@ -1,0 +1,7 @@
+ENTRY       R01375                      Reaction
+NAME        L-Glutamine:phenylpyruvate aminotransferase
+DEFINITION  L-Glutamine + Phenylpyruvate <=> 2-Oxoglutaramate + L-Phenylalanine
+EQUATION    C00064 + C00166 <=> C00940 + C00079
+RCLASS      RC00006  C00064_C00940  C00079_C00166
+ENZYME      2.6.1.64
+///

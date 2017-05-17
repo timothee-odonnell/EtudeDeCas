@@ -1,0 +1,7 @@
+ENTRY       R01147                      Reaction
+NAME        Pyridoxamine-5'-phosphate:2-oxoglutarate aminotransferase
+DEFINITION  Pyridoxamine phosphate + Pyruvate <=> Pyridoxal phosphate + D-Alanine
+EQUATION    C00647 + C00022 <=> C00018 + C00133
+RCLASS      RC00008  C00022_C00133
+            RC00048  C00018_C00647
+///

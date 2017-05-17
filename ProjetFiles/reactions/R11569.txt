@@ -1,0 +1,4 @@
+ENTRY       R11569                      Reaction
+DEFINITION  (1R,5aS,6R)-4a-Hydroxy-1,4,4a,5,5a,6,9,10a-octahydrophenazine-1,6-dicarboxylate <=> (1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate + H2O
+EQUATION    C21473 <=> C21408 + C00001
+///

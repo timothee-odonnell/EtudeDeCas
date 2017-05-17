@@ -1,0 +1,9 @@
+ENTRY       R10598                      Reaction
+NAME        (2E,6E)-farnesyl diphosphate lyase (cyclizing, (+)-beta-chamigrene-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-beta-Chamigrene + Diphosphate
+EQUATION    C00448 <=> C19908 + C00013
+RCLASS      RC03207  C00448_C19908
+ENZYME      4.2.3.78
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+ORTHOLOGY   K15799  (+)-alpha-barbatene/beta-chamigrene/thujopsene synthase [EC:4.2.3.69 4.2.3.78 4.2.3.79]
+///

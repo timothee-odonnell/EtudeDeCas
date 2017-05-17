@@ -1,0 +1,9 @@
+ENTRY       R00383                      Reaction
+NAME        Acyl-CoA hydrolase
+DEFINITION  Acyl-CoA + H2O <=> CoA + Carboxylate
+EQUATION    C00040 + C00001 <=> C00010 + C00060
+COMMENT     general reaction
+RCLASS      RC00004  C00010_C00040
+            RC00281  C00040_C00060
+ENZYME      3.1.2.18        3.1.2.19        3.1.2.20
+///

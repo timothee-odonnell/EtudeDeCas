@@ -1,0 +1,12 @@
+ENTRY       R09580                      Reaction
+NAME        N-hydroxy-L-phenylalanine,NADPH:oxygen oxidoreductase (N-hydroxylating)
+DEFINITION  N-Hydroxy-L-phenylalanine + Oxygen + NADPH + H+ <=> N,N-Dihydroxy-L-phenylalanine + NADP+ + H2O
+EQUATION    C19712 + C00007 + C00005 + C00080 <=> C19715 + C00006 + C00001
+COMMENT     second step of three-step reaction (see R09578, R09579+R09580+R09581)
+RCLASS      RC00001  C00005_C00006
+            RC01918  C19712_C19715
+ENZYME      1.14.13.124
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K12153  phenylalanine N-monooxygenase [EC:1.14.13.124]
+///

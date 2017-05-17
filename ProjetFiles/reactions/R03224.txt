@@ -1,0 +1,7 @@
+ENTRY       R03224                      Reaction
+NAME        (3R)-3-Hydroxyacyl-CoA hydro-lyase
+DEFINITION  (3R)-3-Hydroxyacyl-CoA <=> cis-2,3-Dehydroacyl-CoA + H2O
+EQUATION    C01086 <=> C01122 + C00001
+RCLASS      RC00770  C01086_C01122
+ENZYME      4.2.1.17
+///

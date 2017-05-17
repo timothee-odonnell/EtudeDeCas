@@ -1,0 +1,17 @@
+ENTRY       R10752                      Reaction
+NAME        OA-6129-C amidohydrolase
+DEFINITION  OA-6129 C + H2O <=> Deacetylepithienamycin F + Pantothenate
+EQUATION    C20814 + C00001 <=> C20816 + C00864
+COMMENT     proposed pathway
+            not yet characterized sufficiently
+RCLASS      RC00090  C00864_C20814
+            RC00096  C20814_C20816
+ENZYME      3.5.1.-
+PATHWAY     rn00332  Carbapenem biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K18572  putative pantetheine hydrolase [EC:3.5.1.-]
+REFERENCE   1  [PMID:24420617]
+            Li R, Lloyd EP, Moshos KA, Townsend CA.
+            Identification and characterization of the carbapenem MM 4550 and its gene cluster in Streptomyces argenteolus ATCC 11009.
+            Chembiochem. 15 (2014) 320-31.
+///

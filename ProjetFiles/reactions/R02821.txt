@@ -1,0 +1,12 @@
+ENTRY       R02821                      Reaction
+NAME        Trimethylaminoacetate:L-homosysteine S-methyltransferase
+DEFINITION  Betaine + L-Homocysteine <=> N,N-Dimethylglycine + L-Methionine
+EQUATION    C00719 + C00155 <=> C01026 + C00073
+RCLASS      RC00035  C00073_C00155
+            RC00496  C00719_C01026
+ENZYME      2.1.1.5
+PATHWAY     rn00260  Glycine, serine and threonine metabolism
+            rn00270  Cysteine and methionine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00544  betaine-homocysteine S-methyltransferase [EC:2.1.1.5]
+///

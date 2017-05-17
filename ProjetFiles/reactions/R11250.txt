@@ -1,0 +1,9 @@
+ENTRY       R11250                      Reaction
+DEFINITION  NDP-1-epi-valienol + 2-Amino-1,5-anhydro-2-deoxyglucitol <=> Salbostatin 6'-phosphate + NDP
+EQUATION    C21210 + C21416 <=> C21211 + C00454
+RCLASS      RC03401  C21210_C21211
+ENZYME      2.5.1.135
+PATHWAY     rn00525  Acarbose and validamycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20436  validamine 7-phosphate valienyltransferase [EC:2.5.1.135]
+///

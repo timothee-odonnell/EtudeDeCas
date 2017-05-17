@@ -1,0 +1,7 @@
+ENTRY       R11082                      Reaction
+NAME        7,8-dihydroneopterin 3'-triphosphate 2'-epimerase
+DEFINITION  7,8-Dihydroneopterin 3'-triphosphate <=> 7,8-Dihydromonapterin 3'-triphosphate
+EQUATION    C04895 <=> C21094
+RCLASS      RC01479  C04895_C21094
+ENZYME      5.1.99.7
+///

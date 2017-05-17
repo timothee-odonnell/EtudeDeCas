@@ -1,0 +1,9 @@
+ENTRY       R09823                      Reaction
+NAME        S-adenosyl-L-methionine:mycinamicin III 3''-O-methyltransferase
+DEFINITION  Mycinamicin III + S-Adenosyl-L-methionine <=> Mycinamicin IV + S-Adenosyl-L-homocysteine
+EQUATION    C15681 + C00019 <=> C18846 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC00466  C15681_C18846
+ENZYME      2.1.1.237
+PATHWAY     rn01130  Biosynthesis of antibiotics
+///

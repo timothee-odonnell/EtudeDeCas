@@ -1,0 +1,12 @@
+ENTRY       R04296                      Reaction
+NAME        UDPglucose:(S)-4-hydroxymandelonitrile beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + (S)-4-Hydroxymandelonitrile <=> UDP + Dhurrin
+EQUATION    C00029 + C03742 <=> C00015 + C05143
+RCLASS      RC00005  C00015_C00029
+            RC00397  C03742_C05143
+ENZYME      2.4.1.85
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+MODULE      M00369  Cyanogenic glycoside biosynthesis, tyrosine => dhurrin
+ORTHOLOGY   K13030  cyanohydrin beta-glucosyltransferase [EC:2.4.1.85]
+///

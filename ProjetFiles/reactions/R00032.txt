@@ -1,0 +1,10 @@
+ENTRY       R00032                      Reaction
+NAME        beta-carotene:oxygen 15,15'-oxidoreductase (bond-cleaving)
+DEFINITION  beta-Carotene + Oxygen <=> 2 Retinal
+EQUATION    C02094 + C00007 <=> 2 C00376
+RCLASS      RC00912  C00376_C02094
+ENZYME      1.13.11.63
+PATHWAY     rn00830  Retinol metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00515  beta-carotene 15,15'-dioxygenase [EC:1.13.11.63]
+///

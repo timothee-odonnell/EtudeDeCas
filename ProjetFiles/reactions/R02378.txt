@@ -1,0 +1,8 @@
+ENTRY       R02378                      Reaction
+NAME        L-Serine hydro-lyase (adding pyrazole)
+DEFINITION  L-Serine + Pyrazole <=> 3-(Pyrazol-1-yl)-L-alanine + H2O
+EQUATION    C00065 + C00481 <=> C01162 + C00001
+RCLASS      RC00164  C00481_C01162
+            RC00591  C00065_C01162
+ENZYME      4.2.1.50
+///

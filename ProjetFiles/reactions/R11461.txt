@@ -1,0 +1,8 @@
+ENTRY       R11461                      Reaction
+NAME        ATP:D-erythrulose 4-phosphotransferase
+DEFINITION  ATP + D-Erythrulose <=> ADP + D-Erythrulose 4-phosphate
+EQUATION    C00002 + C02022 <=> C00008 + C03604
+RCLASS      RC00017  C02022_C03604
+ENZYME      2.7.1.210
+ORTHOLOGY   K20902  D-erythrulose 4-kinase [EC:2.7.1.210]
+///

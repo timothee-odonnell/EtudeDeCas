@@ -1,0 +1,26 @@
+ENTRY       G10620                      Glycan
+NAME        GDP;
+            Guanosine 5'-diphosphate;
+            Guanosine diphosphate
+COMPOSITION (GDP)1
+REMARK      Same as: C00035
+REACTION    R05904 R05944 R05968 R05972 R05973 R05988 R06015 R06024 
+            R06025 R06027 R06030 R06031 R06035 R06038 R06039 R06041 
+            R06075 R06076 R06085 R06086 R06089 R06090 R06095 R06125 
+            R06127 R06128 R06155 R06156 R06162 R06163 R06164 R06165 
+            R06170 R06213 R06221 R06222 R06224 R06227 R06230 R06238 
+            R06986 R08599 R09295 R09300 R09301 R09302 R09303 R09318 
+            R09319 R09324 R11318
+ENZYME      2.4.1.29        2.4.1.36        2.4.1.65        2.4.1.68        
+            2.4.1.69        2.4.1.131       2.4.1.132       2.4.1.142       
+            2.4.1.152       2.4.1.214       2.4.1.221       2.4.1.232       
+            2.4.1.257       2.4.1.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Nucleic acids
+              Nucleotides
+               Ribonucleotides
+                C00035  GDP
+NODE        1
+            1   GDP      -0.2   0.3
+EDGE        0
+///

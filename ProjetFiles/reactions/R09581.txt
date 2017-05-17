@@ -1,0 +1,10 @@
+ENTRY       R09581                      Reaction
+DEFINITION  N,N-Dihydroxy-L-phenylalanine <=> (E)-Phenylacetaldoxime + CO2 + H2O
+EQUATION    C19715 <=> C19714 + C00011 + C00001
+COMMENT     last step of three-step reaction (see R09578, R09579+R09580+R09581)
+RCLASS      RC01936  C19714_C19715
+ENZYME      1.14.13.124
+PATHWAY     rn00460  Cyanoamino acid metabolism
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K12153  phenylalanine N-monooxygenase [EC:1.14.13.124]
+///

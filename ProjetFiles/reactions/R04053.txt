@@ -1,0 +1,12 @@
+ENTRY       R04053                      Reaction
+NAME        3-phosphonopyruvate carboxy-lyase
+DEFINITION  3-Phosphonopyruvate <=> Phosphonoacetaldehyde + CO2
+EQUATION    C02798 <=> C03167 + C00011
+RCLASS      RC00506  C02798_C03167
+ENZYME      4.1.1.82
+PATHWAY     rn00440  Phosphonate and phosphinate metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K09459  phosphonopyruvate decarboxylase [EC:4.1.1.82]
+///

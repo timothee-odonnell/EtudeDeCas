@@ -1,0 +1,11 @@
+ENTRY       R02125                      Reaction
+NAME        retinal:oxygen oxidoreductase
+DEFINITION  Retinal + Oxygen + H2O <=> Retinoate + Hydrogen peroxide
+EQUATION    C00376 + C00007 + C00001 <=> C00777 + C00027
+RCLASS      RC00218  C00376_C00777
+            RC02755  C00007_C00027
+ENZYME      1.2.3.1
+PATHWAY     rn00830  Retinol metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00157  aldehyde oxidase [EC:1.2.3.1]
+///

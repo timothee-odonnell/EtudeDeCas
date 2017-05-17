@@ -1,0 +1,8 @@
+ENTRY       R07183                      Reaction
+NAME        acetylacetone:oxygen oxidoreductase
+DEFINITION  Pentane-2,4-dione + Oxygen <=> Acetate + Methylglyoxal
+EQUATION    C15499 + C00007 <=> C00033 + C00546
+RCLASS      RC01318  C00033_C15499
+            RC01841  C00546_C15499
+ENZYME      1.13.11.50
+///

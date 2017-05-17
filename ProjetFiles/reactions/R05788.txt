@@ -1,0 +1,8 @@
+ENTRY       R05788                      Reaction
+NAME        6-O-(beta-D-xylopyranosyl)-beta-D-glucopyranoside 6-O-(beta-D-xylosyl)-beta-D-glucohydrolase
+DEFINITION  6-O-(beta-D-Xylopyranosyl)-beta-D-glucopyranoside + H2O <=> 6-O-(beta-D-Xylopyranosyl)-beta-D-glucopyranose + Alcohol
+EQUATION    C11531 + C00001 <=> C11535 + C00069
+RCLASS      RC00529  C00069_C11531
+            RC00530  C11531_C11535
+ENZYME      3.2.1.149
+///

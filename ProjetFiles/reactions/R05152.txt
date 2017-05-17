@@ -1,0 +1,7 @@
+ENTRY       R05152                      Reaction
+NAME        Quinoline:acceptor 2-oxidoreductase (hydroxylating)
+DEFINITION  Quinoline + Acceptor + H2O <=> 2(1H)-Quinolinone + Reduced acceptor
+EQUATION    C06413 + C00028 + C00001 <=> C06415 + C00030
+RCLASS      RC00787  C06413_C06415
+ENZYME      1.3.99.17
+///

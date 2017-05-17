@@ -1,0 +1,10 @@
+ENTRY       R05358                      Reaction
+NAME        Acrylonitrile aminohydrolase
+DEFINITION  Acrylonitrile + 2 H2O <=> Acrylic acid + Ammonia
+EQUATION    C01998 + 2 C00001 <=> C00511 + C00014
+RCLASS      RC01336  C00511_C01998
+ENZYME      3.5.5.7
+PATHWAY     rn00643  Styrene degradation
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K01502  aliphatic nitrilase [EC:3.5.5.7]
+///

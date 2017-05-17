@@ -1,0 +1,7 @@
+ENTRY       R05088                      Reaction
+DEFINITION  Dimethylallyltryptophan <=> Elymoclavine
+EQUATION    C06067 <=> C06068
+COMMENT     multi-step reaction
+            incomplete reaction
+RCLASS      RC01985  C06067_C06068
+///

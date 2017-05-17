@@ -1,0 +1,8 @@
+ENTRY       R04202                      Reaction
+NAME        Bis(2-ethylhexyl)phthalate acylhydrolase
+DEFINITION  Bis(2-ethylhexyl)phthalate + H2O <=> 2-Ethylhexyl phthalate + 2-Ethylhexan-1-ol
+EQUATION    C03690 + C00001 <=> C03343 + C02498
+RCLASS      RC00020  C03343_C03690
+            RC00041  C02498_C03690
+ENZYME      3.1.1.60
+///

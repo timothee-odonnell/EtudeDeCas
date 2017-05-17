@@ -1,0 +1,8 @@
+ENTRY       R03870                      Reaction
+NAME        5-Methylbarbiturate amidohydrolase
+DEFINITION  5-Methylbarbiturate + 2 H2O <=> Methylmalonate + Urea
+EQUATION    C05281 + 2 C00001 <=> C02170 + C00086
+RCLASS      RC02131  C00086_C05281
+            RC02132  C02170_C05281
+ENZYME      3.5.2.1
+///

@@ -1,0 +1,8 @@
+ENTRY       R10430                      Reaction
+NAME        S-methyl-L-methionine:L-selenocysteine Se-methyltransferase
+DEFINITION  S-Methyl-L-methionine + L-Selenocysteine <=> L-Methionine + Se-Methyl-L-selenocysteine
+EQUATION    C03172 + C05688 <=> C00073 + C05689
+RCLASS      RC00347  C00073_C03172
+            RC01241  C05688_C05689
+ENZYME      2.1.1.280
+///

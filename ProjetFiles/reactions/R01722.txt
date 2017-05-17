@@ -1,0 +1,8 @@
+ENTRY       R01722                      Reaction
+NAME        UDP-glucose:nicotinate N-glucosyltransferase
+DEFINITION  UDP-glucose + Nicotinate <=> UDP + N-Glucosylnicotinate
+EQUATION    C00029 + C00253 <=> C00015 + C03003
+RCLASS      RC00005  C00015_C00029
+            RC00033  C00253_C03003
+ENZYME      2.4.1.196
+///

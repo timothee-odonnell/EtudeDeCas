@@ -1,0 +1,8 @@
+ENTRY       R10730                      Reaction
+NAME        (R)-2-methylpyrrolidine:NADP+ 2-oxidoreductase
+DEFINITION  (R)-2-Methylpyrrolidine + NADP+ <=> 2-Methyl-1-pyrroline + NADPH + H+
+EQUATION    C20809 + C00006 <=> C20808 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC03260  C20808_C20809
+ENZYME      1.5.1.48
+///

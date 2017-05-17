@@ -1,0 +1,8 @@
+ENTRY       R04396                      Reaction
+NAME        S-Adenosyl-L-methionine:1,4-alpha-D-glucan 6-O-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 1,4-alpha-D-Glucooligosaccharide <=> S-Adenosyl-L-homocysteine + Oligosaccharide containing 6-methyl-D-glucose units
+EQUATION    C00019 + C04099 <=> C00021 + C04725
+RCLASS      RC00003  C00019_C00021
+            RC02123  C04099_C04725
+ENZYME      2.1.1.18
+///

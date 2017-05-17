@@ -1,0 +1,7 @@
+ENTRY       R07128                      Reaction
+NAME        Oplophorus-luciferin:oxygen 2-oxidoreductase (decarboxylating)
+DEFINITION  Oplophorus luciferin + Oxygen <=> Oxidized Oplophorus luciferin + hn + CO2
+EQUATION    C15037 + C00007 <=> C15038 + C00205 + C00011
+RCLASS      RC00857  C15037_C15038
+ENZYME      1.13.12.13
+///

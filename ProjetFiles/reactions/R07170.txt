@@ -1,0 +1,9 @@
+ENTRY       R07170                      Reaction
+NAME        (R)-6-hydroxynicotine:oxygen oxidoreductase
+DEFINITION  (R)-6-Hydroxynicotine + H2O + Oxygen <=> 6-Hydroxypseudooxynicotine + Hydrogen peroxide
+EQUATION    C03043 + C00001 + C00007 <=> C01297 + C00027
+RCLASS      RC00875  C01297_C03043
+            RC02755  C00007_C00027
+ENZYME      1.5.3.6
+ORTHOLOGY   K19890  (R)-6-hydroxynicotine oxidase [EC:1.5.3.6]
+///

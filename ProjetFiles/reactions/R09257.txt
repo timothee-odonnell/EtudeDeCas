@@ -1,0 +1,10 @@
+ENTRY       R09257                      Reaction
+NAME        feruloyl-CoA:putrescine feruloyltransferase
+DEFINITION  Feruloyl-CoA + Putrescine <=> CoA + Feruloylputrescine
+EQUATION    C00406 + C00134 <=> C00010 + C10497
+RCLASS      RC00004  C00010_C00406
+            RC00096  C00134_C10497
+ENZYME      2.3.1.-
+PATHWAY     rn00330  Arginine and proline metabolism
+ORTHOLOGY   K14329  agmatine coumaroyltransferase [EC:2.3.1.64 2.3.1.-]
+///

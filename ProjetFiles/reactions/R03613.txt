@@ -1,0 +1,8 @@
+ENTRY       R03613                      Reaction
+NAME        diphthine:ammonia ligase (AMP-forming)
+DEFINITION  ATP + Peptide diphthine + Ammonia + H+ <=> AMP + Diphosphate + Peptide diphthamide
+EQUATION    C00002 + C01573 + C00014 + C00080 <=> C00020 + C00013 + C02872
+RCLASS      RC00358  C01573_C02872
+ENZYME      6.3.1.14
+ORTHOLOGY   K06927  diphthine-ammonia ligase [EC:6.3.1.14]
+///

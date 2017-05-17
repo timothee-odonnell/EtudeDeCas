@@ -1,0 +1,8 @@
+ENTRY       R03106                      Reaction
+NAME        3-mercaptopyruvate:cyanide sulfurtransferase
+DEFINITION  Hydrogen cyanide + Mercaptopyruvate <=> Thiocyanate + Pyruvate
+EQUATION    C01326 + C00957 <=> C01755 + C00022
+RCLASS      RC00214  C00022_C00957
+ENZYME      2.8.1.2
+ORTHOLOGY   K01011  thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+///

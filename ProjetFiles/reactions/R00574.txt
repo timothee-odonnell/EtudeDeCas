@@ -1,0 +1,7 @@
+ENTRY       R00574                      Reaction
+NAME        CTP diphosphate-lyase (cyclizing; 3',5'-cyclic-CMP-forming)
+DEFINITION  CTP <=> 3',5'-Cyclic CMP + Diphosphate
+EQUATION    C00063 <=> C00941 + C00013
+RCLASS      RC00295  C00063_C00941
+ENZYME      4.6.1.6
+///

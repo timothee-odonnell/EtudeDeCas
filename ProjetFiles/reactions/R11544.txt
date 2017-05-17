@@ -1,0 +1,8 @@
+ENTRY       R11544                      Reaction
+NAME        beta-1,2-mannotriose mannohydrolase
+DEFINITION  beta-1,2-Mannotriose + H2O <=> beta-1,2-Mannobiose + alpha-D-Mannose
+EQUATION    C21454 + C00001 <=> C21336 + C00936
+RCLASS      RC00049  C21336_C21454
+ENZYME      3.2.1.197
+ORTHOLOGY   K21065  beta-1,2-mannosidase [EC:3.2.1.197]
+///

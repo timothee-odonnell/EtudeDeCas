@@ -1,0 +1,11 @@
+ENTRY       R09365                      Reaction
+NAME        5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase
+DEFINITION  Selenohomocysteine + 5-Methyltetrahydropteroyltri-L-glutamate <=> L-Selenomethionine + Tetrahydropteroyltri-L-glutamate
+EQUATION    C05698 + C04489 <=> C05335 + C04144
+RCLASS      RC00113  C04144_C04489
+            RC01241  C05335_C05698
+ENZYME      2.1.1.13        2.1.1.14
+PATHWAY     rn00450  Selenocompound metabolism
+ORTHOLOGY   K00548  5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+            K00549  5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+///

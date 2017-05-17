@@ -1,0 +1,9 @@
+ENTRY       R06863                      Reaction
+NAME        D-sedoheptulose-7-phosphate:thiamin diphosphate glycolaldehydetransferase
+DEFINITION  Sedoheptulose 7-phosphate + Thiamin diphosphate <=> alpha,beta-Dihydroxyethyl-TPP + D-Ribose 5-phosphate
+EQUATION    C05382 + C00068 <=> C13378 + C00117
+COMMENT     TPP-dependent enzyme (see R01641), subsequently R06861
+RCLASS      RC00027  C00068_C13378
+            RC00571  C00117_C05382
+ENZYME      2.2.1.1
+///

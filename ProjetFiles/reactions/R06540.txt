@@ -1,0 +1,11 @@
+ENTRY       R06540                      Reaction
+NAME        leucocyanidin,2-oxoglutarate:oxygen oxidoreductase
+DEFINITION  cis-3,4-Leucopelargonidin + 2-Oxoglutarate + Oxygen <=> Dihydrokaempferol + Succinate + CO2 + H2O
+EQUATION    C03648 + C00026 + C00007 <=> C00974 + C00042 + C00011 + C00001
+COMMENT     leucocyanidin oxygenase
+RCLASS      RC00235  C00974_C03648
+ENZYME      1.14.11.19
+PATHWAY     rn00941  Flavonoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K05277  leucoanthocyanidin dioxygenase [EC:1.14.11.19]
+///

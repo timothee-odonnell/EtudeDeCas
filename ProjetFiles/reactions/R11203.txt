@@ -1,0 +1,7 @@
+ENTRY       R11203                      Reaction
+NAME        5'-triphospho-mRNA:GDP 5'-phosphopolyribonucleotidyltransferase [G(5')ppp-mRNA-forming]
+DEFINITION  5'-Triphospho-[mRNA] + GDP <=> Diphosphate + G(5')pppPur-mRNA
+EQUATION    C20864 + C00035 <=> C00013 + C02031
+RCLASS      RC00002  C00035_C02031
+ENZYME      2.7.7.88
+///

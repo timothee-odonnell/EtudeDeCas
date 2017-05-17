@@ -1,0 +1,8 @@
+ENTRY       R10348                      Reaction
+NAME        GTP 7,8-8,9-dihydrolase (cyclizing, formate-releasing, diphosphate-releasing)
+DEFINITION  GTP + H2O <=> 7,8-Dihydroneopterin 2',3'-cyclic phosphate + Formate + Diphosphate
+EQUATION    C00044 + C00001 <=> C20567 + C00058 + C00013
+RCLASS      RC02504  C00044_C00058
+            RC03131  C00044_C20567
+ENZYME      3.5.4.39
+///

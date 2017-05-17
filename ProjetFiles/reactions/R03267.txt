@@ -1,0 +1,8 @@
+ENTRY       R03267                      Reaction
+NAME        UDPglucose:flavonol 3-O-D-glucosyltransferase
+DEFINITION  UDP-glucose + Flavonol <=> UDP + Flavonol 3-O-beta-D-glucoside
+EQUATION    C00029 + C01495 <=> C00015 + C03946
+RCLASS      RC00005  C00015_C00029
+            RC00171  C01495_C03946
+ENZYME      2.4.1.91
+///

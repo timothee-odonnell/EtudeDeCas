@@ -1,0 +1,8 @@
+ENTRY       R01337                      Reaction
+NAME        2-Oxoaldehyde:NAD+ 2-oxidoreductase
+DEFINITION  2-Oxoaldehyde + NAD+ + H2O <=> 2-Oxo acid + NADH + H+
+EQUATION    C00538 + C00003 + C00001 <=> C00161 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00104  C00161_C00538
+ENZYME      1.2.1.23
+///

@@ -1,0 +1,36 @@
+ENTRY       G13061                      Glycan
+NAME        alpha-Kdo-(2->8)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA
+COMPOSITION (GlcN)2 (Kdo)4 (P)2 (acyl)4
+REMARK      Same as: C19876
+REACTION    R09766
+ENZYME      2.4.99.15
+REFERENCE   1  [PMID:7744029]
+            Holst O, Bock K, Brade L, Brade H
+            The structures of oligosaccharide bisphosphates isolated from the lipopolysaccharide of a recombinant Escherichia coli strain expressing the gene gseA [3-deoxy-D-manno-octulopyranosonic acid (Kdo) transferase] of Chlamydia psittaci 6BC.
+            Eur. J. Biochem. 229 (1995) 194-200.
+NODE        12
+            1   P        24.2   4.4
+            2   acyl     17.2  -3.6
+            3   GlcN     16.2   4.4
+            4   acyl     14.2  -3.6
+            5   acyl      7.2  -3.6
+            6   GlcN      6.2   4.4
+            7   acyl      4.2  -3.6
+            8   P        -0.8  -3.6
+            9   Kdo      -3.8   4.4
+            10  Kdo     -13.8   4.4
+            11  Kdo     -23.8   4.3
+            12  Kdo     -23.8  -0.6
+EDGE        11
+            1     3:a1    1    
+            2     3:2     2    
+            3     4       3:3  
+            4     6:b1    3:6  
+            5     6:2     5    
+            6     7       6:3  
+            7     8       6:4  
+            8     9:a2    6:6  
+            9    10:a2    9:4  
+            10   11:a2   10:8  
+            11   12:a2   10:4  
+///

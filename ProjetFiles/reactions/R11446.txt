@@ -1,0 +1,7 @@
+ENTRY       R11446                      Reaction
+NAME        jasmonate,NADPH:oxygen oxidoreductase (12-hydroxylating)
+DEFINITION  (-)-Jasmonic acid + NADPH + H+ + Oxygen <=> trans-12-Hydroxyjasmonic acid + NADP+ + H2O
+EQUATION    C08491 + C00005 + C00080 + C00007 <=> C21385 + C00006 + C00001
+RCLASS      RC00797  C08491_C21385
+ENZYME      1.14.13.228
+///

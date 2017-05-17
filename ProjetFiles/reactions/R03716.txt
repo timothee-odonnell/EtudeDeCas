@@ -1,0 +1,8 @@
+ENTRY       R03716                      Reaction
+NAME        chlordecone-alcohol:NADP+ 2-oxidoreductase
+DEFINITION  Chlordecone alcohol + NADP+ <=> Chlordecone + NADPH + H+
+EQUATION    C02817 + C00006 <=> C01792 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00985  C01792_C02817
+ENZYME      1.1.1.225
+///

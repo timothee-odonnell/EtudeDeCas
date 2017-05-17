@@ -1,0 +1,9 @@
+ENTRY       R05566                      Reaction
+NAME        UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-glucosaminyldiphosphoundecaprenol beta-1,4-N-acetylmannosaminyltransferase
+DEFINITION  UDP-N-acetyl-D-mannosamine + N-Acetyl-D-glucosaminyldiphosphoundecaprenol <=> UDP + N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol
+EQUATION    C01170 + C01289 <=> C00015 + C04881
+REMARK      Same as: R06129
+RCLASS      RC00005  C00015_C01170
+            RC00049  C01289_C04881
+ENZYME      2.4.1.187
+///

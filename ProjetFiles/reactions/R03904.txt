@@ -1,0 +1,7 @@
+ENTRY       R03904                      Reaction
+NAME        dATP:depurinated-DNA purinetransferase
+DEFINITION  dATP + Depurinated DNA <=> Deoxyribose triphosphate + DNA adenine
+EQUATION    C00131 + C02270 <=> C12347 + C00821
+RCLASS      RC01021  C00131_C12347  C00821_C02270
+ENZYME      2.6.99.1
+///

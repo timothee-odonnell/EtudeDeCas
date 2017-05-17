@@ -1,0 +1,8 @@
+ENTRY       R03558                      Reaction
+NAME        UDPglucose:salicyl-alcohol beta-D-glucosyltransferase
+DEFINITION  UDP-glucose + Salicyl alcohol <=> UDP + Salicin
+EQUATION    C00029 + C02323 <=> C00015 + C01451
+RCLASS      RC00005  C00015_C00029
+            RC00171  C01451_C02323
+ENZYME      2.4.1.172
+///

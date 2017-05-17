@@ -1,0 +1,7 @@
+ENTRY       R09752                      Reaction
+NAME        GDP:alpha-D-glucose 1-phosphate guanylyltransferase
+DEFINITION  GDP-glucose + Orthophosphate <=> D-Glucose 1-phosphate + GDP
+EQUATION    C00394 + C00009 <=> C00103 + C00035
+RCLASS      RC00002  C00103_C00394
+ENZYME      2.7.7.78
+///

@@ -1,0 +1,8 @@
+ENTRY       R11564                      Reaction
+NAME        protein-S-(1-hydroxy-2-oxopropyl)-L-cysteine hydrolase
+DEFINITION  Protein S-(1-hydroxy-2-oxopropyl)-L-cysteine + H2O <=> [Protein]-L-cysteine + (R)-Lactate
+EQUATION    C21468 + C00001 <=> C02743 + C00256
+RCLASS      RC00840  C02743_C21468
+            RC03470  C00256_C21468
+ENZYME      3.5.1.124
+///

@@ -1,0 +1,9 @@
+ENTRY       R04584                      Reaction
+NAME        (N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase
+DEFINITION  UDP-N-acetyl-D-galactosamine + GM3 <=> UDP + N-Acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide
+EQUATION    C00203 + C04730 <=> C00015 + C04884
+REMARK      Same as: R05939
+RCLASS      RC00005  C00015_C00203
+            RC00049  C04730_C04884
+ENZYME      2.4.1.92
+///

@@ -1,0 +1,8 @@
+ENTRY       R03924                      Reaction
+NAME        GDPmannose:phosphomannan mannosephosphotransferase
+DEFINITION  GDP-mannose + Phosphomannan <=> GMP + Phosphomannan mannosephosphate
+EQUATION    C00096 + C02347 <=> C00144 + C16687
+RCLASS      RC00002  C00096_C00144
+            RC00017  C02347_C16687
+ENZYME      2.7.8.9
+///

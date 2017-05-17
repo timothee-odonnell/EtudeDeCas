@@ -1,0 +1,11 @@
+ENTRY       R03315                      Reaction
+NAME        ATP:pseudouridine 5'-phosphotransferase
+DEFINITION  ATP + Pseudouridine <=> ADP + Pseudouridine 5'-phosphate
+EQUATION    C00002 + C02067 <=> C00008 + C01168
+RCLASS      RC00002  C00002_C00008
+            RC00017  C01168_C02067
+ENZYME      2.7.1.83
+PATHWAY     rn00240  Pyrimidine metabolism
+ORTHOLOGY   K16328  pseudouridine kinase [EC:2.7.1.83]
+            K16330  pseudouridylate synthase / pseudouridine kinase [EC:4.2.1.70 2.7.1.83]
+///

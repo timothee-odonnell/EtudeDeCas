@@ -1,0 +1,9 @@
+ENTRY       R11543                      Reaction
+NAME        sulfoquinovosyldiacylglycerol sulfoquinovohydrolase
+DEFINITION  Sulfoquinovosyldiacylglycerol + H2O <=> Sulfoquinovose + 1,2-Diacyl-sn-glycerol
+EQUATION    C13508 + C00001 <=> C20829 + C00641
+RCLASS      RC00059  C00641_C13508
+            RC00451  C13508_C20829
+ENZYME      3.2.1.199
+ORTHOLOGY   K15922  sulfoquinovosidase [EC:3.2.1.199]
+///

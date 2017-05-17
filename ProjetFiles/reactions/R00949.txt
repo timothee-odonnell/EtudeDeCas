@@ -1,0 +1,9 @@
+ENTRY       R00949                      Reaction
+NAME        ATP:D-glucose-1-phosphate 6-phosphotransferase
+DEFINITION  ATP + D-Glucose 1-phosphate <=> ADP + alpha-D-Glucose 1,6-bisphosphate
+EQUATION    C00002 + C00103 <=> C00008 + C01231
+RCLASS      RC00002  C00002_C00008
+            RC00017  C00103_C01231
+ENZYME      2.7.1.10
+PATHWAY     rn00500  Starch and sucrose metabolism
+///

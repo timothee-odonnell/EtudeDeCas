@@ -1,0 +1,7 @@
+ENTRY       R04026                      Reaction
+DEFINITION  N-Formiminoglycine <=> Imidazolone + H2O
+EQUATION    C02718 <=> C06195 + C00001
+RCLASS      RC01051  C02718_C06195
+ENZYME      3.5.2.-
+PATHWAY     rn00230  Purine metabolism
+///

@@ -1,0 +1,7 @@
+ENTRY       R01472                      Reaction
+NAME        UDP-D-xylose:dolichyl-phosphate D-xylosyltrtansferase
+DEFINITION  UDP-D-xylose + Dolichyl phosphate <=> UDP + Dolichyl D-xylosyl phosphate
+EQUATION    C00190 + C00110 <=> C00015 + C01191
+RCLASS      RC00005  C00015_C00190  C00110_C01191
+ENZYME      2.4.2.32
+///

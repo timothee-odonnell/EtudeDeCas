@@ -1,0 +1,12 @@
+ENTRY       R05592                      Reaction
+DEFINITION  2-Ketocyclohexane-1-carboxyl-CoA + H2O <=> 6-Carboxyhexanoyl-CoA
+EQUATION    C09813 + C00001 <=> C01063
+COMMENT     BadI
+RCLASS      RC01429  C01063_C09813
+ENZYME      3.1.2.-
+PATHWAY     rn00362  Benzoate degradation
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00540  Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA
+ORTHOLOGY   K07536  2-ketocyclohexanecarboxyl-CoA hydrolase [EC:3.1.2.-]
+///

@@ -1,0 +1,8 @@
+ENTRY       R08136                      Reaction
+DEFINITION  14alpha-Hydroxy-5beta-cholest-7-ene-3,6-dione <=> 2,22-Dideoxy-3-dehydroecdysone
+EQUATION    C16509 <=> C16498
+COMMENT     CYP306A1: 25-hydroxylase
+RCLASS      RC00963  C16498_C16509
+PATHWAY     rn00981  Insect hormone biosynthesis
+ORTHOLOGY   K10720  CYP306A1; ecdysteroid 25-hydroxylase
+///

@@ -1,0 +1,7 @@
+ENTRY       R07185                      Reaction
+NAME        2'-deoxymugineic acid,2-oxoglutarate:oxygen oxidoreductase(2-hydroxylating)
+DEFINITION  2'-Deoxymugineic acid + 2-Oxoglutarate + Oxygen <=> Mugineic acid + Succinate + CO2
+EQUATION    C15485 + C00026 + C00007 <=> C15500 + C00042 + C00011
+RCLASS      RC00773  C15485_C15500
+ENZYME      1.14.11.24
+///

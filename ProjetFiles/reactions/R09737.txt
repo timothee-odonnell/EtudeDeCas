@@ -1,0 +1,8 @@
+ENTRY       R09737                      Reaction
+NAME        S-adenosyl-L-methionine:2-methoxy-6-all-trans-polyprenyl-1,4-benzoquinol 5-C-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + 2-Methoxy-6-all-trans-polyprenyl-1,4-benzoquinol <=> S-Adenosyl-L-homocysteine + 6-Methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol
+EQUATION    C00019 + C19858 <=> C00021 + C19859
+RCLASS      RC00003  C00019_C00021
+            RC01662  C19858_C19859
+ENZYME      2.1.1.201
+///

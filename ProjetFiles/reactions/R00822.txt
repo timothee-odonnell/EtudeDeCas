@@ -1,0 +1,9 @@
+ENTRY       R00822                      Reaction
+NAME        3,4-dihydroxybenzoate carboxy-lyase (catechol-forming);
+            Protocatechuate carboxy-lyase
+DEFINITION  3,4-Dihydroxybenzoate <=> Catechol + CO2
+EQUATION    C00230 <=> C00090 + C00011
+RCLASS      RC00391  C00090_C00230
+ENZYME      4.1.1.63
+PATHWAY     rn00362  Benzoate degradation
+///

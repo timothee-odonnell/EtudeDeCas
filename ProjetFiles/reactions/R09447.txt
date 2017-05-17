@@ -1,0 +1,6 @@
+ENTRY       R09447                      Reaction
+DEFINITION  D-Glucuronate + NAD+ + H2O <=> D-Glucarate + NADH + H+
+EQUATION    C00191 + C00003 + C00001 <=> C00818 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00194  C00191_C00818
+///

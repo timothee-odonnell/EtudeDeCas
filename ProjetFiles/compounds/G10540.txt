@@ -1,0 +1,17 @@
+ENTRY       G10540                      Glycan
+COMPOSITION (Man)1 (*)2
+REMARK      Same as: C00464
+REACTION    R06150
+ENZYME      3.2.1.77        3.2.1.137
+DBLINKS     GlycomeDB: 28177
+NODE        3
+            1   *          10     0
+            2   Man         0     0
+            3   *         -10     0
+EDGE        2
+            1     2:a1    1    
+            2     3       2:2  
+BRACKET     1  -5.0   3.0  -5.0  -3.0
+            1   5.0  -3.0   5.0   3.0
+            1 n
+///

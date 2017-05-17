@@ -1,0 +1,10 @@
+ENTRY       R07649                      Reaction
+NAME        2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (germacrene-A-forming)
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-Germacrene A + Diphosphate
+EQUATION    C00448 <=> C16141 + C00013
+RCLASS      RC02586  C00448_C16141
+ENZYME      4.2.3.23
+PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K14179  germacrene-A synthase [EC:4.2.3.23]
+///

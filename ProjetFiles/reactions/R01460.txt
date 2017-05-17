@@ -1,0 +1,7 @@
+ENTRY       R01460                      Reaction
+NAME        Cholesteryl-beta-D-glucoside glucohydrolase
+DEFINITION  Cholesteryl-beta-D-glucoside + H2O <=> Cholesterol + D-Glucose
+EQUATION    C03855 + C00001 <=> C00187 + C00031
+RCLASS      RC00049  C00031_C03855  C00187_C03855
+ENZYME      3.2.1.104
+///

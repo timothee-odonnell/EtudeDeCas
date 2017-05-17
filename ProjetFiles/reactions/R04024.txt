@@ -1,0 +1,8 @@
+ENTRY       R04024                      Reaction
+NAME        Acetyl-CoA:N-hydroxyarylamine O-acetyltransferase
+DEFINITION  Acetyl-CoA + Hydroxylaminobenzene <=> CoA + N-(Acetyloxy)benzenamine
+EQUATION    C00024 + C02720 <=> C00010 + C02709
+RCLASS      RC00004  C00010_C00024
+            RC01050  C02709_C02720
+ENZYME      2.3.1.118
+///

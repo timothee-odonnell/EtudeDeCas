@@ -1,0 +1,8 @@
+ENTRY       R10095                      Reaction
+NAME        trans,octacis-decaprenylphospho-beta-D-ribofuranose 5-phosphate:diphosphate phospho-alpha-D-ribosyltransferase
+DEFINITION  Decaprenol phosphate + 5-Phospho-alpha-D-ribose 1-diphosphate <=> trans,octacis-Decaprenylphospho-beta-D-ribofuranose 5-phosphate + Diphosphate
+EQUATION    C02970 + C00119 <=> C20352 + C00013
+RCLASS      RC00005  C02970_C20352
+ENZYME      2.4.2.45
+ORTHOLOGY   K14136  decaprenyl-phosphate phosphoribosyltransferase [EC:2.4.2.45]
+///

@@ -1,0 +1,8 @@
+ENTRY       R02839                      Reaction
+NAME        3'-Phosphoadenylylsulfate:cortisol 21-sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + Cortisol <=> Adenosine 3',5'-bisphosphate + Cortisol 21-sulfate
+EQUATION    C00053 + C00735 <=> C00054 + C02822
+RCLASS      RC00007  C00053_C00054
+            RC00134  C00735_C02822
+ENZYME      2.8.2.18
+///

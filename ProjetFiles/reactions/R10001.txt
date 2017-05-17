@@ -1,0 +1,9 @@
+ENTRY       R10001                      Reaction
+NAME        methanethiol:[Co(I) corrinoid protein] Co-methyltransferase
+DEFINITION  Methanethiol + Co(I) corrinoid protein <=> Hydrogen sulfide + Methyl-Co(III) corrinoid protein
+EQUATION    C00409 + C06021 <=> C00283 + C06020
+COMMENT     subsequently R10000
+            specific for methylated-thiol corrinoid protein
+RCLASS      RC01144  C06020_C06021
+ENZYME      2.1.1.251
+///

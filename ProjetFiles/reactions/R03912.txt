@@ -1,0 +1,8 @@
+ENTRY       R03912                      Reaction
+NAME        peptidylglycine,ascorbate:oxygen oxidoreductase (2-hydroxylating)
+DEFINITION  Peptidylglycine + Ascorbate + Oxygen <=> Peptidylamidoglycolate + Dehydroascorbate + H2O
+EQUATION    C02303 + C00072 + C00007 <=> C03303 + C05422 + C00001
+RCLASS      RC00092  C00072_C05422
+            RC01026  C02303_C03303
+ENZYME      1.14.17.3
+///

@@ -1,0 +1,13 @@
+ENTRY       R04872                      Reaction
+DEFINITION  delta-(L-2-Aminoadipyl)-L-cysteinyl-D-valine + Oxygen <=> Isopenicillin N + 2 H2O
+EQUATION    C05556 + C00007 <=> C05557 + 2 C00001
+COMMENT     multi-step reaction
+RCLASS      RC01229  C05556_C05557
+ENZYME      1.21.3.1
+PATHWAY     rn00311  Penicillin and cephalosporin biosynthesis
+            rn01100  Metabolic pathways
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00672  Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin
+            M00673  Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C
+ORTHOLOGY   K04126  isopenicillin-N synthase [EC:1.21.3.1]
+///

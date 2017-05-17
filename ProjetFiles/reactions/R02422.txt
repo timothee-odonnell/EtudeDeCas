@@ -1,0 +1,13 @@
+ENTRY       R02422                      Reaction
+NAME        Allantoate amidinohydrolase
+DEFINITION  Allantoate + H2O <=> (-)-Ureidoglycolate + Urea
+EQUATION    C00499 + C00001 <=> C00603 + C00086
+RCLASS      RC00379  C00086_C00499
+            RC00712  C00499_C00603
+ENZYME      3.5.3.4
+PATHWAY     rn00230  Purine metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+MODULE      M00546  Purine degradation, xanthine => urea
+ORTHOLOGY   K01477  allantoicase [EC:3.5.3.4]
+///

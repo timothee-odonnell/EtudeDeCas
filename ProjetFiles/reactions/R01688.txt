@@ -1,0 +1,11 @@
+ENTRY       R01688                      Reaction
+NAME        ATP:butanoate 1-phosphotransferase
+DEFINITION  ATP + Butanoic acid <=> ADP + Butanoylphosphate
+EQUATION    C00002 + C00246 <=> C00008 + C02527
+RCLASS      RC00002  C00002_C00008
+            RC00043  C00246_C02527
+ENZYME      2.7.2.7
+PATHWAY     rn00650  Butanoate metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K00929  butyrate kinase [EC:2.7.2.7]
+///

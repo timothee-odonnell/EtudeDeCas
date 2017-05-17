@@ -1,0 +1,11 @@
+ENTRY       R02410                      Reaction
+NAME        Raffinose fructohydrolase
+DEFINITION  Raffinose + H2O <=> Melibiose + D-Fructose
+EQUATION    C00492 + C00001 <=> C05402 + C00095
+REMARK      Same as: R06100
+RCLASS      RC00028  C00095_C00492
+            RC00077  C00492_C05402
+ENZYME      3.2.1.26
+PATHWAY     rn00052  Galactose metabolism
+ORTHOLOGY   K01193  beta-fructofuranosidase [EC:3.2.1.26]
+///

@@ -1,0 +1,7 @@
+ENTRY       R11077                      Reaction
+NAME        galactarate hydro-lyase (3-deoxy-D-threo-hex-2-ulosarate-forming)
+DEFINITION  D-Galactarate <=> (2S,3R)-2,3-Dihydroxy-5-oxohexanedioate + H2O
+EQUATION    C00879 <=> C21091 + C00001
+RCLASS      RC00543  C00879_C21091
+ENZYME      4.2.1.158
+///

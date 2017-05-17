@@ -1,0 +1,9 @@
+ENTRY       R08975                      Reaction
+NAME        pheophorbide-a hydrolase
+DEFINITION  Pheophorbide a + H2O <=> C-13(2)-Carboxypyropheophorbide a + Methanol
+EQUATION    C18021 + C00001 <=> C18063 + C00132
+COMMENT     subsequently R08976
+RCLASS      RC00460  C18021_C18063
+            RC00461  C00132_C18021
+ENZYME      3.1.1.82
+///

@@ -1,0 +1,10 @@
+ENTRY       R10925                      Reaction
+NAME        (2E,6E)-farnesoate,NADPH:oxygen oxidoreductase
+DEFINITION  Farnesoic acid + NADPH + H+ + Oxygen <=> Juvenile hormone III acid + NADP+ + H2O
+EQUATION    C16502 + C00005 + C00080 + C00007 <=> C16504 + C00006 + C00001
+RCLASS      RC00001  C00005_C00006
+            RC00201  C16502_C16504
+ENZYME      1.14.13.203
+PATHWAY     rn00981  Insect hormone biosynthesis
+ORTHOLOGY   K14937  methyl farnesoate epoxidase / farnesoate epoxidase [EC:1.14.13.202 1.14.13.203]
+///

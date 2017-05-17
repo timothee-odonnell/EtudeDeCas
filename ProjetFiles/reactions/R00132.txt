@@ -1,0 +1,11 @@
+ENTRY       R00132                      Reaction
+NAME        carbonate hydro-lyase (carbon-dioxide-forming);
+            carbonic acid hydro-lyase
+DEFINITION  Carbonic acid <=> CO2 + H2O
+EQUATION    C01353 <=> C00011 + C00001
+RCLASS      RC02807  C00011_C01353
+ENZYME      4.2.1.1
+ORTHOLOGY   K01672  carbonic anhydrase [EC:4.2.1.1]
+            K01673  carbonic anhydrase [EC:4.2.1.1]
+            K01674  carbonic anhydrase [EC:4.2.1.1]
+///

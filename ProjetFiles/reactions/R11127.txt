@@ -1,0 +1,6 @@
+ENTRY       R11127                      Reaction
+NAME        2-O-(alpha-D-glucopyranosyl)glycerol:phosphate beta-D-glucosyltransferase
+DEFINITION  2-O-(alpha-D-Glucopyranosyl)glycerol + Orthophosphate <=> beta-D-Glucose 1-phosphate + Glycerol
+EQUATION    C11546 + C00009 <=> C00663 + C00116
+ENZYME      2.4.1.332
+///

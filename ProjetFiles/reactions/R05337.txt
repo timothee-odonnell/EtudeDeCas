@@ -1,0 +1,6 @@
+ENTRY       R05337                      Reaction
+NAME        4-hydroxybutanoyl-CoA hydro-lyase
+DEFINITION  4-Hydroxybutyryl-CoA <=> Vinylacetyl-CoA + H2O
+EQUATION    C11062 <=> C02331 + C00001
+RCLASS      RC01909  C02331_C11062
+///

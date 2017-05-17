@@ -1,0 +1,10 @@
+ENTRY       R09039                      Reaction
+NAME        4-(beta-D-glucosyloxy)benzoate glucohydrolase
+DEFINITION  4-(beta-D-Glucosyloxy)benzoate + H2O <=> 4-Hydroxybenzoate + D-Glucose
+EQUATION    C03993 + C00001 <=> C00156 + C00031
+COMMENT     4-hydroxybenzoate-O-glucosidase
+RCLASS      RC00171  C00156_C03993
+            RC00714  C00031_C03993
+ENZYME      3.2.1.-
+PATHWAY     rn00130  Ubiquinone and other terpenoid-quinone biosynthesis
+///

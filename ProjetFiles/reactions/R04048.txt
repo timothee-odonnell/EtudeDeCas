@@ -1,0 +1,7 @@
+ENTRY       R04048                      Reaction
+DEFINITION  2-Dehydro-D-glucose + Oxygen <=> 2-Dehydro-D-glucono-1,5-lactone + Hydrogen peroxide
+EQUATION    C02779 + C00007 <=> C06440 + C00027
+RCLASS      RC01059  C02779_C06440
+            RC02755  C00007_C00027
+ENZYME      1.1.3.-
+///

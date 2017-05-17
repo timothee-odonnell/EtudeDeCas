@@ -1,0 +1,15 @@
+ENTRY       G10550                      Glycan
+COMPOSITION (GlcNAc)1 (MurNAc)1 (D-Ala-D-Ala-Lys-D-Glu-Ala)1 (PP-Und)1
+REACTION    R06172
+ENZYME      2.4.1.227
+DBLINKS     GlycomeDB: 34078
+NODE        4
+            1   PP-Und     12     3
+            2   MurNAc      2     3
+            3   GlcNAc     -8     3
+            4   D-Ala-D-Ala-Lys-D-Glu-Ala   -12    -2
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:4  
+            3     4       2:3  
+///

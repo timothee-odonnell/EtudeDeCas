@@ -1,0 +1,8 @@
+ENTRY       R10911                      Reaction
+NAME        aldehyde:quinone oxidoreductase
+DEFINITION  Aldehyde + Quinone + H2O <=> Carboxylate + Hydroquinone
+EQUATION    C00071 + C15602 + C00001 <=> C00060 + C15603
+COMMENT     general reaction
+RCLASS      RC00071  C00060_C00071
+ENZYME      1.2.5.2
+///

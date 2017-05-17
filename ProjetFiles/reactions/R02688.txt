@@ -1,0 +1,9 @@
+ENTRY       R02688                      Reaction
+NAME        1,2-Diacyl-sn-glycerol acylhydrolase
+DEFINITION  1,2-Diacyl-sn-glycerol + H2O <=> 2-Acylglycerol + Fatty acid
+EQUATION    C00641 + C00001 <=> C02112 + C00162
+COMMENT     see R02687 (1-acyl type reaction)
+RCLASS      RC00020  C00162_C00641
+            RC00041  C00641_C02112
+ENZYME      3.1.1.3
+///

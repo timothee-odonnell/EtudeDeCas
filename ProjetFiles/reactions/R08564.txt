@@ -1,0 +1,8 @@
+ENTRY       R08564                      Reaction
+DEFINITION  Corynantheal <=> Cinchonidinone
+EQUATION    C16735 <=> C16846
+COMMENT     unclear reaction
+            multi-step reaction
+            incomplete reaction
+RCLASS      RC02144  C16735_C16846
+///

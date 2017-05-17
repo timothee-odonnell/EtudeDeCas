@@ -1,0 +1,7 @@
+ENTRY       R08608                      Reaction
+DEFINITION  Indole-3-acetaldoxime N-oxide + L-Cysteine <=> S-(Indolylmethylthiohydroximoyl)-L-cysteine + H2O
+EQUATION    C17204 + C00097 <=> C16518 + C00001
+COMMENT     see R08168, R08607+R08608
+RCLASS      RC01705  C00097_C16518
+            RC02367  C16518_C17204
+///

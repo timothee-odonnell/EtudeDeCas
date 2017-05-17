@@ -1,0 +1,7 @@
+ENTRY       R09632                      Reaction
+NAME        beta-D-galactosyl-(1->4)-L-rhamnose:phosphate 1-alpha-D-galactosyltransferase
+DEFINITION  beta-D-Galactosyl-(1->4)-L-rhamnose + Orthophosphate <=> L-Rhamnose + alpha-D-Galactose 1-phosphate
+EQUATION    C19758 + C00009 <=> C00507 + C00446
+RCLASS      RC00049  C00507_C19758
+ENZYME      2.4.1.247
+///

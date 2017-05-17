@@ -1,0 +1,10 @@
+ENTRY       R08588                      Reaction
+NAME        dehypoxanthine futalosine:S-adenosyl-L-methionine oxidoreductase (cyclizing)
+DEFINITION  Dehypoxanthine futalosine + S-Adenosyl-L-methionine <=> Cyclic dehypoxanthine futalosine + 5'-Deoxyadenosine + L-Methionine
+EQUATION    C17010 + C00019 <=> C17017 + C05198 + C00073
+RCLASS      RC02329  C17010_C17017
+ENZYME      1.21.98.1
+PATHWAY     rn00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            rn01110  Biosynthesis of secondary metabolites
+ORTHOLOGY   K11784  cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]
+///

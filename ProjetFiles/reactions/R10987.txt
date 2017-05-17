@@ -1,0 +1,7 @@
+ENTRY       R10987                      Reaction
+NAME        sucrose-6F-phosphate:phosphate 1-alpha-D-glucosyltransferase
+DEFINITION  Sucrose 6'-phosphate + Orthophosphate <=> D-Glucose 1-phosphate + beta-D-Fructose 6-phosphate
+EQUATION    C02591 + C00009 <=> C00103 + C05345
+RCLASS      RC00028  C02591_C05345
+ENZYME      2.4.1.329
+///

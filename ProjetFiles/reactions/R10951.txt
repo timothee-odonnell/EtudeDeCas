@@ -1,0 +1,9 @@
+ENTRY       R10951                      Reaction
+NAME        ATP:1-phosphatidyl-1D-myo-inositol 5-phosphotransferase
+DEFINITION  ATP + 1-Phosphatidyl-D-myo-inositol <=> ADP + 1-Phosphatidyl-1D-myo-inositol 5-phosphate
+EQUATION    C00002 + C01194 <=> C00008 + C11557
+RCLASS      RC00002  C00002_C00008
+            RC00078  C01194_C11557
+ENZYME      2.7.1.150
+ORTHOLOGY   K00921  1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
+///

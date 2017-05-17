@@ -1,0 +1,11 @@
+ENTRY       R05554                      Reaction
+NAME        Ureidoglycine aminohydrolase;
+            (S)-ureidoglycine aminohydrolase
+DEFINITION  (S)-Ureidoglycine + H2O <=> (-)-Ureidoglycolate + Ammonia
+EQUATION    C02091 + C00001 <=> C00603 + C00014
+RCLASS      RC01419  C00603_C02091
+ENZYME      3.5.3.26
+PATHWAY     rn00230  Purine metabolism
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K14977  (S)-ureidoglycine aminohydrolase [EC:3.5.3.26]
+///

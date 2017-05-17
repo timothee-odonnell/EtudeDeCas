@@ -1,0 +1,11 @@
+ENTRY       R11391                      Reaction
+NAME        2-aza-L-tyrosine 2,3-aminomutase
+DEFINITION  Azatyrosine <=> (R)-2-Aza-beta-tyrosine
+EQUATION    C21325 <=> C21326
+RCLASS      RC00366  C21325_C21326
+ENZYME      5.4.3.-
+PATHWAY     rn01059  Biosynthesis of enediyne antibiotics
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00832  Kedarcidin 2-aza-3-chloro-beta-tyrosine moiety biosynthesis, azatyrosine => 2-aza-3-chloro-beta-tyrosyl-PCP
+ORTHOLOGY   K21227  MIO-dependent 2-aza-L-tyrosine aminomutase [EC:5.4.3.-]
+///

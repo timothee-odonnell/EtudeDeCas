@@ -1,0 +1,10 @@
+ENTRY       G11112                      Glycan
+NAME        UDP-N-acetyl-D-mannosamine
+COMPOSITION (UDP-ManNAc)1
+REMARK      Same as: C01170
+REACTION    R06129
+ENZYME      2.4.1.187
+NODE        1
+            1   UDP-ManNAc   0.1   0.3
+EDGE        0
+///

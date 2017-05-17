@@ -1,0 +1,8 @@
+ENTRY       R02336                      Reaction
+NAME        Haloacetate halidohydrolase
+DEFINITION  Haloacetate + H2O <=> Glycolate + Halide
+EQUATION    C01812 + C00001 <=> C00160 + C00462
+COMMENT     general reaction
+RCLASS      RC00697  C00160_C01812
+ENZYME      3.8.1.3
+///

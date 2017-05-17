@@ -1,0 +1,9 @@
+ENTRY       R00053                      Reaction
+NAME        digallate acylhydrolase;
+            tannin acylhydrolase
+DEFINITION  Digallate + H2O <=> 2 Gallate
+EQUATION    C01572 + C00001 <=> 2 C01424
+RCLASS      RC00475  C01424_C01572
+            RC00476  C01424_C01572
+ENZYME      3.1.1.20
+///

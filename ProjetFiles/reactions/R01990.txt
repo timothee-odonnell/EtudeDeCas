@@ -1,0 +1,11 @@
+ENTRY       R01990                      Reaction
+NAME        4-Guanidinobutanoate amidinohydrolase
+DEFINITION  4-Guanidinobutanoate + H2O <=> 4-Aminobutanoate + Urea
+EQUATION    C01035 + C00001 <=> C00334 + C00086
+RCLASS      RC00024  C00334_C01035
+            RC00329  C00086_C01035
+ENZYME      3.5.3.7
+PATHWAY     rn00330  Arginine and proline metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K12255  guanidinobutyrase [EC:3.5.3.7]
+///

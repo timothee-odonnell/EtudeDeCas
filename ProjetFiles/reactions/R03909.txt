@@ -1,0 +1,8 @@
+ENTRY       R03909                      Reaction
+NAME        Monocarboxylic acid amide amidohydrolase
+DEFINITION  Monocarboxylic acid amide + H2O <=> Carboxylate + Ammonia
+EQUATION    C03620 + C00001 <=> C00060 + C00014
+RCLASS      RC01025  C00060_C03620
+ENZYME      3.5.1.4
+ORTHOLOGY   K01426  amidase [EC:3.5.1.4]
+///

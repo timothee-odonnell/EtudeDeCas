@@ -1,0 +1,10 @@
+ENTRY       R00466                      Reaction
+NAME        Glyoxylate:oxygen oxidoreductase
+DEFINITION  Glyoxylate + Oxygen + H2O <=> Oxalate + Hydrogen peroxide
+EQUATION    C00048 + C00007 + C00001 <=> C00209 + C00027
+RCLASS      RC00305  C00048_C00209
+            RC02755  C00007_C00027
+ENZYME      1.2.3.5
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+            rn01100  Metabolic pathways
+///

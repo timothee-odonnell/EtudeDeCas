@@ -1,0 +1,12 @@
+ENTRY       R06681                      Reaction
+NAME        aklaviketone lyase (ring-opening);
+            methyl aklanonate cyclase
+DEFINITION  Methyl aklanonate <=> Aklaviketone
+EQUATION    C12422 <=> C12423
+RCLASS      RC02684  C12422_C12423
+ENZYME      5.5.1.23
+PATHWAY     rn01057  Biosynthesis of type II polyketide products
+            rn01130  Biosynthesis of antibiotics
+MODULE      M00781  Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone
+ORTHOLOGY   K15943  nogalonic acid methyl ester cyclase / aklanonic acid methyl ester cyclase [EC:5.5.1.26 5.5.1.23]
+///

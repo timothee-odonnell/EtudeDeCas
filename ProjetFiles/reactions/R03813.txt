@@ -1,0 +1,9 @@
+ENTRY       R03813                      Reaction
+NAME        L-leucyl-tRNA(Leu):protein leucyltransferase
+DEFINITION  L-Leucyl-tRNA + Protein <=> tRNA(Leu) + L-Leucyl-protein
+EQUATION    C02047 + C00017 <=> C01645 + C02429
+RCLASS      RC00055  C01645_C02047
+            RC00064  C00017_C02429
+ENZYME      2.3.2.6
+ORTHOLOGY   K00684  leucyl/phenylalanyl-tRNA--protein transferase [EC:2.3.2.6]
+///

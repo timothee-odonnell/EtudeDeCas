@@ -1,0 +1,7 @@
+ENTRY       R01922                      Reaction
+NAME        L-Carnitinamide amidohydrolase
+DEFINITION  L-Carnitinamide + H2O <=> L-Carnitine + Ammonia + H+
+EQUATION    C02290 + C00001 <=> C00318 + C00014 + C00080
+RCLASS      RC00010  C00318_C02290
+ENZYME      3.5.1.73
+///

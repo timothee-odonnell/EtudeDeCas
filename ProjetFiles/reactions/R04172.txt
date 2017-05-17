@@ -1,0 +1,7 @@
+ENTRY       R04172                      Reaction
+DEFINITION  3-Hydroxy-L-kynurenine <=> 3-Hydroxykynurenamine + CO2
+EQUATION    C03227 <=> C05636 + C00011
+RCLASS      RC00299  C03227_C05636
+ENZYME      4.1.1.-
+PATHWAY     rn00380  Tryptophan metabolism
+///

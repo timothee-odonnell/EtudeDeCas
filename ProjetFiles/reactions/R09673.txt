@@ -1,0 +1,9 @@
+ENTRY       R09673                      Reaction
+NAME        [protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine N-acetylglucosaminyl hydrolase
+DEFINITION  [Protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine + H2O <=> [Protein]-L-threonine + N-Acetyl-D-glucosamine
+EQUATION    C19804 + C00001 <=> C19803 + C00140
+RCLASS      RC00397  C19803_C19804
+            RC00746  C00140_C19804
+ENZYME      3.2.1.169
+ORTHOLOGY   K15719  protein O-GlcNAcase / histone acetyltransferase [EC:3.2.1.169 2.3.1.48]
+///

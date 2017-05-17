@@ -1,0 +1,42 @@
+ENTRY       C21203                      Compound
+NAME        Geranyl phosphate
+FORMULA     C10H19O4P
+EXACT_MASS  234.1021
+MOL_WEIGHT  234.2292
+REACTION    R11551 R11552
+PATHWAY     map00902  Monoterpenoid biosynthesis
+            map01110  Biosynthesis of secondary metabolites
+ENZYME      3.6.1.68
+DBLINKS     PubChem: 315431318
+ATOM        15
+            1   O2b O    20.1242  -16.1996
+            2   P1b P    21.5214  -16.1933
+            3   C1b C    18.9073  -15.4979
+            4   O1c O    22.9187  -16.1933
+            5   O1c O    21.5149  -14.7897
+            6   O1c O    21.5214  -17.5905
+            7   C2b C    17.6968  -16.1996
+            8   C2c C    16.4799  -15.4979
+            9   C1b C    15.2694  -16.1996
+            10  C1a C    16.4799  -14.1007
+            11  C1b C    15.2694  -17.5969
+            12  C2b C    14.0588  -18.2988
+            13  C2c C    12.8420  -17.5969
+            14  C1a C    11.6314  -18.2988
+            15  C1a C    12.8420  -16.1996
+BOND        14
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+            7     7   8 2
+            8     8   9 1
+            9     8  10 1
+            10    9  11 1
+            11   11  12 1
+            12   12  13 2
+            13   13  14 1
+            14   13  15 1
+///

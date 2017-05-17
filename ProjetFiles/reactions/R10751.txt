@@ -1,0 +1,17 @@
+ENTRY       R10751                      Reaction
+NAME        3'-phosphoadenylyl-sulfate:OA-6129-B1 sulfotransferase
+DEFINITION  3'-Phosphoadenylyl sulfate + OA-6129 B1 <=> Adenosine 3',5'-bisphosphate + OA-6129 C
+EQUATION    C00053 + C17373 <=> C00054 + C20814
+COMMENT     putative PAPS-dependent sulfotransferase
+            not yet characterized sufficiently
+RCLASS      RC00007  C00053_C00054
+            RC00518  C17373_C20814
+ENZYME      2.8.2.-
+PATHWAY     rn00332  Carbapenem biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K18571  putative sulfotransferase [EC:2.8.2.-]
+REFERENCE   1  [PMID:24420617]
+            Li R, Lloyd EP, Moshos KA, Townsend CA.
+            Identification and characterization of the carbapenem MM 4550 and its gene cluster in Streptomyces argenteolus ATCC 11009.
+            Chembiochem. 15 (2014) 320-31.
+///

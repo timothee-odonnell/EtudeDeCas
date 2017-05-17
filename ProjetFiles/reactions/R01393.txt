@@ -1,0 +1,8 @@
+ENTRY       R01393                      Reaction
+NAME        hydroxypyruvate carboxy-lyase (glycolaldehyde-forming)
+DEFINITION  Hydroxypyruvate <=> Glycolaldehyde + CO2
+EQUATION    C00168 <=> C00266 + C00011
+RCLASS      RC00506  C00168_C00266
+ENZYME      4.1.1.40
+PATHWAY     rn00630  Glyoxylate and dicarboxylate metabolism
+///

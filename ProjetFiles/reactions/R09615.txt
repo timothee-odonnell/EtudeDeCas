@@ -1,0 +1,7 @@
+ENTRY       R09615                      Reaction
+NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [(+)-cubenene-forming]
+DEFINITION  trans,trans-Farnesyl diphosphate <=> (+)-Cubenene + Diphosphate
+EQUATION    C00448 <=> C19741 + C00013
+RCLASS      RC02782  C00448_C19741
+ENZYME      4.2.3.63
+///

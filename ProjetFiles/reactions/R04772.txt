@@ -1,0 +1,10 @@
+ENTRY       R04772                      Reaction
+NAME        S-Adenosyl-L-methionine:L-methionine S-methyltransferase
+DEFINITION  S-Adenosyl-L-methionine + L-Selenomethionine <=> S-Adenosyl-L-homocysteine + Se-Methylselenomethionine
+EQUATION    C00019 + C05335 <=> C00021 + C05690
+RCLASS      RC00003  C00019_C00021
+            RC01212  C05335_C05690
+ENZYME      2.1.1.12
+PATHWAY     rn00450  Selenocompound metabolism
+ORTHOLOGY   K08247  methionine S-methyltransferase [EC:2.1.1.12]
+///

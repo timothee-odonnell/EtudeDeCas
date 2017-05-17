@@ -1,0 +1,9 @@
+ENTRY       R09736                      Reaction
+NAME        S-adenosyl-L-methione:demethylmenaquinol methyltransferase
+DEFINITION  Demethylmenaquinol + S-Adenosyl-L-methionine <=> Menaquinol + S-Adenosyl-L-homocysteine
+EQUATION    C19847 + C00019 <=> C05819 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC01662  C05819_C19847
+ENZYME      2.1.1.163
+ORTHOLOGY   K03183  demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]
+///

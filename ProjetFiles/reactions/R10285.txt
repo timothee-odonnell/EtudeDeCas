@@ -1,0 +1,8 @@
+ENTRY       R10285                      Reaction
+NAME        choline trimethylamine-lyase (acetaldehyde-forming)
+DEFINITION  Choline <=> Trimethylamine + Acetaldehyde + H+
+EQUATION    C00114 <=> C00565 + C00084 + C00080
+RCLASS      RC01842  C00114_C00565
+            RC03107  C00084_C00114
+ENZYME      4.3.99.4
+///

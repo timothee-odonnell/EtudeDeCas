@@ -1,0 +1,12 @@
+ENTRY       R11024                      Reaction
+NAME        ATP:N-acetylmuramate 1-phosphotransferase
+DEFINITION  N-Acetylmuramate + ATP <=> N-Acetylmuramic acid alpha-1-phosphate + ADP
+EQUATION    C02713 + C00002 <=> C21027 + C00008
+COMMENT     MurNAc kinase
+RCLASS      RC00002  C00002_C00008
+            RC00078  C02713_C21027
+ENZYME      2.7.1.-
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K07102  anomeric MurNAc/GlcNAc kinase [EC:2.7.1.-]
+///

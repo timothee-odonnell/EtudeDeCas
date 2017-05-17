@@ -1,0 +1,11 @@
+ENTRY       R06771                      Reaction
+NAME        S-adenosyl-L-methionine:demethyldecarbamoylnovobiocin 4''-O-methyltransferase
+DEFINITION  Demethyldecarbamoylnovobiocin + S-Adenosyl-L-methionine <=> Decarbamoylnovobiocin + S-Adenosyl-L-homocysteine
+EQUATION    C12475 + C00019 <=> C12476 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC00466  C12475_C12476
+ENZYME      2.1.1.285
+PATHWAY     rn00401  Novobiocin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12712  demethyldecarbamoylnovobiocin O-methyltransferase [EC:2.1.1.285]
+///

@@ -1,0 +1,6 @@
+ENTRY       R03725                      Reaction
+DEFINITION  Desmosterol + S-Adenosyl-L-methionine <=> 24-Methylenecholesterol + S-Adenosyl-L-homocysteine
+EQUATION    C01802 + C00019 <=> C15781 + C00021
+RCLASS      RC00003  C00019_C00021
+            RC01154  C01802_C15781
+///

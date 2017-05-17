@@ -1,0 +1,10 @@
+ENTRY       R08212                      Reaction
+NAME        choline oxidase
+DEFINITION  Choline + 2 Oxygen + H2O <=> Betaine + 2 Hydrogen peroxide
+EQUATION    C00114 + 2 C00007 + C00001 <=> C00719 + 2 C00027
+COMMENT     two-step reaction (R01022+R08211)
+RCLASS      RC00651  C00114_C00719
+            RC02755  C00007_C00027
+ENZYME      1.1.3.17
+ORTHOLOGY   K17755  choline oxidase [EC:1.1.3.17]
+///

@@ -1,0 +1,9 @@
+ENTRY       R10914                      Reaction
+DEFINITION  Nitroxyl + 2 Ferrocytochrome c + Oxygen + H+ <=> Nitrite + 2 Ferricytochrome c + H2O
+EQUATION    C20937 + 2 C00126 + C00007 + C00080 <=> C00088 + 2 C00125 + C00001
+COMMENT     spontaneous
+            second step of two-step reaction (see R10230, R10913+R10914)
+RCLASS      RC00016  C00125_C00126
+            RC00086  C00088_C20937
+ENZYME      1.7.3.6
+///

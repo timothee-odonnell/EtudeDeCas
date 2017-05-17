@@ -1,0 +1,10 @@
+ENTRY       R00993                      Reaction
+NAME        2-oxobutanoate:oxygen 2-oxidoreductase (phosphorylating)
+DEFINITION  2-Oxobutanoate + Orthophosphate + Oxygen <=> Propanoyl phosphate + CO2 + H2O
+EQUATION    C00109 + C00009 + C00007 <=> C02876 + C00011 + C00001
+RCLASS      RC02818  C00109_C02876
+ENZYME      1.2.3.-
+PATHWAY     rn00640  Propanoate metabolism
+            rn00660  C5-Branched dibasic acid metabolism
+            rn01100  Metabolic pathways
+///

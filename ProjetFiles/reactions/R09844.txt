@@ -1,0 +1,12 @@
+ENTRY       R09844                      Reaction
+NAME        farnesyl-diphosphate:protein-cysteine farnesyltransferase
+DEFINITION  trans,trans-Farnesyl diphosphate + Protein-cysteine <=> S-Farnesyl protein + Diphosphate
+EQUATION    C00448 + C20119 <=> C20120 + C00013
+RCLASS      RC00069  C20119_C20120
+            RC03004  C00448_C20120
+ENZYME      2.5.1.58
+PATHWAY     rn00900  Terpenoid backbone biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K05954  protein farnesyltransferase subunit beta [EC:2.5.1.58]
+            K05955  protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [EC:2.5.1.58 2.5.1.59]
+///

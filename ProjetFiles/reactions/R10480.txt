@@ -1,0 +1,7 @@
+ENTRY       R10480                      Reaction
+DEFINITION  Versicolorin B <=> Dihydrodemethylsterigmatocystin
+EQUATION    C20575 <=> C20444
+COMMENT     unclear reaction
+RCLASS      RC03160  C20444_C20575
+PATHWAY     rn00254  Aflatoxin biosynthesis
+///

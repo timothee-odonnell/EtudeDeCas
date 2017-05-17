@@ -1,0 +1,7 @@
+ENTRY       R07312                      Reaction
+NAME        4-hydroxyphenylacetate carboxy-lyase
+DEFINITION  4-Hydroxyphenylacetate + H+ <=> 4-Cresol + CO2
+EQUATION    C00642 + C00080 <=> C01468 + C00011
+RCLASS      RC01846  C00642_C01468
+ENZYME      4.1.1.83
+///

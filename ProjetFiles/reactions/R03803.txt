@@ -1,0 +1,7 @@
+ENTRY       R03803                      Reaction
+NAME        Deoxylimonate A-ring-lactonohydrolase
+DEFINITION  Deoxylimonate + H2O <=> Deoxylimononic acid D-ring-lactone
+EQUATION    C02027 + C00001 <=> C04251
+RCLASS      RC00983  C02027_C04251
+ENZYME      3.1.1.46
+///

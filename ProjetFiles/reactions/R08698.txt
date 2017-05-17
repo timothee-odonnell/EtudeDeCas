@@ -1,0 +1,8 @@
+ENTRY       R08698                      Reaction
+NAME        2-aminoacrylate aminohydrolase
+DEFINITION  Dehydroalanine + H2O <=> Pyruvate + Ammonia
+EQUATION    C02218 + C00001 <=> C00022 + C00014
+COMMENT     spontaneous
+            two-step reaction (see R11100+R11099)
+RCLASS      RC02314  C00022_C02218
+///

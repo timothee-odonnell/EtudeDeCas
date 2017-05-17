@@ -1,0 +1,8 @@
+ENTRY       R07036                      Reaction
+NAME        Hepoxilin A3 hydrolase
+DEFINITION  Hepoxilin A3 + H2O <=> Trioxilin A3
+EQUATION    C14808 + C00001 <=> C14809
+RCLASS      RC01184  C14808_C14809
+ENZYME      3.3.2.7
+PATHWAY     rn00590  Arachidonic acid metabolism
+///

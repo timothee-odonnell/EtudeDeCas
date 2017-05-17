@@ -1,0 +1,10 @@
+ENTRY       R02560                      Reaction
+NAME        NADH:trimethylamine-N-oxide oxidoreductase
+DEFINITION  Trimethylamine + FAD + H2O <=> FADH2 + Trimethylamine N-oxide
+EQUATION    C00565 + C00016 + C00001 <=> C01352 + C01104
+RCLASS      RC00058  C00565_C01104
+            RC00126  C00016_C01352
+ENZYME      1.6.6.9
+PATHWAY     rn00680  Methane metabolism
+            rn01120  Microbial metabolism in diverse environments
+///

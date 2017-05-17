@@ -1,0 +1,7 @@
+ENTRY       R09958                      Reaction
+NAME        (S)-ethylmalonyl-CoA carboxy-lyase (butanoyl-CoA-forming)
+DEFINITION  (2S)-Ethylmalonyl-CoA <=> Butanoyl-CoA + CO2
+EQUATION    C18026 <=> C00136 + C00011
+RCLASS      RC00626  C00136_C18026
+ENZYME      4.1.1.94
+///

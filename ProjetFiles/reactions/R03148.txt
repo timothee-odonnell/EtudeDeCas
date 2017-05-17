@@ -1,0 +1,8 @@
+ENTRY       R03148                      Reaction
+NAME        phosphoramidate:hexose 1-phosphotransferase
+DEFINITION  Phosphoramidate + D-Hexose <=> Ammonia + alpha-D-Hexose 1-phosphate
+EQUATION    C02306 + C00738 <=> C00014 + C01171
+COMMENT     general reaction (see R08514)
+RCLASS      RC00078  C00738_C01171
+ENZYME      2.7.1.62
+///

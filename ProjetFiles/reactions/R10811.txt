@@ -1,0 +1,8 @@
+ENTRY       R10811                      Reaction
+NAME        1,4-beta-D-mannooligosaccharide:phosphate alpha-D-mannosyltransferase
+DEFINITION  1,4-beta-D-Mannooligosaccharide(n) + (n-2) Orthophosphate <=> Mannobiose + (n-2) D-Mannose 1-phosphate
+EQUATION    C17207(n) + (n-2) C00009 <=> C20861 + (n-2) C00636
+RCLASS      RC00049  C17207_C20861
+ENZYME      2.4.1.319
+ORTHOLOGY   K18785  beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [EC:2.4.1.319 2.4.1.320]
+///

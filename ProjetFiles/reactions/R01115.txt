@@ -1,0 +1,9 @@
+ENTRY       R01115                      Reaction
+NAME        CMP-N-acetylneuraminate,ferrocytochrome-b5:oxygen oxidoreductase (N-acetyl-hydroxylating)
+DEFINITION  CMP-N-acetylneuraminate + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> CMP-N-glycoloylneuraminate + 2 Ferricytochrome b5 + H2O
+EQUATION    C00128 + 2 C00999 + C00007 + 2 C00080 <=> C03691 + 2 C00996 + C00001
+RCLASS      RC00157  C00128_C03691
+ENZYME      1.14.18.2
+PATHWAY     rn00520  Amino sugar and nucleotide sugar metabolism
+ORTHOLOGY   K08080  CMP-N-acetylneuraminate monooxygenase [EC:1.14.18.2]
+///

@@ -1,0 +1,6 @@
+ENTRY       R10870                      Reaction
+NAME        chondroitin-sulfate-A lyase
+DEFINITION  Chondroitin 4-sulfate <=> n 4-Deoxy-beta-D-gluc-4-enuronosyl-(1,3)-N-acetyl-D-galactosamine 4-sulfate
+EQUATION    C00634 <=> n C04864
+ENZYME      4.2.2.5         4.2.2.20        4.2.2.21
+///

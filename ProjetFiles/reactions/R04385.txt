@@ -1,0 +1,13 @@
+ENTRY       R04385                      Reaction
+NAME        biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)
+DEFINITION  ATP + Holo-[carboxylase] + HCO3- <=> ADP + Orthophosphate + Carboxybiotin-carboxyl-carrier protein
+EQUATION    C00002 + C06250 + C00288 <=> C00008 + C00009 + C04419
+COMMENT     The first step of two-step reaction (R00742)
+            subsequently R04386
+RCLASS      RC00002  C00002_C00008
+            RC00253  C04419_C06250
+ENZYME      6.3.4.14
+ORTHOLOGY   K01961  acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]
+            K11262  acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14]
+            K11263  acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+///

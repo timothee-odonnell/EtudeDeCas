@@ -1,0 +1,8 @@
+ENTRY       R08676                      Reaction
+NAME        ADP-glucose:D-fructose 2-alpha-D-glucosyltransferase
+DEFINITION  ADP + Sucrose <=> ADP-glucose + D-Fructose
+EQUATION    C00008 + C00089 <=> C00498 + C00095
+RCLASS      RC00005  C00008_C00498
+            RC00028  C00089_C00095
+ENZYME      2.4.1.13
+///

@@ -1,0 +1,7 @@
+ENTRY       R07542                      Reaction
+DEFINITION  gamma-Carotene <=> 1',2'-Dihydrochlorobactene
+EQUATION    C05435 <=> C15910
+COMMENT     multi-step reaction
+            incomplete reaction (unidentified donor)
+RCLASS      RC01966  C05435_C15910
+///

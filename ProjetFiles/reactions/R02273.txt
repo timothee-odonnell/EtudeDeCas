@@ -1,0 +1,8 @@
+ENTRY       R02273                      Reaction
+NAME        5-Aminopentanamide amidohydrolase
+DEFINITION  5-Aminopentanamide + H2O <=> 5-Aminopentanoate + Ammonia
+EQUATION    C00990 + C00001 <=> C00431 + C00014
+RCLASS      RC00010  C00431_C00990
+ENZYME      3.5.1.30
+PATHWAY     rn00310  Lysine degradation
+///

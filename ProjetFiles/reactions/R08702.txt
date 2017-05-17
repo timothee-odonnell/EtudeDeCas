@@ -1,0 +1,14 @@
+ENTRY       R08702                      Reaction
+NAME        tRNA containing 5-carboxymethylaminomethyl-2-thiouridine:oxygen oxidoreductase
+DEFINITION  tRNA containing 5-carboxymethylaminomethyl-2-thiouridine + Oxygen + H2O <=> tRNA containing 5-aminomethyl-2-thiouridine + Glyoxylate + Hydrogen peroxide
+EQUATION    C17323 + C00007 + C00001 <=> C11478 + C00048 + C00027
+RCLASS      RC00053  C11478_C17323
+            RC01483  C00048_C17323
+            RC02755  C00007_C00027
+ENZYME      1.5.3.-
+ORTHOLOGY   K15461  tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+REFERENCE   1  [PMID:15247431]
+            Bujnicki JM, Oudjama Y, Roovers M, Owczarek S, Caillet J, Droogmans L.
+            Identification of a bifunctional enzyme MnmC involved in the biosynthesis of a hypermodified uridine in the wobble position of tRNA.
+            RNA. 10 (2004) 1236-42.
+///
