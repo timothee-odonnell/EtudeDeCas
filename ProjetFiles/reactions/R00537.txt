@@ -1,9 +1,0 @@
-ENTRY       R00537                      Reaction
-NAME        3'-Phosphoadenylylsulfate:phenolic-steroid sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + 2-Methoxy-17beta-estradiol <=> Adenosine 3',5'-bisphosphate + 2-Methoxyestradiol-17beta 3-sulfate
-EQUATION    C00053 + C05302 <=> C00054 + C08359
-RCLASS      RC00007  C00053_C00054
-            RC00128  C05302_C08359
-ENZYME      2.8.2.15
-PATHWAY     rn00140  Steroid hormone biosynthesis
-///

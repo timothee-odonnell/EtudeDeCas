@@ -1,9 +1,0 @@
-ENTRY       R04703                      Reaction
-NAME        Dihydrosanguinarine:oxygen oxidoreductase
-DEFINITION  Dihydrosanguinarine + Oxygen + H+ <=> Sanguinarine + Hydrogen peroxide
-EQUATION    C05191 + C00007 + C00080 <=> C06162 + C00027
-RCLASS      RC01204  C05191_C06162
-            RC02755  C00007_C00027
-ENZYME      1.5.3.12
-PATHWAY     rn00950  Isoquinoline alkaloid biosynthesis
-///

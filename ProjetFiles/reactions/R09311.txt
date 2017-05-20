@@ -1,6 +1,0 @@
-ENTRY       R09311                      Reaction
-DEFINITION  (R)-Hemiketal <=> (R)-DNPA + H2O
-EQUATION    C18357 <=> C18835 + C00001
-PATHWAY     rn01057  Biosynthesis of type II polyketide products
-            rn01130  Biosynthesis of antibiotics
-///

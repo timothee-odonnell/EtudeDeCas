@@ -1,9 +1,0 @@
-ENTRY       R03785                      Reaction
-NAME        ATP:taurocyamine N-phosphotransferase
-DEFINITION  ATP + Taurocyamine <=> ADP + N-Phosphotaurocyamine
-EQUATION    C00002 + C01959 <=> C00008 + C03149
-RCLASS      RC00002  C00002_C00008
-            RC00203  C01959_C03149
-ENZYME      2.7.3.4
-PATHWAY     rn00430  Taurine and hypotaurine metabolism
-///

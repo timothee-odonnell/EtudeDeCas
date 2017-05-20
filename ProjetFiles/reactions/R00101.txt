@@ -1,8 +1,0 @@
-ENTRY       R00101                      Reaction
-NAME        NADH:ferrileghemoglobin oxidoreductase
-DEFINITION  NADH + 2 Ferrileghemoglobin <=> NAD+ + 2 Ferroleghemoglobin + H+
-EQUATION    C00004 + 2 C02683 <=> C00003 + 2 C02685 + C00080
-COMMENT     NADPH (see R00109)
-RCLASS      RC00001  C00003_C00004
-ENZYME      1.6.2.6
-///

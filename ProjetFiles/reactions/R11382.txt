@@ -1,8 +1,0 @@
-ENTRY       R11382                      Reaction
-NAME        aurachin C:NADH:oxygen oxidoreductase (4-hydroxy-2-methyl-3-oxo-4-farnesyl-3,4-dihydroquinoline-1-oxide-forming)
-DEFINITION  Aurachin C + NADH + H+ + Oxygen <=> 4-Hydroxy-2-methyl-3-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide + NAD+ + H2O
-EQUATION    C21330 + C00004 + C00080 + C00007 <=> C21141 + C00003 + C00001
-COMMENT     two-step reaction (see R11384+R11386)
-RCLASS      RC03422  C21141_C21330
-ENZYME      1.14.13.222
-///

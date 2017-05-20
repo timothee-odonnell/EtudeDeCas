@@ -1,9 +1,0 @@
-ENTRY       R01205                      Reaction
-NAME        UDP-alpha-D-galactose:N-acetyl-D-glucosamine 4-beta-D-galactosyltransferase
-DEFINITION  UDP-alpha-D-galactose + N-Acetyl-D-glucosamine <=> UDP + N-Acetyllactosamine
-EQUATION    C00052 + C00140 <=> C00015 + C00611
-REMARK      Same as: R06055
-RCLASS      RC00005  C00015_C00052
-            RC00049  C00140_C00611
-ENZYME      2.4.1.90
-///

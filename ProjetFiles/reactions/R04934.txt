@@ -1,6 +1,0 @@
-ENTRY       R04934                      Reaction
-DEFINITION  L-Selenocysteine <=> Se-Propenylselenocysteine Se-oxide
-EQUATION    C05688 <=> C05706
-COMMENT     incomplete reaction
-RCLASS      RC01977  C05688_C05706
-///

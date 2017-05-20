@@ -1,7 +1,0 @@
-ENTRY       R11101                      Reaction
-DEFINITION  2-Aminobut-2-enoate <=> 2-Iminobutanoate
-EQUATION    C17234 <=> C20905
-COMMENT     spontaneous
-            subsequently R11098
-RCLASS      RC03356  C17234_C20905
-///

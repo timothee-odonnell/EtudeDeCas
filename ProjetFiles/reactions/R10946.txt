@@ -1,9 +1,0 @@
-ENTRY       R10946                      Reaction
-NAME        3-hydroxy-3-(methylthio)propanoyl-CoA methanethiol-lyase
-DEFINITION  3-Hydroxy-3-(methylthio)propanoyl-CoA <=> 3-Oxopropionyl-CoA + Methanethiol
-EQUATION    C20968 <=> C05989 + C00409
-COMMENT     the second step of four-step reaction (see R10936, R10945+R10946+R10947+R06973)
-RCLASS      RC03312  C05989_C20968
-            RC03313  C00409_C20968
-ENZYME      4.2.1.155
-///

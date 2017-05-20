@@ -1,7 +1,0 @@
-ENTRY       R05746                      Reaction
-NAME        phosphonate:NAD+ oxidoreductase
-DEFINITION  Phosphonic acid + NAD+ + H2O <=> Orthophosphate + NADH + H+
-EQUATION    C06701 + C00003 + C00001 <=> C00009 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-ENZYME      1.20.1.1
-///

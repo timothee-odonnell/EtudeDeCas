@@ -1,8 +1,0 @@
-ENTRY       R00834                      Reaction
-NAME        D-Sorbitol 6-phosphate:NADP+ 1-oxidoreductase
-DEFINITION  Sorbitol 6-phosphate + NADP+ <=> D-Glucose 6-phosphate + NADPH + H+
-EQUATION    C01096 + C00006 <=> C00092 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00108  C00092_C01096
-ENZYME      1.1.1.200
-///

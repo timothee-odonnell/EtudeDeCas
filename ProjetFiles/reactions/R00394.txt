@@ -1,9 +1,0 @@
-ENTRY       R00394                      Reaction
-NAME        carboxylic acid:CoA ligase (GDP-forming)
-DEFINITION  GTP + Carboxylate + CoA <=> GDP + Orthophosphate + Acyl-CoA
-EQUATION    C00044 + C00060 + C00010 <=> C00035 + C00009 + C00040
-RCLASS      RC00002  C00035_C00044
-            RC00004  C00010_C00040
-            RC00281  C00040_C00060
-ENZYME      6.2.1.10
-///

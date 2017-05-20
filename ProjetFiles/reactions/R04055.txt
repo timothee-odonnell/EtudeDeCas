@@ -1,9 +1,0 @@
-ENTRY       R04055                      Reaction
-NAME        triacylglycerol:3beta-hydroxysteroid O-acyltransferase
-DEFINITION  Triacylglycerol + 3beta-Hydroxysteroid <=> Diacylglycerol + 3beta-Hydroxysteroid ester
-EQUATION    C00422 + C02945 <=> C00165 + C03587
-COMMENT     general reaction
-RCLASS      RC00041  C00165_C00422
-            RC00055  C02945_C03587
-ENZYME      2.3.1.77
-///

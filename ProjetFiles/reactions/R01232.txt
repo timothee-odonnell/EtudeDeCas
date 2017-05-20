@@ -1,9 +1,0 @@
-ENTRY       R01232                      Reaction
-NAME        P1,P4-bis(5'-guanosyl)-tetraphosphate guanylylhydrolase
-DEFINITION  P1,P4-Bis(5'-guanosyl) tetraphosphate + H2O <=> GTP + GMP
-EQUATION    C01261 + C00001 <=> C00044 + C00144
-RCLASS      RC00002  C00044_C01261  C00144_C01261
-ENZYME      3.6.1.17
-PATHWAY     rn00230  Purine metabolism
-ORTHOLOGY   K01518  bis(5'-nucleosidyl)-tetraphosphatase [EC:3.6.1.17]
-///

@@ -1,8 +1,0 @@
-ENTRY       R04090                      Reaction
-NAME        S-(2-Hydroxyacyl)glutathione hydrolase
-DEFINITION  S-(2-Hydroxyacyl)glutathione + H2O <=> Glutathione + 2-Hydroxy carboxylate
-EQUATION    C03899 + C00001 <=> C00051 + C02929
-RCLASS      RC00004  C00051_C03899
-            RC00137  C02929_C03899
-ENZYME      3.1.2.6
-///

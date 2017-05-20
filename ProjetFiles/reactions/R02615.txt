@@ -1,7 +1,0 @@
-ENTRY       R02615                      Reaction
-NAME        Styrene-oxide isomerase
-DEFINITION  Styrene oxide <=> Phenylacetaldehyde
-EQUATION    C02083 <=> C00601
-RCLASS      RC00758  C00601_C02083
-ENZYME      5.3.99.7
-///

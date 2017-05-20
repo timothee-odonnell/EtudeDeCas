@@ -1,7 +1,0 @@
-ENTRY       R11181                      Reaction
-NAME        isatin amidohydrolase
-DEFINITION  Isatin + H2O <=> Isatinate
-EQUATION    C11129 + C00001 <=> C21155
-RCLASS      RC03383  C11129_C21155
-ENZYME      3.5.2.20
-///

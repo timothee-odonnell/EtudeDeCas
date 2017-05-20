@@ -1,8 +1,0 @@
-ENTRY       R02256                      Reaction
-NAME        UDPglucose:trans-cinnamate beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + trans-Cinnamate <=> UDP + trans-Cinnamoyl beta-D-glucoside
-EQUATION    C00029 + C00423 <=> C00015 + C04164
-RCLASS      RC00005  C00015_C00029
-            RC00523  C00423_C04164
-ENZYME      2.4.1.177
-///

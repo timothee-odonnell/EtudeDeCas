@@ -1,8 +1,0 @@
-ENTRY       R04728                      Reaction
-NAME        Phaseollidin-hydrate hydro-lyase;
-            16alpha-Hydroxyprogesterone hydro-lyase
-DEFINITION  Phaseollidin hydrate <=> Phaseollidin + H2O
-EQUATION    C05229 <=> C05230 + C00001
-RCLASS      RC00966  C05229_C05230
-ENZYME      4.2.1.97
-///

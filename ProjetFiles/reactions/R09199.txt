@@ -1,6 +1,0 @@
-ENTRY       R09199                      Reaction
-DEFINITION  4-Ketoanhydrochlortetracycline <=> 4-Aminoanhydrochlortetracycline
-EQUATION    C06626 <=> C18299
-COMMENT     aminotransferase
-RCLASS      RC02463  C06626_C18299
-///

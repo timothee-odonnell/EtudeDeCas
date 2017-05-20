@@ -1,7 +1,0 @@
-ENTRY       R07265                      Reaction
-NAME        alpha,alpha-trehalose:phosphate alpha-D-glucosyltransferase
-DEFINITION  alpha,alpha-Trehalose + Orthophosphate <=> alpha-D-Glucose + D-Glucose 1-phosphate
-EQUATION    C01083 + C00009 <=> C00267 + C00103
-RCLASS      RC00049  C00267_C01083
-ENZYME      2.4.1.231
-///

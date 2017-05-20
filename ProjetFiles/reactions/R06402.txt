@@ -1,9 +1,0 @@
-ENTRY       R06402                      Reaction
-NAME        Myrtenol dehydrogenase
-DEFINITION  Myrtenol + Oxygen + Acceptor <=> Myrtenal + 2 H2O + Reduced acceptor
-EQUATION    C11938 + C00007 + C00028 <=> C11939 + 2 C00001 + C00030
-COMMENT     unclear reaction
-RCLASS      RC01033  C11938_C11939
-ENZYME      1.1.-.-
-PATHWAY     rn00903  Limonene and pinene degradation
-///

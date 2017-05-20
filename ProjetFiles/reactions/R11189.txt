@@ -1,8 +1,0 @@
-ENTRY       R11189                      Reaction
-NAME        2,4-dinitroanisole hydrolase
-DEFINITION  2,4-Dinitroanisole + H2O <=> Methanol + 2,4-Dinitrophenol
-EQUATION    C21159 + C00001 <=> C00132 + C02496
-RCLASS      RC00233  C00132_C21159
-            RC00392  C02496_C21159
-ENZYME      3.3.2.14
-///

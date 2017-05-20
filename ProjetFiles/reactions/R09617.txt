@@ -1,7 +1,0 @@
-ENTRY       R09617                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase [(+)-epicubenol-forming]
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> (+)-Epicubenol + Diphosphate
-EQUATION    C00448 + C00001 <=> C19744 + C00013
-RCLASS      RC02783  C00448_C19744
-ENZYME      4.2.3.64
-///

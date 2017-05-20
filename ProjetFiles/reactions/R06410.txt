@@ -1,9 +1,0 @@
-ENTRY       R06410                      Reaction
-NAME        trans-2-methyl-5-isopropylhexa-2,5-dienoate-CoA ligase
-DEFINITION  trans-2-Methyl-5-isopropylhexa-2,5-dienoic acid + ATP + CoA <=> trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA + AMP + Diphosphate
-EQUATION    C11943 + C00002 + C00010 <=> C11945 + C00020 + C00013
-RCLASS      RC00004  C00010_C11945
-            RC00978  C11943_C11945
-ENZYME      6.2.1.-
-PATHWAY     rn00903  Limonene and pinene degradation
-///

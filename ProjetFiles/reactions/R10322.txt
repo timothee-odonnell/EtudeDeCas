@@ -1,7 +1,0 @@
-ENTRY       R10322                      Reaction
-NAME        cyclo(L-leucyl-L-leucyl),reduced-ferredoxin:oxygen oxidoreductase (N-hydroxylating,aromatizing)
-DEFINITION  Cyclo(L-leucyl-L-leucyl) + 6 Reduced ferredoxin + 3 Oxygen <=> Pulcherriminic acid + 6 Oxidized ferredoxin + 4 H2O
-EQUATION    C20514 + 6 C00138 + 3 C00007 <=> C20515 + 6 C00139 + 4 C00001
-RCLASS      RC03114  C20514_C20515
-ENZYME      1.14.15.13
-///

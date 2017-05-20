@@ -1,7 +1,0 @@
-ENTRY       R07031                      Reaction
-DEFINITION  5,6-Epoxytetraene + H2O <=> Lipoxin A4
-EQUATION    C14815 + C00001 <=> C06314
-RCLASS      RC01184  C06314_C14815
-ENZYME      3.3.2.-
-PATHWAY     rn00590  Arachidonic acid metabolism
-///

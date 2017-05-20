@@ -1,8 +1,0 @@
-ENTRY       R10861                      Reaction
-NAME        3,6-anhydro-alpha-L-galactopyranose:NAD+ 1-oxidoredutase
-DEFINITION  3,6-Anhydro-alpha-L-galactopyranose + NAD+ + H2O <=> 3,6-Anhydro-L-galactonate + NADH + H+
-EQUATION    C20902 + C00003 + C00001 <=> C20903 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC03292  C20902_C20903
-ENZYME      1.2.1.92
-///

@@ -1,8 +1,0 @@
-ENTRY       R02179                      Reaction
-NAME        UDPglucose:(-)-menthol O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + (-)-Menthol <=> UDP + (-)-Menthyl O-beta-D-glucoside
-EQUATION    C00029 + C00400 <=> C00015 + C03962
-RCLASS      RC00005  C00015_C00029
-            RC00049  C00400_C03962
-ENZYME      2.4.1.127
-///

@@ -1,8 +1,0 @@
-ENTRY       R10595                      Reaction
-NAME        dTDP-L-4-epi-vancosamine:desvancosaminyl-vancomycin vancosaminyltransferase
-DEFINITION  dTDP-L-epivancosamine + Desvancosaminyl-vancomycin <=> dTDP + Chloroorienticin B
-EQUATION    C12321 + C20720 <=> C00363 + C20721
-RCLASS      RC00005  C00363_C12321
-            RC00049  C20720_C20721
-ENZYME      2.4.1.311
-///

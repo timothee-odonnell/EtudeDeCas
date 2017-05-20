@@ -1,9 +1,0 @@
-ENTRY       R02595                      Reaction
-NAME        Coniferin beta-D-glucosidase
-DEFINITION  Coniferin + H2O <=> Coniferyl alcohol + D-Glucose
-EQUATION    C00761 + C00001 <=> C00590 + C00031
-RCLASS      RC00171  C00590_C00761
-            RC00714  C00031_C00761
-ENZYME      3.2.1.126
-PATHWAY     rn00940  Phenylpropanoid biosynthesis
-///

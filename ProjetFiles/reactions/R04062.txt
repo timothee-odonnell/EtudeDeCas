@@ -1,8 +1,0 @@
-ENTRY       R04062                      Reaction
-NAME        S-Adenosyl-L-methionine:calmodulin-L-lysine N6-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Calmodulin L-lysine <=> S-Adenosyl-L-homocysteine + Calmodulin N6-methyl-L-lysine
-EQUATION    C00019 + C02816 <=> C00021 + C03941
-RCLASS      RC00003  C00019_C00021
-            RC00060  C02816_C03941
-ENZYME      2.1.1.60
-///

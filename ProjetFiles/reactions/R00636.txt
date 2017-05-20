@@ -1,8 +1,0 @@
-ENTRY       R00636                      Reaction
-NAME        2-oxo-acid carboxy-lyase (aldehyde-forming)
-DEFINITION  2-Oxo acid <=> Aldehyde + CO2
-EQUATION    C00161 <=> C00071 + C00011
-COMMENT     general reaction (see R00224)
-RCLASS      RC00343  C00071_C00161
-ENZYME      4.1.1.1
-///

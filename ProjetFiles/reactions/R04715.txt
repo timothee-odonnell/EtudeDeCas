@@ -1,8 +1,0 @@
-ENTRY       R04715                      Reaction
-NAME        S-Adenosyl-L-methionine:(RS)-norcoclaurine 6-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Tetrahydropapaveroline <=> S-Adenosyl-L-homocysteine + 6-O-Methylnorlaudanosoline + H+
-EQUATION    C00019 + C06350 <=> C00021 + C05203 + C00080
-RCLASS      RC00003  C00019_C00021
-            RC00392  C05203_C06350
-ENZYME      2.1.1.128
-///

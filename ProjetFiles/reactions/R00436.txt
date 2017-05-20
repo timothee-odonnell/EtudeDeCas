@@ -1,7 +1,0 @@
-ENTRY       R00436                      Reaction
-NAME        polyribonucleotide ligase (cyclizing, AMP-forming)
-DEFINITION  ATP + RNA <=> AMP + Diphosphate + RNA(circular)
-EQUATION    C00002 + C00046 <=> C00020 + C00013 + C02073
-RCLASS      RC00296  C00046_C02073
-ENZYME      6.5.1.3
-///

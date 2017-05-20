@@ -1,8 +1,0 @@
-ENTRY       R02953                      Reaction
-NAME        S-Alkyl-L-cysteine alkylthiol-lyase (deaminating)
-DEFINITION  S-Alkyl-L-cysteine + H2O <=> Alkyl thiol + Ammonia + Pyruvate
-EQUATION    C02749 + C00001 <=> C00812 + C00014 + C00022
-RCLASS      RC00488  C00022_C02749
-            RC00815  C00812_C02749
-ENZYME      4.4.1.6
-///

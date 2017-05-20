@@ -1,9 +1,0 @@
-ENTRY       R10638                      Reaction
-NAME        UDP-D-glucose:(R)-mandelonitrile beta-D-glucosyltransferase
-DEFINITION  Mandelonitrile + UDP-glucose <=> Prunasin + UDP
-EQUATION    C00561 + C00029 <=> C00844 + C00015
-RCLASS      RC00005  C00015_C00029
-            RC00397  C00561_C00844
-PATHWAY     rn00460  Cyanoamino acid metabolism
-            rn01110  Biosynthesis of secondary metabolites
-///

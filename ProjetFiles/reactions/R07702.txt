@@ -1,8 +1,0 @@
-ENTRY       R07702                      Reaction
-DEFINITION  1,2-Anthracenediol + Oxygen <=> 3-(2-Carboxyvinyl)naphthalene-2-carboxylic acid
-EQUATION    C16204 + C00007 <=> C16209
-COMMENT     anthracene-1,2-diol 1,2-dioxygenase
-RCLASS      RC02092  C16204_C16209
-ENZYME      1.13.11.-
-PATHWAY     rn00624  Polycyclic aromatic hydrocarbon degradation
-///

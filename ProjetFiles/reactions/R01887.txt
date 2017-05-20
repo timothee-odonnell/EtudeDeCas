@@ -1,9 +1,0 @@
-ENTRY       R01887                      Reaction
-NAME        gamma-Amino-gamma-cyanobutanoate aminohydrolase
-DEFINITION  gamma-Amino-gamma-cyanobutanoate + 2 H2O <=> Glutamate + Ammonia
-EQUATION    C05715 + 2 C00001 <=> C00302 + C00014
-RCLASS      RC00617  C00302_C05715
-ENZYME      3.5.5.1
-PATHWAY     rn00460  Cyanoamino acid metabolism
-ORTHOLOGY   K01501  nitrilase [EC:3.5.5.1]
-///

@@ -1,8 +1,0 @@
-ENTRY       R10059                      Reaction
-NAME        L-tyrosine,iodide:NADP+ oxidoreductase (iodinating)
-DEFINITION  L-Tyrosine + 2 NADP+ + 2 Iodide <=> 3,5-Diiodo-L-tyrosine + 2 NADPH
-EQUATION    C00082 + 2 C00006 + 2 C00708 <=> C01060 + 2 C00005
-COMMENT     two-step reaction (see R09521+R09522)
-RCLASS      RC03039  C00082_C01060
-ENZYME      1.21.1.1
-///

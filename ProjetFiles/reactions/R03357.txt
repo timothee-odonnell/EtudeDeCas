@@ -1,8 +1,0 @@
-ENTRY       R03357                      Reaction
-NAME        1-Palmitoylglycerol-3-phosphate:NADP+ oxidoreductase
-DEFINITION  1-Palmitoylglycerol 3-phosphate + NADP+ <=> Palmitoylglycerone phosphate + NADPH + H+
-EQUATION    C04036 + C00006 <=> C01192 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00029  C01192_C04036
-ENZYME      1.1.1.101
-///

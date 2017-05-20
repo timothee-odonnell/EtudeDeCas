@@ -1,8 +1,0 @@
-ENTRY       R05158                      Reaction
-NAME        Quinolin-2-ol,NADH:oxygen oxidoreductase (8-hydroxylating)
-DEFINITION  Quinolin-2-ol + Oxygen + NADH + H+ <=> Quinolin-2,8-diol + NAD+ + H2O
-EQUATION    C06338 + C00007 + C00004 + C00080 <=> C06342 + C00003 + C00001
-RCLASS      RC00001  C00003_C00004
-            RC00046  C06338_C06342
-ENZYME      1.14.13.61
-///

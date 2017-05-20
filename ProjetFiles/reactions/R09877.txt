@@ -1,7 +1,0 @@
-ENTRY       R09877                      Reaction
-NAME        8-oxo-dGDP phosphohydrolase
-DEFINITION  8-Oxo-dGDP + H2O <=> 8-Oxo-dGMP + Orthophosphate
-EQUATION    C20176 + C00001 <=> C19968 + C00009
-RCLASS      RC00002  C19968_C20176
-ENZYME      3.6.1.58
-///

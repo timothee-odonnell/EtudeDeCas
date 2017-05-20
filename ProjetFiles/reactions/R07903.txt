@@ -1,9 +1,0 @@
-ENTRY       R07903                      Reaction
-DEFINITION  Delphinidin 3-O-glucoside + UDP-L-rhamnose <=> Tulipanin + UDP
-EQUATION    C12138 + C02199 <=> C16315 + C00015
-COMMENT     UDP rhamnose:anthocyanidin-3-glucoside rhamnosyltransferase
-RCLASS      RC00005  C00015_C02199
-            RC00059  C12138_C16315
-ENZYME      2.4.1.-
-PATHWAY     rn00942  Anthocyanin biosynthesis
-///

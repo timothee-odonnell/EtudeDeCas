@@ -1,6 +1,0 @@
-ENTRY       R10942                      Reaction
-NAME        3-{[(2E)-4-amino-4-oxobut-2-enoyl]amino}-L-alanine:L-valine ligase (ADP-forming)
-DEFINITION  ATP + 3-{[(2E)-4-Amino-4-oxobut-2-enoyl]amino}-L-alanine + L-Valine <=> ADP + Orthophosphate + Dapdiamide A
-EQUATION    C00002 + C20966 + C00183 <=> C00008 + C00009 + C20962
-ENZYME      6.3.2.47
-///

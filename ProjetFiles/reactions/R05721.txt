@@ -1,6 +1,0 @@
-ENTRY       R05721                      Reaction
-NAME        chloride:oxygen oxidoreductase
-DEFINITION  Cl- + Oxygen <=> Chlorous acid
-EQUATION    C00698 + C00007 <=> C01486
-ENZYME      1.13.11.49
-///

@@ -1,7 +1,0 @@
-ENTRY       R11410                      Reaction
-NAME        presqualene-diphosphate diphosphate-lyase (adding water; hydroxysqualene-forming)
-DEFINITION  Presqualene diphosphate + H2O <=> Hydroxysqualene + Diphosphate
-EQUATION    C03428 + C00001 <=> C21116 + C00013
-RCLASS      RC03432  C03428_C21116
-ENZYME      4.2.3.156
-///

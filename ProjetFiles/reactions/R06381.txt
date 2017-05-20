@@ -1,7 +1,0 @@
-ENTRY       R06381                      Reaction
-DEFINITION  (1R,4S)-Iso-dihydrocarvone <=> (1S,4S)-Dihydrocarvone
-EQUATION    C11412 <=> C11415
-COMMENT     unclear reaction
-RCLASS      RC01502  C11412_C11415
-PATHWAY     rn00903  Limonene and pinene degradation
-///

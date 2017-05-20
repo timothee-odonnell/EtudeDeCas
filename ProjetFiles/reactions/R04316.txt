@@ -1,8 +1,0 @@
-ENTRY       R04316                      Reaction
-NAME        Acetyl-CoA:ribosomal-protein-L-alanine N-acetyltransferase
-DEFINITION  Acetyl-CoA + Ribosomal-protein L-alanine <=> CoA + Ribosomal-protein N-acetyl-L-alanine
-EQUATION    C00024 + C03803 <=> C00010 + C04341
-RCLASS      RC00004  C00010_C00024
-            RC00064  C03803_C04341
-ENZYME      2.3.1.128
-///

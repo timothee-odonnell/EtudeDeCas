@@ -1,8 +1,0 @@
-ENTRY       R00327                      Reaction
-NAME        6-Acetyl-D-glucose acetylhydrolase
-DEFINITION  6-Acetyl-D-glucose + H2O <=> D-Glucose + Acetate
-EQUATION    C02655 + C00001 <=> C00031 + C00033
-RCLASS      RC00020  C00033_C02655
-            RC00041  C00031_C02655
-ENZYME      3.1.1.33
-///

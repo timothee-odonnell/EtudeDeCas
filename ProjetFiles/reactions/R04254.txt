@@ -1,8 +1,0 @@
-ENTRY       R04254                      Reaction
-DEFINITION  n (R)-3-Hydroxybutanoyl-CoA <=> Poly-beta-hydroxybutyrate + n CoA
-EQUATION    n C03561 <=> C06143 + n C00010
-RCLASS      RC00004  C00010_C03561
-ENZYME      2.3.1.-
-PATHWAY     rn00650  Butanoate metabolism
-ORTHOLOGY   K03821  polyhydroxyalkanoate synthase [EC:2.3.1.-]
-///

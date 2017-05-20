@@ -1,8 +1,0 @@
-ENTRY       R04177                      Reaction
-NAME        2-Hydroxyethylenedicarboxylate hydro-lyase
-DEFINITION  2-Hydroxyethylenedicarboxylate <=> Acetylenedicarboxylate + H2O
-EQUATION    C03981 <=> C03248 + C00001
-RCLASS      RC01096  C03248_C03981
-ENZYME      4.1.1.78
-PATHWAY     rn00620  Pyruvate metabolism
-///

@@ -1,8 +1,0 @@
-ENTRY       R05769                      Reaction
-NAME        UDP-glucose:hydroquinone-O-b-D-glucosyltransferase
-DEFINITION  UDP-glucose + Hydroquinone <=> UDP + Arbutin
-EQUATION    C00029 + C00530 <=> C00015 + C06186
-RCLASS      RC00005  C00015_C00029
-            RC00171  C00530_C06186
-ENZYME      2.4.1.218
-///

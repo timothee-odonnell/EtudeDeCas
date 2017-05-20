@@ -1,9 +1,0 @@
-ENTRY       R01928                      Reaction
-NAME        UDP-alpha-D-galactose:sphingosine 1-beta-galactosyltransferase
-DEFINITION  UDP-alpha-D-galactose + Sphingosine <=> UDP + Psychosine
-EQUATION    C00052 + C00319 <=> C00015 + C01747
-RCLASS      RC00005  C00015_C00052
-            RC00059  C00319_C01747
-ENZYME      2.4.1.23
-PATHWAY     rn00600  Sphingolipid metabolism
-///

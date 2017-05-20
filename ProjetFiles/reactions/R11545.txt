@@ -1,8 +1,0 @@
-ENTRY       R11545                      Reaction
-NAME        S-adenosyl-L-methionine:(-)-5'-demethylyatein 5'-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + (-)-5'-Demethylyatein <=> S-Adenosyl-L-homocysteine + Dihydroanhydropodorhizol
-EQUATION    C00019 + C21184 <=> C00021 + C10557
-RCLASS      RC00392  C10557_C21184
-ENZYME      2.1.1.330
-ORTHOLOGY   K21204  5'-demethylyatein 5'-O-methyltransferase [EC:2.1.1.330]
-///

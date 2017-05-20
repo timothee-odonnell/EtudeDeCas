@@ -1,8 +1,0 @@
-ENTRY       R11553                      Reaction
-NAME        ATP:D-ribose-5-phosphate adenylyltransferase
-DEFINITION  ATP + D-Ribose 5-phosphate <=> Diphosphate + ADP-ribose
-EQUATION    C00002 + C00117 <=> C00013 + C00301
-RCLASS      RC00002  C00117_C00301
-ENZYME      2.7.7.96
-ORTHOLOGY   K13987  ADP-sugar pyrophosphatase / 8-oxo-dGDP phosphatase / ADP-D-ribose pyrophosphorylase [EC:3.6.1.13 3.6.1.58 3.6.1.- 2.7.7.96]
-///

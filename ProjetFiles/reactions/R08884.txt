@@ -1,6 +1,0 @@
-ENTRY       R08884                      Reaction
-DEFINITION  Phosphonoacetaldehyde <=> Rhizocticin A
-EQUATION    C03167 <=> C17944
-COMMENT     multi-step reaction
-PATHWAY     rn00440  Phosphonate and phosphinate metabolism
-///

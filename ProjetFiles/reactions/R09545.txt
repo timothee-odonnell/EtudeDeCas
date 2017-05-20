@@ -1,8 +1,0 @@
-ENTRY       R09545                      Reaction
-NAME        (R)-2,3-dihydroxypropane-1-sulfonate:NAD+ 3-oxidoreductase
-DEFINITION  (R)-2,3-Dihydroxypropane-1-sulfonate + 2 NAD+ + H2O <=> (2R)-3-Sulfolactate + 2 NADH + 2 H+
-EQUATION    C19675 + 2 C00003 + C00001 <=> C11537 + 2 C00004 + 2 C00080
-RCLASS      RC00001  C00003_C00004
-            RC00463  C11537_C19675
-ENZYME      1.1.1.308
-///

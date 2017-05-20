@@ -1,8 +1,0 @@
-ENTRY       R08967                      Reaction
-NAME        ATP:N-acetyl-D-galactosamine 1-phosphotransferase
-DEFINITION  N-Acetyl-D-galactosamine + ATP <=> N-Acetyl-alpha-D-galactosamine 1-phosphate + ADP
-EQUATION    C01132 + C00002 <=> C18060 + C00008
-RCLASS      RC00002  C00002_C00008
-            RC00078  C01132_C18060
-ENZYME      2.7.1.157       2.7.1.162
-///

@@ -1,7 +1,0 @@
-ENTRY       R05780                      Reaction
-NAME        thiocyanate aminohydrolase
-DEFINITION  Thiocyanate + 2 H2O <=> Carbonyl sulfide + Ammonia + HO-
-EQUATION    C01755 + 2 C00001 <=> C07331 + C00014 + C01328
-COMMENT     multi-step reaction
-ENZYME      3.5.5.8
-///

@@ -1,5 +1,0 @@
-ENTRY       R07871                      Reaction
-DEFINITION  13(S)-HPOT <=> Etherolenic acid + H2O
-EQUATION    C04785 <=> C16319 + C00001
-RCLASS      RC02450  C04785_C16319
-///

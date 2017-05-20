@@ -1,9 +1,0 @@
-ENTRY       R10970                      Reaction
-NAME        ATP:6-deoxy-6-sulfo-D-fructose 1-phosphotransferase
-DEFINITION  ATP + 6-Deoxy-6-sulfo-D-fructose <=> ADP + 6-Deoxy-6-sulfo-D-fructose 1-phosphate
-EQUATION    C00002 + C20830 <=> C00008 + C20831
-RCLASS      RC00002  C00002_C00008
-            RC00017  C20830_C20831
-ENZYME      2.7.1.184
-ORTHOLOGY   K18478  sulfofructose kinase [EC:2.7.1.184]
-///

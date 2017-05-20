@@ -1,8 +1,0 @@
-ENTRY       R01089                      Reaction
-NAME        Acetyl-CoA:L-leucine N-acetyltransferase
-DEFINITION  Acetyl-CoA + L-Leucine <=> CoA + N-Acetyl-L-leucine
-EQUATION    C00024 + C00123 <=> C00010 + C02710
-RCLASS      RC00004  C00010_C00024
-            RC00064  C00123_C02710
-ENZYME      2.3.1.66
-///

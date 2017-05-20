@@ -1,8 +1,0 @@
-ENTRY       R08657                      Reaction
-NAME        sn-glycerol 3-phosphate:ubiquinone oxidoreductase
-DEFINITION  sn-Glycerol 3-phosphate + Ubiquinone <=> Glycerone phosphate + Ubiquinol
-EQUATION    C00093 + C00399 <=> C00111 + C00390
-RCLASS      RC00029  C00093_C00111
-            RC00061  C00390_C00399
-ENZYME      1.1.5.3
-///

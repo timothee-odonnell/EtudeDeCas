@@ -1,8 +1,0 @@
-ENTRY       R00827                      Reaction
-NAME        S-Adenosyl-L-methionine:catechol O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Catechol <=> S-Adenosyl-L-homocysteine + o-Methoxyphenol
-EQUATION    C00019 + C00090 <=> C00021 + C01502
-RCLASS      RC00003  C00019_C00021
-            RC00392  C00090_C01502
-ENZYME      2.1.1.6
-///

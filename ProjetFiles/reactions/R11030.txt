@@ -1,8 +1,0 @@
-ENTRY       R11030                      Reaction
-NAME        DNA-5-methylcytosine,2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  DNA 5-methylcytosine + 2-Oxoglutarate + Oxygen <=> DNA 5-hydroxymethylcytosine + Succinate + CO2
-EQUATION    C02967 + C00026 + C00007 <=> C21031 + C00042 + C00011
-RCLASS      RC00269  C02967_C21031
-ENZYME      1.14.11.-
-ORTHOLOGY   K13097  methylcytosine dioxygenase [EC:1.14.11.-]
-///

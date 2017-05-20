@@ -1,8 +1,0 @@
-ENTRY       R08128                      Reaction
-DEFINITION  Kaempferol-3-O-galactoside + UDP-glucose <=> Kaempferol 3-O-beta-D-glucosylgalactoside + UDP
-EQUATION    C12626 + C00029 <=> C16490 + C00015
-COMMENT     flavonol 3-O-galactoside-2''-O-glucosyltransferase
-RCLASS      RC00005  C00015_C00029
-            RC00049  C12626_C16490
-PATHWAY     rn00944  Flavone and flavonol biosynthesis
-///

@@ -1,5 +1,0 @@
-ENTRY       R06195                      Reaction
-DEFINITION  ent-Kaurene <=> Aconitine
-EQUATION    C06090 <=> C06091
-PATHWAY     rn00904  Diterpenoid biosynthesis
-///

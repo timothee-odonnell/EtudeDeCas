@@ -1,7 +1,0 @@
-ENTRY       R11547                      Reaction
-NAME        L-leucyl-tRNA(Leu):[protein] N-terminal L-glutamate leucyltransferase
-DEFINITION  L-Leucyl-tRNA + L-Glutamyl-protein <=> tRNA(Leu) + L-Leucyl-L-glutamyl-protein
-EQUATION    C02047 + C21456 <=> C01645 + C21455
-RCLASS      RC00064  C21455_C21456
-ENZYME      2.3.2.29
-///

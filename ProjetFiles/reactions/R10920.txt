@@ -1,7 +1,0 @@
-ENTRY       R10920                      Reaction
-NAME        xanthine,2-oxoglutarate:oxygen oxidoreductase
-DEFINITION  Xanthine + 2-Oxoglutarate + Oxygen <=> Urate + Succinate + CO2
-EQUATION    C00385 + C00026 + C00007 <=> C00366 + C00042 + C00011
-RCLASS      RC00143  C00366_C00385
-ENZYME      1.14.11.48
-///

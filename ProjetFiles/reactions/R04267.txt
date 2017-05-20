@@ -1,7 +1,0 @@
-ENTRY       R04267                      Reaction
-NAME        ATP:deoxynucleoside-phosphate phosphotransferase
-DEFINITION  ATP + Deoxynucleoside phosphate <=> ADP + Deoxynucleoside diphosphate
-EQUATION    C00002 + C03607 <=> C00008 + C03786
-RCLASS      RC00002  C00002_C00008  C03607_C03786
-ENZYME      2.7.4.13
-///

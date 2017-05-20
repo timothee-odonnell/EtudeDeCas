@@ -1,8 +1,0 @@
-ENTRY       R04650                      Reaction
-DEFINITION  D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide + N-Acetylneuraminate <=> N-Acetylneuraminyl-D-galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide + H2O
-EQUATION    C04911 + C00270 <=> C04927 + C00001
-REMARK      Same as: R06253
-RCLASS      RC00028  C00270_C04927
-            RC00077  C04911_C04927
-ENZYME      3.2.1.18
-///

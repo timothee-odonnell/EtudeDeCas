@@ -1,7 +1,0 @@
-ENTRY       R03952                      Reaction
-NAME        L-3,5,3'-Triiodothyronine:2-oxoglutarate aminotransferase
-DEFINITION  Triiodothyronine + 2-Oxoglutarate <=> 3,5,3'-Triiodothyropyruvate + L-Glutamate
-EQUATION    C02465 + C00026 <=> C03832 + C00025
-RCLASS      RC00006  C00025_C00026  C02465_C03832
-ENZYME      2.6.1.26
-///

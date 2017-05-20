@@ -1,8 +1,0 @@
-ENTRY       R04102                      Reaction
-NAME        (+)-bornane-2,5-dione,NADH:oxygen oxidoreductase (1,2-lactonizing)
-DEFINITION  (+)-Bornane-2,5-dione + Oxygen + NADH + H+ <=> 5-Oxo-1,2-campholide + NAD+ + H2O
-EQUATION    C03037 + C00007 + C00004 + C00080 <=> C02952 + C00003 + C00001
-RCLASS      RC00001  C00003_C00004
-            RC01079  C02952_C03037
-ENZYME      1.14.13.162
-///

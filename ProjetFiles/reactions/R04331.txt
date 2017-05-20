@@ -1,8 +1,0 @@
-ENTRY       R04331                      Reaction
-NAME        GDPmannose:chitobiosyldiphosphodolichol alpha-D-mannosyltransferase
-DEFINITION  GDP-mannose + N,N'-Diacetylchitobiosyldiphosphodolichol <=> GDP + alpha-D-Mannosylchitobiosyldiphosphodolichol
-EQUATION    C00096 + C04537 <=> C00035 + C04615
-RCLASS      RC00005  C00035_C00096
-            RC00049  C04537_C04615
-ENZYME      2.4.1.-
-///

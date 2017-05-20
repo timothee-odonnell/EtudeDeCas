@@ -1,7 +1,0 @@
-ENTRY       R11326                      Reaction
-NAME        D-sedoheptulose-7-phosphate phosphate-lyase (cyclizing; demethyl-4-deoxygadusol-forming)
-DEFINITION  Sedoheptulose 7-phosphate <=> Demethyl-4-deoxygadusol + Orthophosphate + H2O
-EQUATION    C05382 <=> C21281 + C00009 + C00001
-RCLASS      RC03414  C05382_C21281
-ENZYME      4.2.3.154
-///

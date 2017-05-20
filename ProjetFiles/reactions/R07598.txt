@@ -1,8 +1,0 @@
-ENTRY       R07598                      Reaction
-NAME        L-lysine:oxygen 6-oxidoreductase (deaminating)
-DEFINITION  L-Lysine + Oxygen + H2O <=> L-2-Aminoadipate 6-semialdehyde + Hydrogen peroxide + Ammonia
-EQUATION    C00047 + C00007 + C00001 <=> C04076 + C00027 + C00014
-RCLASS      RC00062  C00047_C04076
-            RC02755  C00007_C00027
-ENZYME      1.4.3.20
-///

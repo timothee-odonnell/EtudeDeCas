@@ -1,6 +1,0 @@
-ENTRY       R11486                      Reaction
-DEFINITION  2 Glyphosate + Oxygen <=> 2 1-Aminomethylphosphonic acid + 2 Glyoxylate
-EQUATION    2 C01705 + C00007 <=> 2 C11033 + 2 C00048
-RCLASS      RC00053  C01705_C11033
-ENZYME      1.5.3.23
-///

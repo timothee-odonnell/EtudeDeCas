@@ -1,8 +1,0 @@
-ENTRY       R10230                      Reaction
-NAME        hydroxylamine:oxygen oxidoreductase
-DEFINITION  Hydroxylamine + Oxygen <=> Nitrite + H2O + H+
-EQUATION    C00192 + C00007 <=> C00088 + C00001 + C00080
-COMMENT     two-step reaction (see R10913+R10914)
-RCLASS      RC00383  C00088_C00192
-ENZYME      1.7.3.6
-///

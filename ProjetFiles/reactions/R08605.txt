@@ -1,9 +1,0 @@
-ENTRY       R08605                      Reaction
-NAME        N-hydroxyl-tryptamine oxidoreductase
-DEFINITION  N-Hydroxyl-tryptamine <=> Indole-3-acetaldehyde oxime
-EQUATION    C17203 <=> C02937
-COMMENT     incomplete reaction
-RCLASS      RC02332  C02937_C17203
-ENZYME      2.5.1.-
-PATHWAY     rn00380  Tryptophan metabolism
-///

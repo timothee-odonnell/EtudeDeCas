@@ -1,9 +1,0 @@
-ENTRY       R01611                      Reaction
-NAME        3-Oxopropanoate hydro-lyase
-DEFINITION  3-Oxopropanoate <=> Propynoate + H2O
-EQUATION    C00222 <=> C00804 + C00001
-RCLASS      RC00565  C00222_C00804
-ENZYME      4.2.1.27
-PATHWAY     rn00410  beta-Alanine metabolism
-            rn00640  Propanoate metabolism
-///

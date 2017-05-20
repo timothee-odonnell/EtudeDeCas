@@ -1,7 +1,0 @@
-ENTRY       R09976                      Reaction
-NAME        (2E,6E)-farnesyl diphosphate diphosphate-lyase (cyclizing, beta-sesquiphellandrene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> beta-Sesquiphellandrene + Diphosphate
-EQUATION    C00448 <=> C16776 + C00013
-RCLASS      RC02767  C00448_C16776
-ENZYME      4.2.3.123
-///

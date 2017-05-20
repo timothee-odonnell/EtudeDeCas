@@ -1,9 +1,0 @@
-ENTRY       R09002                      Reaction
-NAME        (+)-columbianetin,NADPH:oxygen oxidoreductase
-DEFINITION  (+)-Columbianetin + NADPH + H+ + Oxygen <=> Angelicin + NADP+ + Acetone + 2 H2O
-EQUATION    C19707 + C00005 + C00080 + C00007 <=> C09060 + C00006 + C00207 + 2 C00001
-RCLASS      RC00001  C00005_C00006
-            RC02160  C00207_C19707
-            RC02250  C09060_C19707
-ENZYME      1.14.13.115
-///

@@ -1,9 +1,0 @@
-ENTRY       R10273                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, (E)-2-epi-beta-caryophyllene-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate <=> (E)-2-epi-beta-Caryophyllene + Diphosphate
-EQUATION    C00448 <=> C20478 + C00013
-RCLASS      RC02179  C00448_C20478
-ENZYME      4.2.3.137
-PATHWAY     rn00909  Sesquiterpenoid and triterpenoid biosynthesis
-ORTHOLOGY   K18112  (E)-2-epi-beta-caryophyllene synthase [EC:4.2.3.137]
-///

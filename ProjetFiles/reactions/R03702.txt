@@ -1,7 +1,0 @@
-ENTRY       R03702                      Reaction
-NAME        Triacetolactone lactonohydrolase
-DEFINITION  Triacetate lactone + H2O <=> Triacetate
-EQUATION    C02752 + C00001 <=> C01757
-RCLASS      RC00981  C01757_C02752
-ENZYME      3.1.1.38
-///

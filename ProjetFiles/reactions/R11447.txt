@@ -1,7 +1,0 @@
-ENTRY       R11447                      Reaction
-NAME        tert-butyl alcohol,NADPH:oxygen oxidoreductase
-DEFINITION  tert-Butyl alcohol + NADPH + H+ + Oxygen <=> 2-Methylpropane-1,2-diol + NADP+ + H2O
-EQUATION    C21389 + C00005 + C00080 + C00007 <=> C21290 + C00006 + C00001
-RCLASS      RC01693  C21290_C21389
-ENZYME      1.14.13.229
-///

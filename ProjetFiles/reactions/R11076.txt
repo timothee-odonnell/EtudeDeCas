@@ -1,7 +1,0 @@
-ENTRY       R11076                      Reaction
-NAME        (R)-2-hydroxy-4-methylpentanoyl-CoA hydro-lyase
-DEFINITION  (R)-2-Hydroxyisocaproyl-CoA <=> Isocaprenoyl-CoA + H2O
-EQUATION    C21089 <=> C21090 + C00001
-RCLASS      RC03344  C21089_C21090
-ENZYME      4.2.1.157
-///

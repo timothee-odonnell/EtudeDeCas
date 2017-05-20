@@ -1,7 +1,0 @@
-ENTRY       R07187                      Reaction
-NAME        2'-deoxymugineic acid,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  2'-Deoxymugineic acid + 2-Oxoglutarate + Oxygen <=> 3-Epihydroxy-2'-deoxymugineic acid + Succinate + CO2
-EQUATION    C15485 + C00026 + C00007 <=> C15502 + C00042 + C00011
-RCLASS      RC00661  C15485_C15502
-ENZYME      1.14.11.25
-///

@@ -1,8 +1,0 @@
-ENTRY       R08609                      Reaction
-DEFINITION  Indole <=> Indole-3-acetate
-EQUATION    C00463 <=> C00954
-COMMENT     unclear reaction,Trp-independent pathway
-RCLASS      RC00209  C00463_C00954
-ENZYME      2.5.1.-
-PATHWAY     rn00380  Tryptophan metabolism
-///

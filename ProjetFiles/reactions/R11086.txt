@@ -1,7 +1,0 @@
-ENTRY       R11086                      Reaction
-NAME        geranyl-diphosphate:2-O-methyl-3-methylflaviolin geranyltransferase (6-linalyl-2-O,3-dimethylflaviolin-forming)
-DEFINITION  Geranyl diphosphate + 2-O,3-Dimethylflaviolin <=> Diphosphate + 6-Linalyl-2-O,3-dimethylflaviolin
-EQUATION    C00341 + C21001 <=> C00013 + C21002
-RCLASS      RC03346  C21001_C21002
-ENZYME      2.5.1.124
-///

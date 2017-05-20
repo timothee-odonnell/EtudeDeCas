@@ -1,8 +1,0 @@
-ENTRY       R03854                      Reaction
-NAME        2,2-Dialkylglycine carboxylyase(amino-transferring)
-DEFINITION  2,2-Dialkylglycine + Pyruvate <=> Dialkyl ketone + CO2 + L-Alanine
-EQUATION    C02623 + C00022 <=> C02146 + C00011 + C00041
-RCLASS      RC00008  C00022_C00041
-            RC01009  C02146_C02623
-ENZYME      4.1.1.64
-///

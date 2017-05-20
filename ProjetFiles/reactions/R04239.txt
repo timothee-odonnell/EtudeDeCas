@@ -1,6 +1,0 @@
-ENTRY       R04239                      Reaction
-NAME        protein-L-lysine:oxygen 6-oxidoreductase (deaminating)
-DEFINITION  Protein lysine + H2O + Oxygen <=> [Protein]-(S)-2-amino-6-oxohexanoate + Ammonia + Hydrogen peroxide
-EQUATION    C02188 + C00001 + C00007 <=> C03531 + C00014 + C00027
-ENZYME      1.4.3.13
-///

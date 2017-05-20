@@ -1,8 +1,0 @@
-ENTRY       R10610                      Reaction
-NAME        O-phospho-L-serine:thiocarboxy-[sulfur-carrier protein] 2-amino-2-carboxyethyltransferase
-DEFINITION  O-Phospho-L-serine + Thiocarboxy-[sulfur-carrier protein] <=> [Sulfur-carrier protein]-Gly-NH-CH2-C(O)-S-L-cysteine + Orthophosphate
-EQUATION    C01005 + C15814 <=> C20729 + C00009
-RCLASS      RC03225  C15814_C20729
-ENZYME      2.5.1.113
-ORTHOLOGY   K21148  [CysO sulfur-carrier protein]-thiocarboxylate-dependent cysteine synthase [EC:2.5.1.113]
-///

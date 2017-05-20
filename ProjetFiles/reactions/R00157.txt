@@ -1,9 +1,0 @@
-ENTRY       R00157                      Reaction
-NAME        Uridine triphosphate:AMP phosphotransferase;
-            UTP:AMP phosphotransferase
-DEFINITION  UTP + AMP <=> UDP + ADP
-EQUATION    C00075 + C00020 <=> C00015 + C00008
-RCLASS      RC00002  C00008_C00020  C00015_C00075
-ENZYME      2.7.4.10
-ORTHOLOGY   K00944  nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
-///

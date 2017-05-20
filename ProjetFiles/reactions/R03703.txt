@@ -1,9 +1,0 @@
-ENTRY       R03703                      Reaction
-NAME        Raucaffricine beta-D-glucohydrolase
-DEFINITION  Raucaffricine + H2O <=> Vomilenine + D-Glucose
-EQUATION    C02074 + C00001 <=> C01761 + C00031
-RCLASS      RC00049  C00031_C02074  C01761_C02074
-ENZYME      3.2.1.125
-PATHWAY     rn00901  Indole alkaloid biosynthesis
-ORTHOLOGY   K12695  raucaffricine beta-D-glucosidase / vomilenine glucosyltransferase [EC:3.2.1.125 2.4.1.219]
-///

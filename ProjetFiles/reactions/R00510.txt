@@ -1,9 +1,0 @@
-ENTRY       R00510                      Reaction
-NAME        Cytidine-5'-monophosphate phosphoribohydrolase
-DEFINITION  CMP + H2O <=> Cytosine + D-Ribose 5-phosphate
-EQUATION    C00055 + C00001 <=> C00380 + C00117
-RCLASS      RC00063  C00055_C00380
-            RC00318  C00055_C00117
-ENZYME      3.2.2.10
-PATHWAY     rn00240  Pyrimidine metabolism
-///

@@ -1,6 +1,0 @@
-ENTRY       R04774                      Reaction
-DEFINITION  L-Selenomethionine <=> Selenohomocysteine + Activated methyl group
-EQUATION    C05335 <=> C05698 + C10905
-COMMENT     unclear reaction
-RCLASS      RC01241  C05335_C05698
-///

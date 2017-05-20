@@ -1,9 +1,0 @@
-ENTRY       R03493                      Reaction
-NAME        3-(4-methylpent-3-en-1-yl)-pent-2-enedioyl-CoA hydro-lyase
-DEFINITION  3-Hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA <=> 3-(4-Methylpent-3-en-1-yl)pent-2-enedioyl-CoA + H2O
-EQUATION    C04675 <=> C01291 + C00001
-RCLASS      RC00941  C01291_C04675
-ENZYME      4.2.1.57
-PATHWAY     rn00281  Geraniol degradation
-ORTHOLOGY   K13779  isohexenylglutaconyl-CoA hydratase [EC:4.2.1.57]
-///

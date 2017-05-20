@@ -1,8 +1,0 @@
-ENTRY       R11563                      Reaction
-NAME        protein-N6-(1-hydroxy-2-oxopropyl)-L-lysine hydrolase
-DEFINITION  Protein N6-(1-hydroxy-2-oxopropyl)-L-lysine + H2O <=> Protein lysine + (R)-Lactate
-EQUATION    C21467 + C00001 <=> C02188 + C00256
-RCLASS      RC00217  C02188_C21467
-            RC03469  C00256_C21467
-ENZYME      3.5.1.124
-///

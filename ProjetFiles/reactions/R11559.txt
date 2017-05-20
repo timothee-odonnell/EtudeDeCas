@@ -1,8 +1,0 @@
-ENTRY       R11559                      Reaction
-NAME        protein N-terminal asparagine amidohydrolase
-DEFINITION  L-Asparaginyl-protein + H2O <=> L-Aspartyl-protein + Ammonia
-EQUATION    C21465 + C00001 <=> C21458 + C00014
-RCLASS      RC00010  C21458_C21465
-ENZYME      3.5.1.121
-ORTHOLOGY   K14662  protein N-terminal asparagine amidohydrolase [EC:3.5.1.121]
-///

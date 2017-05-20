@@ -1,5 +1,0 @@
-ENTRY       C03330                      Compound
-NAME        (Ubiquitin)n-calmodulin
-REACTION    R05193
-DBLINKS     PubChem: 6177
-///

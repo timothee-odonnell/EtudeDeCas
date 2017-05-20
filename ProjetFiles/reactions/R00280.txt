@@ -1,8 +1,0 @@
-ENTRY       R00280                      Reaction
-NAME        Nitric-oxide:acceptor oxidoreductase
-DEFINITION  Acceptor + 2 Nitric oxide + 2 H2O <=> Reduced acceptor + 2 Nitrite
-EQUATION    C00028 + 2 C00533 + 2 C00001 <=> C00030 + 2 C00088
-COMMENT     cytochrome c serves as the acceptor (see R00783)
-RCLASS      RC00086  C00088_C00533
-ENZYME      1.7.2.1
-///

@@ -1,8 +1,0 @@
-ENTRY       R10971                      Reaction
-NAME        3'-phosphoadenylyl-sulfate:alpha,alpha-trehalose 2-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + alpha,alpha-Trehalose <=> Adenosine 3',5'-bisphosphate + 2-Sulfotrehalose
-EQUATION    C00053 + C01083 <=> C00054 + C20985
-RCLASS      RC00007  C00053_C00054
-            RC00231  C01083_C20985
-ENZYME      2.8.2.37
-///

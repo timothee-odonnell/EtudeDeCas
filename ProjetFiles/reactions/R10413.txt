@@ -1,7 +1,0 @@
-ENTRY       R10413                      Reaction
-NAME        L-enduracididine,2-oxoglutarate:O2 oxidoreductase (3-hydroxylating)
-DEFINITION  L-Enduracididine + 2-Oxoglutarate + Oxygen <=> (3S)-3-Hydroxy-L-enduracididine + Succinate + CO2
-EQUATION    C20602 + C00026 + C00007 <=> C20603 + C00042 + C00011
-RCLASS      RC03172  C20602_C20603
-ENZYME      1.14.11.40
-///

@@ -1,7 +1,0 @@
-ENTRY       R10559                      Reaction
-NAME        all-trans-beta-carotene:O2 oxidoreductase (9',10'-cleaving)
-DEFINITION  beta-Carotene + Oxygen <=> all-trans-10'-Apo-beta-carotenal + beta-Ionone
-EQUATION    C02094 + C00007 <=> C20695 + C12287
-RCLASS      RC01329  C02094_C20695
-ENZYME      1.13.11.71
-///

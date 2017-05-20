@@ -1,8 +1,0 @@
-ENTRY       R10452                      Reaction
-NAME        S-adenosyl-L-methionine:(indol-3-yl)acetate O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Indole-3-acetate <=> S-Adenosyl-L-homocysteine + Methyl (indol-3-yl)acetate
-EQUATION    C00019 + C00954 <=> C00021 + C20635
-RCLASS      RC00003  C00019_C00021
-            RC00460  C00954_C20635
-ENZYME      2.1.1.278
-///

@@ -1,8 +1,0 @@
-ENTRY       R04734                      Reaction
-NAME        4a-hydroxytetrahydrobiopterin hydro-lyase
-DEFINITION  4a-Hydroxytetrahydrobiopterin <=> Dihydrobiopterin + H2O
-EQUATION    C15522 <=> C00268 + C00001
-RCLASS      RC01208  C00268_C15522
-ENZYME      4.2.1.96
-ORTHOLOGY   K01724  4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
-///

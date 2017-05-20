@@ -1,8 +1,0 @@
-ENTRY       R06585                      Reaction
-DEFINITION  N-Hydroxy-L-tyrosine + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> (E)-4-Hydroxyphenylacetaldehyde oxime + CO2 + [Oxidized NADPH---hemoprotein reductase] + 2 H2O
-EQUATION    C03004 + C00007 + C03024 <=> C04350 + C00011 + C03161 + 2 C00001
-COMMENT     two-step reaction (see R04460+R07190)
-RCLASS      RC00001  C00005_C00006
-ENZYME      1.14.14.36
-ORTHOLOGY   K13027  tyrosine N-monooxygenase [EC:1.14.14.36]
-///

@@ -1,8 +1,0 @@
-ENTRY       R05779                      Reaction
-NAME        5-Diphosphoinositol pentakisphosphate diphosphohydrolase
-DEFINITION  5-PP-InsP5 + H2O <=> Phytic acid + Orthophosphate
-EQUATION    C11526 + C00001 <=> C01204 + C00009
-COMMENT     see R05777
-RCLASS      RC00002  C01204_C11526
-ENZYME      3.6.1.52
-///

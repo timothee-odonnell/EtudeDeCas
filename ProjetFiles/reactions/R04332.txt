@@ -1,8 +1,0 @@
-ENTRY       R04332                      Reaction
-NAME        S-Adenosyl-L-methionine:glucuronoxylan-D-glucuronate 4-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Glucuronoxylan D-glucuronate <=> S-Adenosyl-L-homocysteine + Glucuronoxylan 4-O-methyl-D-glucuronate
-EQUATION    C00019 + C03866 <=> C00021 + C04459
-RCLASS      RC00003  C00019_C00021
-            RC00466  C03866_C04459
-ENZYME      2.1.1.112
-///

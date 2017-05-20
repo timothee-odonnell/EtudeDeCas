@@ -1,8 +1,0 @@
-ENTRY       R11399                      Reaction
-NAME        dolichyl-beta-D-mannosyl-phosphate:protein-threonine O-D-mannosyltransferase
-DEFINITION  Dolichyl phosphate D-mannose + [Protein]-L-threonine <=> Dolichyl phosphate + 3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]
-EQUATION    C03862 + C19803 <=> C00110 + C20722
-RCLASS      RC00397  C19803_C20722
-ENZYME      2.4.1.109
-ORTHOLOGY   K00728  dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]
-///

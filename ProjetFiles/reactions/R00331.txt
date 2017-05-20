@@ -1,8 +1,0 @@
-ENTRY       R00331                      Reaction
-NAME        ATP:nucleoside-diphosphate phosphotransferase
-DEFINITION  ATP + NDP <=> ADP + Nucleoside triphosphate
-EQUATION    C00002 + C00454 <=> C00008 + C00201
-COMMENT     general reaction
-RCLASS      RC00002  C00002_C00008  C00201_C00454
-ENZYME      2.7.4.6
-///

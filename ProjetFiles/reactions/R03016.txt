@@ -1,8 +1,0 @@
-ENTRY       R03016                      Reaction
-NAME        Monoterpenyl-diphosphate pyrophosphohydrolase
-DEFINITION  Monoterpenyl diphosphate + H2O <=> Monoterpenol + Diphosphate
-EQUATION    C03517 + C00001 <=> C00863 + C00013
-COMMENT     general reaction (see R08396 and R08529)
-RCLASS      RC00338  C00863_C03517
-ENZYME      3.1.7.3
-///

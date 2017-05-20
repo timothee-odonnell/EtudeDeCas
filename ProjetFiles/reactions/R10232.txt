@@ -1,8 +1,0 @@
-ENTRY       R10232                      Reaction
-NAME        tRNA(cytosine8) aminohydrolase
-DEFINITION  tRNA cytosine + H2O <=> tRNA uridine + Ammonia
-EQUATION    C17325 + C00001 <=> C00868 + C00014
-RCLASS      RC00074  C00868_C17325
-ENZYME      3.5.4.35
-ORTHOLOGY   K16930  tRNA(cytosine8) deaminase [EC:3.5.4.35]
-///

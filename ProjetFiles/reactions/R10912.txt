@@ -1,9 +1,0 @@
-ENTRY       R10912                      Reaction
-NAME        aldehyde:quinone oxidoreductase
-DEFINITION  Aldehyde + Quinone + H2O <=> Fatty acid + Hydroquinone
-EQUATION    C00071 + C15602 + C00001 <=> C00162 + C15603
-COMMENT     general reaction
-RCLASS      RC00071  C00071_C00162
-ENZYME      1.2.5.2
-PATHWAY     rn00071  Fatty acid degradation
-///

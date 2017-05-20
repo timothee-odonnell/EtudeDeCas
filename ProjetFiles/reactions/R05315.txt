@@ -1,8 +1,0 @@
-ENTRY       R05315                      Reaction
-NAME        (1S,3R,4S)-3,4-Dihydroxycyclohexane-1-carboxylate:NAD+ 3-oxidoreductase
-DEFINITION  (1S,3R,4S)-3,4-Dihydroxycyclohexane-1-carboxylate + NAD+ <=> (1S,4S)-4-Hydroxy-3-oxocyclohexane-1-carboxylate + NADH + H+
-EQUATION    C04687 + C00003 <=> C04670 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00154  C04670_C04687
-ENZYME      1.1.1.166
-///

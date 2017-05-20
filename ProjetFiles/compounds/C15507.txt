@@ -1,7 +1,0 @@
-ENTRY       C15507                      Compound
-NAME        Steroid lactone
-REACTION    R07193
-ENZYME      1.14.13.54
-DBLINKS     PubChem: 17396499
-            ChEBI: 26766
-///

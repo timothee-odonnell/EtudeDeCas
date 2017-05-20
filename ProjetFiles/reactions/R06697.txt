@@ -1,6 +1,0 @@
-ENTRY       R06697                      Reaction
-DEFINITION  2 DHKred-OH <=> Actinorhodin
-EQUATION    2 C18358 <=> C06691
-COMMENT     Dimerization step
-RCLASS      RC02544  C06691_C18358
-///

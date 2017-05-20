@@ -1,7 +1,0 @@
-ENTRY       R00408                      Reaction
-NAME        succinate:FAD oxidoreductase
-DEFINITION  Succinate + FAD <=> FADH2 + Fumarate
-EQUATION    C00042 + C00016 <=> C01352 + C00122
-RCLASS      RC00045  C00042_C00122
-            RC00126  C00016_C01352
-///

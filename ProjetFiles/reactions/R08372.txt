@@ -1,7 +1,0 @@
-ENTRY       R08372                      Reaction
-DEFINITION  1-Hydroxyalkyl-sn-glycerol <=> Aldehyde + Glycerol
-EQUATION    C03658 <=> C00071 + C00116
-COMMENT     spontaneous (following R04044)
-RCLASS      RC00500  C00116_C03658
-            RC02129  C00071_C03658
-///

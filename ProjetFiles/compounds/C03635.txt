@@ -1,6 +1,0 @@
-ENTRY       C03635                      Compound
-NAME        Protein N-ubiquityllysine
-COMMENT     Generic compound in reaction hierarchy
-REACTION    R03876
-DBLINKS     PubChem: 6418
-///

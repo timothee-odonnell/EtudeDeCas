@@ -1,6 +1,0 @@
-ENTRY       R11502                      Reaction
-NAME        (3,4-dimethoxyphenyl)methanol:hydrogen-peroxide oxidoreductase
-DEFINITION  2 (3,4-Dimethoxyphenyl)methanol + Hydrogen peroxide <=> 2 (3,4-Dimethoxyphenyl)methanol radical + 2 H2O
-EQUATION    2 C21420 + C00027 <=> 2 C21421 + 2 C00001
-ENZYME      1.11.1.14
-///

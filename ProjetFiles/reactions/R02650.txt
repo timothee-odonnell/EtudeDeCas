@@ -1,8 +1,0 @@
-ENTRY       R02650                      Reaction
-NAME        ATP:N-acyl-D-mannosamine 6-phosphotransferase
-DEFINITION  ATP + N-Acyl-D-mannosamine <=> ADP + N-Acyl-D-mannosamine 6-phosphate
-EQUATION    C00002 + C00625 <=> C00008 + C00686
-RCLASS      RC00002  C00002_C00008
-            RC00017  C00625_C00686
-ENZYME      2.7.1.60
-///

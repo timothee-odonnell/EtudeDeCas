@@ -1,8 +1,0 @@
-ENTRY       R03446                      Reaction
-NAME        ADP-D-ribosyl-[dinitrogen reductase] ADP-ribosylhydrolase
-DEFINITION  ADP-D-ribosyl-[dinitrogen reductase] + H2O <=> [Dinitrogen reductase] + ADP-ribose
-EQUATION    C01253 + C00001 <=> C03315 + C00301
-RCLASS      RC00178  C01253_C03315
-            RC00481  C00301_C01253
-ENZYME      3.2.2.24
-///

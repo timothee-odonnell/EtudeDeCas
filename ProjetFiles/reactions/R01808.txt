@@ -1,8 +1,0 @@
-ENTRY       R01808                      Reaction
-NAME        Acetyl-CoA:N-acetylneuraminate 9-O-acetyltransferase
-DEFINITION  Acetyl-CoA + N-Acetylneuraminate <=> CoA + N-Acetyl-9-O-acetylneuraminate
-EQUATION    C00024 + C00270 <=> C00010 + C04017
-RCLASS      RC00004  C00010_C00024
-            RC00041  C00270_C04017
-ENZYME      2.3.1.45
-///

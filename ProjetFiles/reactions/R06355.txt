@@ -1,9 +1,0 @@
-ENTRY       R06355                      Reaction
-DEFINITION  Levopimarinol <=> Levopimarinal
-EQUATION    C11883 <=> C11886
-COMMENT     incomplete reaction
-RCLASS      RC00893  C11883_C11886
-ENZYME      1.14.13.-
-PATHWAY     rn00904  Diterpenoid biosynthesis
-            rn01110  Biosynthesis of secondary metabolites
-///

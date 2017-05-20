@@ -1,8 +1,0 @@
-ENTRY       R00659                      Reaction
-NAME        UTP:pyruvate 2-O-phosphotransferase
-DEFINITION  UTP + Pyruvate <=> UDP + Phosphoenolpyruvate
-EQUATION    C00075 + C00022 <=> C00015 + C00074
-RCLASS      RC00002  C00015_C00075
-            RC00015  C00022_C00074
-ENZYME      2.7.1.40
-///

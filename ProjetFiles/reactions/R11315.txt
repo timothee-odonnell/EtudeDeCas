@@ -1,8 +1,0 @@
-ENTRY       R11315                      Reaction
-DEFINITION  Pentalen-13-al <=> 1-Deoxypentalenate
-EQUATION    C19939 <=> C20404
-COMMENT     enzyme not yet characterized
-RCLASS      RC01500  C19939_C20404
-PATHWAY     rn01130  Biosynthesis of antibiotics
-MODULE      M00819  Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone
-///

@@ -1,9 +1,0 @@
-ENTRY       R02693                      Reaction
-NAME        1,2-Diacyl-sn-glycerol:sterol O-acyltransferase
-DEFINITION  1,2-Diacyl-sn-glycerol + Sterol <=> 1-Acylglycerol + Steryl ester
-EQUATION    C00641 + C00370 <=> C01885 + C01958
-COMMENT     general reaction (see R02692)
-RCLASS      RC00037  C00641_C01885
-            RC00055  C00370_C01958
-ENZYME      2.3.1.73
-///

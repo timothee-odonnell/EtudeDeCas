@@ -1,7 +1,0 @@
-ENTRY       R11095                      Reaction
-NAME        [protein]-N(omega)-phospho-L-arginine phosphohydrolase
-DEFINITION  Protein N(omega)-phospho-L-arginine + H2O <=> Protein-L-arginine + Orthophosphate
-EQUATION    C21101 + C00001 <=> C00613 + C00009
-RCLASS      RC00203  C00613_C21101
-ENZYME      3.9.1.2
-///

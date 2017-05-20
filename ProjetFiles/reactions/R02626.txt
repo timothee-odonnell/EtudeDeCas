@@ -1,8 +1,0 @@
-ENTRY       R02626                      Reaction
-NAME        ATP:protein-L-histidine N(tau)-phosphotransferase
-DEFINITION  ATP + Protein histidine <=> ADP + Protein N(tau)-phospho-L-histidine
-EQUATION    C00002 + C00615 <=> C00008 + C04262
-RCLASS      RC00002  C00002_C00008
-            RC00760  C00615_C04262
-ENZYME      2.7.13.2
-///

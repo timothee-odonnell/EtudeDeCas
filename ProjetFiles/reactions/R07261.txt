@@ -1,7 +1,0 @@
-ENTRY       R07261                      Reaction
-NAME        NDP-glucose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase
-DEFINITION  NDP-glucose + Amylose <=> NDP + Amylose
-EQUATION    C15541 + C00718 <=> C00454 + C00718
-RCLASS      RC00005  C00454_C15541
-ENZYME      2.4.1.242
-///

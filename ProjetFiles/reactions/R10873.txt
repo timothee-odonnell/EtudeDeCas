@@ -1,9 +1,0 @@
-ENTRY       R10873                      Reaction
-NAME        3'-phospho-5'-adenylyl sulfate:[dermatan]-N-acetyl-D-galactosamine 4-sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Dermatan <=> Adenosine 3',5'-bisphosphate + Dermatan 4-sulfate
-EQUATION    C00053 + C01490 <=> C00054 + C20908
-RCLASS      RC00007  C00053_C00054
-            RC00231  C01490_C20908
-ENZYME      2.8.2.35
-ORTHOLOGY   K08105  dermatan 4-sulfotransferase 1 [EC:2.8.2.35]
-///

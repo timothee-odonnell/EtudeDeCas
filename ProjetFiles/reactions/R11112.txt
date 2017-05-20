@@ -1,6 +1,0 @@
-ENTRY       R11112                      Reaction
-DEFINITION  Diploptene + S-Adenosyl-L-methionine + Reduced acceptor <=> Adenosylhopane + L-Methionine + Acceptor
-EQUATION    C06310 + C00019 + C00030 <=> C21117 + C00073 + C00028
-COMMENT     radical SAM
-RCLASS      RC00021  C00019_C00073
-///

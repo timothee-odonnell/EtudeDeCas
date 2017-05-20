@@ -1,8 +1,0 @@
-ENTRY       R11191                      Reaction
-NAME        S-adenosyl-L-methionine:6-demethylmitomycin-A 6-O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + 7-Demethylmitomycin A <=> S-Adenosyl-L-homocysteine + Mitomycin A
-EQUATION    C00019 + C21163 <=> C00021 + C21161
-RCLASS      RC00003  C00019_C00021
-            RC01895  C21161_C21163
-ENZYME      2.1.1.316
-///

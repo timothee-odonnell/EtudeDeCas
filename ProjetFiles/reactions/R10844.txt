@@ -1,9 +1,0 @@
-ENTRY       R10844                      Reaction
-NAME        beta-citraurin:oxygen oxidoreductase (7,8-cleaving)
-DEFINITION  beta-Citraurin + Oxygen <=> Crocetin dialdehyde + (3S)-3-Hydroxycyclocitral
-EQUATION    C20894 + C00007 <=> C19730 + C19731
-COMMENT     second step of two-step reaction (see R09603, R10843+R10844)
-RCLASS      RC01690  C19730_C20894
-            RC02575  C19731_C20894
-ENZYME      1.14.99.42
-///

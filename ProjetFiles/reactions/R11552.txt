@@ -1,7 +1,0 @@
-ENTRY       R11552                      Reaction
-NAME        geranyl-phosphate phosphohydrolase
-DEFINITION  Geranyl phosphate + H2O <=> Geraniol + Orthophosphate
-EQUATION    C21203 + C00001 <=> C01500 + C00009
-COMMENT     phosphatase
-RCLASS      RC00017  C01500_C21203
-///

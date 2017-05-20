@@ -1,6 +1,0 @@
-ENTRY       R10269                      Reaction
-DEFINITION  Sporulenol <=> Tetraprenyl-beta-curcumene + H2O
-EQUATION    C20475 <=> C20276 + C00001
-RCLASS      RC03098  C20276_C20475
-ENZYME      4.2.1.137
-///

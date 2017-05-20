@@ -1,8 +1,0 @@
-ENTRY       R07798                      Reaction
-NAME        3'-phosphoadenosine 5'-phosphosulfate:5beta-scymnol sulfotransferase
-DEFINITION  3'-Phosphoadenylyl sulfate + Scymnol <=> Adenosine 3',5'-bisphosphate + 5beta-Scymnol sulfate
-EQUATION    C00053 + C16260 <=> C00054 + C16261
-RCLASS      RC00007  C00053_C00054
-            RC00134  C16260_C16261
-ENZYME      2.8.2.32
-///

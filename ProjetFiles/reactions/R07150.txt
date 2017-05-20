@@ -1,9 +1,0 @@
-ENTRY       R07150                      Reaction
-NAME        dTDP-D-galactose:NADP+ 6-oxidoreductase
-DEFINITION  dTDP-galactose + 2 NADP+ + H2O <=> dTDP-D-galacturonate + 2 NADPH + 2 H+
-EQUATION    C02097 + 2 C00006 + C00001 <=> C03034 + 2 C00005 + 2 C00080
-COMMENT     NAD+ (see R03826)
-RCLASS      RC00001  C00005_C00006
-            RC00291  C02097_C03034
-ENZYME      1.1.1.186
-///

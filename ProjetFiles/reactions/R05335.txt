@@ -1,7 +1,0 @@
-ENTRY       R05335                      Reaction
-DEFINITION  4-Methylaminobutanal <=> 1-Methylpyrrolinium + H2O
-EQUATION    C10974 <=> C06178 + C00001
-COMMENT     see R04027
-            see 1.4.3.10
-RCLASS      RC01332  C06178_C10974
-///

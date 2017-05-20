@@ -1,8 +1,0 @@
-ENTRY       R08538                      Reaction
-NAME        S-Adenosyl-L-methionine:5-hydroxyfuranocoumarin O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + 5-Hydroxyxanthotoxin <=> S-Adenosyl-L-homocysteine + Isopimpinellin
-EQUATION    C00019 + C02951 <=> C00021 + C02162
-RCLASS      RC00003  C00019_C00021
-            RC00392  C02162_C02951
-ENZYME      2.1.1.69
-///

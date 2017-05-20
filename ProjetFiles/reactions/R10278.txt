@@ -1,8 +1,0 @@
-ENTRY       R10278                      Reaction
-NAME        3,5,7-trioxododecanoyl-CoA CoA-lyase (2,4-dihydroxy-6-pentylbenzoate-forming)
-DEFINITION  3,5,7-Trioxododecanoyl-CoA <=> CoA + 2,4-Dihydroxy-6-pentylbenzoate
-EQUATION    C20413 <=> C00010 + C20417
-RCLASS      RC00004  C00010_C20413
-            RC03104  C20413_C20417
-ENZYME      4.4.1.26
-///

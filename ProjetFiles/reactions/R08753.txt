@@ -1,7 +1,0 @@
-ENTRY       R08753                      Reaction
-NAME        ditrans,hexacis-nonaprenyl-diphosphate:isopentenyl-diphosphate nonaprenylcistransferase
-DEFINITION  di-trans,poly-cis-Nonaprenyl diphosphate + Isopentenyl diphosphate <=> di-trans,poly-cis-Decaprenyl diphosphate + Diphosphate
-EQUATION    C17438 + C00129 <=> C04509 + C00013
-RCLASS      RC00279  C00129_C04509
-ENZYME      2.5.1.-
-///

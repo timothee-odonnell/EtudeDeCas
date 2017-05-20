@@ -1,8 +1,0 @@
-ENTRY       R03449                      Reaction
-NAME        ATP:[pyruvate dehydrogenase (lipoamide)] phosphotransferase
-DEFINITION  ATP + [Pyruvate dehydrogenase (acetyl-transferring)] <=> ADP + [Pyruvate dehydrogenase (acetyl-transferring)] phosphate
-EQUATION    C00002 + C01256 <=> C00008 + C01293
-RCLASS      RC00002  C00002_C00008
-            RC00017  C01256_C01293
-ENZYME      2.7.11.2
-///

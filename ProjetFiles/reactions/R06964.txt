@@ -1,7 +1,0 @@
-ENTRY       R06964                      Reaction
-DEFINITION  alpha-Carotene <=> Lutein
-EQUATION    C05433 <=> C08601
-COMMENT     multi-step reaction
-            see R07530 R07531
-RCLASS      RC01613  C05433_C08601
-///

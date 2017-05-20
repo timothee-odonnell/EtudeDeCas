@@ -1,7 +1,0 @@
-ENTRY       R04327                      Reaction
-NAME        5-hydroxy-1,4-naphthoquinone,water:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  2 Juglone + Oxygen <=> 2 3,5-Dihydroxy-1,4-naphthoquinone
-EQUATION    2 C03840 + C00007 <=> 2 C04110
-RCLASS      RC01129  C03840_C04110
-ENZYME      1.17.3.4
-///

@@ -1,8 +1,0 @@
-ENTRY       R01812                      Reaction
-NAME        5,6,7,8-Tetrahydrobiopterin:NADP+ oxidoreductase
-DEFINITION  Tetrahydrobiopterin + 2 NADP+ <=> Biopterin + 2 NADPH + 2 H+
-EQUATION    C00272 + 2 C00006 <=> C06313 + 2 C00005 + 2 C00080
-RCLASS      RC00001  C00005_C00006
-            RC00601  C00272_C06313
-ENZYME      1.5.1.33
-///

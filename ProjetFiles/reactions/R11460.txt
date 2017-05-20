@@ -1,8 +1,0 @@
-ENTRY       R11460                      Reaction
-NAME        ATP:L-erythrulose 4-phosphotransferase
-DEFINITION  ATP + L-Erythrulose <=> ADP + L-Erythrulose 4-phosphate
-EQUATION    C00002 + C02045 <=> C00008 + C21286
-RCLASS      RC00017  C02045_C21286
-ENZYME      2.7.1.209
-ORTHOLOGY   K20901  L-erythrulose 4-kinase [EC:2.7.1.209]
-///

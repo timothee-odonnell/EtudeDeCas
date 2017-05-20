@@ -1,7 +1,0 @@
-ENTRY       R02186                      Reaction
-NAME        Dolichyl-diphosphate:polyphosphate phosphotransferase
-DEFINITION  Dolichyl diphosphate + Polyphosphate <=> Dolichyl phosphate + Polyphosphate
-EQUATION    C00621 + C00404 <=> C00110 + C00404
-RCLASS      RC00002  C00110_C00621
-ENZYME      2.7.4.20
-///

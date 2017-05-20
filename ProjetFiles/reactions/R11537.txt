@@ -1,8 +1,0 @@
-ENTRY       R11537                      Reaction
-NAME        ATP:17-(4-hydroxyphenyl)heptadecanoate adenylyltransferase
-DEFINITION  ATP + 17-(4-Hydroxyphenyl)heptadecanoate <=> Diphosphate + 17-(4-Hydroxyphenyl)heptadecanoyl adenylate
-EQUATION    C00002 + C21446 <=> C00013 + C21445
-RCLASS      RC00043  C21445_C21446
-ENZYME      2.7.7.94
-ORTHOLOGY   K21059  4-hydroxyphenylalkanoate adenylyltransferase [EC:2.7.7.94]
-///

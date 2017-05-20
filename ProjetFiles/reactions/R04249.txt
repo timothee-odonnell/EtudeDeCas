@@ -1,7 +1,0 @@
-ENTRY       R04249                      Reaction
-DEFINITION  2-Aminoethylphosphonate <=> (2-Amino-1-hydroxyethyl)phosphonate
-EQUATION    C03557 <=> C05678
-COMMENT     monooxygenase
-RCLASS      RC01107  C03557_C05678
-ENZYME      1.1.99.-
-///

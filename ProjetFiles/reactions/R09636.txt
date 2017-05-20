@@ -1,8 +1,0 @@
-ENTRY       R09636                      Reaction
-NAME        UDP-D-glucuronate:soyasapogenol 3-O-D-glucuronosyltransferase
-DEFINITION  UDP-glucuronate + Soyasapogenol B <=> UDP + Soyasapogenol B 3-O-D-glucuronide
-EQUATION    C00167 + C08980 <=> C00015 + C19763
-RCLASS      RC00005  C00015_C00167
-            RC00049  C08980_C19763
-ENZYME      2.4.1.262
-///

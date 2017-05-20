@@ -1,7 +1,0 @@
-ENTRY       R07309                      Reaction
-NAME        (S)-2-haloacid dehalogenase (configuration-retaining)
-DEFINITION  (S)-2-Haloacid + H2O <=> (S)-2-Hydroxyacid + Halide
-EQUATION    C02103 + C00001 <=> C15565 + C00462
-RCLASS      RC01005  C02103_C15565
-ENZYME      3.8.1.11
-///

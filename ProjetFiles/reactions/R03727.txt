@@ -1,8 +1,0 @@
-ENTRY       R03727                      Reaction
-NAME        feruloyl-CoA:galactarate O-(hydroxycinnamoyl)transferase
-DEFINITION  Feruloyl-CoA + D-Galactarate <=> CoA + O-Feruloylgalactarate
-EQUATION    C00406 + C00879 <=> C00010 + C03156
-RCLASS      RC00004  C00010_C00406
-            RC00037  C00879_C03156
-ENZYME      2.3.1.130
-///

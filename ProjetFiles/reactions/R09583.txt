@@ -1,9 +1,0 @@
-ENTRY       R09583                      Reaction
-NAME        L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)
-DEFINITION  L-Tryptophan + Oxygen + NADPH + H+ <=> N-Hydroxy-L-tryptophan + NADP+ + H2O
-EQUATION    C00078 + C00007 + C00005 + C00080 <=> C19716 + C00006 + C00001
-COMMENT     first step of three-step reaction (see R08160, R09583+R09584+R09585)
-RCLASS      RC00001  C00005_C00006
-            RC00365  C00078_C19716
-ENZYME      1.14.13.125
-///

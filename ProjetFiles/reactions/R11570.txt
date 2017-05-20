@@ -1,5 +1,0 @@
-ENTRY       R11570                      Reaction
-DEFINITION  (1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate + Oxygen <=> (1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate + Hydrogen peroxide + CO2
-EQUATION    C21408 + C00007 <=> C21411 + C00027 + C00011
-COMMENT     spontaneous
-///

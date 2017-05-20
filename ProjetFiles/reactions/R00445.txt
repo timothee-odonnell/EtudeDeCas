@@ -1,8 +1,0 @@
-ENTRY       R00445                      Reaction
-NAME        L-lysine:NAD+ oxidoreductase (deaminating, cyclizing)
-DEFINITION  L-Lysine + NAD+ <=> delta1-Piperideine-2-carboxylate + Ammonia + NADH + H+
-EQUATION    C00047 + C00003 <=> C04092 + C00014 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00297  C00047_C04092
-ENZYME      1.4.1.15
-///

@@ -1,8 +1,0 @@
-ENTRY       R10762                      Reaction
-NAME        all-trans-pentaprenyl-diphosphate diphosphate-lyase (cyclizing, ophiobolin-F-forming)
-DEFINITION  all-trans-Pentaprenyl diphosphate + H2O <=> Ophiobolin F + Diphosphate
-EQUATION    C04217 + C00001 <=> C16818 + C00013
-RCLASS      RC03271  C04217_C16818
-ENZYME      4.2.3.145
-ORTHOLOGY   K18685  ophiobolin F synthase [EC:4.2.3.145]
-///

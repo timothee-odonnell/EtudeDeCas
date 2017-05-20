@@ -1,9 +1,0 @@
-ENTRY       R09206                      Reaction
-DEFINITION  4,5-Dihydroxybenzo[a]pyrene + Oxygen <=> 4,5-Chrysenedicarboxylate
-EQUATION    C18279 + C00007 <=> C18277
-COMMENT     4,5-dihydroxybenzo[a]pyrene dioxygenase
-RCLASS      RC02455  C18277_C18279
-ENZYME      1.13.11.-
-PATHWAY     rn00624  Polycyclic aromatic hydrocarbon degradation
-            rn01120  Microbial metabolism in diverse environments
-///

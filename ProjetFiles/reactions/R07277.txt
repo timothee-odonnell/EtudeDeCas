@@ -1,7 +1,0 @@
-ENTRY       R07277                      Reaction
-NAME        nicotianamine:2-oxoglutarate aminotransferase; nicotianamine transaminase
-DEFINITION  Nicotianamine + 2-Oxoglutarate <=> 3''-Deamino-3''-oxonicotianamine + L-Glutamate
-EQUATION    C05324 + C00026 <=> C15486 + C00025
-RCLASS      RC00006  C00025_C00026  C05324_C15486
-ENZYME      2.6.1.80
-///

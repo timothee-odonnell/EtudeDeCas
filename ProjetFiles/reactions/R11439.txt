@@ -1,7 +1,0 @@
-ENTRY       R11439                      Reaction
-NAME        phosphoenolpyruvate:D-mannose-6-phosphate 1-(2-carboxy-2-oxoethyl)transferase
-DEFINITION  Phosphoenolpyruvate + D-Mannose 6-phosphate + H2O <=> 2-Keto-3-deoxy-D-glycero-D-galacto-nononate 9-phosphate + Orthophosphate
-EQUATION    C00074 + C00275 + C00001 <=> C21383 + C00009
-RCLASS      RC00159  C00275_C21383
-ENZYME      2.5.1.132
-///

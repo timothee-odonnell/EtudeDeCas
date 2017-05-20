@@ -1,8 +1,0 @@
-ENTRY       R07857                      Reaction
-DEFINITION  beta-Carotene <=> beta-Isorenieratene
-EQUATION    C02094 <=> C16340
-COMMENT     isorenieratene synthhase(crtU)
-RCLASS      RC01965  C02094_C16340
-PATHWAY     rn00906  Carotenoid biosynthesis
-ORTHOLOGY   K09879  isorenieratene synthase
-///

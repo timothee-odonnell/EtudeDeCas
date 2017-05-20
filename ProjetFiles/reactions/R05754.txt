@@ -1,8 +1,0 @@
-ENTRY       R05754                      Reaction
-NAME        S-adenosyl-L-methionine:trichlorophenol O-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + 2,4,6-Trichlorophenol <=> S-Adenosyl-L-homocysteine + 2,4.6-Trichloroanisole
-EQUATION    C00019 + C07098 <=> C00021 + C11510
-RCLASS      RC00003  C00019_C00021
-            RC00392  C07098_C11510
-ENZYME      2.1.1.136
-///

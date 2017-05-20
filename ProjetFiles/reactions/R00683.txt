@@ -1,8 +1,0 @@
-ENTRY       R00683                      Reaction
-NAME        S-Adenosyl-L-methionine:L-tryptophan N-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + L-Tryptophan <=> S-Adenosyl-L-homocysteine + Abrine
-EQUATION    C00019 + C00078 <=> C00021 + C02983
-COMMENT     enzyme not yet characterized
-RCLASS      RC00003  C00019_C00021
-            RC00190  C00078_C02983
-///

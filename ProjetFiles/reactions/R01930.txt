@@ -1,9 +1,0 @@
-ENTRY       R01930                      Reaction
-NAME        Trithionate thiosulfohydrolase
-DEFINITION  Trithionate + H2O <=> Thiosulfate + Sulfate
-EQUATION    C01861 + C00001 <=> C00320 + C00059
-RCLASS      RC00625  C00320_C01861
-ENZYME      3.12.1.1
-PATHWAY     rn00920  Sulfur metabolism
-            rn01120  Microbial metabolism in diverse environments
-///

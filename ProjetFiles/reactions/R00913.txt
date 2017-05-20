@@ -1,8 +1,0 @@
-ENTRY       R00913                      Reaction
-NAME        3-Guanidinopropanoate amidinopropionase
-DEFINITION  3-Guanidinopropanoate + H2O <=> beta-Alanine + Urea
-EQUATION    C03065 + C00001 <=> C00099 + C00086
-RCLASS      RC00024  C00099_C03065
-            RC00329  C00086_C03065
-ENZYME      3.5.3.17
-///

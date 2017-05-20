@@ -1,7 +1,0 @@
-ENTRY       R04980                      Reaction
-DEFINITION  2-Hexaprenylphenol + Oxygen + NADPH <=> 2-Hexaprenyl-6-hydroxyphenol + NADP+ + H2O
-EQUATION    C05800 + C00007 + C00005 <=> C05801 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00046  C05800_C05801
-ENZYME      1.14.13.-
-///

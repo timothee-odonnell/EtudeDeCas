@@ -1,7 +1,0 @@
-ENTRY       R08201                      Reaction
-DEFINITION  ATP + 2-Oxoglutarate + HCO3- <=> ADP + Orthophosphate + Oxalosuccinate
-EQUATION    C00002 + C00026 + C00288 <=> C00008 + C00009 + C05379
-RCLASS      RC00002  C00002_C00008
-            RC00626  C00026_C05379
-ENZYME      6.4.1.7
-///

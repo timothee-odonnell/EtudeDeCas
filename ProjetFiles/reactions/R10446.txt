@@ -1,7 +1,0 @@
-ENTRY       R10446                      Reaction
-NAME        L-asparagine,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  L-Asparagine + 2-Oxoglutarate + Oxygen <=> (2S,3S)-3-Hydroxyasparagine + Succinate + CO2
-EQUATION    C00152 + C00026 + C00007 <=> C20631 + C00042 + C00011
-RCLASS      RC01897  C00152_C20631
-ENZYME      1.14.11.39
-///

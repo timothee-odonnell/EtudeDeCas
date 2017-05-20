@@ -1,8 +1,0 @@
-ENTRY       R08533                      Reaction
-NAME        UDPglucose:sinapate 4-O-beta-D-glucosyltransferase
-DEFINITION  UDP-glucose + Sinapate <=> UDP + 4-O-beta-D-Glucosyl-sinapate
-EQUATION    C00029 + C00482 <=> C00015 + C02919
-RCLASS      RC00005  C00015_C00029
-            RC00171  C00482_C02919
-ENZYME      2.4.1.126
-///

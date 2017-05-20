@@ -1,9 +1,0 @@
-ENTRY       R00301                      Reaction
-NAME        D-Glucose:NADP+ 1-oxidoreductase
-DEFINITION  D-Glucose + NADP+ <=> D-Glucono-1,4-lactone + NADPH + H+
-EQUATION    C00031 + C00006 <=> C03107 + C00005 + C00080
-COMMENT     possibly intermediate ([CPD:C00198], see R07147)
-RCLASS      RC00001  C00005_C00006
-            RC00161  C00031_C03107
-ENZYME      1.1.1.119
-///

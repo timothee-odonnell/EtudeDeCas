@@ -1,9 +1,0 @@
-ENTRY       R11166                      Reaction
-NAME        diphthine methyl ester acylhydrolase
-DEFINITION  Peptide diphthine methyl ester + H2O <=> Peptide diphthine + Methanol
-EQUATION    C21151 + C00001 <=> C01573 + C00132
-RCLASS      RC00460  C01573_C21151
-            RC00461  C00132_C21151
-ENZYME      3.1.1.97
-ORTHOLOGY   K17868  diphthine methyl ester acylhydrolase [EC:3.1.1.97]
-///

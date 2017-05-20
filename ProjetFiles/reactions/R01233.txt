@@ -1,9 +1,0 @@
-ENTRY       R01233                      Reaction
-NAME        GDPglucose sugarphosphohydrolase
-DEFINITION  GDP-glucose + H2O <=> GMP + D-Glucose 1-phosphate
-EQUATION    C00394 + C00001 <=> C00144 + C00103
-RCLASS      RC00002  C00103_C00394  C00144_C00394
-ENZYME      3.6.1.-
-PATHWAY     rn00500  Starch and sucrose metabolism
-            rn01100  Metabolic pathways
-///

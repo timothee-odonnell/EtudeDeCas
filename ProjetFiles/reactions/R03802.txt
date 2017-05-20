@@ -1,8 +1,0 @@
-ENTRY       R03802                      Reaction
-NAME        1,4-beta-D-Glucan glucohydrolase
-DEFINITION  Cellopentaose + H2O <=> Cellotetraose + D-Glucose
-EQUATION    C06218 + C00001 <=> C02013 + C00031
-REMARK      Same as: R06107
-RCLASS      RC00049  C00031_C06218  C02013_C06218
-ENZYME      3.2.1.74
-///

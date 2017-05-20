@@ -1,8 +1,0 @@
-ENTRY       R11495                      Reaction
-NAME        naphthalene-1,2,4,8-tetrol hydro-lyase (juglone-forming)
-DEFINITION  Juglone + H2O <=> Naphthalene-1,2,4,8-tetrol
-EQUATION    C03840 + C00001 <=> C21414
-COMMENT     first step of two-step reaction (see R04327, R11495+R11496)
-RCLASS      RC03454  C03840_C21414
-ENZYME      1.17.3.4
-///

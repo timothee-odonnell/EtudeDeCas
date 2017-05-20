@@ -1,9 +1,0 @@
-ENTRY       R10715                      Reaction
-DEFINITION  (S)-Lactaldehyde + NAD+ <=> Methylglyoxal + NADH + H+
-EQUATION    C00424 + C00003 <=> C00546 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00670  C00424_C00546
-ENZYME      1.1.1.6
-PATHWAY     rn00640  Propanoate metabolism
-ORTHOLOGY   K00005  glycerol dehydrogenase [EC:1.1.1.6]
-///

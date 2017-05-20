@@ -1,8 +1,0 @@
-ENTRY       R10785                      Reaction
-NAME        UDP-N-acetyl-alpha-D-glucosamine:NAD+ 3-oxidoreductase
-DEFINITION  UDP-N-acetyl-alpha-D-glucosamine + NAD+ <=> UDP-2-acetamido-3-dehydro-2-deoxy-alpha-D-glucopyranose + NADH + H+
-EQUATION    C00043 + C00003 <=> C20849 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00182  C00043_C20849
-ENZYME      1.1.1.374
-///

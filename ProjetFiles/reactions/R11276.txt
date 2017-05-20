@@ -1,9 +1,0 @@
-ENTRY       R11276                      Reaction
-NAME        lividamine:NADP+ 4'-oxidoreductase
-DEFINITION  4'-Oxolividamine + NADPH + H+ <=> Lividamine + NADP+
-EQUATION    C21257 + C00005 + C00080 <=> C21255 + C00006
-ENZYME      1.1.1.-
-PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
-            rn01130  Biosynthesis of antibiotics
-ORTHOLOGY   K20576  NADP-dependent dehydrogenase [EC:1.1.1.-]
-///

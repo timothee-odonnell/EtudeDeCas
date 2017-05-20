@@ -1,7 +1,0 @@
-ENTRY       R10274                      Reaction
-NAME        (2E,6E)-farnesyl-diphosphate diphosphate-lyase (cyclizing, (+)-epi-alpha-bisabolol-forming)
-DEFINITION  trans,trans-Farnesyl diphosphate + H2O <=> (+)-epi-alpha-Bisabolol + Diphosphate
-EQUATION    C00448 + C00001 <=> C20479 + C00013
-RCLASS      RC03102  C00448_C20479
-ENZYME      4.2.3.138
-///

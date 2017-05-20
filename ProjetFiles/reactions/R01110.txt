@@ -1,8 +1,0 @@
-ENTRY       R01110                      Reaction
-NAME        glutathione:homocystine oxidoreductase
-DEFINITION  Homocystine + 2 Glutathione <=> Glutathione disulfide + 2 Homocysteine
-EQUATION    C20788 + 2 C00051 <=> C00127 + 2 C05330
-RCLASS      RC00011  C00051_C00127
-ENZYME      1.8.4.1
-PATHWAY     rn00480  Glutathione metabolism
-///

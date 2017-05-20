@@ -1,8 +1,0 @@
-ENTRY       R05473                      Reaction
-DEFINITION  Bis(4'-chlorophenyl)methane <=> 4-Chlorophenylacetate
-EQUATION    C06641 <=> C03077
-COMMENT     multi-step steps reacion
-RCLASS      RC02902  C03077_C06641
-PATHWAY     rn00351  DDT degradation
-            rn01120  Microbial metabolism in diverse environments
-///

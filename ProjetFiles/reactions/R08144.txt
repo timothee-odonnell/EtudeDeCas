@@ -1,9 +1,0 @@
-ENTRY       R08144                      Reaction
-NAME        farnesyl-diphosphate phosphohydrolase
-DEFINITION  trans,trans-Farnesyl diphosphate + 2 H2O <=> (2E,6E)-Farnesol + 2 Orthophosphate
-EQUATION    C00448 + 2 C00001 <=> C01126 + 2 C00009
-RCLASS      RC00017  C00448_C01126
-ENZYME      3.1.3.-
-PATHWAY     rn00981  Insect hormone biosynthesis
-ORTHOLOGY   K21013  farnesyl diphosphate phosphatase [EC:3.1.3.-]
-///

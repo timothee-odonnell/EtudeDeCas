@@ -1,8 +1,0 @@
-ENTRY       R07303                      Reaction
-NAME        N-benzylformamide amidohydrolase
-DEFINITION  N-Benzylformamide + H2O <=> Formate + Benzylamine
-EQUATION    C15561 + C00001 <=> C00058 + C15562
-RCLASS      RC00197  C15561_C15562
-            RC00323  C00058_C15561
-ENZYME      3.5.1.91
-///

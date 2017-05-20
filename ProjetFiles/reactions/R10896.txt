@@ -1,7 +1,0 @@
-ENTRY       R10896                      Reaction
-NAME        geranylgeranyl-diphosphate diphosphate-lyase (cembrene-C-forming)
-DEFINITION  Geranylgeranyl diphosphate <=> Cembrene C + Diphosphate
-EQUATION    C00353 <=> C20922 + C00013
-RCLASS      RC01820  C00353_C20922
-ENZYME      4.2.3.148
-///

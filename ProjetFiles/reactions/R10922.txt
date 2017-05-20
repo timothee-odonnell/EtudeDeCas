@@ -1,8 +1,0 @@
-ENTRY       R10922                      Reaction
-DEFINITION  Erythrodiol + Oxygen + NADPH + H+ <=> Oleanolic aldehyde + NADP+ + 2 H2O
-EQUATION    C20945 + C00007 + C00005 + C00080 <=> C20946 + C00006 + 2 C00001
-COMMENT     second step of three-step reaction (see R10924, R10921+R10922+R10923)
-RCLASS      RC00001  C00005_C00006
-            RC00893  C20945_C20946
-ENZYME      1.14.13.201
-///

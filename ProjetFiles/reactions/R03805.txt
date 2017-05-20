@@ -1,9 +1,0 @@
-ENTRY       R03805                      Reaction
-NAME        S-adenosyl-L-methionine:mRNA (guanine-N7-)-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + G(5')pppPur-mRNA + H+ <=> S-Adenosyl-L-homocysteine + m7G(5')pppR-mRNA
-EQUATION    C00019 + C02031 + C00080 <=> C00021 + C02339
-RCLASS      RC00003  C00019_C00021
-            RC00336  C02031_C02339
-ENZYME      2.1.1.56
-ORTHOLOGY   K00565  mRNA (guanine-N7-)-methyltransferase [EC:2.1.1.56]
-///

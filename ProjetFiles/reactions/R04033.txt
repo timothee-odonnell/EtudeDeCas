@@ -1,8 +1,0 @@
-ENTRY       R04033                      Reaction
-NAME        S-Adenosyl-L-methionine:phenylethanolamine N-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + Phenylethanolamine <=> S-Adenosyl-L-homocysteine + N-Methylphenylethanolamine
-EQUATION    C00019 + C02735 <=> C00021 + C03711
-RCLASS      RC00003  C00019_C00021
-            RC00060  C02735_C03711
-ENZYME      2.1.1.28
-///

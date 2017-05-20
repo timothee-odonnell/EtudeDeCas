@@ -1,8 +1,0 @@
-ENTRY       R09528                      Reaction
-NAME        benzoyl-CoA:benzyl alcohol O-benzoyltransferase
-DEFINITION  Benzoyl-CoA + Benzyl alcohol <=> Benzyl benzoate + CoA
-EQUATION    C00512 + C00556 <=> C12537 + C00010
-RCLASS      RC00004  C00010_C00512
-            RC00041  C00556_C12537
-ENZYME      2.3.1.196
-///

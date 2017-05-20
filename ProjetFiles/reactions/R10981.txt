@@ -1,8 +1,0 @@
-ENTRY       R10981                      Reaction
-NAME        5-hydroxypentanoate:NAD+ oxidoreductase
-DEFINITION  5-Hydroxypentanoate + NAD+ <=> 5-Oxopentanoate + NADH + H+
-EQUATION    C02804 + C00003 <=> C03273 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00087  C02804_C03273
-ENZYME      1.1.1.-
-///

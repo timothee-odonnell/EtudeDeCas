@@ -1,7 +1,0 @@
-ENTRY       R05722                      Reaction
-NAME        phytanoyl-CoA, 2-oxoglutarate:oxygen oxidoreductase (2-hydroxylating)
-DEFINITION  Phytanoyl-CoA + 2-Oxoglutarate + Oxygen <=> 2-Hydroxyphytanoyl-CoA + Succinate + CO2
-EQUATION    C02060 + C00026 + C00007 <=> C07343 + C00042 + C00011
-RCLASS      RC01897  C02060_C07343
-ENZYME      1.14.11.18
-///

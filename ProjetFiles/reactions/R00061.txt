@@ -1,7 +1,0 @@
-ENTRY       R00061                      Reaction
-NAME        sulochrin:oxygen oxidoreductase (cyclizing, (-)-specific)
-DEFINITION  Oxygen + 2 Sulochrin <=> 2 (-)-Bisdechlorogeodin + 2 H2O
-EQUATION    C00007 + 2 C00495 <=> 2 C03040 + 2 C00001
-RCLASS      RC02323  C00495_C03040
-ENZYME      1.21.3.5
-///

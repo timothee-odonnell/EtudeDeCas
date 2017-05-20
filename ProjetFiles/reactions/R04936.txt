@@ -1,9 +1,0 @@
-ENTRY       R04936                      Reaction
-NAME        Se-Adenosylselenohomocysteine hydrolase
-DEFINITION  Se-Adenosyl-L-selenohomocysteine + H2O <=> Adenosine + Selenohomocysteine
-EQUATION    C05692 + C00001 <=> C00212 + C05698
-RCLASS      RC00056  C05692_C05698
-            RC01243  C00212_C05692
-ENZYME      3.3.1.1
-ORTHOLOGY   K01251  adenosylhomocysteinase [EC:3.3.1.1]
-///

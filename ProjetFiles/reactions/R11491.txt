@@ -1,8 +1,0 @@
-ENTRY       R11491                      Reaction
-NAME        (1R,10aS)-1,4,10,10a-tetrahydrophenazine-1-carboxylate:oxygen oxidoreductase
-DEFINITION  (1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate + Oxygen <=> (10aS)-10,10a-Dihydrophenazine-1-carboxylate + Hydrogen peroxide
-EQUATION    C21411 + C00007 <=> C21412 + C00027
-RCLASS      RC03451  C21411_C21412
-ENZYME      1.10.3.16
-ORTHOLOGY   K20262  dihydrophenazinedicarboxylate synthase [EC:1.10.3.16]
-///

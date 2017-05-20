@@ -1,9 +1,0 @@
-ENTRY       R10843                      Reaction
-NAME        zeaxanthin:oxygen oxidoreductase (7,8-cleaving)
-DEFINITION  Zeaxanthin + Oxygen <=> beta-Citraurin + (3S)-3-Hydroxycyclocitral
-EQUATION    C06098 + C00007 <=> C20894 + C19731
-COMMENT     first step of two-step reaction (see R09603, R10843+R10844)
-RCLASS      RC01690  C06098_C20894
-            RC02575  C06098_C19731
-ENZYME      1.14.99.42
-///

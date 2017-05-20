@@ -1,9 +1,0 @@
-ENTRY       R03980                      Reaction
-NAME        Estrone 3-sulfate sulfohydrolase
-DEFINITION  Estrone 3-sulfate + H2O <=> Sulfate + Estrone
-EQUATION    C02538 + C00001 <=> C00059 + C00468
-RCLASS      RC00128  C00468_C02538
-ENZYME      3.1.6.1
-PATHWAY     rn00140  Steroid hormone biosynthesis
-ORTHOLOGY   K01130  arylsulfatase [EC:3.1.6.1]
-///

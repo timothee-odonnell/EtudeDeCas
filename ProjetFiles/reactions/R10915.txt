@@ -1,7 +1,0 @@
-ENTRY       R10915                      Reaction
-NAME        Reactive-Blue-5:hydrogen-peroxide oxidoreductase
-DEFINITION  Reactive Blue 5 + 2 Hydrogen peroxide <=> Phthalate + 2,2'-Disulfonyl azobenzene + 3-[(4-Amino-6-chloro-1,3,5-triazin-2-yl)amino]benzenesulfonate + 2 H2O
-EQUATION    C19693 + 2 C00027 <=> C01606 + C20938 + C20939 + 2 C00001
-COMMENT     incomplete reaction
-ENZYME      1.11.1.19
-///

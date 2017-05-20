@@ -1,8 +1,0 @@
-ENTRY       R08133                      Reaction
-DEFINITION  3beta,5beta-Ketodiol <=> 3beta,5beta-Ketotriol
-EQUATION    C16493 <=> C16494
-COMMENT     CYP306A1: 25-hydroxylase
-RCLASS      RC00963  C16493_C16494
-PATHWAY     rn00981  Insect hormone biosynthesis
-ORTHOLOGY   K10720  CYP306A1; ecdysteroid 25-hydroxylase
-///

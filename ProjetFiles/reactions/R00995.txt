@@ -1,8 +1,0 @@
-ENTRY       R00995                      Reaction
-NAME        methyloxaloacetate carboxy-lyase (2-oxobutanoate-forming)
-DEFINITION  2-Oxobutanoate + CO2 <=> Methyloxaloacetate
-EQUATION    C00109 + C00011 <=> C06030
-RCLASS      RC00097  C00109_C06030
-ENZYME      4.1.1.3
-PATHWAY     rn00660  C5-Branched dibasic acid metabolism
-///

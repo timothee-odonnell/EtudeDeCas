@@ -1,8 +1,0 @@
-ENTRY       R07204                      Reaction
-NAME        5beta-cholestane-3alpha,7alpha-diol,NADPH:oxygen oxidoreductase(12alpha-hydroxylating)
-DEFINITION  3alpha,7alpha-Dihydroxy-5beta-cholestane + NADPH + H+ + Oxygen <=> 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane + NADP+ + H2O
-EQUATION    C05452 + C00005 + C00080 + C00007 <=> C05454 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC01218  C05452_C05454
-ENZYME      1.14.13.96
-///

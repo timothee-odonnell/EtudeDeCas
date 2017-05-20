@@ -1,7 +1,0 @@
-ENTRY       R00656                      Reaction
-NAME        L-methionine carboxy-lyase (3-methylthiopropanamine-forming)
-DEFINITION  L-Methionine <=> 3-Methylthiopropanamine + CO2
-EQUATION    C00073 <=> C03354 + C00011
-RCLASS      RC00299  C00073_C03354
-ENZYME      4.1.1.57
-///

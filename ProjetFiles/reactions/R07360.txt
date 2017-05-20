@@ -1,9 +1,0 @@
-ENTRY       R07360                      Reaction
-NAME        S-prenyl-L-cysteine:oxygen oxidoreductase
-DEFINITION  Prenyl-L-cysteine + Oxygen + H2O <=> Prenal + L-Cysteine + Hydrogen peroxide
-EQUATION    C06751 + C00007 + C00001 <=> C15604 + C00097 + C00027
-RCLASS      RC00069  C00097_C06751
-            RC02012  C06751_C15604
-            RC02755  C00007_C00027
-ENZYME      1.8.3.5
-///

@@ -1,7 +1,0 @@
-ENTRY       R00584                      Reaction
-NAME        diphosphate:L-serine O-phosphotransferase
-DEFINITION  Diphosphate + L-Serine <=> Orthophosphate + O-Phospho-L-serine
-EQUATION    C00013 + C00065 <=> C00009 + C01005
-RCLASS      RC00017  C00065_C01005
-ENZYME      2.7.1.80
-///

@@ -1,7 +1,0 @@
-ENTRY       R01882                      Reaction
-NAME        N-Phosphocreatine hydrolase
-DEFINITION  Phosphocreatine + H2O <=> Creatine + Orthophosphate
-EQUATION    C02305 + C00001 <=> C00300 + C00009
-RCLASS      RC00203  C00300_C02305
-ENZYME      3.9.1.1
-///

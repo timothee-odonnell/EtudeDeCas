@@ -1,7 +1,0 @@
-ENTRY       R03517                      Reaction
-NAME        4-Deoxy-beta-D-gluc-4-enuronosyl-(1,3)-N-acetyl-D-galactosamine-4-sulfate 4-sulfohydrolase
-DEFINITION  4-Deoxy-beta-D-gluc-4-enuronosyl-(1,3)-N-acetyl-D-galactosamine 4-sulfate + H2O <=> 4-Deoxy-beta-D-gluc-4-enuronosyl-(1,3)-N-acetyl-D-galactosamine + Sulfate
-EQUATION    C04864 + C00001 <=> C01310 + C00059
-RCLASS      RC00231  C01310_C04864
-ENZYME      3.1.6.9
-///

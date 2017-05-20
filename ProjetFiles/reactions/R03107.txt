@@ -1,8 +1,0 @@
-ENTRY       R03107                      Reaction
-NAME        Plasmenylcholine 2-acylhydrolase
-DEFINITION  Plasmenylcholine + H2O <=> 1-(1-Alkenyl)-sn-glycero-3-phosphocholine + Fatty acid
-EQUATION    C00958 + C00001 <=> C04517 + C00162
-RCLASS      RC00037  C00958_C04517
-            RC00094  C00162_C00958
-ENZYME      3.1.1.4
-///

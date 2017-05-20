@@ -1,8 +1,0 @@
-ENTRY       R08922                      Reaction
-NAME        sophoraflavanone-B,NADPH:oxygen oxidoreductase (2'-hydroxylating)
-DEFINITION  Sophoraflavanone B + NADPH + H+ + Oxygen <=> Leachianone G + NADP+ + H2O
-EQUATION    C18023 + C00005 + C00080 + C00007 <=> C18024 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC00046  C18023_C18024
-ENZYME      1.14.13.103
-///

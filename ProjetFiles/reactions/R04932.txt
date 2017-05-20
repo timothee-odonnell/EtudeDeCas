@@ -1,6 +1,0 @@
-ENTRY       R04932                      Reaction
-DEFINITION  2 L-Selenocysteine <=> Selenocystine
-EQUATION    2 C05688 <=> C05704
-COMMENT     oxidoreduction
-RCLASS      RC01242  C05688_C05704
-///

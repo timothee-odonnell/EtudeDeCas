@@ -1,8 +1,0 @@
-ENTRY       R09674                      Reaction
-NAME        fumonisin B1 acylhydrolase
-DEFINITION  Fumonisin B1 + 2 H2O <=> Aminopentol + 2 Propane-1,2,3-tricarboxylate
-EQUATION    C19241 + 2 C00001 <=> C19805 + 2 C19806
-RCLASS      RC00094  C19241_C19806
-            RC02055  C19241_C19805
-ENZYME      3.1.1.87
-///

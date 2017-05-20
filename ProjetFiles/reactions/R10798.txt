@@ -1,8 +1,0 @@
-ENTRY       R10798                      Reaction
-NAME        dihydrosanguinarine:NAD+ oxidoreductase
-DEFINITION  Dihydrosanguinarine + NAD+ <=> Sanguinarine + NADH + H+
-EQUATION    C05191 + C00003 <=> C06162 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC01204  C05191_C06162
-ENZYME      1.3.1.107
-///

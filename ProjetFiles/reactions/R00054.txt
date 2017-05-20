@@ -1,8 +1,0 @@
-ENTRY       R00054                      Reaction
-NAME        orsellinate-depside hydrolase
-DEFINITION  Lecanoric acid + H2O <=> 2 Orsellinate
-EQUATION    C02868 + C00001 <=> 2 C01839
-RCLASS      RC00475  C01839_C02868
-            RC00476  C01839_C02868
-ENZYME      3.1.1.40
-///

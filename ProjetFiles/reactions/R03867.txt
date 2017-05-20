@@ -1,8 +1,0 @@
-ENTRY       R03867                      Reaction
-NAME        (5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
-DEFINITION  Leukotriene C4 + Amino acid <=> Leukotriene D4 + 5-L-Glutamyl amino acid
-EQUATION    C02166 + C00045 <=> C05951 + C03363
-RCLASS      RC00064  C00045_C03363  C02166_C05951
-ENZYME      2.3.2.2
-ORTHOLOGY   K00681  gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
-///

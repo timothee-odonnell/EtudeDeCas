@@ -1,9 +1,0 @@
-ENTRY       R01584                      Reaction
-NAME        N-methyl-L-alanine:NADP+ oxidoreductase (demethylating, deaminating)
-DEFINITION  N-Methyl-L-alanine + H2O + NADP+ <=> Pyruvate + Methylamine + NADPH + H+
-EQUATION    C02721 + C00001 + C00006 <=> C00022 + C00218 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00554  C00218_C02721
-            RC00581  C00022_C02721
-ENZYME      1.4.1.17
-///

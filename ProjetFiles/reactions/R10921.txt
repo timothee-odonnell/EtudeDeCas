@@ -1,8 +1,0 @@
-ENTRY       R10921                      Reaction
-DEFINITION  beta-Amyrin + Oxygen + NADPH + H+ <=> Erythrodiol + NADP+ + H2O
-EQUATION    C08616 + C00007 + C00005 + C00080 <=> C20945 + C00006 + C00001
-COMMENT     first step of three-step reaction (see R10924, R10921+R10922+R10923)
-RCLASS      RC00001  C00005_C00006
-            RC00257  C08616_C20945
-ENZYME      1.14.13.201
-///

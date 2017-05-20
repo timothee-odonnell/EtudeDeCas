@@ -1,7 +1,0 @@
-ENTRY       R11343                      Reaction
-NAME        butan-1-ol:ferricytochrome c oxidoreductase
-DEFINITION  1-Butanol + Ferricytochrome c <=> Butanal + Ferrocytochrome c + H+
-EQUATION    C06142 + C00125 <=> C01412 + C00126 + C00080
-RCLASS      RC00087  C01412_C06142
-ENZYME      1.1.2.9
-///

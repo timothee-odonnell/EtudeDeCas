@@ -1,6 +1,0 @@
-ENTRY       R05087                      Reaction
-DEFINITION  4-Hydroxy-L-threonine <=> 3-Aminopropane-1,2-diol + CO2
-EQUATION    C06056 <=> C06057 + C00011
-RCLASS      RC00517  C06056_C06057
-ENZYME      4.1.1.-
-///

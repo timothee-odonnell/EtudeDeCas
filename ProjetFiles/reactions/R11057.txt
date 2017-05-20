@@ -1,7 +1,0 @@
-ENTRY       R11057                      Reaction
-NAME        (11Z,14Z)-icosadienoyl-CoA,acceptor:oxygen oxidoreductase (5,6 cis-dehydrogenating)
-DEFINITION  (11Z,14Z)-Icosadienoyl-CoA + Reduced acceptor + Oxygen <=> (5Z,11Z,14Z)-Icosa-5,11,14-trienoyl-CoA + Acceptor + 2 H2O
-EQUATION    C16180 + C00030 + C00007 <=> C21082 + C00028 + 2 C00001
-RCLASS      RC00917  C16180_C21082
-ENZYME      1.14.19.37
-///

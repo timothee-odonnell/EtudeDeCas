@@ -1,7 +1,0 @@
-ENTRY       R11052                      Reaction
-NAME        8'-apo-beta-carotenal:oxygen 13,14-dioxygenase (bond-cleaving)
-DEFINITION  all-trans-8'-Apo-beta-carotenal + Oxygen <=> 13-Apo-beta-carotenone + 2,6-Dimethyldeca-2,4,6,8-tetraenedial
-EQUATION    C19728 + C00007 <=> C20696 + C21078
-RCLASS      RC01329  C19728_C21078
-ENZYME      1.13.11.82
-///

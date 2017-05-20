@@ -1,9 +1,0 @@
-ENTRY       R08944                      Reaction
-NAME        acetyl-[acyl-carrier-protein]: malonate S-[acyl-carrier-protein]transferase
-DEFINITION  Acetyl-[acyl-carrier protein] + Malonate <=> Malonyl-[acyl-carrier protein] + Acetate
-EQUATION    C03939 + C00383 <=> C01209 + C00033
-RCLASS      RC00012  C00033_C03939
-            RC00014  C00383_C01209
-ENZYME      2.3.1.187
-ORTHOLOGY   K13929  malonate decarboxylase alpha subunit [EC:2.3.1.187]
-///

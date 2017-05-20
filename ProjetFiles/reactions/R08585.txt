@@ -1,6 +1,0 @@
-ENTRY       R08585                      Reaction
-DEFINITION  Chlorophyll a <=> Chlorophyll b
-EQUATION    C05306 <=> C05307
-COMMENT     incomplete reaction
-RCLASS      RC00769  C05306_C05307
-///

@@ -1,7 +1,0 @@
-ENTRY       R01044                      Reaction
-NAME        diphosphate:glycerol 1-phosphotransferase
-DEFINITION  Diphosphate + Glycerol <=> Orthophosphate + sn-Glycerol 1-phosphate
-EQUATION    C00013 + C00116 <=> C00009 + C00623
-RCLASS      RC00017  C00116_C00623
-ENZYME      2.7.1.79
-///

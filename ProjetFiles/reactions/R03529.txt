@@ -1,7 +1,0 @@
-ENTRY       R03529                      Reaction
-NAME        alkylmercury mercuric-lyase (alkane-forming)
-DEFINITION  Alkylmercury + H+ <=> Alkane + Mercury(2+)
-EQUATION    C01343 + C00080 <=> C01371 + C00703
-RCLASS      RC02137  C01343_C01371
-ENZYME      4.99.1.2
-///

@@ -1,8 +1,0 @@
-ENTRY       R03884                      Reaction
-NAME        (E)-Glutaconate CoA-transferase
-DEFINITION  Acetyl-CoA + (E)-Glutaconate <=> Acetate + Glutaconyl-1-CoA
-EQUATION    C00024 + C02214 <=> C00033 + C02411
-RCLASS      RC00012  C00024_C00033
-            RC00131  C02214_C02411
-ENZYME      2.8.3.12
-///

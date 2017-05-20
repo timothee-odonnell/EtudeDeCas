@@ -1,8 +1,0 @@
-ENTRY       R11036                      Reaction
-NAME        6-deoxy-6-sulfo-D-glucopyranose:NAD+ 1-oxidoreductase
-DEFINITION  Sulfoquinovose + NAD+ <=> 6-Deoxy-6-sulfo-D-glucono-1,5-lactone + NADH + H+
-EQUATION    C20829 + C00003 <=> C21064 + C00004 + C00080
-RCLASS      RC00001  C00003_C00004
-            RC00066  C20829_C21064
-ENZYME      1.1.1.390
-///

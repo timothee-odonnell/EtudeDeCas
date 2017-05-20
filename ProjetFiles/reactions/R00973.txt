@@ -1,7 +1,0 @@
-ENTRY       R00973                      Reaction
-NAME        uracil-5-carboxylate carboxy-lyase (uracil-forming)
-DEFINITION  Uracil 5-carboxylate <=> Uracil + CO2
-EQUATION    C03030 <=> C00106 + C00011
-RCLASS      RC00390  C00106_C03030
-ENZYME      4.1.1.66
-///

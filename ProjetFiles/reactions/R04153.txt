@@ -1,8 +1,0 @@
-ENTRY       R04153                      Reaction
-NAME        Dimethylsulfonioacetate:L-homocysteine S-methyltransferase
-DEFINITION  Dimethylsulfonioacetate + L-Homocysteine <=> S-Methylthioglycolate + L-Methionine + H+
-EQUATION    C03392 + C00155 <=> C03173 + C00073 + C00080
-RCLASS      RC00035  C00073_C00155
-            RC00347  C03173_C03392
-ENZYME      2.1.1.3
-///

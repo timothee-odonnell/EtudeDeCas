@@ -1,7 +1,0 @@
-ENTRY       R11358                      Reaction
-DEFINITION  Cholest-4-en-3-one + NADPH + H+ + Oxygen <=> (25R)-26-Hydroxycholest-4-en-3-one + NADP+ + H2O
-EQUATION    C00599 + C00005 + C00080 + C00007 <=> C21303 + C00006 + C00001
-COMMENT     first step of three-step reaction (see R11361, R11358+R11359+R11360)
-RCLASS      RC01216  C00599_C21303
-ENZYME      1.14.13.221
-///

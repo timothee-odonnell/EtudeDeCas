@@ -1,7 +1,0 @@
-ENTRY       R07180                      Reaction
-NAME        thiol-containing-reductant:hydroperoxide oxidoreductase
-DEFINITION  ROOH + 2 Thiol-containing reductant <=> Alcohol + H2O + Oxidized thiol-containing reductant
-EQUATION    C15498 + 2 C16736 <=> C00069 + C00001 + C15496
-RCLASS      RC01872  C00069_C15498
-ENZYME      1.11.1.15
-///

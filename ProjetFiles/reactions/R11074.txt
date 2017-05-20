@@ -1,7 +1,0 @@
-ENTRY       R11074                      Reaction
-NAME        (S)-malate carboxy-lyase
-DEFINITION  (S)-Malate <=> (S)-Lactate + CO2
-EQUATION    C00149 <=> C00186 + C00011
-RCLASS      RC00282  C00149_C00186
-ENZYME      4.1.1.101
-///

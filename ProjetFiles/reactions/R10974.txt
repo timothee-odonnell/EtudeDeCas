@@ -1,7 +1,0 @@
-ENTRY       R10974                      Reaction
-NAME        3-sulfinopropanoyl-CoA sulfinohydrolase
-DEFINITION  3-Sulfinopropanoyl-CoA + H2O <=> Propanoyl-CoA + Sulfite
-EQUATION    C20987 + C00001 <=> C00100 + C00094
-RCLASS      RC03318  C00100_C20987
-ENZYME      3.13.1.4
-///

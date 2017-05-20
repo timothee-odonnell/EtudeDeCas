@@ -1,8 +1,0 @@
-ENTRY       R10728                      Reaction
-NAME        phylloquinone,NADPH:oxygen oxidoreductase (omega-hydroxyphylloquinone forming)
-DEFINITION  Phylloquinone + NADPH + H+ + Oxygen <=> omega-Hydroxyphylloquinone + NADP+ + H2O
-EQUATION    C02059 + C00005 + C00080 + C00007 <=> C20806 + C00006 + C00001
-RCLASS      RC00001  C00005_C00006
-            RC01216  C02059_C20806
-ENZYME      1.14.13.194
-///

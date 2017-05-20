@@ -1,9 +1,0 @@
-ENTRY       R00799                      Reaction
-NAME        Nitroethane:oxygen oxidoreductase
-DEFINITION  Nitrite + Acetaldehyde + Hydrogen peroxide <=> Nitroethane + Oxygen + H2O
-EQUATION    C00088 + C00084 + C00027 <=> C01837 + C00007 + C00001
-RCLASS      RC00384  C00084_C01837
-            RC02755  C00007_C00027
-            RC02822  C00088_C01837
-ENZYME      1.7.3.1
-///

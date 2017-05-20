@@ -1,8 +1,0 @@
-ENTRY       R11534                      Reaction
-NAME        S-adenosyl-L-methionine:N-demethylindolmycin N-methyltransferase
-DEFINITION  S-Adenosyl-L-methionine + N-Demethylindolmycin <=> S-Adenosyl-L-homocysteine + Indolmycin
-EQUATION    C00019 + C21443 <=> C00021 + C21444
-RCLASS      RC03467  C21443_C21444
-ENZYME      2.1.1.328
-ORTHOLOGY   K21282  N-demethylindolmycin N-methyltransferase [EC:2.1.1.328]
-///

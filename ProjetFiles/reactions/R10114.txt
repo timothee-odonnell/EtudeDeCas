@@ -1,8 +1,0 @@
-ENTRY       R10114                      Reaction
-NAME        ecgonine methyl ester:NADP+ oxidoreductase
-DEFINITION  Ecgonine methyl ester + NADP+ <=> Ecgonone methyl ester + NADPH + H+
-EQUATION    C12448 + C00006 <=> C20371 + C00005 + C00080
-RCLASS      RC00001  C00005_C00006
-            RC00154  C12448_C20371
-ENZYME      1.1.1.334
-///

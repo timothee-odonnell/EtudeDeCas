@@ -1,9 +1,0 @@
-ENTRY       R10467                      Reaction
-NAME        2-heptyl-4(1H)-quinolone,NADH:oxygen oxidoreductase (3-hydroxylating)
-DEFINITION  2-Heptyl-4(1H)-quinolone + NADH + H+ + Oxygen <=> 2-Heptyl-3-hydroxy-quinolone + NAD+ + H2O
-EQUATION    C20643 + C00004 + C00080 + C00007 <=> C11848 + C00003 + C00001
-RCLASS      RC00001  C00003_C00004
-            RC00236  C11848_C20643
-ENZYME      1.14.13.182
-ORTHOLOGY   K17940  2-heptyl-3-hydroxy-4(1H)-quinolone synthase [EC:1.14.13.182]
-///

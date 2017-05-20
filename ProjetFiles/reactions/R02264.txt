@@ -1,6 +1,0 @@
-ENTRY       R02264                      Reaction
-DEFINITION  Prostaglandin H2 + Reduced acceptor <=> Prostaglandin F2alpha + Acceptor
-EQUATION    C00427 + C00030 <=> C00639 + C00028
-COMMENT     unclear reaction
-RCLASS      RC00671  C00427_C00639
-///
